@@ -1,0 +1,4 @@
+﻿qid,category_en,category_ja,category_qid,en_label,ja_label,en_description,ja_description,mesh_id,icd10,icd9,snomed_id,umls_id
+Q19934710,medical procedure,医療処置,Q2095549,air force officer,空軍将校,military officer in an air force,,,,,,
+Q7890793,medical procedure,医療処置,Q2095549,United States Naval Aviator,アメリカ海軍飛行士,commissioned officer or warrant officer qualified as a manned aircraft pilot in the United States Navy or United States Marine Corps,,,,,,
+Q108114975,medical procedure,医療処置,Q2095549,naval aviator,,military aircraft pilot in the navy of some country,,,,,,

@@ -1,0 +1,35 @@
+============================================================
+Wikidata Medical Terms Extraction Report
+============================================================
+
+Execution time: 2025-10-26 19:47:49
+Scale: small
+Total items: 320
+EN-JA pairs: 130
+Bilingual ratio: 40.6%
+
+Statistics:
+  Total queries: 5
+  Successful: 5
+  Failed: 0
+  Retries: 0
+
+Error Breakdown:
+  504 Gateway Timeout: 0
+  Network Errors: 0
+  Other Errors: 0
+
+Items by category:
+  medication (医薬品): 99
+  surgery (外科手術): 98
+  symptom (症状): 65
+  disease (病気): 58
+
+Language coverage:
+  Japanese labels: 130 (40.6%)
+
+External ID coverage:
+  MeSH: 108 (33.8%)
+  ICD-10: 24 (7.5%)
+  SNOMED CT: 7 (2.2%)
+  UMLS: 121 (37.8%)

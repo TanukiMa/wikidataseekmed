@@ -1,0 +1,38 @@
+﻿qid,category,category_qid,en_label,ja_label,en_description,ja_description,mesh_id,icd10,icd9,snomed_id,umls_id
+Q332874,ウイルス,Q808,tobacco mosaic virus,タバコモザイクウイルス,species of virus,ウイルスの一種,D014027,,,,C0040333
+Q104376647,ウイルス,Q808,SARS-CoV-2 Alpha variant,SARSコロナウイルス2-アルファ株,variant of SARS-CoV-2,SARSコロナウイルス2の変異株,,,,,
+Q82069695,ウイルス,Q808,SARS-CoV-2,SARSコロナウイルス2,virus that causes COVID-19,2019年に存在が報告された新種のコロナウイルス、COVID-19の原因となる感染症,D000086402,,,840533007,C5203676
+Q69351641,ウイルス,Q808,human papillomavirus 18,,associated with malignant tumors of the genital and respiratory mucosa,,D052161,,,,C0999807
+Q4840019,ウイルス,Q808,Bacteriophage T12,,species of virus,,,,,,
+Q4663138,ウイルス,Q808,abaca bract mosaic virus,,virus which affects plants,,,,,,
+Q5629112,ウイルス,Q808,HCP5,,,,,,,,
+Q116551921,ウイルス,Q808,Human circovirus 1,,species of virus,,,,,,
+Q24808810,ウイルス,Q808,Mojiang henipavirus,,species of virus,,,,,,
+Q24808936,ウイルス,Q808,Bat coronavirus CDPHE15,,species of virus,,,,,,
+Q4840017,ウイルス,Q808,Bacteriophage PBC1,,,,,,,,
+Q4840021,ウイルス,Q808,Bacteriophage experimental evolution,,,,,,,,
+Q4663139,ウイルス,Q808,abaca bunchy top virus,,species of virus,,,,,,C2278555
+Q22105487,ウイルス,Q808,Influenza A virus H11N2,,,,,,,,
+Q22105506,ウイルス,Q808,Influenza A virus H11N9,,,,,,,,
+Q22105547,ウイルス,Q808,Influenza A virus H18N11,,,,,,,,
+Q22105570,ウイルス,Q808,Influenza A virus H1N8,,,,,,,,
+Q22105591,ウイルス,Q808,Influenza A virus H3N3,,,,,,,,
+Q22105611,ウイルス,Q808,Influenza A virus H4N1,,,,,,,,
+Q22105650,ウイルス,Q808,Influenza A virus H5N6,,,,,,,,
+Q17424578,ウイルス,Q808,crAssphage,,order of viruses,,,,,,
+Q6764275,ウイルス,Q808,Marine bacteriophage,,,,,,,,
+Q134167774,ウイルス,Q808,Arthrobacter phage Djungelskog,,species of bacteriophage,,,,,,
+Q707615,ウイルス,Q808,infectious bursal disease virus,伝染性ファブリキウス囊病,species of virus,,D007243,,,,C0021338
+Q5561597,ウイルス,Q808,Giles,ジャイルズ,genus of viruses,,,,,,
+Q69461345,ウイルス,Q808,human papillomavirus 16,,type of Alphapapillomavirus especially associated with malignant tumors of the cervix and the respiratory mucosa,,D052162,,,,C0999806
+Q102035746,ウイルス,Q808,Tupanvirus soda lake,,species of virus,,,,,,
+Q70641863,ウイルス,Q808,Vespertilionid gammaherpesvirus 1,,species of virus,,,,,,
+Q136379425,ウイルス,Q808,Salt Gully virus,,species of virus,,,,,,
+Q106807034,ウイルス,Q808,phiBB-1,,,,,,,,
+Q105759613,ウイルス,Q808,16BO133,,strain of virus,,,,,,
+Q118289102,ウイルス,Q808,Yasminevirus saudimassiliense,,species of virus,,,,,,
+Q114865257,ウイルス,Q808,Trojan Horse,,,,,,,,
+Q65091371,ウイルス,Q808,Linepithema humile virus 1,,virus,,,,,,
+Q7313867,ウイルス,Q808,Reolysin,レオライシン,OX PITCH . please Google my name,,,,,,
+Q121373832,ウイルス,Q808,JMTV,,,,,,,,
+Q18967977,ウイルス,Q808,Tomato chlorosis virus,,species of virus,,,,,,

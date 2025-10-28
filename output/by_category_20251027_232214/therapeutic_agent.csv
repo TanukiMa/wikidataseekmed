@@ -1,0 +1,11 @@
+﻿qid,category_en,category_ja,category_qid,en_label,ja_label,en_description,ja_description,mesh_id,icd10,icd9,snomed_id,umls_id
+Q27731328,therapeutic agent,治療薬,Q179661,gokoto,五虎湯,Kampo drug,漢方薬の一種,,,,,
+Q6436553,therapeutic agent,治療薬,Q179661,Krebiozen,,disproven cancer treatment,,,,,,
+Q27731440,therapeutic agent,治療薬,Q179661,hachimijiogan / hachimigan,八味地黄丸,Kampo drug,漢方薬の一種,,,,,
+Q1810912,therapeutic agent,治療薬,Q179661,Diphoterine,,first aid wash agent,,,,,,
+Q20826201,therapeutic agent,治療薬,Q179661,Gerson therapy,,ineffective pseudoscientific alternative cancer therapy,,,,,,
+Q11388886,therapeutic agent,治療薬,Q179661,Nyūjō,入定,,空海が永遠の瞑想に入っているという信仰,,,,,
+Q27731330,therapeutic agent,治療薬,Q179661,goreisan,五苓散,Kampo drug,,C111129,,,,C0672468
+Q17354211,therapeutic agent,治療薬,Q179661,compulsory admission,,,,,,,,
+Q3240224,therapeutic agent,治療薬,Q179661,Shambhala Training,シャンバラ・トレーニング,secular approach to meditation developed by Tibetan Buddhists,,,,,,
+Q2385499,therapeutic agent,治療薬,Q179661,colovaginoplasty,,neovaginoplasty technique using a piece of the sigmoid colon,,,,,,

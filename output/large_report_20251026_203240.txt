@@ -1,0 +1,54 @@
+============================================================
+Wikidata Medical Terms Extraction Report
+============================================================
+
+Execution time: 2025-10-26 20:32:41
+Scale: large
+Total items: 67520
+EN-JA pairs: 6055
+Bilingual ratio: 9.0%
+
+Statistics:
+  Total queries: 140
+  Successful: 134
+  Failed: 6
+  Retries: 5
+
+Error Breakdown:
+  504 Gateway Timeout: 5
+  Network Errors: 0
+  Other Errors: 1
+
+Items by category:
+  enzyme (酵素): 7382
+  gene (遺伝子): 7185
+  anatomical structure (解剖学的構造): 7145
+  protein family (タンパク質ファミリー): 7093
+  medical device (医療機器): 6838
+  hormone (ホルモン): 6712
+  surgery (外科手術): 6324
+  protein (タンパク質): 6033
+  disease (病気): 5499
+  medication (医薬品): 1704
+  therapeutic agent (治療薬): 1140
+  cell type (細胞型): 1000
+  rare disease (希少疾患): 952
+  medical sign (医学的徴候): 824
+  symptom (症状): 585
+  biomarker (バイオマーカー): 451
+  infectious disease (感染症): 372
+  organ (臓器): 177
+  fungus (真菌): 44
+  virus (ウイルス): 37
+  tissue (組織): 16
+  bacteria (細菌): 4
+  medical procedure (医療処置): 3
+
+Language coverage:
+  Japanese labels: 6055 (9.0%)
+
+External ID coverage:
+  MeSH: 5610 (8.3%)
+  ICD-10: 1114 (1.6%)
+  SNOMED CT: 276 (0.4%)
+  UMLS: 11219 (16.6%)

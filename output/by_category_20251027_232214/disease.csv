@@ -1,0 +1,6 @@
+﻿qid,category_en,category_ja,category_qid,en_label,ja_label,en_description,ja_description,mesh_id,icd10,icd9,snomed_id,umls_id
+Q403453,disease,病気,Q12136,Aicardi-Goutieres syndrome,エカルディ・グティエール症候群,a rare genetic neurodevelopmental disorder,,C535607,,,,C0393591
+Q1952467,disease,病気,Q12136,hereditary multiple exostoses,遺伝性多発性外骨腫,"exostosis that has material basis in a mutation on the genes EXT1, EXT2 and EXT3 which results in multiple bony spurs throughout a child's growth",,D005097,,756.59,,C0015306
+Q170990,disease,病気,Q12136,arthritis,関節炎,"any of several joint disorders, some autoimmune, some infectious",,D001168,,712,372091005,C0003864
+Q5958573,disease,病気,Q12136,compulsive sexual behaviour disorder,色情症,mental disorder according to ICD-11,性欲の異常亢進,D000096583,,,,
+Q861224,disease,病気,Q12136,juvenile rheumatoid arthritis,若年性特発性関節炎,rheumatoid arthritis that involves an autoimmune disease onset in children under 16 which attacks the healthy cells and tissue of located in joint,,,,,,C0157916

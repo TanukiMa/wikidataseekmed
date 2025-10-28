@@ -1,0 +1,44 @@
+============================================================
+Wikidata Medical Terms Extraction Report
+============================================================
+
+Execution time: 2025-10-26 13:24:07
+Scale: medium
+Total items: 106
+EN-JA pairs: 33
+Bilingual ratio: 31.1%
+
+Statistics:
+  Total queries: 20
+  Successful: 14
+  Failed: 6
+  Retries: 5
+
+Error Breakdown:
+  504 Gateway Timeout: 6
+  Network Errors: 0
+  Other Errors: 0
+
+Items by category:
+  medication (医薬品): 10
+  surgery (外科手術): 10
+  protein (タンパク質): 10
+  gene (遺伝子): 10
+  anatomical structure (解剖学的構造): 10
+  virus (ウイルス): 10
+  therapeutic agent (治療薬): 10
+  medical device (医療機器): 10
+  infectious disease (感染症): 9
+  disease (病気): 5
+  symptom (症状): 5
+  bacteria (細菌): 4
+  medical procedure (医療処置): 3
+
+Language coverage:
+  Japanese labels: 33 (31.1%)
+
+External ID coverage:
+  MeSH: 18 (17.0%)
+  ICD-10: 3 (2.8%)
+  SNOMED CT: 3 (2.8%)
+  UMLS: 24 (22.6%)

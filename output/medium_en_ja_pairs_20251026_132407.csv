@@ -1,0 +1,34 @@
+﻿en_label,ja_label,category_en,category_ja,en_description,ja_description,qid
+Aicardi-Goutieres syndrome,エカルディ・グティエール症候群,disease,病気,a rare genetic neurodevelopmental disorder,,Q403453
+arthritis,関節炎,disease,病気,"any of several joint disorders, some autoimmune, some infectious",,Q170990
+atrioventricular septal defect,心内膜床欠損症,disease,病気,Human disease,,Q390211
+paramyotonia congenita,先天性パラミオトニア,disease,病気,human disease,,Q493103
+Krabbe disease,クラッベ病,disease,病気,congenital disorder of the nervous system,,Q511372
+pharmaceutical preparation of nitroglycerin,ニトログリセリン,medication,医薬品,drug,,Q3221044
+luseogliflozin,ルセオグリフロジン,medication,医薬品,chemical compound,,Q27275212
+primary immunodeficiency disease,原発性免疫不全症候群,symptom,症状,immune system disease that results when one or more essential parts of the immune system is missing or not working properly at birth due to a genetic mutation,,Q3043160
+POEMS syndrome,クロウ・深瀬症候群,symptom,症状,paraneoplastic syndrome,,Q2553422
+Alice in Wonderland syndrome,不思議の国のアリス症候群,symptom,症状,neuropsychological condition,ものの大きさに関する様々な主観的イメージの変容を引き起こす症候群,Q649340
+Stevens–Johnson syndrome,スティーブンス・ジョンソン症候群,symptom,症状,skin disease,皮膚や粘膜の過敏症,Q1053948
+Dissociative Experiences Scale,解離体験尺度,surgery,外科手術,questionnaire to screen for dissociative identity disorder,,Q1229320
+computed tomography,コンピュータ断層撮影,surgery,外科手術,medical imaging procedure using X-rays to produce cross-sectional images,放射線を用いて、物体の内部をスライス画像化して観察できるようにする技術,Q32566
+Myers-Briggs Type Indicator,MBTI,surgery,外科手術,model of personality types,アメリカで提唱された、類型論に基づくパーソナリティ検査(性格検査）,Q897939
+erythropoietin,エリスロポエチン,gene,遺伝子,mammalian protein found in Homo sapiens,,Q218706
+aerenchyma,通気組織,anatomical structure,解剖学的構造,spongy tissue that forms spaces or air channels in plants,,Q2333565
+rhizome,根茎,anatomical structure,解剖学的構造,underground stem in which various plants asexually reproduce via budding.,,Q184208
+Common scab,そうか病,infectious disease,感染症,Plant disease affecting potatoes and other crops,,Q1734637
+syphilis,梅毒,infectious disease,感染症,sexually transmitted infection,梅毒トレポネーマの感染により発症する感染症,Q41083
+infectious coryza,伝染性コリーザ,infectious disease,感染症,disease of poultry,,Q5788570
+air force officer,空軍将校,medical procedure,医療処置,military officer in an air force,,Q19934710
+United States Naval Aviator,アメリカ海軍飛行士,medical procedure,医療処置,commissioned officer or warrant officer qualified as a manned aircraft pilot in the United States Navy or United States Marine Corps,,Q7890793
+SARS-CoV-2 Alpha variant,SARSコロナウイルス2-アルファ株,virus,ウイルス,variant of SARS-CoV-2,SARSコロナウイルス2の変異株,Q104376647
+tobacco mosaic virus,タバコモザイクウイルス,virus,ウイルス,species of virus,ウイルスの一種,Q332874
+SARS-CoV-2,SARSコロナウイルス2,virus,ウイルス,virus that causes COVID-19,2019年に存在が報告された新種のコロナウイルス、COVID-19の原因となる感染症,Q82069695
+turtle plastron,亀板,therapeutic agent,治療薬,,漢方薬の一種の亀の甲羅,Q1931566
+Hubble Deep Field,ハッブル・ディープ・フィールド,medical device,医療機器,multiple exposure image of deep space in the constellation Ursa Major,,Q741255
+Siding Spring Survey,サイディング・スプリングサーベイ,medical device,医療機器,near-Earth object search program,,Q492918
+Hubble eXtreme Deep Field,ハッブル・エクストリーム・ディープ・フィールド,medical device,医療機器,multiple exposure image of deep space in the constellation Fornax,,Q62917
+Princeton University,プリンストン大学,medical device,医療機器,"private Ivy League research university in Princeton, New Jersey, United States",アメリカの私立大学,Q21578
+Columbia University,コロンビア大学,medical device,医療機器,private university in New York City,アメリカの私立大学,Q49088
+Agatha Christie bibliography,アガサ・クリスティの著作一覧,medical device,医療機器,list of works by Agatha Christie,ウィキメディアの一覧記事,Q76979
+Harvard University,ハーバード大学,medical device,医療機器,"private university in Cambridge, Massachusetts",アメリカ・マサチューセッツ州にある私立大学,Q13371

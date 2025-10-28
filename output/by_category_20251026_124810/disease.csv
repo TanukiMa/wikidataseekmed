@@ -1,0 +1,8 @@
+﻿qid,category_en,category_ja,category_qid,en_label,ja_label,en_description,ja_description,mesh_id,icd10,icd9,snomed_id,umls_id
+Q403453,disease,病気,Q12136,Aicardi-Goutieres syndrome,エカルディ・グティエール症候群,a rare genetic neurodevelopmental disorder,,C535607,,,,C0393591
+Q6949365,disease,病気,Q12136,myxoid liposarcoma,粘液型脂肪肉腫,human disease,,D018208,,,,C0206634
+Q390211,disease,病気,Q12136,atrioventricular septal defect,心内膜床欠損症,Human disease,,D004694,,,,C0014116
+Q390791,disease,病気,Q12136,hepatoerythropoietic porphyria,,Human disease,,D017121,E80.2,277.1,111386004,C0162569
+Q359288,disease,病気,Q12136,Yushō disease,カネミ油症事件,mass poisoning in Japan,1960年代に日本で発生した油症事件,C536720,,,,C2931297
+Q6951345,disease,病気,Q12136,N-Acetylglutamate synthase deficiency,,N-acetylglutamate synthase (NAGS) deficiency is a urea cycle disorder leading to hyperammonaemia,,C536109,,,,C0268543
+Q6947340,disease,病気,Q12136,Myeloperoxidase deficiency,,human disease,,C562864,,,,C0398595

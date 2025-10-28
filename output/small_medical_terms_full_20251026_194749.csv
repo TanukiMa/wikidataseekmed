@@ -1,0 +1,321 @@
+﻿qid,category_en,category_ja,category_qid,en_label,ja_label,en_description,ja_description,mesh_id,icd10,icd9,snomed_id,umls_id
+Q403453,disease,病気,Q12136,Aicardi-Goutieres syndrome,エカルディ・グティエール症候群,a rare genetic neurodevelopmental disorder,,C535607,,,,C0393591
+Q1144618,disease,病気,Q12136,familial Mediterranean fever,家族性地中海熱,Human disease,,D010505,,,,C0031069
+Q390211,disease,病気,Q12136,atrioventricular septal defect,心内膜床欠損症,Human disease,,D004694,,,,C0014116
+Q493103,disease,病気,Q12136,paramyotonia congenita,先天性パラミオトニア,human disease,,C538616,G71.1,359.2,,C0221055
+Q390791,disease,病気,Q12136,hepatoerythropoietic porphyria,,Human disease,,D017121,E80.2,277.1,111386004,C0162569
+Q498826,disease,病気,Q12136,sucrose intolerance,ショ糖不耐症,Congenital sucrase-isomaltase deficiency (CSID) is a carbohydrate intolerance disorder characterised by malabsorption of oligosaccharides and disaccharides,,C538139,E74.3,271.3,,C1283620
+Q500695,disease,病気,Q12136,retinoblastoma,網膜芽細胞腫,retinal cell cancer,,D012175,C69.2,190.5,,C0035335
+Q708165,disease,病気,Q12136,neurogenic arthrogryposis multiplex congenita,関節拘縮,congenital joint contracture in two or more areas of the body,,C536614,,728.3,,C1859721
+Q49989,disease,病気,Q12136,Creutzfeldt-Jakob disease,クロイツフェルト・ヤコブ病,degenerative neurological disorder,中枢神経の変性疾患,D007562,,,,C0022336
+Q773118,disease,病気,Q12136,Andersen-Tawil syndrome,,Human disease,,D050030,I45.8,426.82,,C1563715
+Q402575,disease,病気,Q12136,maple syrup urine disease,メープルシロップ尿症,human disease,,D008375,,,,C0024776
+Q432396,disease,病気,Q12136,achromatopsia,杆体1色覚,"human illness, a type of color blindness",,,,,,C0152200
+Q419897,disease,病気,Q12136,porphyria due to ALAD deficiency,,"porphyria that has symptom abdominal pain, has symptom neuropathy, has symptom autonomic instability and has symptom psychosis",,,E80.2,277.1,,C0162533
+Q1112752,disease,病気,Q12136,Watson syndrome,,medical condition,,,Q87.1,,,C0347915
+Q727436,disease,病気,Q12136,Lesch-Nyhan syndrome,レッシュ・ナイハン症候群,rare genetic syndrome,,D007926,,277.2,,C0023374
+Q503642,disease,病気,Q12136,trisomy 16,16トリソミー,partial or complete triplication of chromosome 16,,C538041,,,,C1519651
+Q492129,disease,病気,Q12136,porencephaly,,congenital disorder of nervous system characterized by cysts or cavities within the cerebral hemisphere.,,D065708,,,38837006,C0302892
+Q424247,disease,病気,Q12136,acute intermittent porphyria,急性間欠性ポルフィリン症,human disease,,D017118,E80.2,277.1,,C0162565
+Q735652,disease,病気,Q12136,mitral valve prolapse,僧帽弁逸脱症,mitral valve disease where one or both of the cusps of the mitral valve bulge or collapse backward in the left atrium during systole,,D008945,,424.0,,C0026267
+Q11085,disease,病気,Q12136,Parkinson's disease,パーキンソン病,long-term degenerative neurological disorder,運動障害を示す進行性の神経変性疾患の一種,D010300,,,,C0030567
+Q498487,disease,病気,Q12136,Camurati-Engelmann disease,,rare disease,,D003966,,756.59,,C0011989
+Q500314,disease,病気,Q12136,Kashin–Beck disease,カシン＝ベック病,"chronic, endemic osteochondropathy",,D057767,M12.1,716.0,,C2745963
+Q1472,disease,病気,Q12136,Crohn's disease,クローン病,type of inflammatory bowel disease,主として口腔から肛門までの全消化管に、非連続性の慢性肉芽腫性炎症を生じる原因不明の炎症性疾患,D003424,,,,C0156147
+Q772022,disease,病気,Q12136,asplenia with cardiovascular anomalies,,rare disease,,,,759.0,,
+Q387082,disease,病気,Q12136,ataxia telangiectasia,毛細血管拡張性運動失調症,"a rare, neurodegenerative, autosomal recessive human disease causing severe disability",,D001260,G11.3,334.8,,C0004135
+Q478891,disease,病気,Q12136,Simpson-Golabi-Behmel syndrome,シンプソン・ゴラビ・ベーメル症候群,"X-linked disease characterized by pre- and postnatal overgrowth and craniofacial, skeletal, cardiac and renal abnormalities",,C537340,Q87.0,,,C0796154
+Q727008,disease,病気,Q12136,McCune–Albright syndrome,マッキューン・オルブライト症候群,rare disease,,D005359,Q78.1,756.54,726029005,
+Q838139,disease,病気,Q12136,ventricular septal defect,心室中隔欠損,"heart septal defect characterized by an opening in the interventricular septum, causing a shunt between ventricles",,D006345,,,,C0018818
+Q847605,disease,病気,Q12136,neurofibromatoses,神経線維腫症,human diseases,,D017253,,,,C0027832
+Q1106881,disease,病気,Q12136,Coffin-Lowry syndrome,コフィン・ローリー症候群,genetic disorder that is X-linked dominant,,D038921,Q87.8,759.89,,C0265252
+Q1140528,disease,病気,Q12136,drusen,ドルーゼン,tiny yellow or white accumulations of extracellular material that build up between Bruch's membrane and the retinal pigment epithelium of the eye,,D015593,H35.3,,,C0035312
+Q845618,disease,病気,Q12136,Dejerine–Sottas disease,,a rare hereditary neurological disorder characterised by damage to the peripheral nerves and resulting progressive muscle wasting,,,G60.0,356.0,,
+Q1140000,disease,病気,Q12136,Crigler-Najjar syndrome,クリグラー・ナジャール症候群,bilirubin metabolic disorder that involves a build up of bilirubin as bilirubin is not being broken down as a result of a lack or deficiency of the enzyme uridine diphosphate glycosyltransferase (UGT),,D003414,,277.4,,C0010324
+Q473262,disease,病気,Q12136,complete androgen insensitivity syndrome,,intersex variation where one has no response to androgens and is born with a vulva and clitoris,,,E34.1,259.51,,
+Q1097490,disease,病気,Q12136,cardiofaciocutaneous syndrome,CFC症候群,Human disease,,,,,,C1275081
+Q774016,disease,病気,Q12136,Denys-Drash syndrome,デニス・ドラッシュ症候群,Human disease,,D030321,,,,C0950121
+Q431643,disease,病気,Q12136,microcephaly,小頭症,medical condition in which the brain does not develop properly resulting in a smaller than normal head,,D008831,,,,C0025958
+Q501694,disease,病気,Q12136,congenital insensitivity to pain with anhidrosis,先天性無痛無汗症,rare disease,,,,,,C0020074
+Q1145668,disease,病気,Q12136,hemolytic anemia,溶血性貧血,form of anemia due to hemolysis,赤血球の破壊により起こる貧血,D000743,,773,,C0002878
+Q774483,disease,病気,Q12136,galactosemia,ガラクトース血症,carbohydrate metabolic disorder that involves a defect in galactose metabolism resulting in toxic levels of galactose 1-phosphate in various tissues,,D005693,,,,C0016952
+Q1485,disease,病気,Q12136,systemic lupus erythematosus,全身性エリテマトーデス,"inflammation of connective tissue marked by skin rashes, joint pain and swelling, inflammation of the kidneys and inflammation of the tissue surrounding the heart.",膠原病の一つ,D008180,,,,C0024141
+Q494922,disease,病気,Q12136,glycogen storage disease III,,human disease,,D006010,,271.0,,C0017922
+Q1107087,disease,病気,Q12136,Cohen syndrome,コーエン症候群,"a rare genetic developmental disorder characterized by microcephaly, characteristic facial features, hypotonia, non-progressive intellectual deficit, myopia and retinal dystrophy, neutropenia and truncal obesity",,C536438,,,56604005,C0265223
+Q1101694,disease,病気,Q12136,Joubert syndrome,ジュベール症候群,"Joubert syndrome (JS) is characterized by congenital malformation of the brainstem and agenesis or hypoplasia of the cerebellar vermis leading to an abnormal respiratory pattern, nystagmus, hypotonia, ataxia, and delay in achieving motor milestones",,,,742.2,,C0431399
+Q766856,disease,病気,Q12136,pityriasis rubra pilaris,,Human disease,,D010916,,,,C0032027
+Q1483,disease,病気,Q12136,Craniopagus parasiticus,寄生的頭蓋結合体,rare type of Craniopagus,,,,,,
+Q390908,disease,病気,Q12136,Lucey–Driscoll syndrome,,autosomal recessive metabolic disorder affecting enzymes involved in bilirubin metabolism,,C562692,,774.30,,C0270210
+Q1120682,disease,病気,Q12136,metachromatic leukodystrophy,,human disease,,D007966,,,,C0023522
+Q846316,disease,病気,Q12136,aplastic anemia,再生不良性貧血,"anemia that is characterized by a deficiency of red blood cells, white blood cells and platelets produced by bone marrow",,D000741,,,,C0002874
+Q424258,disease,病気,Q12136,acute interstitial pneumonitis,,human disease,,D000080203,,,,C1279945
+Q1087632,disease,病気,Q12136,idiopathic CD4+ lymphocytopenia,特発性CD4+リンパ球減少症,rare disease,,D018344,D72.8,288.51,,C0206744
+Q474254,disease,病気,Q12136,Bannayan-Riley-Ruvalcaba syndrome,バナヤン・ライリー・ルバルカバ症候群,"a rare overgrowth syndrome and hamartomatous disorder with occurrence of multiple subcutaneous lipomas, macrocephaly and hemangiomas.",,,,,,C0265326
+Q1531324,disease,病気,Q12136,autosomal dominant limb-girdle muscular dystrophy type 1C,,autosomal dominant limb-girdle muscular dystrophy that has material basis in mutation in the caveolin-3 gene (CAV3) on chromosome 3p25,,,,,,C1832567
+Q1531337,disease,病気,Q12136,autosomal recessive limb-girdle muscular dystrophy type 2O,,"autosomal recessive limb-girdle muscular dystrophy that has material basis in homozygous mutation in the gene encoding protein O-mannose beta-1,2-N-acetylglucosaminyltransferase (POMGNT1) on chromosome 1p34",,,,,,C3150417
+Q1561430,disease,病気,Q12136,developmental verbal dyspraxia,,neurodevelopmental condition,,,,,,C0750927
+Q782958,disease,病気,Q12136,centronuclear myopathy,,myopathy characterized by abnormally located nuclei in skeletal muscle cells,,,,,82077006,C0175709
+Q1530812,disease,病気,Q12136,oculo-facial-cardio-dental syndrome,,Very rare genetic disease involving ocular abnormalities and cardiac abnormalities.,,C537465,Q87.8,,,C1846265
+Q1129947,disease,病気,Q12136,caudal regression syndrome,尾部退行症候群,congenital disorder in humans caused by abnormal fetal development of the lower spine,,,Q76.4,,,C0300948
+Q136222810,medication,医薬品,Q12140,Amarasate,,extract for appetite control,,,,,,
+Q106522112,medication,医薬品,Q12140,West China Hospital COVID-19 vaccine,,vaccine candidate against COVID-19,,,,,,
+Q27275212,medication,医薬品,Q12140,luseogliflozin,ルセオグリフロジン,chemical compound,,,,,,
+Q27277423,medication,医薬品,Q12140,bexagliflozin,,chemical compound,,,,,,
+Q27294103,medication,医薬品,Q12140,atigliflozin,,chemical compound,,,,,,
+Q27283562,medication,医薬品,Q12140,ipragliflozin L-proline,,chemical compound,,,,,,
+Q3772854,medication,医薬品,Q12140,Mercromina,,topical merbromin solution used as an antiseptic agent,,,,,,
+Q27279888,medication,医薬品,Q12140,lotilaner,,chemical compound,,,,,,
+Q1752431,medication,医薬品,Q12140,Dental dam (oral sex),,,,,,,,
+Q6151855,medication,医薬品,Q12140,Kolokol-1,KOLOKOL-1,chemical compound,,,,,,
+Q129629284,medication,医薬品,Q12140,mRNA-1083,,combined vaccine candidate against influenza and Covid,,,,,,
+Q122877522,medication,医薬品,Q12140,simnotrelvir/ritonavir,,antiviral combination medication,,,,,,
+Q110263526,medication,医薬品,Q12140,mRNA-1283,,vaccine candidate against COVID-19,,,,,,
+Q7842116,medication,医薬品,Q12140,TrimSpa,,dietary supplement,,,,,,
+Q130343832,medication,医薬品,Q12140,direclidine,NBI-1117568,antipsychotic drug,,,,,,
+Q27261271,medication,医薬品,Q12140,tofogliflozin,,chemical compound,,,,,,
+Q3344800,medication,医薬品,Q12140,oral contraceptive,経口避妊薬,medication taken by mouth for the purpose of birth control,,D003276,,,,
+Q3542091,medication,医薬品,Q12140,tunicamycin,ツニカマイシン,mixture; extract from bacteria,,D014415,,,,C0041385
+Q50429939,medication,医薬品,Q12140,combined oral contraceptives,,fixed drug combinations administered orally for contraceptive purposes,,D003277,,,,C0009906
+Q50429932,medication,医薬品,Q12140,female contraceptive agent,,chemical substances or agents with contraceptive activity in females,,D003271,,,,C0009873
+Q27278211,medication,医薬品,Q12140,velagliflozin,,chemical compound,,,,,,
+Q110442458,medication,医薬品,Q12140,nirmatrelvir/ritonavir,ニルマトレルビル・リトナビル,antiviral combination medication,,,,,,
+Q130632792,medication,医薬品,Q12140,CT-388,,pharmaceutical compound,,,,,,
+Q123598885,medication,医薬品,Q12140,enavogliflozin,,chemical compound,,,,,,
+Q27891246,medication,医薬品,Q12140,sergliflozin,,chemical compound,,,,,,
+Q27678903,medication,医薬品,Q12140,Mori Cortex,桑白皮,Crude drug,,,,,,
+Q27253060,medication,医薬品,Q12140,mizagliflozin,,chemical compound,,,,,,
+Q116785175,medication,医薬品,Q12140,Ceremonial Cacao,,"Cacao prepared in ritual or spiritual contexts, especially among Indigenous cultures such as the Maya. Must be handcrafted and minimally processed for ceremonial use.",,,,,,
+Q107306926,medication,医薬品,Q12140,Indigenous Chocolate,,name translation describing a type of chocolate sourced by Amerindian natives at the origin of Theobroma cacao entered in commerce and maritime law by 1644,,,,,,
+Q120468350,medication,医薬品,Q12140,retatrutide,,chemical compound,,,,,,
+Q107404450,medication,医薬品,Q12140,Crohns MAP Vaccine,,Viral vector vaccine,,,,,,
+Q27266178,medication,医薬品,Q12140,bexagliflozin diproline,,chemical compound,,,,,,
+Q4946230,medication,医薬品,Q12140,Boroline,,Indian antiseptic cream,,,,,,
+Q3064190,medication,医薬品,Q12140,Burow's solution,,astringent and antibacterial treatment,,,,,,
+Q37890353,medication,医薬品,Q12140,Cacao Amazonas Perú,,,,,,,,
+Q98681544,medication,医薬品,Q12140,hormonal contraceptive agents,,contraceptive agents that act on the endocrine system,,D000080066,,,,
+Q56316433,medication,医薬品,Q12140,mulberry leaf,桑葉,,,,,,,
+Q116817861,medication,医薬品,Q12140,Indigenous Cacao,先住民族のカカオ,cacao seeds or cocoa beans from Theobroma cacao trees growing at their place of origin in South America,南米原産のカカオの木から採れるカカオの種子またはカカオ豆,,,,,
+Q47495780,medication,医薬品,Q12140,canagliflozin hemihydrate,,chemical compound,,,,,,
+Q27896079,medication,医薬品,Q12140,velagliflozin proline,,chemical compound,,,,,,
+Q47521479,medication,医薬品,Q12140,Voltaren,,pharmaceutical product,,,,,,
+Q116778899,medication,医薬品,Q12140,Cacao-Chocolate,,chocolate produced from wild Theobroma cacao beans without preservatives,,,,,,
+Q1327377,medication,医薬品,Q12140,four thieves vinegar,4人の泥棒の酢,concoction believed to protect users from the plague,,,,,,
+Q120799016,medication,医薬品,Q12140,falimarev,,cancer vaccine made with a form of a chicken virus that does not cause disease in humans,,,,,,
+Q124257924,medication,医薬品,Q12140,BNT162b5,,vaccine against SARS-CoV-2,,D000096106,,,,
+Q7516587,medication,医薬品,Q12140,Silver proteinate,,staining chemical,,,,,,C0086985
+Q111663084,medication,医薬品,Q12140,Packet of 'Anti-Baby' condoms,,item in Science Museum Group collections,,,,,,
+Q847098,medication,医薬品,Q12140,Angelica dahurica,ヨロイグサ,species of plant,セリ科シシウド属の多年草であるヨロイグサの漢名,,,,,C1083049
+Q105754741,medication,医薬品,Q12140,Rapidus,,,,,,,,
+Q4207143,medication,医薬品,Q12140,Kagocel,,antiviral medication with unproven efficacy,,,,,,
+Q7428376,medication,医薬品,Q12140,Savlon,サブロン,Antiseptic solution for hygiene care,,,,,,
+Q124767680,medication,医薬品,Q12140,amycretin,,GLP-1 and amylin receptor agonist,,,,,,
+Q105939175,medication,医薬品,Q12140,vaccinal liquid in the first COVID-19 shot given to Sarah Lindsay,,the actual substance that was injected into Sarah Lindsay's body in the moment of vaccination,,,,,,
+Q118240704,medication,医薬品,Q12140,Gardasil 9,,HPV vaccine,,C000634046,,,,C3897122
+Q111211557,medication,医薬品,Q12140,sarcocolla,,,,,,,,
+Q864088,medication,医薬品,Q12140,female condom,女性用コンドーム,device for birth control and STI prevention,,D019111,,,,C0221829
+Q112845564,medication,医薬品,Q12140,Tschamba-Fii,,,,,,,,
+Q16645358,medication,医薬品,Q12140,Dolphin,,antiseptic,,,,,,
+Q50429947,medication,医薬品,Q12140,postcoital contraceptives,,contraceptive substances to be used after coitus,,D003281,,,,
+Q116814555,medication,医薬品,Q12140,CVL-354,イカルカプラント,chemical compound,,,,,,
+Q7454518,medication,医薬品,Q12140,sergliflozin etabonate,,chemical compound,,,,,,
+Q2995702,medication,医薬品,Q12140,contraceptive agents,,chemical substances that prevent or reduce the probability of conception,,D003270,,,,C0009871
+Q97275232,medication,医薬品,Q12140,Coronavir,,anti-viral drug used to treat COVID-19,,,,,,
+Q3221044,medication,医薬品,Q12140,pharmaceutical preparation of nitroglycerin,ニトログリセリン,drug,,,,,,
+Q125213933,medication,医薬品,Q12140,coitus Saxonicus,,primitive birth-control method by which squeezing the urethra at the base of the penis immediately prior to ejaculation the semen is forced into the bladder,,,,,,
+Q2903596,medication,医薬品,Q12140,Billy Boy,,,,,,,,
+Q204193,medication,医薬品,Q12140,cinnamon bark extract,桂皮エキス,extract from cinnamon bark,シナモン樹皮の抽出物,,,,,
+Q106365726,medication,医薬品,Q12140,Zhuyeqing Tea,,bamboo leaf green tea,,,,,,
+Q11109817,medication,医薬品,Q12140,willow bark,,herbal medicine documented by the European Medicines Agency,,,,,,
+Q11062782,medication,医薬品,Q12140,Lushan Yunwu,廬山雲霧,famous Chinese green tea from Jiangxi,,,,,,
+Q1069130,medication,医薬品,Q12140,Longjing tea,龍井茶,"pan-roasted green tea from the area of Longjing Village in Hangzhou, China",,,,,,
+Q318367,medication,医薬品,Q12140,mastic,マスティック・ガム,resin obtained from the mastic tree,ウルシ科の低木マスティックの樹液を原料とした食用のガム・スパイス,D000069997,,,,
+Q13110465,medication,医薬品,Q12140,Ilaner kuzhampu,,,,,,,,
+Q185690,medication,医薬品,Q12140,corticotropin,副腎皮質刺激ホルモン,hormone,ホルモンの一つ,D000324,,,,C0001655
+Q120424,medication,医薬品,Q12140,balsam of Peru,ペルーバルサム,herbal preparation,ペルーバルサムの木から得られる樹脂,,,,,
+Q2983740,medication,医薬品,Q12140,Biluochun,碧螺春,"famous Chinese green tea from Dongting Mountains, near Suzhou",,,,,,
+Q17151716,medication,医薬品,Q12140,Anji bai cha,安吉白茶,"Rare, large-leafed green tea",,,,,,
+Q10888066,medication,医薬品,Q12140,Maojian tea,信陽毛尖,one of the top Chinese green teas,,,,,,
+Q21060978,medication,医薬品,Q12140,conker,,seed of Aesculus hippocastanum,,,,,,
+Q6694772,medication,医薬品,Q12140,Lu'an Melon Seed tea,六安瓜片,One of China's most famous green tea,,,,,,
+Q19703682,medication,医薬品,Q12140,Java tea,,herbal medicine documented by the European Medicines Agency,,,,,,
+Q29573382,medication,医薬品,Q12140,Gypsum deformed cristal-MCG 7747,,"sample of deformed gypsum cristal found in the Galerie du Fondement at Bex Mine, Vaud, Switzerland.",,,,,,
+Q203635,medication,医薬品,Q12140,myrrh,没薬,resin produced by the Commiphora myrrha tree,,C587573,,,,C0207011
+Q29655528,medication,医薬品,Q12140,Gypsum-MGL 2367,,"sample of monoclinical gypsum crystal, found in Napoli, Italy",,,,,,
+Q10503898,medication,医薬品,Q12140,Gentianae radix,,herbal medicine documented by the European Medicines Agency,,,,,,
+Q1069679,medication,医薬品,Q12140,Huangshan Maofeng,黄山毛峰,one of the most famous green teas in China,,,,,,
+Q484083,medication,医薬品,Q12140,green tea,緑茶,unoxidized tea,飲料の一種,,,,,C0795620
+Q48832,medication,医薬品,Q12140,tea tree oil,チャノキ油,essential oil derived from leaves,精油,D020947,,,,C0216194
+Q165431,medication,医薬品,Q12140,motherwort herb,マザーワート,herbal medicine documented by the European Medicines Agency,,,,,,
+Q15622897,medication,医薬品,Q12140,clove,丁子,spice made from dried flowers of clove (Syzygium aromaticum),,,,,,C0009076
+Q39058943,medication,医薬品,Q12140,Nirodh,,Indian condom brand,,,,,,
+Q107304170,medication,医薬品,Q12140,flavored condom,,"a condom with flavor-coating, designed for oral sex",,,,,,
+Q30043950,medication,医薬品,Q12140,sejak,,Korean green tea,,,,,,
+Q30043971,medication,医薬品,Q12140,ujeon,,Korean green tea,,,,,,
+Q20181582,medication,医薬品,Q12140,Sideritis herba,,herbal medicine documented by the European Medicines Agency,,,,,,
+Q28165,medication,医薬品,Q12140,cinnamon,シナモン,spice obtained from the inner bark of several tree species from the genus Cinnamomum,香辛料,,,,,C1112857
+Q7087231,medication,医薬品,Q12140,olive leaf,,herbal medicinal product,,,,,,
+Q1089546,medication,医薬品,Q12140,Chun Mee tea,珍眉茶,popular Chinese green tea,,,,,,
+Q8027866,medication,医薬品,Q12140,Hamamelidis cortex,,herbal medicinal product,,,,,,
+Q65501350,symptom,症状,Q169872,Peroxisomal disease (except Adrenoleukodystrophy),ペルオキシソーム病,,ヒトの疾患,,,,,
+Q65213680,symptom,症状,Q169872,vascular sling,,,,,,,,C1856123
+Q65213795,symptom,症状,Q169872,LMX1B-associated nephropathy,,,,,,,,
+Q65214073,symptom,症状,Q169872,Trifunctional protein deficiency,,,,,,,,
+Q65214555,symptom,症状,Q169872,Anterior segment dysgenesis,,,,,,,,
+Q65214410,symptom,症状,Q169872,Inherited glycosylphosphatidylinositol deficiency,,,,,,,,
+Q65214459,symptom,症状,Q169872,Hereditary autoinflammatory syndrome,,,,,,,,
+Q65214498,symptom,症状,Q169872,Idiopathic thrombosis,,,,,,,,
+Q109910786,symptom,症状,Q169872,Idiopathic portal hypertension,,,,,,,,
+Q1153641,symptom,症状,Q169872,Wolfram syndrome,ウォルフラム症候群,"rare disease in which a human simultaneously has diabetes insipidus, diabetes, optic nerve atrophy and deafness syndrome",,D014929,E13.8,249.90,,C0043207
+Q1154619,symptom,症状,Q169872,Werner syndrome,ウェルナー症候群,Lethal autosomal recessive disorder,,D014898,,,,C0043119
+Q1146454,symptom,症状,Q169872,IgA glomerulonephritis,IgA腎症,disease of the kidney,,D005922,,,,C0017661
+Q2553422,symptom,症状,Q169872,POEMS syndrome,クロウ・深瀬症候群,paraneoplastic syndrome,,D016878,D47.7,273.8,,C0085404
+Q56014002,symptom,症状,Q169872,chronic intestinal pseudoobstruction,,medical condition,,,,,,C0238062
+Q649340,symptom,症状,Q169872,Alice in Wonderland syndrome,不思議の国のアリス症候群,neuropsychological condition,ものの大きさに関する様々な主観的イメージの変容を引き起こす症候群,D062026,,,,C0854348
+Q1053948,symptom,症状,Q169872,Stevens–Johnson syndrome,スティーブンス・ジョンソン症候群,skin disease,皮膚や粘膜の過敏症,D013262,,,73442001,C0014518
+Q2602467,symptom,症状,Q169872,cerebrotendinous xanthomatosis,脳腱黄色腫症,autosomal recessive form of xanthomatosis.,,D019294,E75.5,272.7,,C0238052
+Q1052391,symptom,症状,Q169872,inherited pseudoxanthoma elasticum,弾力繊維性仮性黄色腫,Human disease,,D011561,,,,C0033847
+Q8277,symptom,症状,Q169872,multiple sclerosis,多発性硬化症,disease that damages the myelin sheaths around nerve axons,中枢性脱髄疾患の一つ,D009103,,,,C0026769
+Q65122499,symptom,症状,Q169872,Hepatic glycogenosis,,,,,,,,C0268145
+Q65122739,symptom,症状,Q169872,Primary hyperchylomicronemia,,,,,,,,C1535978
+Q1072420,symptom,症状,Q169872,primary biliary cholangitis,原発性胆汁性肝硬変,liver cirrhosis characterized by chronic and slow progressive destruction of intrahepatic bile ducts,,D008105,,,,C0008312
+Q65213321,symptom,症状,Q169872,Eosinophilic sinusitis,,,,,,,,C3203546
+Q2613277,symptom,症状,Q169872,Alpha-thalassemia mental retardation syndrome,ATR-X症候群,alpha thalassemia that has material basis in mutation in the ATRX gene on Xq21,,C538258,,,,C1845055
+Q1058608,symptom,症状,Q169872,primary sclerosing cholangitis,原発性硬化性胆管炎,"sclerosing cholangitis characterized by fibroobliterative inflammation of the biliary tract, leading to cirrhosis and portal hypertension",,C536419,,576.1,,C0566602
+Q56014262,symptom,症状,Q169872,continuous spikes and waves during sleep,,,,,,,,C5552731
+Q55788887,symptom,症状,Q169872,congenital tricuspid stenosis,,human disease,,,,,,C0265836
+Q55789331,symptom,症状,Q169872,congenital mitral stenosis,,human disease,,,,,,C0158618
+Q55789414,symptom,症状,Q169872,mesial temporal lobe epilepsy with hippocampal sclerosis,,human disease,,,,,,C4749367
+Q8285,symptom,症状,Q169872,myasthenia gravis,重症筋無力症,human disease,アセチルコリンなどの抗体により神経・筋伝達が阻害されるために筋肉の易疲労性や脱力が起こる自己免疫疾患,D009157,,,,C0751340
+Q8282,symptom,症状,Q169872,Addison's disease,慢性原発性副腎皮質機能低下症,adrenal cortical hypofunction that is characterized by insufficient steroid hormone production by the adrenal glands,,D000224,,,,C0405580
+Q2610084,symptom,症状,Q169872,sideroblastic anaemia P,鉄芽球性貧血,aplastic anemia where the bone marrow produces ringed sideroblasts rather than healthy red blood cells (erythrocytes),,D000756,,,,C0002896
+Q2711291,symptom,症状,Q169872,familial hypercholesterolemia,家族性高コレステロール血症,familial hyperlipidemia characterized by very high levels of low-density lipoprotein (LDL) and early cardiovascular disease,,D006938,,,,C0020445
+Q65122439,symptom,症状,Q169872,Skeletal muscle glycogenosis,,,,,,,,
+Q1052687,symptom,症状,Q169872,Charcot–Marie–Tooth disease,シャルコー・マリー・トゥース病,"neuromuscular disease that is characterized by a slowly progressive degeneration of the muscles of the foot, lower leg, hand and forearm",,D002607,,,,C0007959
+Q112412,symptom,症状,Q169872,congenital myopathy,先天性ミオパチー,human disease,フロッピーインファント症状を引き起こす疾患群,,G71.2,359.0,,C0027127
+Q1477,symptom,症状,Q169872,ulcerative colitis,潰瘍性大腸炎,inflammatory bowel disease that causes ulcers in the colon,大腸の粘膜に潰瘍や糜爛を生じる炎症性疾患,D003093,,,,C0009324
+Q63871268,symptom,症状,Q169872,Extensive spinal canal stenosis,,,,,,,,
+Q64425127,symptom,症状,Q169872,Alveolar hypoventilation syndrome,,,,C536281,,,,C3489730
+Q32811,symptom,症状,Q169872,Churg-Strauss syndrome,アレルギー性肉芽腫性血管炎,"a systemic vasculitis realized as blood vessel inflammation, with symptoms asthma along with hay fever, rash and gastrointestinal bleeding",,D015267,,447.6,,C0008728
+Q622901,symptom,症状,Q169872,Korsakoff's syndrome,コルサコフ症候群,mental illness caused by a lack of thiamine in the brain,健忘症・明示的記憶の障害・作話などの特徴を持つ中枢神経系障害,D020915,F04,294.0,,C0349464
+Q1088030,symptom,症状,Q169872,chronic inflammatory demyelinating polyradiculoneuropathy,慢性炎症性脱髄性多発神経炎,acquired immune-mediated inflammatory disorder of the peripheral nervous system,,D020277,,,,C0393819
+Q52849,symptom,症状,Q169872,ankylosing spondylitis,強直性脊椎炎,type of arthritis in which there is long term inflammation of the joints of the spine,,D013167,,720.0,,C0038013
+Q63871310,symptom,症状,Q169872,Pituitary ADH secretion disorder,,,,,,,,
+Q63878253,symptom,症状,Q169872,Idiopathic dilated cardiomyopathy,,,,,,,,
+Q63992093,symptom,症状,Q169872,Asplenia syndrome,,,,,,,,
+Q63992084,symptom,症状,Q169872,Polysplenia syndrome,,,,,,,,
+Q64075897,symptom,症状,Q169872,Primary nephrotic syndrome,,,,,,,,
+Q64075953,symptom,症状,Q169872,Primary membranoproliferative glomerulonephritis,,,,,,,,
+Q64076010,symptom,症状,Q169872,Purpura nephritis,,,,,,,,
+Q63874868,symptom,症状,Q169872,Autophagic vacuolar myopathy,,,,C536522,,,,
+Q64556062,symptom,症状,Q169872,ACTH unresponsiveness,,,,,,,,
+Q64556363,symptom,症状,Q169872,Vitamin D-dependent ricket,,,,,,,,
+Q65122992,symptom,症状,Q169872,Congenital scoliosis with rib anomaly,,,,,,,,
+Q65129785,symptom,症状,Q169872,Huge lymphatic malformation,,,,,,,,
+Q65130205,symptom,症状,Q169872,Huge venous malformation,,,,,,,,
+Q65130309,symptom,症状,Q169872,Huge arteriovenous malformation,,,,,,,,
+Q65210003,symptom,症状,Q169872,Acquired pure red cell aplasia,,,,,,,,
+Q65211128,symptom,症状,Q169872,Nonspecific multiple ulcers in the small intestine,,,,,,,,
+Q65211701,symptom,症状,Q169872,"Hirschsprung disease, entire colon type",,,,,,,,
+Q65212710,symptom,症状,Q169872,Infant huge hepatic hemangioma,,,,,,,,
+Q65213259,symptom,症状,Q169872,Delayed endolymphatic hydrops,,,,,,,,
+Q65213208,symptom,症状,Q169872,Juvenile-onset bilateral sensorineural hearing loss,,,,,,,,
+Q65213532,symptom,症状,Q169872,Congenital anomalies syndrome,,,,,,,,
+Q65213418,symptom,症状,Q169872,Progressive leukoencephalopathy,,,,,,,,
+Q81476,surgery,外科手術,Q796194,endarterectomy,,surgical removal of the atheromatous plaque in an artery,,D004691,,,,
+Q1028104,surgery,外科手術,Q796194,Camberwell family interview,,,,,,,,
+Q615857,surgery,外科手術,Q796194,stapedectomy,アブミ骨切除術,surgical procedure of the middle ear performed to improve hearing,,D013201,,,,
+Q1035871,surgery,外科手術,Q796194,Career Counselling for Teachers,,,,,,,,
+Q1389495,surgery,外科手術,Q796194,Frankfurt Attention Inventory,,a psychological test to assess the ability to pay attention and concentrate,,,,,,
+Q1229320,surgery,外科手術,Q796194,Dissociative Experiences Scale,解離体験尺度,questionnaire to screen for dissociative identity disorder,,,,,,
+Q818326,surgery,外科手術,Q796194,Benton Visual Retention Test,,medical diagnostic method,,,,,,
+Q196775,surgery,外科手術,Q796194,Zervikalabstrich,,German term: a medical procedure in the context of the gynecological examination,,,,,,
+Q32566,surgery,外科手術,Q796194,computed tomography,コンピュータ断層撮影,medical imaging procedure using X-rays to produce cross-sectional images,放射線を用いて、物体の内部をスライス画像化して観察できるようにする技術,D014057,,,,
+Q897939,surgery,外科手術,Q796194,Myers-Briggs Type Indicator,MBTI,model of personality types,アメリカで提唱された、類型論に基づくパーソナリティ検査(性格検査）,,,,,
+Q332126,surgery,外科手術,Q796194,ELISA,ELISA,assay,試料の分析方法,D004797,,,,C0014441
+Q1440411,surgery,外科手術,Q796194,Life Satisfaction Questionnaire,,a psychological test that records the extent of life satisfaction,,,,,,
+Q680820,surgery,外科手術,Q796194,Freiburger Persönlichkeitsinventar,,psychological personality test,,,,,,
+Q1397988,surgery,外科手術,Q796194,Gießen-Test,,,,,,,,
+Q1453858,surgery,外科手術,Q796194,Freiburg Complaints List,,standardized German-language questionnaire for physical and psychological complaints,,,,,,
+Q1255660,surgery,外科手術,Q796194,Sexual Compulsivity Scale,,medical diagnostic method,,,,,,
+Q46565,surgery,外科手術,Q796194,pneumonectomy,肺切除,surgical removal of a lung,,D011013,,,,
+Q580383,surgery,外科手術,Q796194,splenectomy,脾臓摘出術,surgical removal of part or all of a spleen,,D013156,,,,C0037995
+Q475069,surgery,外科手術,Q796194,embolectomy,,surgical removal of emboli,,D017128,,,,C0162575
+Q444351,surgery,外科手術,Q796194,dual-energy X-ray absorptiometry,二重エネルギーX線吸収測定法,diagnostic test for bone mineral density testing,,,,,,
+Q16636035,surgery,外科手術,Q796194,Veterinary hemodialysis,,,,,,,,
+Q166026,surgery,外科手術,Q796194,hemispherectomy,,neurosurgical procedure wherein a cerebral hemisphere (half of the brain) is removed.,,D038421,,,,C1136213
+Q1139225,surgery,外科手術,Q796194,Pavlov's dog,,a reference to experiments in classical conditioning made by the Russian physiologist Ivan Pavlov using dogs,,,,,,
+Q180071,surgery,外科手術,Q796194,fine-needle aspiration,生検法,"diagnostic procedure to investigate lumps using a thin needle, for histopathology or cytopathology",,D044963,,,,C0085846
+Q829680,surgery,外科手術,Q796194,complaints list,,standardized German-language questionnaire for physical and psychological complaints,,,,,,
+Q1988216,surgery,外科手術,Q796194,oxygen therapy,酸素吸入,use of high concentrations of oxygen as medical treatment,,D010102,,,,C0184633
+Q814201,surgery,外科手術,Q796194,Zerssen Befindlichkeits-Skala,,,,,,,,
+Q708232,surgery,外科手術,Q796194,arthroscopy,関節鏡,medical procedure,,D001182,,,,
+Q1277086,surgery,外科手術,Q796194,D2 Test of Attention,,Neuropsychological test,,,,,,
+Q473246,surgery,外科手術,Q796194,Wechsler Memory Scale,ウェクスラー記憶検査,comprehensive battery test to assess the capacity of learning and remembering information,,D000073220,,,,C0451575
+Q32012,surgery,外科手術,Q796194,Jungian Type Index,,"psychological classification metric Introduced by Optimas in 2001, developed by Thor Ødegård and Hallvard E. Ringstad, based on the work of Carl Jung",,,,,,
+Q916859,surgery,外科手術,Q796194,cervicectomy,,surgical removal of the uterine cervix,,D000069339,,,,C0195331
+Q592565,surgery,外科手術,Q796194,apicoectomy,歯根端切除術,surgical removal of the root tip of a tooth,,D001047,,,,C0003571
+Q924295,surgery,外科手術,Q796194,vitrectomy,,surgery to remove some or all of the vitreous humor from the eye,,D014821,,,,C0042903
+Q44516,surgery,外科手術,Q796194,Pfannenstiel incision,,surgical incision of the abdomen,,,,,,
+Q742740,surgery,外科手術,Q796194,Binet-Simon test,,historical intelligence test,,,,,,
+Q909284,surgery,外科手術,Q796194,Cooper test,クーパーテスト,physical fitness test,,,,,,
+Q620840,surgery,外科手術,Q796194,appendectomy,虫垂切除術,surgical removal of the vermiform appendix,,D001062,,,,C0003611
+Q5282844,surgery,外科手術,Q796194,Distal splenorenal shunt procedure,,medical procedure,,,,,,
+Q2323044,surgery,外科手術,Q796194,Da Vinci Surgical System,da Vinci,robotic surgical system,インテュイティヴ・サージカル社が開発したマスタースレイブ型内視鏡下手術用の手術用ロボット,,,,,
+Q847202,surgery,外科手術,Q796194,Rey-Osterrieth Complex Figure,,neuropsychological test,,,,,,
+Q245341,surgery,外科手術,Q796194,radiography,X線撮影,imaging technique using ionizing and non-ionizing radiation,X線を用いて、物体の内部を画像化する技術,D011859,,,,C0043299
+Q707818,surgery,外科手術,Q796194,arteriography,,medical imaging technique,,,,,,
+Q837188,surgery,外科手術,Q796194,ophthalmoscopy,眼底検査,"test that allows a health professional to see inside the fundus of the eye and other structures using an ophthalmoscope, crucial in determining the health of the retina, optic disc, and vitreous humor",,D009887,,,,C0029090
+Q366774,surgery,外科手術,Q796194,adrenalectomy,副腎摘出術,surgical removal of the adrenal gland,,D000315,,,,C0001632
+Q550675,surgery,外科手術,Q796194,hysterectomy,子宮摘出術,surgical removal of the uterus,外科的医療処置,D007044,,,236886002,C0020699
+Q1059391,surgery,外科手術,Q796194,Sally–Anne test,サリーとアン課題,psychological test,,,,,,
+Q682553,surgery,外科手術,Q796194,Baum test,バウムテスト,projective drawing technique developed by Karl Koch,投影法による心理検査のひとつ,,,,,
+Q232839,surgery,外科手術,Q796194,Zweigläserprobe,,German term: an examination of the urine,,,,,,
+Q1336728,surgery,外科手術,Q796194,GAD-2,,two-item anxiety disorder screening instrument,,,,,,
+Q300708,surgery,外科手術,Q796194,Aachen Aphasia Test,,German language test to diagnose aphasia as a result of acquired brain damage,,,,,,
+Q356194,surgery,外科手術,Q796194,adenoidectomy,,surgical removal of the adenoids,,D000233,,,,C0001425
+Q245995,surgery,外科手術,Q796194,cystectomy,,excision of the urinary bladder,,D015653,,,,
+Q176996,surgery,外科手術,Q796194,polymerase chain reaction,ポリメラーゼ連鎖反応,in vitro method for producing large amounts of specific DNA or RNA fragments from small amounts of short oligonucleotide primers,DNAサンプルの特定領域を増幅させる反応または技術,D016133,,,,
+Q307738,surgery,外科手術,Q796194,Cover test,,examination to determine eye misalignment,,,,,,
+Q1779148,surgery,外科手術,Q796194,colectomy,結腸切除術,bowel resection of the colon,,D003082,,,,C0009274
+Q552065,surgery,外科手術,Q796194,turbinectomy,,surgical removal of the turbinate bones in the nasal passage,,,,,,
+Q1484539,surgery,外科手術,Q796194,Generalized Anxiety Disorder 7,全般性不安障害7,seven-item anxiety disorder screening instrument,,,,,,
+Q17008767,surgery,外科手術,Q796194,Concept-Oriented Reading Instruction,,reading intervention,,,,,,
+Q17118879,surgery,外科手術,Q796194,peanut butter test,,diagnostic test for Alzheimer's disease,,,,,,
+Q3592570,surgery,外科手術,Q796194,STEP Study,,clinical trials testing the efficacy of a HIV vaccine,,,,,,
+Q16251731,surgery,外科手術,Q796194,eugenics in California,,state-sponsored sterilization program in California (1909-1979),,,,,,
+Q576379,surgery,外科手術,Q796194,oxidase test,,microbiological and biochemical method for identification,,,,,,
+Q1737034,surgery,外科手術,Q796194,Kaufman Assessment Battery for Children,K-ABC,psychological test,,,,,,
+Q1228381,surgery,外科手術,Q796194,Dische test,,chemical test,,,,,,
+Q297324,surgery,外科手術,Q796194,ASCOT,,clinical trial,,,,,,
+Q1116726,surgery,外科手術,Q796194,Drehmann sign,,orthopedicclinical test for hip joint,,,,,,
+Q690838,surgery,外科手術,Q796194,vasectomy,精管切除,surgical procedure for male sterilization,精巣で作られた精子が亀頭先まで流れる精管を切断または縛ることで、精子を含有した精液の放出を遮断する不妊手術,D014659,,,,
+Q1281398,surgery,外科手術,Q796194,Gustav III of Sweden's coffee experiment,グスタフ3世のコーヒー実験,alleged twin study,,,,,,
+Q1036063,surgery,外科手術,Q796194,tone decay test,,"auditory nerve function assessment by measuring the ability to sustain hearing a continuous tone, aiding in detecting retrocochlear disorders",,,,,,
+Q5270124,surgery,外科手術,Q796194,Diabetes control and complications trial,,clinical trial,治験,,,,,
+Q1402440,surgery,外科手術,Q796194,Feldenkrais Method,フェルデンクライスメソッド,guild regulated movement education complementary to physical therapy,,,,,,
+Q2893010,surgery,外科手術,Q796194,house-tree-person test,HTPテスト,"psychological test in which the client is asked to make a drawing that includes a house, a tree and a person, after which the therapist asks several questions about each",心理学のテスト,,,,,
+Q1801578,surgery,外科手術,Q796194,laminectomy,椎弓切除,surgical procedure that removes a portion of the lamina,,D007796,,,,C0022983
+Q1929014,surgery,外科手術,Q796194,glycemic load,グリセミック負荷,estimate of how much a quantity of food will raise a person's blood glucose level,,D000067940,,,,C4042927
+Q1500020,surgery,外科手術,Q796194,PHQ Stress Module,,,,,,,,
+Q6511697,surgery,外科手術,Q796194,lecithin–sphingomyelin ratio,,test of fetal amniotic fluid to assess for fetal lung immaturity,,,,,,
+Q1572130,surgery,外科手術,Q796194,Halphen test,,,,,,,,
+Q4417208,surgery,外科手術,Q796194,HeartScore,,cardiovascular disease risk assessment,,,,,,
+Q1743663,surgery,外科手術,Q796194,Kirton Adaption-Innovation-Inventory,,,,,,,,
+Q4654994,surgery,外科手術,Q796194,AURORA trial,,study investigating the use of rosuvastatin,,,,,,
+Q1664214,surgery,外科手術,Q796194,Multiple Sleep Latency Test,多睡眠潜伏検査,Diagnostic tool used to diagnose sleep disorders,,,,,,C0519186
+Q12147139,surgery,外科手術,Q796194,passive hemagglutination test,,,,,,,,
+Q1951134,surgery,外科手術,Q796194,movement assessment battery for children,,,,,,,,
+Q2044157,surgery,外科手術,Q796194,PHQ panic module,,,,,,,,
+Q2089665,surgery,外科手術,Q796194,PiCCO,,,,,,,,
+Q5635617,surgery,外科手術,Q796194,HPTN 052,,clinical trial showing HIV treatment prevents infection of negative partners,,,,,,
+Q4119199,surgery,外科手術,Q796194,xenodiagnosis,,method for diagnosing a disease in one organism by inoculating the putative causative organism in a second animal of a different species,,D020525,,,,C0751962
+Q294443,surgery,外科手術,Q796194,Antihypertensive and Lipid Lowering Treatment to Prevent Heart Attack Trial,,,,,,,,
+Q464600,surgery,外科手術,Q796194,Millon's reagent,,reagent to detect for soluble proteins,,,,,,
+Q74148,surgery,外科手術,Q796194,Voges-Proskauer test,フォーゲス・プロスカウアー試験,microbiological and biochemical method for identification,,,,,,
+Q5690140,surgery,外科手術,Q796194,Heaf test,,Skin test,,,,,,
+Q15791819,surgery,外科手術,Q796194,alpha-hemolysis,,,,,,,,
+Q15122611,surgery,外科手術,Q796194,Frankfurt Adaptive Concentration Test,,medical diagnostic method,,,,,,
+Q16974010,surgery,外科手術,Q796194,Lp-LpA2,,,,,,,,
+Q2807637,surgery,外科手術,Q796194,Vienna Test System,,digital psychological assessment system,,,,,,
+Q4034713,surgery,外科手術,Q796194,Boel test,,,,,,,,
+Q4176369,surgery,外科手術,Q796194,Bogardus social distance scale,,,,,,,,

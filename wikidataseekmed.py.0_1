@@ -1,0 +1,380 @@
+"""
+Wikidata医療用語抽出ツール - 小規模テスト版（CSV出力）
+実行方法: python medical_terms_small.py
+"""
+
+from SPARQLWrapper import SPARQLWrapper, JSON
+import pandas as pd
+import time
+from datetime import datetime
+import os
+
+class MedicalTermsExtractor:
+    def __init__(self):
+        self.sparql = SPARQLWrapper("https://query.wikidata.org/sparql")
+        self.sparql.setReturnFormat(JSON)
+        self.sparql.addCustomHttpHeader("User-Agent", "MedicalTermsExtractor/1.0")
+        
+        # 小規模テスト用カテゴリー（主要5カテゴリー）
+        self.small_test_categories = {
+            'Q12136': '病気',
+            'Q12140': '医薬品',
+            'Q169872': '症状',
+            'Q796194': '外科手術',
+            'Q1059392': '医学検査',
+        }
+        
+        # 中規模用カテゴリー（主要15カテゴリー）
+        self.medium_test_categories = {
+            'Q12136': '病気',
+            'Q12140': '医薬品',
+            'Q169872': '症状',
+            'Q796194': '外科手術',
+            'Q1059392': '医学検査',
+            'Q8054': 'タンパク質',
+            'Q7187': '遺伝子',
+            'Q4936952': '解剖学的構造',
+            'Q18123741': '感染症',
+            'Q11173': '化学化合物',
+            'Q2095549': '医療処置',
+            'Q10876': '細菌',
+            'Q808': 'ウイルス',
+            'Q179661': '治療薬',
+            'Q12139612': '医療機器',
+        }
+        
+    def fetch_terms_by_category(self, category_qid, category_name, limit=2000):
+        """
+        指定カテゴリーの医療用語を取得
+        """
+        print("\n" + "="*60)
+        print("カテゴリー: " + category_name)
+        print("="*60)
+        
+        query = """
+        SELECT DISTINCT ?item ?enLabel ?jaLabel ?enDescription ?jaDescription 
+               ?meshId ?icd10 ?icd9 ?snomedId ?umlsId
+        WHERE {
+          ?item wdt:P31/wdt:P279* wd:""" + category_qid + """ .
+          
+          ?item rdfs:label ?enLabel .
+          FILTER(LANG(?enLabel) = "en")
+          
+          OPTIONAL {
+            ?item rdfs:label ?jaLabel .
+            FILTER(LANG(?jaLabel) = "ja")
+          }
+          
+          OPTIONAL {
+            ?item schema:description ?enDescription .
+            FILTER(LANG(?enDescription) = "en")
+          }
+          
+          OPTIONAL {
+            ?item schema:description ?jaDescription .
+            FILTER(LANG(?jaDescription) = "ja")
+          }
+          
+          OPTIONAL { ?item wdt:P486 ?meshId }
+          OPTIONAL { ?item wdt:P494 ?icd10 }
+          OPTIONAL { ?item wdt:P493 ?icd9 }
+          OPTIONAL { ?item wdt:P5806 ?snomedId }
+          OPTIONAL { ?item wdt:P2892 ?umlsId }
+        }
+        LIMIT """ + str(limit)
+        
+        max_retries = 3
+        for attempt in range(max_retries):
+            try:
+                self.sparql.setQuery(query)
+                results = self.sparql.query().convert()
+                bindings = results["results"]["bindings"]
+                
+                terms = []
+                for result in bindings:
+                    term = {
+                        'qid': result['item']['value'].split('/')[-1],
+                        'category': category_name,
+                        'category_qid': category_qid,
+                        'en_label': result.get('enLabel', {}).get('value', ''),
+                        'ja_label': result.get('jaLabel', {}).get('value', ''),
+                        'en_description': result.get('enDescription', {}).get('value', ''),
+                        'ja_description': result.get('jaDescription', {}).get('value', ''),
+                        'mesh_id': result.get('meshId', {}).get('value', ''),
+                        'icd10': result.get('icd10', {}).get('value', ''),
+                        'icd9': result.get('icd9', {}).get('value', ''),
+                        'snomed_id': result.get('snomedId', {}).get('value', ''),
+                        'umls_id': result.get('umlsId', {}).get('value', ''),
+                    }
+                    terms.append(term)
+                
+                count_msg = "取得完了: " + str(len(terms)) + "件"
+                print(count_msg)
+                return terms
+                
+            except Exception as e:
+                error_msg = "エラー (試行 " + str(attempt + 1) + "/" + str(max_retries) + "): " + str(e)
+                print(error_msg)
+                if attempt < max_retries - 1:
+                    wait_time = (attempt + 1) * 5
+                    wait_msg = str(wait_time) + "秒待機..."
+                    print(wait_msg)
+                    time.sleep(wait_time)
+                else:
+                    fail_msg = "取得失敗: " + category_name
+                    print(fail_msg)
+                    return []
+        
+        return []
+    
+    def extract_all(self, categories, limit_per_category=2000):
+        """
+        全カテゴリーの医療用語を抽出
+        """
+        all_terms = []
+        
+        print("\n" + "="*60)
+        cat_msg = "医療用語抽出開始: " + str(len(categories)) + "カテゴリー"
+        print(cat_msg)
+        limit_msg = "各カテゴリー最大: " + str(limit_per_category) + "件"
+        print(limit_msg)
+        print("="*60)
+        
+        start_time = time.time()
+        
+        for qid, name in categories.items():
+            terms = self.fetch_terms_by_category(qid, name, limit_per_category)
+            all_terms.extend(terms)
+            time.sleep(2)
+        
+        elapsed_time = time.time() - start_time
+        
+        print("\n" + "="*60)
+        print("抽出完了")
+        total_msg = "総取得件数: " + str(len(all_terms)) + "件"
+        print(total_msg)
+        time_msg = "所要時間: " + str(round(elapsed_time/60, 1)) + "分"
+        print(time_msg)
+        print("="*60 + "\n")
+        
+        df = pd.DataFrame(all_terms)
+        
+        original_count = len(df)
+        df = df.drop_duplicates(subset=['qid'])
+        duplicates_removed = original_count - len(df)
+        
+        if duplicates_removed > 0:
+            dup_msg = "重複削除: " + str(duplicates_removed) + "件"
+            print(dup_msg)
+            unique_msg = "ユニーク件数: " + str(len(df)) + "件\n"
+            print(unique_msg)
+        
+        return df
+    
+    def analyze_data_quality(self, df):
+        """
+        データ品質を分析
+        """
+        print("\n" + "="*60)
+        print("データ品質分析")
+        print("="*60 + "\n")
+        
+        print("1. 基本統計:")
+        total_msg = "   総レコード数: " + str(len(df)) + "件"
+        print(total_msg)
+        unique_msg = "   ユニークQID: " + str(df['qid'].nunique()) + "件"
+        print(unique_msg)
+        
+        print("\n2. 言語カバレッジ:")
+        has_en = (df['en_label'].notna() & (df['en_label'] != '')).sum()
+        has_ja = (df['ja_label'].notna() & (df['ja_label'] != '')).sum()
+        en_msg = "   英語ラベルあり: " + str(has_en) + "件 (" + str(round(has_en/len(df)*100, 1)) + "%)"
+        print(en_msg)
+        ja_msg = "   日本語ラベルあり: " + str(has_ja) + "件 (" + str(round(has_ja/len(df)*100, 1)) + "%)"
+        print(ja_msg)
+        
+        print("\n3. 説明文カバレッジ:")
+        has_en_desc = (df['en_description'].notna() & (df['en_description'] != '')).sum()
+        has_ja_desc = (df['ja_description'].notna() & (df['ja_description'] != '')).sum()
+        en_desc_msg = "   英語説明あり: " + str(has_en_desc) + "件 (" + str(round(has_en_desc/len(df)*100, 1)) + "%)"
+        print(en_desc_msg)
+        ja_desc_msg = "   日本語説明あり: " + str(has_ja_desc) + "件 (" + str(round(has_ja_desc/len(df)*100, 1)) + "%)"
+        print(ja_desc_msg)
+        
+        print("\n4. 外部IDカバレッジ:")
+        external_ids = [
+            ('mesh_id', 'MeSH'),
+            ('icd10', 'ICD-10'),
+            ('icd9', 'ICD-9'),
+            ('snomed_id', 'SNOMED CT'),
+            ('umls_id', 'UMLS')
+        ]
+        for col, name in external_ids:
+            count = (df[col].notna() & (df[col] != '')).sum()
+            ext_msg = "   " + name + ": " + str(count) + "件 (" + str(round(count/len(df)*100, 1)) + "%)"
+            print(ext_msg)
+        
+        print("\n5. カテゴリー別件数:")
+        category_counts = df['category'].value_counts().sort_values(ascending=False)
+        for category, count in category_counts.items():
+            cat_msg = "   " + category + ": " + str(count) + "件"
+            print(cat_msg)
+        
+        print("\n6. 日英対訳可能な用語:")
+        bilingual = df[(df['en_label'] != '') & (df['ja_label'] != '')]
+        bi_msg = "   対訳ペア: " + str(len(bilingual)) + "件 (" + str(round(len(bilingual)/len(df)*100, 1)) + "%)"
+        print(bi_msg)
+        
+        print("\n" + "="*60 + "\n")
+        
+        return bilingual
+    
+    def save_results(self, df, prefix="small"):
+        """
+        結果をCSVとJSON形式で保存
+        """
+        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+        output_dir = "output"
+        
+        os.makedirs(output_dir, exist_ok=True)
+        
+        print("結果を保存中...\n")
+        
+        # 1. 完全版CSV
+        full_csv = output_dir + "/" + prefix + "_medical_terms_full_" + timestamp + ".csv"
+        df.to_csv(full_csv, index=False, encoding='utf-8-sig')
+        file_size_mb = os.path.getsize(full_csv) / (1024 * 1024)
+        full_msg = "   完全版CSV: " + full_csv + " (" + str(round(file_size_mb, 2)) + " MB)"
+        print(full_msg)
+        
+        # 2. 日英対訳のみCSV
+        bilingual_df = df[(df['en_label'] != '') & (df['ja_label'] != '')].copy()
+        bilingual_csv = output_dir + "/" + prefix + "_bilingual_dict_" + timestamp + ".csv"
+        cols_to_save = ['en_label', 'ja_label', 'category', 'en_description', 'ja_description', 'qid']
+        bilingual_df[cols_to_save].to_csv(bilingual_csv, index=False, encoding='utf-8-sig')
+        file_size_mb = os.path.getsize(bilingual_csv) / (1024 * 1024)
+        bi_msg = "   日英対訳CSV: " + bilingual_csv + " (" + str(len(bilingual_df)) + "件, " + str(round(file_size_mb, 2)) + " MB)"
+        print(bi_msg)
+        
+        # 3. カテゴリー別CSV
+        category_dir = output_dir + "/by_category_" + timestamp
+        os.makedirs(category_dir, exist_ok=True)
+        for category in df['category'].unique():
+            cat_df = df[df['category'] == category]
+            safe_name = category.replace('/', '_').replace('\\', '_')
+            cat_file = category_dir + "/" + safe_name + ".csv"
+            cat_df.to_csv(cat_file, index=False, encoding='utf-8-sig')
+        cat_count = len(df['category'].unique())
+        cat_msg = "   カテゴリー別CSV: " + category_dir + "/ (" + str(cat_count) + "ファイル)"
+        print(cat_msg)
+        
+        # 4. JSON形式
+        json_file = output_dir + "/" + prefix + "_medical_terms_" + timestamp + ".json"
+        df.to_json(json_file, orient='records', force_ascii=False, indent=2)
+        file_size_mb = os.path.getsize(json_file) / (1024 * 1024)
+        json_msg = "   JSON: " + json_file + " (" + str(round(file_size_mb, 2)) + " MB)"
+        print(json_msg)
+        
+        # 5. サマリーレポート
+        report_file = output_dir + "/" + prefix + "_report_" + timestamp + ".txt"
+        with open(report_file, 'w', encoding='utf-8') as f:
+            f.write("="*60 + "\n")
+            f.write("Wikidata医療用語抽出レポート\n")
+            f.write("="*60 + "\n\n")
+            f.write("実行日時: " + datetime.now().strftime('%Y-%m-%d %H:%M:%S') + "\n")
+            f.write("規模: " + prefix + "\n")
+            f.write("総件数: " + str(len(df)) + "件\n")
+            f.write("日英対訳: " + str(len(bilingual_df)) + "件\n")
+            f.write("日英対訳率: " + str(round(len(bilingual_df)/len(df)*100, 1)) + "%\n\n")
+            
+            f.write("カテゴリー別件数:\n")
+            for category, count in df['category'].value_counts().items():
+                f.write("  " + category + ": " + str(count) + "件\n")
+            
+            f.write("\n言語カバレッジ:\n")
+            has_ja = (df['ja_label'].notna() & (df['ja_label'] != '')).sum()
+            ja_pct = round(has_ja/len(df)*100, 1)
+            f.write("  日本語ラベルあり: " + str(has_ja) + "件 (" + str(ja_pct) + "%)\n")
+            
+            f.write("\n外部IDカバレッジ:\n")
+            external_ids = [
+                ('mesh_id', 'MeSH'),
+                ('icd10', 'ICD-10'),
+                ('snomed_id', 'SNOMED CT'),
+                ('umls_id', 'UMLS')
+            ]
+            for col, name in external_ids:
+                count = (df[col].notna() & (df[col] != '')).sum()
+                pct = round(count/len(df)*100, 1)
+                f.write("  " + name + ": " + str(count) + "件 (" + str(pct) + "%)\n")
+        
+        report_msg = "   レポート: " + report_file
+        print(report_msg)
+        
+        print("\n保存完了！\n")
+        
+        return {
+            'full_csv': full_csv,
+            'bilingual_csv': bilingual_csv,
+            'category_dir': category_dir,
+            'json': json_file,
+            'report': report_file
+        }
+
+
+def main():
+    """
+    メイン処理
+    """
+    print("""
+╔══════════════════════════════════════════════════════════╗
+║   Wikidata医療用語抽出ツール - 小規模テスト版           ║
+╚══════════════════════════════════════════════════════════╝
+    """)
+    
+    extractor = MedicalTermsExtractor()
+    
+    print("小規模テスト開始（5カテゴリー、各2,000件まで）")
+    print("予想所要時間: 5-10分\n")
+    
+    input("Enterキーを押して開始...")
+    
+    # データ抽出
+    df = extractor.extract_all(
+        extractor.small_test_categories, 
+        limit_per_category=2000
+    )
+    
+    # データ品質分析
+    bilingual_df = extractor.analyze_data_quality(df)
+    
+    # サンプル表示
+    print("サンプルデータ（日英対訳あり、最初の5件）:")
+    print("="*80)
+    sample = bilingual_df[['en_label', 'ja_label', 'category']].head()
+    for idx, row in sample.iterrows():
+        sample_line = "  " + row['en_label'][:30].ljust(30) + " -> " + row['ja_label'][:20].ljust(20) + " [" + row['category'] + "]"
+        print(sample_line)
+    print("="*80 + "\n")
+    
+    # 結果保存
+    files = extractor.save_results(df, prefix="small")
+    
+    print("""
+╔══════════════════════════════════════════════════════════╗
+║   小規模テスト完了！                                      ║
+╚══════════════════════════════════════════════════════════╝
+
+次のステップ:
+1. outputフォルダ内のCSVファイルを確認
+2. データ品質が良好であれば、中規模テストへ進む
+
+中規模テストへ移行する場合:
+  - extractor.small_test_categories を extractor.medium_test_categories に変更
+  - limit_per_category=2000 を 5000 に変更
+  - prefix="small" を "medium" に変更
+    """)
+
+
+if __name__ == "__main__":
+    main()

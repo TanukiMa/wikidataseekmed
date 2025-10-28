@@ -1,0 +1,42 @@
+# 集合知を利用した医学・医療用語収集システムの構築
+
+医学・医療の進歩に伴い、当該領域用語数も増加し、収集と利用に困難を来たしている。
+筆者らはMozc4medの開発に伴い、この問題に直面した。
+
+WikiDataはWikimedia財団が運営する構造化されたデータのフリーなナリッジベースである。
+
+データは構造化されており、項目とプロパティ
+
+### WikiDataとは
+
+WikiDataは、ウィキメディア財団が運営する、構造化されたデータのフリーな知識ベースです。ウィキペディアやその他のウィキメディアプロジェクトをサポートし、データの集中管理を可能にすることを目的としています。WikiDataは、項目（エンティティ）ごとにデータを整理し、さまざまな言語のウィキペディア記事や外部アプリケーションで再利用可能な情報を提供します。例えば、人物、場所、概念などの情報を「項目」として保存し、それに紐づく属性（プロパティ）や値を構造化データとして管理します。
+
+**基本的事項**：
+1. **構造化データ**：WikiDataは、項目（例: Q42はダグラス・アダムス）とプロパティ（例: P569は生年月日）を使用してデータを整理。機械可読で、APIを通じてアクセス可能。
+2. **多言語対応**：言語に依存しないデータを提供し、ウィキペディアの各言語版で一貫した情報利用を支援。
+3. **オープンな編集**：誰でも編集可能で、コミュニティによる協働でデータが追加・更新される。
+4. **用途**：ウィキペディアの自動生成テンプレート、外部アプリや研究でのデータ利用、セマンティックウェブの基盤など。
+5. **SPARQLクエリ**：WikiDataのデータはSPARQLを使用して検索・分析が可能（例: 特定の国に生まれた人物のリストを抽出）。
+
+**説明の元となるURL**：
+- [WikiData公式サイト](https://www.wikidata.org/)：WikiDataの概要と基本情報。
+- [Wikimedia: About Wikidata](https://www.wikimedia.org/wiki/Wikidata)：ウィキメディア財団によるWikiDataの説明。
+- [Wikidata:Introduction](https://www.wikidata.org/wiki/Wikidata:Introduction)：WikiDataの目的と使い方の入門ガイド。
+- [Wikidata:SPARQL tutorial](https://www.wikidata.org/wiki/Wikidata:SPARQL_tutorial)：SPARQLクエリの使い方。
+
+### WikiDataの利用ライセンス
+
+WikiDataのデータは **クリエイティブ・コモンズ表示 0 (CC0)** のライセンスの下で提供されています。これは、データを自由に使用、共有、改変、商用利用することが可能で、著作権や帰属表示の義務がないことを意味します。ただし、WikiDataのデータを利用する際は、コミュニティのガイドラインやデータの正確性に留意する必要があります。
+
+**ライセンスの詳細**：
+- **CC0の概要**：データはパブリックドメイン相当で、制限なく利用可能。
+- **ソース**： [Wikidata:Data access](https://www.wikidata.org/wiki/Wikidata:Data_access) でライセンス情報が確認可能。
+- **注意点**：WikiDataに含まれる一部のリンク先（例: 画像や外部リソース）は、別ライセンス（例: CC BY-SA）が適用される場合があるため、利用前に確認が必要。
+
+**ライセンス確認のURL**：
+- [Creative Commons CC0](https://creativecommons.org/publicdomain/zero/1.0/)：CC0ライセンスの公式説明。
+- [Wikidata:Licensing](https://www.wikidata.org/wiki/Wikidata:Licensing)：WikiDataのライセンスに関する詳細。
+
+<!-- 以上がWikiDataの基本事項とライセンスの概要です。追加の質問があれば教えてください！ -->
+
+我々は 集合知WikiDataから

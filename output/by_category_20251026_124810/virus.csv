@@ -1,0 +1,11 @@
+﻿qid,category_en,category_ja,category_qid,en_label,ja_label,en_description,ja_description,mesh_id,icd10,icd9,snomed_id,umls_id
+Q124547579,virus,ウイルス,Q808,Oncoretroviruses,,,,,,,,
+Q69351641,virus,ウイルス,Q808,human papillomavirus 18,,associated with malignant tumors of the genital and respiratory mucosa,,D052161,,,,C0999807
+Q104376647,virus,ウイルス,Q808,SARS-CoV-2 Alpha variant,SARSコロナウイルス2-アルファ株,variant of SARS-CoV-2,SARSコロナウイルス2の変異株,,,,,
+Q332874,virus,ウイルス,Q808,tobacco mosaic virus,タバコモザイクウイルス,species of virus,ウイルスの一種,D014027,,,,C0040333
+Q4840019,virus,ウイルス,Q808,Bacteriophage T12,,species of virus,,,,,,
+Q5630028,virus,ウイルス,Q808,HL23V,,type C RNA tumor virus,,,,,,
+Q4663138,virus,ウイルス,Q808,abaca bract mosaic virus,,virus which affects plants,,,,,,
+Q5629112,virus,ウイルス,Q808,HCP5,,,,,,,,
+Q116551921,virus,ウイルス,Q808,Human circovirus 1,,species of virus,,,,,,
+Q82069695,virus,ウイルス,Q808,SARS-CoV-2,SARSコロナウイルス2,virus that causes COVID-19,2019年に存在が報告された新種のコロナウイルス、COVID-19の原因となる感染症,D000086402,,,840533007,C5203676

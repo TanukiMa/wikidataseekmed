@@ -1,0 +1,17 @@
+﻿qid,category_en,category_ja,category_qid,en_label,ja_label,en_description,ja_description,mesh_id,icd10,icd9,snomed_id,umls_id
+Q126681184,tissue,組織,Q28845870,megagametocyte,,,,,,,,
+Q515471,tissue,組織,Q28845870,nasal mucosa,鼻粘膜,part of the mucus membrane lining the nasal cavity,,D009297,,,,
+Q134275812,tissue,組織,Q28845870,quatrefoil erythrocyt,,,,,,,,
+Q567494,tissue,組織,Q28845870,Anoderm,,mucous membrane in the lower portion of the anal canal,,,,,,
+Q1776131,tissue,組織,Q28845870,oral mucosa,口腔粘膜,mouth-lining mucus membrane,,D009061,,,,C0026639
+Q991899,tissue,組織,Q28845870,Bruch's membrane,Bruch膜,membrane in the eye,,D016570,,,,C0085156
+Q1403158,tissue,組織,Q28845870,cuticle,クチクラ,various biological tissues or structures that are thickened or tough,生体の体表にできる丈夫な膜,,,,,
+Q85799903,tissue,組織,Q28845870,Scavenger endothelial cell,,specialized sub-group of endothelial cells,,,,,,
+Q1886493,tissue,組織,Q28845870,macrocytosis,大赤血球症,medical condition,,,D75.8,289.89,,C0085662
+Q92767510,tissue,組織,Q28845870,Basal cell,,,,,,,,
+Q12799631,tissue,組織,Q28845870,pseudocuticle,,,,,,,,
+Q17629155,tissue,組織,Q28845870,Golden Blog Awards,,,,,,,,
+Q7662055,tissue,組織,Q28845870,synaptosome,シナプトソーム,isolated synaptic terminal from a neuron,,D013574,,,,C0039067
+Q7003141,tissue,組織,Q28845870,Neutrophil extracellular traps,好中球細胞外トラップ,networks of extracellular fibers released by neutrophils,,,,,,
+Q105965434,tissue,組織,Q28845870,residence time,,general; the time that a biological entity stays in a given place or a given state,,,,,,
+Q3384920,tissue,組織,Q28845870,embryoid body,胚様体,three-dimensional aggregate of pluripotent stem cells,,D058732,,,,C2936498

@@ -1,0 +1,10 @@
+﻿qid,category_en,category_ja,category_qid,en_label,ja_label,en_description,ja_description,mesh_id,icd10,icd9,snomed_id,umls_id
+Q1734637,infectious disease,感染症,Q18123741,Common scab,そうか病,Plant disease affecting potatoes and other crops,,,,,,
+Q694552,infectious disease,感染症,Q18123741,lymphogranuloma venereum,鼠径リンパ肉芽腫,"sexually transmitted disease caused by the invasive serovars L1, L2, L2a or L3 of Chlamydia trachomatis.",,D008219,A55,,,C0024286
+Q41083,infectious disease,感染症,Q18123741,syphilis,梅毒,sexually transmitted infection,梅毒トレポネーマの感染により発症する感染症,D013587,,093,,C0007939
+Q11775289,infectious disease,感染症,Q18123741,Peach scab,,fungal disease of stone fruits,,,,,,
+Q125333650,infectious disease,感染症,Q18123741,cholera infantum,,disease state in infants,,,,,,
+Q666481,infectious disease,感染症,Q18123741,Syphilitic aortitis,,inflammation of the aorta,,D013589,,093.1,,
+Q113484511,infectious disease,感染症,Q18123741,An Outbreak of E. Coli O157:H7 Colitis Among School Children in Sakai City,堺市学童集団下痢症,,1996年7月に大阪府堺市で発生した集団食中毒,,,,,
+Q5788570,infectious disease,感染症,Q18123741,infectious coryza,伝染性コリーザ,disease of poultry,,,,,,
+Q1104126,infectious disease,感染症,Q18123741,classic autism,,"former developmental disorder, since DSM-V replaced by Autism Spectrum Condition, type 2-3, with, or without, intellectual development disorder",,,F84.0,,,

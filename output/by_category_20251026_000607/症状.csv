@@ -1,0 +1,368 @@
+﻿qid,category,category_qid,en_label,ja_label,en_description,ja_description,mesh_id,icd10,icd9,snomed_id,umls_id
+Q622527,症状,Q169872,self-injury,自傷行為,intentional injury to one's own body without the intention to kill oneself,意図的に自らの身体を傷つけたり、毒物などを摂取したりすること,D016728,X84,,,C0036601
+Q169251,症状,Q169872,sadness,悲しみ,"emotional pain associated with, or characterized by, feelings of disadvantage, loss, despair, grief, helplessness, disappointment and sorrow",負の感情のひとつ,D000078602,,,,C3536794
+Q1739905,症状,Q169872,ketonuria,ケトン尿症,medical condition in which ketone bodies are present in the urine,尿中のケトン体が増量する症状,,R82.4,791.6,,C0162275
+Q202013,症状,Q169872,nosebleed,鼻血,bleeding from the nose,鼻腔からの出血,D004844,R04.0,784.7,,C0014591
+Q205835,症状,Q169872,snoring,いびき,"involuntary, vibratory noises made while sleeping",睡眠時に上気道が呼吸時に擦れて出す呼吸音,D012913,R06.5,786.09,,C0037384
+Q3073147,症状,Q169872,intermittent fever,間欠熱,symptom,一日の体温差が1°C以上の変化をとり、37°C以下にまで下がる発熱,,,,,C0277799
+Q1938569,症状,Q169872,flashback,フラッシュバック,psychological phenomenon in which a person re-experiences a memory,強烈な心的外傷が突如として再現される心理現象,,,,,
+Q937353,症状,Q169872,echolalia,反響言語,speech disorder that involves the automatic repetition of vocalizations made by another person,他者の言葉をそのまま繰り返して真似る行為,D004454,R48.8,784.69,,C0013528
+Q1433654,症状,Q169872,virilization,男性化,biological development of male sex characteristics,成人男性の特徴が生物学的に発現する事,,,,,
+Q4215775,症状,Q169872,metal poisoning,金属中毒,toxic and harmful effects of certain metals and their compounds to living organisms,金属の摂取により毒性のある化合物が形成されること,D020260,T56,,,C0274869
+Q5419936,症状,Q169872,executive disfunction,遂行機能障害,"difficulty with accessing executive functions such as organization, planning ahead, and self-monitoring",目標設定・そのプロセスの計画・効果的行動が出来なくなる高次脳機能障害の一種,,,,,C2748208
+Q6508875,症状,Q169872,Leaf spot,斑点性病害,leaf disease caused by fungal pathogen,植物の葉に病斑を形成する病害の総称,,,,,
+Q574360,症状,Q169872,spasm,痙攣,"involuntary contraction of a muscle, organ or orifice",不随意に筋肉が激しく収縮すること,D013035,R25.225.2,"728.85728.85,780.39780.39",,C0037763
+Q505142,症状,Q169872,eosinophilia,好酸球増加症,Human disease,血液疾患,D004802,,,419455006,C0014457
+Q1549918,症状,Q169872,impulsivity,衝動性,"tendency to act on a whim, displaying behavior characterized by little or no forethought, reflection, or consideration of the consequences",悪い結果になってしまうかもしれない行動を深く考えずに行ってしまうという行動特性,D007175,,,,C0021125
+Q11492730,症状,Q169872,nasake wa hito no tame narazu,情けは人の為ならず,,日本語のことわざ,,,,,
+Q12046440,症状,Q169872,emotional disorder,情緒障害,symptom,症状,,,,,C0233459
+Q11491565,症状,Q169872,acute subdural hematoma,急性硬膜下血腫,accumulation of blood in the subdural space with acute onset of neurological symptoms,短時間で硬膜と脳の間に血腫が形成された状態,D020199,,,,C0749098
+Q11075191,症状,Q169872,post-war chaos period,戦後混乱期,,第二次世界大戦終戦直後の日本の政治経済が混乱した時期,,,,,
+Q9162872,症状,Q169872,schizophrenic autism,自閉,"autism as a symptom of schizophrenia, withdrawal to inner life",陰性症状：自己の内界に閉じ込もる,,,,,
+Q2467856,症状,Q169872,Agony in the Garden,ゲツセマネの祈り,episode from the life of Jesus Christ,イエス・キリストがゲツセマネの園で十字架刑に処せられる前夜に祈った祈り,,,,,
+Q21117511,症状,Q169872,stiff neck,寝違え,,睡眠中に起こる首の痛みまたは首の硬直,,,,,
+Q21120251,症状,Q169872,black skin,,symptom from exposure to acetic acid,酢酸への暴露による症状,,,,,C0860447
+Q29589522,症状,Q169872,salmon-colored rash,サーモンピンク疹,,成人Still病において発熱と同時に現れるサーモンピンク色の紅斑。掻痒感はなく、解熱と同時に消退する。,,,,,
+Q56026208,症状,Q169872,ring of paleness around the mouth,口の周りの青白い輪,diagnostic symptom,症状,,,,,
+Q126810878,症状,Q169872,Acute scrotum,急性陰嚢症,,陰嚢の急性疼痛・腫脹,,,,,
+Q9690,症状,Q169872,fatigue,疲労,medical symptom usually of physical and/or mental weakness that does not resolve with rest or sleep,主観的感覚,D005221,R53,780.7,,C0015672
+Q2293277,症状,Q169872,tophus,,"deposit of uric acid crystals, in the form of monosodium urate crystals, in people with longstanding hyperuricemia (high levels of uric acid in the blood)",,,,274.0,,C0221248
+Q1433921,症状,Q169872,Heinz body,ハインツ小体,symptom,,D006366,,,,C0018871
+Q2266426,症状,Q169872,visual disturbance,,,,,H53.1,,,
+Q2268776,症状,Q169872,lying,横臥,human position in which the body is more or less horizontal and supported along its length by the surface underneath,,,,,,
+Q7098794,症状,Q169872,Optic disc pallor,,Finding in eye examinations,,,,,,C0554970
+Q748444,症状,Q169872,asterixis,,medical condition,,,R27.8,781.3,,
+Q1413614,症状,Q169872,tympanites,鼓脹症,medical condition in which excess gas accumulates in the gastrointestinal tract and causes abdominal distension,,,R14,,,C3553272
+Q1404110,症状,Q169872,greyout,グレイアウト,transient loss of vision characterized by a perceived dimming of light and color,,,,,,
+Q2117286,症状,Q169872,Braxton Hicks contraction,Braxton-Hicks収縮,uterine contractions during pregnancy before labor,,,O47,644.1,,C0233187
+Q2181165,症状,Q169872,specific interests,,,,,,,,
+Q2163996,症状,Q169872,fasciation,帯化,condition of abnormal growth in vascular plants,,,,,,
+Q2115731,症状,Q169872,pseudoglioma,,,,,,,,C0033800
+Q2141836,症状,Q169872,chemical burn,化学熱傷,medical condition,,D002057,T26,949,,C0006435
+Q3705665,症状,Q169872,depigmentation,色素脱失,lightening of the skin or loss of pigment,,,,,,
+Q3589142,症状,Q169872,epigastric pain,心窩部痛,symptom,,,R10.1,,,C0232493
+Q3539327,症状,Q169872,Webbed neck,,Congenital anatomic variant.,,,Q18.3,744.5,,
+Q1529977,症状,Q169872,muscle rigidity,筋肉の硬直,symptom,,D009127,,,,C0026837
+Q1500346,症状,Q169872,xanthelasma,眼瞼黄色腫,medical condition,,,H02.6,374.51,,C0155210
+Q1458077,症状,Q169872,Trousseau sign,トルソー徴候,symptom,,,,,,C0234181
+Q1581472,症状,Q169872,Palmar hyperhidrosis,,symptom,,,,,,C1856953
+Q653197,症状,Q169872,rash,皮疹,skin condition,,,R21,,,C0015230
+Q739481,症状,Q169872,aura,アウラ (医学用語),eye disturbance with/without headache,,,G43.1,346.0,,C3552117
+Q663998,症状,Q169872,death rattle,死前喘鳴,sound often produced by someone who is near death when fluids such as saliva and bronchial secretions accumulate in the throat and upper chest,,,,,,
+Q1162276,症状,Q169872,xerostomia,口腔乾燥症,medical condition,,D014987,K11.7,527.7,,C0043352
+Q942936,症状,Q169872,witches' mark,,Hypothetical mark on the body indicating a person was a witch,,,,,,
+Q936070,症状,Q169872,trismus,牙関緊急,medical problem of jaw clenching,,D014313,R25.2,781.0,,C0041105
+Q1097957,症状,Q169872,intermittent claudication,間欠跛行,"symptom that describes muscle pain on mild exertion (ache, cramp, numbness or sense of fatigue)",,D007383,,440.21,,C0021775
+Q1115038,症状,Q169872,runny nose,鼻漏,type of medical symptom where the nasal cavity is filled with fluid mucus,,D000086722,J34.8,478.19,,C1260880
+Q778731,症状,Q169872,pyuria,,symptom,,D011776,N39.0,791.9,4800001,C0034359
+Q841743,症状,Q169872,thousand-yard stare,1000ヤードの凝視,trauma symptom,,,,,,
+Q776790,症状,Q169872,necrolytic migratory erythema,壊死性遊走性紅斑,"dermatological manifestation of many internal diseases, most often, glucagonoma.",,D058568,,,15576007,C0221243
+Q1088113,症状,Q169872,chronic pain,慢性疼痛,acute pain extending beyond the usual healing process,,D059350,G89.4,338.2,,C0150055
+Q290620,症状,Q169872,dysphoria,不快,"state of feeling unwell or unhappy; a feeling of emotional and mental discomfort as a symptom of discontentment, restlessness, dissatisfaction, malaise, depression, anxiety or indifference",,,,,,C3176494
+Q368779,症状,Q169872,insect-inflicted wound,虫刺症,wound caused by the bite or sting of an insect,,D007299,T14.1,919.4,,
+Q154430,症状,Q169872,anxiety,不安,"unpleasant complex combination of emotions that includes fear, apprehension and worry, and is often accompanied by physical sensations such as palpitations, nausea, chest pain and/or shortness of breath",,D001007,F41.9,,48694002,C4020884
+Q220322,症状,Q169872,agnosia,失認,neurologic sensory disorder,,D000377,,784.69,,C0001816
+Q116275,症状,Q169872,myoclonus,ミオクローヌス,"medical sign, rapid involuntary irregular muscle contractions",,D009207,G25.3,333.2,,C0027066
+Q498916,症状,Q169872,apraxia,失行,agnosia that is a loss of the ability to map out physical actions in order to repeat them in functional activities,,D001072,R48.2,784.69,68345001,C0003635
+Q143877,症状,Q169872,cogwheel rigidity,,disease symptom in neurology,,,,,,C0151564
+Q382255,症状,Q169872,affect lability,,mental state,,,,,,
+Q581349,症状,Q169872,serositis,,inflammation of the serous tissues of the body,,D012700,,,,C0036749
+Q599982,症状,Q169872,enanthem,,rash on the mucous membranes,,,B09,,,C0014034
+Q388169,症状,Q169872,malar rash,,medical condition,,,,,,C0238864
+Q180762,症状,Q169872,angina pectoris,狭心症,chest discomfort due to not enough blood flow to heart muscle,,D000787,I20,413,,C0002962
+Q188008,症状,Q169872,dyspnea,呼吸困難,feelings associated with impaired breathing,,D004417,R06.0,,,C0013404
+Q372236,症状,Q169872,acephalgic migraine,,migraine symptom,,,,,,C0338486
+Q1640924,症状,Q169872,hyperfocus,過集中,"a state of extreme focus experienced by neurodivergent individuals, commonly with ADHD or autism",,,,,,C2609323
+Q1663500,症状,Q169872,mating bite,,part of the mating behavior,,,,,,
+Q1644260,症状,Q169872,hearing disorder,聴覚障害,"human disease condition that impairs the ability to detect, process, or interpret sounds",,D006311,,,,C0260662
+Q1707292,症状,Q169872,Asymptomatic,症候が現れない,"a condition or state of a disease, which occurs when the individual does not present symptoms of the disease, even though he or she is a carrier of the virus.",,,,,,
+Q1755849,症状,Q169872,palmar erythema,手掌紅斑,reddening of the palms,,,L53.8,695.0,,C0014745
+Q1639204,症状,Q169872,Hutchinson's triad,,three clinical signs indicative of congenital syphilis,,,,,,C0241925
+Q4419854,症状,Q169872,psychological pillow,,symptom of catatonia (where the individual holds his head a few centimetres above the bed),,,,,,
+Q5499877,症状,Q169872,Free Immersion,,"freediving discipline in which no propulsion equipment is used, but pulling on the rope during descent and ascent is permitted",,,,,,
+Q5380065,症状,Q169872,Ensure,,brand name of nutritional supplements and meal replacement shakes,,,,,,
+Q5852896,症状,Q169872,plant necrosis,,,,,,,,
+Q4918357,症状,Q169872,bismuthia,,medical condition,,,,,,
+Q4419847,症状,Q169872,Pavlov's symptom,,catatonic symptom (described by Pavlov) : the patient reacts only to whispering.,,,,,,
+Q5140942,症状,Q169872,coffee ground vomiting,コーヒー残渣様嘔吐,medical condition,,,,,,C1510416
+Q3809295,症状,Q169872,tachykinesia,,,,,,,,
+Q4159548,症状,Q169872,fruit deformation,,,,,,,,
+Q4574618,症状,Q169872,nostrils distended,,,,,,,,
+Q6744445,症状,Q169872,malnutrition–inflammation complex,,common condition in chronic disease states such as chronic kidney disease,,,,,,
+Q5283089,症状,Q169872,distress,苦悩,difficult state in which a person is unable to completely adapt to stressors and their resulting stress and shows maladaptive behaviors,,D000079225,,,,C0231303
+Q5540112,症状,Q169872,George H. W. Bush vomiting incident,ブッシュ米大統領の1992年の崩壊と嘔吐,when US President vomited into Japanese Prime Minister's lap,,,,,,
+Q4346317,症状,Q169872,strawberry tongue,イチゴ舌,symptom,,,,529.3,,
+Q5000947,症状,Q169872,Burton line,,clinical sign found in patients with chronic lead poisoning,,,,,,
+Q3746560,症状,Q169872,phlegm,痰,liquid secreted by the mucous membranes of mammalians,,,,,,
+Q4763844,症状,Q169872,Angor animi,,symptom defined as a patient's perception that they are dying,,,,,,C0549258
+Q3061764,症状,Q169872,morbilliform rash,,symptom,,,,,,C0234918
+Q2319686,症状,Q169872,vesical tenesmus,,medical condition,,,R30.1,788.9,,C0423735
+Q2560633,症状,Q169872,stertorous,,medical condition,,,,,,C0231841
+Q2365426,症状,Q169872,acneiform eruption,,medical condition,,D017486,L70.8,,,C0175167
+Q2455868,症状,Q169872,odynophagia,,medical term for painful swallowing,,,R13,787.20,,C0221150
+Q3232712,症状,Q169872,impairment of continence,失禁,lack of control of either bladder or bowel function,,,,,,
+Q3030775,症状,Q169872,distraction,注意散漫,diversion of attention away from an intended focus,,,,,,
+Q6771095,症状,Q169872,Markle's sign,,medical condition,,,,,,
+Q6931241,症状,Q169872,mucopurulent discharge,,emission or secretion of fluid containing mucus and pus,,,,,,C0302307
+Q6817452,症状,Q169872,mental distress,精神的苦痛,"range of symptoms and experiences of a person's internal life that are commonly held to be troubling, confusing or out of the ordinary",,,,,,
+Q6819872,症状,Q169872,mermaiding,マーメイディング,swimming  wearing a mermaid costume,,,,,,
+Q1192036,症状,Q169872,microsleep,マイクロスリープ,temporary episode of sleep or drowsiness,,,,,,
+Q1166142,症状,Q169872,erythema,紅斑,symptom,,D004890,L51,695,,C0332575
+Q1269237,症状,Q169872,dyschylia,,,,,,,,
+Q1198115,症状,Q169872,stereotypy,常同行動,repetitive mechanical repetition of speech or physical activities,,D013239,,307.3,,C0038271
+Q1163908,症状,Q169872,melena,メレナ,medical condition with dark feces that are associated with upper gastrointestinal bleeding,,D008551,K92.1,578.1,,C0025222
+Q1975146,症状,Q169872,obtundation,鈍麻,state characterised by a reduced level of consciousness and slowed responses to stimulation,,,,,,C1621860
+Q1781127,症状,Q169872,borborygmus,腸蠕動音,"rumbling, growling or gurgling noise produced by movement of the contents of the gastro-intestinal tract",,,,,,C0232693
+Q1806356,症状,Q169872,algiuria,,painful urination,,,R30.9,,,C4011784
+Q1751296,症状,Q169872,uterine contraction,子宮収縮,contraction of the uterus,,D014590,,,,C0042130
+Q1642611,症状,Q169872,negativism,,opposition or no response to instructions or external stimuli (catatonic symptom),,D009341,,,,
+Q1758945,症状,Q169872,redout,レッドアウト,medical symptom when experiencing negative g-force,,,,,,
+Q5141203,症状,Q169872,cognitive deficit,認知障害,medical condition,,,,,,
+Q4930803,症状,Q169872,blurred vision,かすみ目,"symptom, lack of sharpness of vision resulting in the inability to see fine detail",,,,,,
+Q4340622,症状,Q169872,focal neurologic sign,前頭葉徴候,"impairment of nerve, spinal cord, or brain function that affects a specific region of the body",,,,,,C1848821
+Q4924780,症状,Q169872,blanch,,symptom,,,,,,C0277941
+Q5429401,症状,Q169872,Faget sign,,pairing of fever with bradycardia,,,,,,
+Q2466723,症状,Q169872,gummatous syphilis,ゴム腫,"tertiary syphilis that is characterized by granulomatous lesions, called gummas, which are characterized by a center of necrotic tissue with a rubbery texture. They form in the liver, bones, and testes but may affect any organ",,,A52.3,095,,
+Q2747900,症状,Q169872,Bell's phenomenon,ベル現象,reflex of the eye,,,,,,
+Q2729863,症状,Q169872,hostility,敵意,form of emotionally charged angry behavior,,D006791,R45.5,,,C0020039
+Q2858354,症状,Q169872,Constant Weight With Fins,,freediving discipline in which the diver descends and ascends only by swimming with the use of fins,,,,,,
+Q2858351,症状,Q169872,No-Limits Apnea,,freediving discipline in which the diver descends and ascends using their method of choice,,,,,,
+Q2858355,症状,Q169872,static apnea,,"discipline in which the diver holds their breath underwater for as long as possible, and need not swim any distance",,,,,,
+Q2346980,症状,Q169872,absence seizure,欠神発作,"generalized seizure characterized by a brief loss and return of consciousness, generally not followed by a period of lethargy",,D004832,G40.3,345.0,,
+Q2348540,症状,Q169872,buffalo neck,,,,,,,,C0520573
+Q3328158,症状,Q169872,vesicular sound,肺胞呼吸音,normal breath sound,,,,,,C0231857
+Q2723947,症状,Q169872,somatization,身体化,medical symptoms caused by psychological stress,,,,,,C0149779
+Q2738617,症状,Q169872,desquamation,落屑,"""shedding"" of the skin",,,R23.4,,,C0237849
+Q2610154,症状,Q169872,red eye,充血,type of eye disease,,,H57.9,379.93,,C0235267
+Q3152967,症状,Q169872,emotional insecurity,,unease caused by seeing oneself as inferior or vulnerable,,,,,,
+Q3144956,症状,Q169872,upper gastrointestinal bleeding,上部消化管出血,medical condition,,,K92.2,578.9,,C0041909
+Q3390934,症状,Q169872,Holy Wounds,,"the five piercing wounds Jesus suffered during the crucifixion, i.e. those in his hands and feet and the lance wound on his side",,,,,,
+Q21109826,症状,Q169872,facial twitch,,rapid movement of the facial muscles,,,,,,
+Q21117104,症状,Q169872,weak feet,,,,,,,,C0239648
+Q21117562,症状,Q169872,emotional upset,,,,,,,,C0677661
+Q21117554,症状,Q169872,muscle incoordination,,,,,,,,C0231527
+Q21117369,症状,Q169872,tonic spasms,,,,,,,,C1836825
+Q21118859,症状,Q169872,nasal irritation,鼻の刺激,,,,,,,
+Q21118863,症状,Q169872,pharyngeal irritation,,,,,,,,C0863112
+Q21119309,症状,Q169872,liver tenderness,,,,,,,,C0151767
+Q21117184,症状,Q169872,staggering gait,,,,,,,,
+Q18343527,症状,Q169872,gastrointestinal distress,,symptom,,,,,,C0232459
+Q21116733,症状,Q169872,respiratory hypersensitivity,呼吸器過敏症,symptom,,D012130,,,,C0035228
+Q21109757,症状,Q169872,bronze skin,,symptom,,,,,,C0241145
+Q21109840,症状,Q169872,chest tightness,,symptom,,,,,,C0232292
+Q21109868,症状,Q169872,cholinesterase inhibition,,symptom,,,,,,C0877006
+Q21110084,症状,Q169872,dark urine,,symptom,,,,,,C0426396
+Q21110098,症状,Q169872,decreased audio-visual performance,,symptom,,,,,,C1955604
+Q21110105,症状,Q169872,decreased forced expiratory volume,,symptom,,,,,,C0520837
+Q21110117,症状,Q169872,decreased pulmonary function,,symptom,,,,,,CL355398
+Q21112198,症状,Q169872,increased blood clotting time,,symptom,,,,,,C0151563
+Q21112361,症状,Q169872,lung changes,,symptom,,,,,,C0577914
+Q21112456,症状,Q169872,myocardial damage,,symptom,,,,,,C0577812
+Q21112474,症状,Q169872,myoclonus of limbs,,symptom,,,,,,CL759578
+Q21109775,症状,Q169872,unpleasant taste,,,,,,,,
+Q21110052,症状,Q169872,temporary loss of hair,,,,,,,,
+Q21117140,症状,Q169872,blue-gray vision,,,,,,,,
+Q21116709,症状,Q169872,stiff spine,,,,,,,,
+Q21117153,症状,Q169872,colored halos,,,,,,,,
+Q21117532,症状,Q169872,jerking limbs,,,,,,,,
+Q21118017,症状,Q169872,palmar planter hyperkeratosis,,,,,,,,
+Q21118168,症状,Q169872,retrosternal tightness,,,,,,,,
+Q21119047,症状,Q169872,cardiac stress,,,,,,,,
+Q21116634,症状,Q169872,pulmonary irritation,,symptom,,,,,,C0235932
+Q21116849,症状,Q169872,skin blisters,,symptom,,,,,,C2220104
+Q21109236,症状,Q169872,urinary burning,,,,,R30.9,,,C0423736
+Q19000619,症状,Q169872,urination disorder,,human disease,,D014555,R30-R39,,,C0042035
+Q21109837,症状,Q169872,finger tremor,手指振戦,"rapid, involuntary shaking of the fingers",,,,,,C0239601
+Q21117353,症状,Q169872,hyperexcitability,,,,,,,,C0856984
+Q21112553,症状,Q169872,ocular changes,,eye manifestation of non-eye diseases,,D005132,,,,C0015411
+Q21117302,症状,Q169872,twitching,,symptom,,,R25.3,,,C0231530
+Q21077147,症状,Q169872,eye pain,,medical symptom,,D058447,H57.1,,,C0151827
+Q21112293,症状,Q169872,upper respiratory irritation,上気道刺激,symptom,,,,,,
+Q21077144,症状,Q169872,abnormal hematologic indices,,medical symptom,,,,,,
+Q21109742,症状,Q169872,bronchial secretion,,symptom,,,,,,
+Q21109805,症状,Q169872,central nervous system excitement,,symptom,,,,,,
+Q21110047,症状,Q169872,corneal vacuolization,,symptom,,,,,,
+Q21110074,症状,Q169872,cutaneous hypersensitivity,,symptom,,,,,,
+Q21110112,症状,Q169872,decreased nerve conduction in lower legs,,symptom,,,,,,
+Q21110165,症状,Q169872,delayed healing of wounds,,symptom,,,,,,
+Q21110281,症状,Q169872,dry burning throat,,symptom,,,,,,
+Q21110289,症状,Q169872,dry cracked skin,,symptom,,,,,,
+Q21110311,症状,Q169872,EKG abnormal,,symptom,,,,,,
+Q21111985,症状,Q169872,facial pallor,,symptom,,,,,,
+Q21111994,症状,Q169872,facial paresthesia,,symptom,,,,,,
+Q21112016,症状,Q169872,gastrointestinal upset,,symptom,,,,,,
+Q21112075,症状,Q169872,hand tremor,,symptom,,,,,,
+Q21112276,症状,Q169872,bladder irritation,,symptom,,,,,,
+Q21112080,症状,Q169872,hemolytic effect,,symptom,,,,,,
+Q21112091,症状,Q169872,high blood urea nitrogen,,symptom,,,,,,
+Q21112278,症状,Q169872,gastrointestinal irritation,,symptom,,,,,,
+Q21112279,症状,Q169872,mucous membrane irritation,,symptom,,,,,,
+Q21112341,症状,Q169872,localized sweating,,symptom,,,,,,
+Q21112421,症状,Q169872,minor changes in blood enzymes,,symptom,,,,,,
+Q21112499,症状,Q169872,nasal ulcer bleeding,,symptom,,,,,,
+Q21112539,症状,Q169872,numb mucous membrane,,symptom,,,,,,
+Q21112577,症状,Q169872,pallor or cyanosis of extremities,,symptom,,,,,,
+Q21112656,症状,Q169872,pink frothy sputum,,symptom,,,,,,
+Q21112701,症状,Q169872,respiratory sensitization,,symptom,,,,,,
+Q21116594,症状,Q169872,profuse sweating,,symptom,,,,,,
+Q21116602,症状,Q169872,prolonged colds,,symptom,,,,,,
+Q21116617,症状,Q169872,psycho-neurologic disturbance,,symptom,,,,,,
+Q21116678,症状,Q169872,reflex bronchoconstriction,,symptom,,,,,,
+Q21116801,症状,Q169872,sense of well being,,symptom,,,,,,
+Q21117406,症状,Q169872,liver enzyme changes,,symptom,,,,,,
+Q21117872,症状,Q169872,deep pain,,symptom,,,,,,
+Q21112283,症状,Q169872,respiratory irritation,呼吸器の刺激,symptom,,,,,,C0854118
+Q21077145,症状,Q169872,absent deep tendon reflex,,medical symptom,,,,,,C0241772
+Q21110145,症状,Q169872,temporary blindness,,transient loss of ability to see,,,,,,C0155003
+Q19720556,症状,Q169872,centrilobular necrosis,,medical condition,,,,,,C0267804
+Q30141399,症状,Q169872,decreased or poor judgment,,,,,,,,
+Q30141385,症状,Q169872,problems with words in speaking or writing,,,,,,,,
+Q30141432,症状,Q169872,withdrawal from work or social activities,,,,,,,,
+Q30141517,症状,Q169872,trouble understanding visual images and spatial relationships,,,,,,,,
+Q30141588,症状,Q169872,misplacing things and losing the ability to retrace steps,,,,,,,,
+Q30141616,症状,Q169872,memory loss that disrupts daily life,,,,,,,,
+Q21128616,症状,Q169872,localized pain,,symptom,,,,,,C0520962
+Q25245384,症状,Q169872,Pilot fatigue,,Reduced pilot performance from inadequate energy,,,,,,
+Q21505002,症状,Q169872,cornea blistering,,symptom,,,,,,C3553964
+Q21505036,症状,Q169872,sinus pain,,symptom,,,,,,C0522251
+Q28455110,症状,Q169872,emotional lability,気分変動,medical symptom,,,,,,
+Q30694315,症状,Q169872,Pain out of proportion,,pain out of proportion to physical examination,,,,,,
+Q21504931,症状,Q169872,gastric hypomotility,,medical condition,,,,,,C0948397
+Q21402601,症状,Q169872,clouding of the corneas,,symptom,,,,,,C1856661
+Q21402619,症状,Q169872,feeling of neck constriction,,symptom,,,,,,C0236071
+Q22965448,症状,Q169872,Collet's syndrome,,,,,,,,C0270885
+Q23012214,症状,Q169872,glowing feces,,symptom of white phosphorus exposure,,,,,,
+Q23012213,症状,Q169872,glowing vomit,,symptom of white phosphorus exposure,,,,,,
+Q21402577,症状,Q169872,myocardial dysfunction,,medical condition,,,,,,C0340515
+Q21402576,症状,Q169872,necrosis of the corneal epithelium,,medical condition,,,,,,C0542107
+Q21402634,症状,Q169872,microhemorrhage,,medical condition,,,,,,C0859253
+Q21402635,症状,Q169872,mimicked myocardial infarction,,medical condition,,,,,,C0476281
+Q21402563,症状,Q169872,unilateral facial nerve palsy,,medical condition,,,,,,C4022719
+Q21402560,症状,Q169872,ventricular dysrhythmia,,medical condition,,,,,,C0344424
+Q21120278,症状,Q169872,blue lips and skin,,symptom,,,,,,
+Q21127492,症状,Q169872,dry nose and throat,,symptom,,,,,,
+Q21515328,症状,Q169872,erratic behavior,,symptom,,,,,,C0564572
+Q21402621,症状,Q169872,greatly increased nasal secretions and oral secretions,,symptom,,,,,,
+Q21402566,症状,Q169872,systemic toxicity,,symptom,,,,,,
+Q21402574,症状,Q169872,phrenic nerve paralysis,,medical condition,,,,,,
+Q21402561,症状,Q169872,vascular collapse,,medical condition,,,,,,
+Q136443290,症状,Q169872,dopaminergic dysfunction,,"a scientific term used to describe a problem, imbalance, or malfunction within the dopaminergic system of the brain.",,,,,,
+Q136446790,症状,Q169872,cognitive impairment,,"a decline or deficit in one or more of the brain's cognitive functions. These functions include mental processes such as memory, thinking, reasoning, learning, attention, judgment, and problem-solving.",,,,,,
+Q135186962,症状,Q169872,Pain asymbolia,,A medical condition in which pain is experienced without unpleasantness.,,,,,,
+Q21119919,症状,Q169872,mucous membrane hemorrhage,,,,,,,,C0240387
+Q21119312,症状,Q169872,larynx irritation,,,,,,,,
+Q21119414,症状,Q169872,increased cardiac output,,,,,,,,
+Q21119347,症状,Q169872,mouth irritation,,,,,,,,
+Q21119551,症状,Q169872,unsteady gait,,,,,,,,
+Q11794732,症状,Q169872,Erb's phenomenon,,Symptom of tetanus,,,,,,
+Q10786647,症状,Q169872,alveolar fluid,,,,,,,,
+Q11820606,症状,Q169872,eye irritation,目の炎症,irritation of the eye,,,,,,C0235266
+Q16595080,症状,Q169872,gastroesophageal reflux,呑酸,symptom,,,,,,C0856449
+Q11919412,症状,Q169872,enteralgia,,,,,,,,C1557475
+Q12680516,症状,Q169872,jaw pain,,,,,,,,
+Q8777453,症状,Q169872,cutaneous eruption,,,,,,,,C0302295
+Q16526372,症状,Q169872,air alveologram,,,,,,,,
+Q10301920,症状,Q169872,indecision,,inabilty to decide,,,,,,C0423908
+Q10547530,症状,Q169872,difficulty concentrating,,clinical symptom,,,,,,C0947509
+Q7989549,症状,Q169872,Westphal's sign,,medical condition,,,,,,
+Q16583321,症状,Q169872,Gottron's sign,,medical sign,,,L94.4,,,C0423781
+Q7316656,症状,Q169872,retching,,reverse movement (peristalsis) of the stomach and esophagus without vomiting,,,,,,C0232602
+Q8038367,症状,Q169872,wrist pain,,symptom,,,,,,
+Q7315912,症状,Q169872,respiratory distress,,symptom,,,,,,
+Q7967199,症状,Q169872,wandering,,common behavior in people with dementia,,D055816,,,,C0871597
+Q11697109,症状,Q169872,erythema gyratum repens,匍行性迂回状紅斑,medical condition,,,L53.3,,,C0263357
+Q12643772,症状,Q169872,heat exhaustion,熱疲労,caused by the loss of water and electrolytes through sweating,,D006359,,,,C0018839
+Q12101178,症状,Q169872,discomfort,,unpleasant physical feeling,,,,,,C0234215
+Q16831518,症状,Q169872,gastric reflux finding,,symptom,,,,,,C0558176
+Q11789224,症状,Q169872,acute visual loss,,Loss of visual acuity (implying that vision was better at a certain timepoint in life).,,,,,,C0155002
+Q7305419,症状,Q169872,Red wine headache,,headache often accompanied by nausea and flushing,,,,,,
+Q10649843,症状,Q169872,restlessness,,"lack of calm, peace, or ease",,,,,,
+Q12719169,症状,Q169872,Tufse,,Synonymous with fear,,,,,,
+Q12738740,症状,Q169872,vascular purpura,,medical condition,,,,,,C1368065
+Q16866863,症状,Q169872,Skin sloughing,,shedding dead surface cells off the skin,,,,,,CL454356
+Q17001055,症状,Q169872,Constant Weight Without Fins,,freediving discipline in which the diver descends and ascends only by swimming without the use of fins,,,,,,
+Q17119420,症状,Q169872,hypofrontality,,state of decreased cerebral blood flow,,,,,,
+Q21120154,症状,Q169872,pain on inspiration,,,,,,,,C3160787
+Q21120146,症状,Q169872,pulmonary sensitization,,,,,,,,C2939096
+Q21120269,症状,Q169872,retrosternal pain,,,,,,,,C0151826
+Q21515325,症状,Q169872,short attention span,,symptom,,,,,,
+Q21541481,症状,Q169872,severe tissue destruction,,symptom,,,,,,
+Q21120069,症状,Q169872,behavioral changes,,change in an individual's behavior,,,,,,C0542299
+Q21402617,症状,Q169872,eye ulceration,目の潰瘍,medical condition,,,,,,C0848383
+Q21120094,症状,Q169872,hair discoloration,,,,,L67.1,,,C0151689
+Q22314624,症状,Q169872,clammy skin,,symptom,,,R23.1,,,C0235848
+Q21862894,症状,Q169872,motor dysfunction,,symptom,,,,,,CL473871
+Q21402569,症状,Q169872,rice water diarrhea,,copious watery stool that resembles rice water,,,,,,
+Q24084959,症状,Q169872,primary affect,,"clinical symptom, which means a limited presence of inflammation at the site of initial penetration of infectious disease.",,,,,,
+Q22050868,症状,Q169872,postural sway,,neurologic symptom,,,,,,C0427118
+Q29643911,症状,Q169872,Action tremor,,"tremor present when the limbs are active, either when outstretched in a certain position or throughout a voluntary movement",,,,,,
+Q21756893,症状,Q169872,ascending paralysis,,neurologic symptom,,,,,,
+Q21119917,症状,Q169872,lip bleeding,,,,,,,,
+Q21120168,症状,Q169872,black sputum,,,,,,,,
+Q21120136,症状,Q169872,foamy sputum,,,,,,,,
+Q21120271,症状,Q169872,cherry red lips,,,,,,,,
+Q21120010,症状,Q169872,poor sleep,,,,,,,,
+Q21120255,症状,Q169872,paroxysmal cough,,,,,,,,
+Q21908909,症状,Q169872,toneless voice,,,,,,,,
+Q21993812,症状,Q169872,chronic nausea,,,,,,,,
+Q22314576,症状,Q169872,cold skin,,,,,,,,
+Q22965464,症状,Q169872,hypercrinia,,,,,,,,
+Q21402580,症状,Q169872,motor neuropathy,運動ニューロパチー,medical condition,,,,,,
+Q29789635,症状,Q169872,encephalitic cry,,crying caused by encephalitis,,,,,,
+Q21120214,症状,Q169872,burning mouth,,symptom,,,,,,C0877717
+Q21120241,症状,Q169872,bitter taste,,symptom,,,,,,C0235290
+Q21120220,症状,Q169872,dry throat,,symptom,,,,,,C0235234
+Q28057221,症状,Q169872,hypotension following bladder drainage,,,,,,,,
+Q28403848,症状,Q169872,Hutchinson's mask,,,,,,,,
+Q21120235,症状,Q169872,urine discoloration,,medical condition,,,,,,C0522153
+Q30141302,症状,Q169872,confusion with time and space,,,,,,,,
+Q30141343,症状,Q169872,challenges in planning or solving problems,,,,,,,,
+Q30141359,症状,Q169872,"difficulty completing familiar tasks at home, at work or at leisure",,,,,,,,
+Q30141414,症状,Q169872,changes in mood and personality,,,,,,,,
+Q131314258,症状,Q169872,Hyperlocomotion,,effect in animals,,,,,,
+Q57769952,症状,Q169872,catatonic excitement,,"catatonic symptom, purposeless and excited motor activity without obvious cause",,,,295.2,,C0233606
+Q54912092,症状,Q169872,intrinsic positive-pressure respiration,,non-therapeutic positive end-expiratory pressure occurring in patients with severe airway obstruction,,D018467,,,,C0242676
+Q54912147,症状,Q169872,post-exercise hypotension,,transient reduction in blood pressure levels immediately after exercise,,D057774,,,,C2936233
+Q42417507,症状,Q169872,post-exertional malaise,,symptom of chronic fatigue syndrome,,,,,,
+Q56036789,症状,Q169872,Taussig symptoms,,diagnostic symptoms at Sand Fly Fever,,,,,,
+Q56036868,症状,Q169872,Pick symptom,,diagnostic symptoms at Sand Fly Fever,,,,,,
+Q56104212,症状,Q169872,Ferrari sign,,symptom of yellow fever,,,,,,
+Q42417656,症状,Q169872,Knee buckling,,medical condition,,,M23.5,,203597000,C0427262
+Q56233069,症状,Q169872,tetanus triad,,triad of symptoms,,,,,,
+Q56233235,症状,Q169872,spatula test,,symptom in tetanus,,,,,,
+Q47085690,症状,Q169872,abnormal skin coloration,,symptom,,,,,,C0151907
+Q58145981,症状,Q169872,apragmatism,,state of inactivity caused by schizophrenia or severe depression,,,,,,C4049568
+Q46978629,症状,Q169872,abnormality of the eyebrow,,,,,,,,C4011556
+Q51714514,症状,Q169872,problem behavior,問題行動,unwanted habitual activity,,D000066553,,,,
+Q129909264,症状,Q169872,Charlotte King Effect,,,,,,,,
+Q118849417,症状,Q169872,self-cutting,,harming one's own body by cutting oneself intentionally and voluntarily,,,,,,
+Q118906812,症状,Q169872,ear fullness,,"auditory sensation associated with a feeling of stuffiness in the ear, pressure in the ear, or a feeling of ""stuffed ear""",,,,,,
+Q106429181,症状,Q169872,zagaiada,,wound caused by zagaia,,,,,,
+Q97366766,症状,Q169872,dysorgasmia,オーガズム痛,pain caused by orgasm,,,,,,C0423749
+Q130499326,症状,Q169872,stomach awareness,,medical symptom,,,,,,
+Q113245042,症状,Q169872,medication induced tremor,,,,,G25.1,,,
+Q75388730,症状,Q169872,fifth and sixth miscarried children of Anne of Great Britain,,(1697-1697),,,,,,
+Q114240379,症状,Q169872,Strumpell's symptom,,diagnostic symptom,,,R29.8,,,
+Q114240875,症状,Q169872,lying dog pose,,diagnostic symptom,,,R29.8,,,
+Q123562799,症状,Q169872,mental status change,,symptom,,,,,,
+Q120175339,症状,Q169872,autistic shutdown,,"mechanism for self-regulation by autistic people as a response to overstimulation, where the person withdraws into themselves and doesn't react or interact with the outside world until such time as they are regulated again",,,,,,
+Q107400056,症状,Q169872,skin pain,,,,,,,,C0241136
+Q72423832,症状,Q169872,autistic meltdown,自閉症のメルトダウン,involuntary emotional breakdown in an autistic person caused by severe stress,,,,,,
+Q114179599,症状,Q169872,Kehrer's symptom,,diagnostic symptom,,,,,,
+Q96278437,症状,Q169872,non-restorative sleep,,unrefreshing sleep,,,,,,
+Q96470164,症状,Q169872,identity alteration,,switch to different personality state,,,,,,
+Q107355983,症状,Q169872,Paradoxical breathing,,abnormal breathing pattern,,,,,,C0231852
+Q104179175,症状,Q169872,postpartum bleeding,,,,,,,,
+Q114177025,症状,Q169872,Mondonesi reflex,,diagnostic symptom,,,R29.8,,,
+Q105723518,症状,Q169872,Prematurely aged appearance,,,,,,,,C1857656
+Q124570567,症状,Q169872,Dynamic With Fins,,AIDA freediving discipline,,,,,,
+Q124570575,症状,Q169872,Dynamic Without Fins,,AIDA freediving discipline,,,,,,
+Q124570606,症状,Q169872,Dynamic With Bifins,,AIDA freediving discipline,,,,,,
+Q124570596,症状,Q169872,Variable Weight Apnea,,AIDA freediving discipline,,,,,,
+Q65244978,症状,Q169872,Jesus' side wound,,,,,,,,
+Q124813894,症状,Q169872,autistic rage,,"intense outburst of anger, frustration, and agitation triggered by over- or understimulation, repeated interruptions of what they're doing; can seemingly come out of nowhere for neurotypicals",,,,,,
+Q67135649,症状,Q169872,autistic special interest,,narrow and passionate interest experienced by autistic people that can spark positive feelings,,,,,,
+Q67135693,症状,Q169872,rejection sensitive dysphoria,,strong emotional response to perceived rejection typically seen in people with ADHD,,,,,,
+Q109875391,症状,Q169872,Constant Weight With Bifins,,competitive freediving discipline,,,,,,
+Q108049203,症状,Q169872,body image disturbance,,altered perception of one's body image,,D000079182,,,,C2732632
+Q108704537,症状,Q169872,Nipple pain in breastfeeding,,nipple pain,,,,,,

@@ -1,0 +1,32 @@
+﻿en_label,ja_label,category_en,category_ja,en_description,ja_description,qid
+Aicardi-Goutieres syndrome,エカルディ・グティエール症候群,disease,病気,a rare genetic neurodevelopmental disorder,,Q403453
+myxoid liposarcoma,粘液型脂肪肉腫,disease,病気,human disease,,Q6949365
+atrioventricular septal defect,心内膜床欠損症,disease,病気,Human disease,,Q390211
+Yushō disease,カネミ油症事件,disease,病気,mass poisoning in Japan,1960年代に日本で発生した油症事件,Q359288
+pharmaceutical preparation of nitroglycerin,ニトログリセリン,medication,医薬品,drug,,Q3221044
+Kolokol-1,KOLOKOL-1,medication,医薬品,chemical compound,,Q6151855
+familial Mediterranean fever,家族性地中海熱,symptom,症状,Human disease,,Q1144618
+Wolfram syndrome,ウォルフラム症候群,symptom,症状,"rare disease in which a human simultaneously has diabetes insipidus, diabetes, optic nerve atrophy and deafness syndrome",,Q1153641
+stapedectomy,アブミ骨切除術,surgery,外科手術,surgical procedure of the middle ear performed to improve hearing,,Q615857
+computed tomography,コンピュータ断層撮影,surgery,外科手術,medical imaging procedure using X-rays to produce cross-sectional images,放射線を用いて、物体の内部をスライス画像化して観察できるようにする技術,Q32566
+Myers-Briggs Type Indicator,MBTI,surgery,外科手術,model of personality types,アメリカで提唱された、類型論に基づくパーソナリティ検査(性格検査）,Q897939
+lily,百合,anatomical structure,解剖学的構造,popular flower,ポピュラーな花,Q40458125
+rhizome,根茎,anatomical structure,解剖学的構造,underground stem in which various plants asexually reproduce via budding.,,Q184208
+capitulum,頭状花序,anatomical structure,解剖学的構造,type of inflorescence,,Q932540
+Common scab,そうか病,infectious disease,感染症,Plant disease affecting potatoes and other crops,,Q1734637
+lymphogranuloma venereum,鼠径リンパ肉芽腫,infectious disease,感染症,"sexually transmitted disease caused by the invasive serovars L1, L2, L2a or L3 of Chlamydia trachomatis.",,Q694552
+syphilis,梅毒,infectious disease,感染症,sexually transmitted infection,梅毒トレポネーマの感染により発症する感染症,Q41083
+An Outbreak of E. Coli O157:H7 Colitis Among School Children in Sakai City,堺市学童集団下痢症,infectious disease,感染症,,1996年7月に大阪府堺市で発生した集団食中毒,Q113484511
+infectious coryza,伝染性コリーザ,infectious disease,感染症,disease of poultry,,Q5788570
+air force officer,空軍将校,medical procedure,医療処置,military officer in an air force,,Q19934710
+United States Naval Aviator,アメリカ海軍飛行士,medical procedure,医療処置,commissioned officer or warrant officer qualified as a manned aircraft pilot in the United States Navy or United States Marine Corps,,Q7890793
+SARS-CoV-2 Alpha variant,SARSコロナウイルス2-アルファ株,virus,ウイルス,variant of SARS-CoV-2,SARSコロナウイルス2の変異株,Q104376647
+tobacco mosaic virus,タバコモザイクウイルス,virus,ウイルス,species of virus,ウイルスの一種,Q332874
+SARS-CoV-2,SARSコロナウイルス2,virus,ウイルス,virus that causes COVID-19,2019年に存在が報告された新種のコロナウイルス、COVID-19の原因となる感染症,Q82069695
+gokoto,五虎湯,therapeutic agent,治療薬,Kampo drug,漢方薬の一種,Q27731328
+hachimijiogan / hachimigan,八味地黄丸,therapeutic agent,治療薬,Kampo drug,漢方薬の一種,Q27731440
+Siding Spring Survey,サイディング・スプリングサーベイ,medical device,医療機器,near-Earth object search program,,Q492918
+Hubble eXtreme Deep Field,ハッブル・エクストリーム・ディープ・フィールド,medical device,医療機器,multiple exposure image of deep space in the constellation Fornax,,Q62917
+Beijing Schmidt CCD Asteroid Program,北京天文台CCD小惑星観測プログラム,medical device,医療機器,1990s astronomical survey in China,,Q814731
+Spacewatch,スペースウォッチ,medical device,医療機器,University of Arizona project for study of minor planets and comets,,Q213563
+Sloan Digital Sky Survey,スローン・デジタル・スカイサーベイ,medical device,医療機器,multi-spectral imaging and spectroscopic redshift survey,,Q840332

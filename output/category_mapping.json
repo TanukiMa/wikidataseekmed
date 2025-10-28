@@ -1,0 +1,5391 @@
+[
+  {
+    "qid": "Q11190",
+    "japanese": "医学",
+    "english": "medicine",
+    "description_ja": "生物（人間）の心身の疾病・機能を研究し、疾病を診断・治療・予防し、健康を増進する学術。近代以降は、主に生物医学などの応用科学。",
+    "description_en": "field of study for diagnosing, treating and preventing disease",
+    "instance_of": [
+      "field of work",
+      "field of study",
+      "academic discipline",
+      "academic major"
+    ],
+    "subclass_of": [
+      "health sciences"
+    ]
+  },
+  {
+    "qid": "Q1387870",
+    "japanese": "",
+    "english": "",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q1590992",
+    "japanese": "",
+    "english": "",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q2043300",
+    "japanese": "",
+    "english": "",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q2325168",
+    "japanese": "",
+    "english": "",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q2384774",
+    "japanese": "",
+    "english": "",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q3332455",
+    "japanese": "",
+    "english": "",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q3332456",
+    "japanese": "",
+    "english": "",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q4483508",
+    "japanese": "",
+    "english": "",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q10497689",
+    "japanese": "",
+    "english": "",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q10501647",
+    "japanese": "",
+    "english": "",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q10638367",
+    "japanese": "",
+    "english": "",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q15851330",
+    "japanese": "",
+    "english": "",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q18915487",
+    "japanese": "",
+    "english": "",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q2440756",
+    "japanese": "静脈学",
+    "english": "phlebology",
+    "description_ja": "",
+    "description_en": "medical specialty devoted to the diagnosis and treatment of venous disorders",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q9370062",
+    "japanese": "ワクチン学",
+    "english": "vaccinology",
+    "description_ja": "",
+    "description_en": "science of vaccine development and production",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q2678675",
+    "japanese": "物療内科とリハビリ",
+    "english": "physical medicine and rehabilitation",
+    "description_ja": "",
+    "description_en": "branch of medicine",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q4313186",
+    "japanese": "麻薬学",
+    "english": "narcology",
+    "description_ja": "",
+    "description_en": "branch of medicine dealing with the study and treatment of substance abuse",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q2861470",
+    "japanese": "救急医学",
+    "english": "emergency medicine",
+    "description_ja": "",
+    "description_en": "medical specialty concerned with care for patients who require immediate medical attention",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q1591022",
+    "japanese": "",
+    "english": "home visit",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q17075943",
+    "japanese": "プレシジョン・メディシン",
+    "english": "precision medicine",
+    "description_ja": "",
+    "description_en": "testing genomic, epigenetic and molecular biomarkers for efficacy in individualized treatment",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q11949616",
+    "japanese": "",
+    "english": "sexopathology",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q1773974",
+    "japanese": "予防医学",
+    "english": "preventive medicine",
+    "description_ja": "病気にかからないように対策すること",
+    "description_en": "measures taken for disease prevention, with anticipatory actions that can be categorized as primal, primary, secondary, tertiary, and quaternary prevention",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q1480945",
+    "japanese": "軍事医療",
+    "english": "military medicine",
+    "description_ja": "",
+    "description_en": "medical specialty attending to soldiers, sailors and other service members",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q4388032",
+    "japanese": "臨床",
+    "english": "clinical medicine",
+    "description_ja": "医療・教育・カウンセリングその他の介入を行う現場、あるいは現場を重視する立場",
+    "description_en": "field of study",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q121176",
+    "japanese": "看護",
+    "english": "nursing",
+    "description_ja": "医療および健康的な生活の衛生や保健による支援",
+    "description_en": "caring for people who are sick or injured",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q3332453",
+    "japanese": "美容医療",
+    "english": "aesthetic medicine",
+    "description_ja": "",
+    "description_en": "broad term for specialties that focus on altering cosmetic appearance",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q5682745",
+    "japanese": "",
+    "english": "Hauora",
+    "description_ja": "",
+    "description_en": "Māori philosophy of health",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q939230",
+    "japanese": "学術医学",
+    "english": "academic medicine",
+    "description_ja": "代替医療の対義語としての、従来の西洋医学",
+    "description_en": "conventional medicine, as the opposite of alternative medicine",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q17145674",
+    "japanese": "",
+    "english": "In silico medicine",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q17146340",
+    "japanese": "",
+    "english": "osteopathic medicine",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q1784782",
+    "japanese": "性病科",
+    "english": "venereology",
+    "description_ja": "",
+    "description_en": "branch of medicine dealing with the study and treatment of sexually transmitted diseases",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q4501835",
+    "japanese": "",
+    "english": "chronomedicine",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q16935300",
+    "japanese": "医学における金属",
+    "english": "metals in medicine",
+    "description_ja": "",
+    "description_en": "relevance of metallic elements in biomedical contexts",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q5399833",
+    "japanese": "",
+    "english": "sports and excercise medicine",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q10379",
+    "japanese": "循環器学",
+    "english": "cardiology",
+    "description_ja": "",
+    "description_en": "branch of medicine dealing with disorders of the heart as well as parts of the circulatory system",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q161437",
+    "japanese": "眼科学",
+    "english": "ophthalmology",
+    "description_ja": "眼球や眼球周囲の組織に関する疾患を扱う医学の一分野",
+    "description_en": "field of medicine treating eye disorders",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q574567",
+    "japanese": "抗老化医学",
+    "english": "life extension",
+    "description_ja": "",
+    "description_en": "field of lengthening human lifespan by means such as tissue rejuvenation or gene therapy",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q787057",
+    "japanese": "古代エジプト医学",
+    "english": "Ancient Egyptian medicine",
+    "description_ja": "",
+    "description_en": "remedies from ancient Egypt",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q789523",
+    "japanese": "温泉療法",
+    "english": "balneology",
+    "description_ja": "",
+    "description_en": "science around the therapeutic use of baths",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q845300",
+    "japanese": "疾病分類学",
+    "english": "nosology",
+    "description_ja": "",
+    "description_en": "branch of medicine that deals with classification of diseases",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q7168239",
+    "japanese": "",
+    "english": "Performance medicine",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q7498888",
+    "japanese": "",
+    "english": "",
+    "description_ja": "",
+    "description_en": "Science of Remedies",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q10384",
+    "japanese": "老人医学",
+    "english": "geriatrics",
+    "description_ja": "",
+    "description_en": "specialty that focuses on health care of elderly people",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q7867",
+    "japanese": "精神医学",
+    "english": "psychiatry",
+    "description_ja": "各種精神障害に関する診断、予防、治療、研究を行う医学の一分野",
+    "description_en": "branch of medicine devoted to the study, diagnosis, treatment, and prevention of mental disorders",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q2072214",
+    "japanese": "オーダメイド医療",
+    "english": "personalized medicine",
+    "description_ja": "",
+    "description_en": "medical procedure that separates patients into different groups",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q771035",
+    "japanese": "伝統医学",
+    "english": "traditional medicine",
+    "description_ja": "近代医学の以前に、各地域社会の信仰に基づいた民間療法",
+    "description_en": "medicine based on traditional beliefs",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q864601",
+    "japanese": "生物医学",
+    "english": "biomedicine",
+    "description_ja": "主流医学とも言い、生物学的・生理学的な原理を臨床に応用している医学",
+    "description_en": "branch of medical science that applies biological and physiological principles to clinical practice",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q1293395",
+    "japanese": "",
+    "english": "Incidental imaging finding",
+    "description_ja": "",
+    "description_en": "an unanticipated finding which is not related to the original diagnostic inquiry",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q6729230",
+    "japanese": "",
+    "english": "Integrated medicine",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q46994",
+    "japanese": "遠隔医療",
+    "english": "telemedicine",
+    "description_ja": "",
+    "description_en": "providing clinical health care from a distance through telecommunication and information technology",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q6008695",
+    "japanese": "",
+    "english": "genomic medicine",
+    "description_ja": "",
+    "description_en": "medical discipline based on use of genomic information about individuals for clinical care and health policy",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q1380905",
+    "japanese": "社会精神医学",
+    "english": "social psychiatry",
+    "description_ja": "",
+    "description_en": "subfield of psychiatry",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q6806473",
+    "japanese": "医療占星術",
+    "english": "medical astrology",
+    "description_ja": "",
+    "description_en": "pseudoscientific medical system that associates various body parts, diseases, and drugs as under the influence of the astrological planets and zodiac signs",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q870895",
+    "japanese": "健康情報学",
+    "english": "health informatics",
+    "description_ja": "",
+    "description_en": "discipline at the intersection of information science, computer science, and health care",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q3332462",
+    "japanese": "",
+    "english": "maritime medicine",
+    "description_ja": "",
+    "description_en": "medical speciality",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q3857553",
+    "japanese": "",
+    "english": "Milan Approach",
+    "description_ja": "",
+    "description_en": "systemic model of family therapy",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q454812",
+    "japanese": "法医学",
+    "english": "medical jurisprudence",
+    "description_ja": "犯罪捜査や裁判などの法の適用過程で必要とされる医学的事項を研究または応用する社会医学",
+    "description_en": "branch of science and medicine",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q3523816",
+    "japanese": "分子医学",
+    "english": "molecular medicine",
+    "description_ja": "",
+    "description_en": "medical specialty and academic discipline",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q11404588",
+    "japanese": "医化学",
+    "english": "medical chemistry",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q1933330",
+    "japanese": "医療地質学",
+    "english": "medical geology",
+    "description_ja": "",
+    "description_en": "the study of the relationship between natural geological factors and their effects on human and animal health",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q162555",
+    "japanese": "腫瘍学",
+    "english": "oncology",
+    "description_ja": "医学の一分野",
+    "description_en": "branch of medicine dealing with cancer",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q1049976",
+    "japanese": "移植学",
+    "english": "transplantology",
+    "description_ja": "学問領域",
+    "description_en": "academic discipline, branch of medicine",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q668064",
+    "japanese": "肝臓学",
+    "english": "hepatology",
+    "description_ja": "",
+    "description_en": "medical specialty",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q77604",
+    "japanese": "放射線医学",
+    "english": "radiology",
+    "description_ja": "放射線を用いた診断や治療等を中心とした医学の一分野",
+    "description_en": "specialty that uses medical imaging to diagnose and treat diseases seen within the body",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q2143884",
+    "japanese": "",
+    "english": "social medicine",
+    "description_ja": "",
+    "description_en": "medical speciality",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q170201",
+    "japanese": "獣医学",
+    "english": "veterinary medicine",
+    "description_ja": "医学、診断学および治療原理をペット、家畜、野生動物およびエキゾチックアニマルに応用するための学問",
+    "description_en": "medical speciality dealing with the diseases of animals, animal welfare, etc.",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q123028",
+    "japanese": "小児科学",
+    "english": "pediatrics",
+    "description_ja": "新生児から思春期（だいたい15歳、中学校三年生頃まで）を対象として診療・研究を行う臨床医学の一分野",
+    "description_en": "field of medicine dealing with the care of children",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q177635",
+    "japanese": "腎臓学",
+    "english": "nephrology",
+    "description_ja": "",
+    "description_en": "medical specialty that concerns itself with the kidneys",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q5691117",
+    "japanese": "健康管理システム",
+    "english": "health management system",
+    "description_ja": "偽薬効果に関するニコラス・ハンフリーの理論",
+    "description_en": "evolutionary medicine regulative process",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q214963",
+    "japanese": "核医学",
+    "english": "nuclear medicine",
+    "description_ja": "",
+    "description_en": "medical specialty",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q7250299",
+    "japanese": "預言者の医術",
+    "english": "Prophetic medicine",
+    "description_ja": "",
+    "description_en": "advice given by the prophet Muhammad",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q2516343",
+    "japanese": "交通医学",
+    "english": "traffic medicine",
+    "description_ja": "",
+    "description_en": "branch of human medicine",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q11629020",
+    "japanese": "西洋医学",
+    "english": "Western medicine",
+    "description_ja": "生物医学・主流医学とも言い、西洋（西欧・アメリカ）を中心に発展した医学",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q7070492",
+    "japanese": "",
+    "english": "nutriomics",
+    "description_ja": "",
+    "description_en": "science that studies the food and nutrition domains",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q840545",
+    "japanese": "スポーツ医学",
+    "english": "sports medicine",
+    "description_ja": "",
+    "description_en": "medical branch concerned with the effects of sport and exercise",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q80015",
+    "japanese": "産婦人科学",
+    "english": "obstetrics and gynaecology",
+    "description_ja": "妊産婦を診る産科学、女性特有病を診る婦人科学の両者を指す用語、医学専門分野の1つ",
+    "description_en": "medical specialty",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q3505712",
+    "japanese": "家庭医療",
+    "english": "family medicine",
+    "description_ja": "",
+    "description_en": "medical specialty",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q7094080",
+    "japanese": "",
+    "english": "online doctor",
+    "description_ja": "",
+    "description_en": "virtual doctor",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q8001175",
+    "japanese": "",
+    "english": "wilderness medicine",
+    "description_ja": "",
+    "description_en": "skills and knowledge required for assessment and treatment of traumatic, environmental, and medical emergencies in remote geographic or wilderness environments",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q11865729",
+    "japanese": "足病学",
+    "english": "podiatry",
+    "description_ja": "足、足首、下肢の障害の研究、診断、および治療に専念する医学の分野",
+    "description_en": "branch of medicine devoted to the study of, diagnosis, and medical treatment of disorders of the foot, ankle, and lower extremity",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q4499419",
+    "japanese": "",
+    "english": "hospice and palliative medicine",
+    "description_ja": "",
+    "description_en": "medical specialty",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q327657",
+    "japanese": "リウマチ学",
+    "english": "rheumatology",
+    "description_ja": "",
+    "description_en": "medical specialty dealing with autoimmune diseases, especially those of joints and connective tissues, including arthritis",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q7135179",
+    "japanese": "",
+    "english": "paramedicine",
+    "description_ja": "",
+    "description_en": "physician-directed practice of emergency medicine, often viewed as the intersection of health care, public health, and public safety",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q3510806",
+    "japanese": "症候学",
+    "english": "symptomatology",
+    "description_ja": "",
+    "description_en": "study of symptoms",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q11180",
+    "japanese": "内科学",
+    "english": "internal medicine",
+    "description_ja": "医学の一分野",
+    "description_en": "medical specialty dealing with the prevention, diagnosis, and treatment of diseases of internal organs",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q1291275",
+    "japanese": "マテリアメディカ",
+    "english": "materia medica",
+    "description_ja": "",
+    "description_en": "historical Latin term for pharmacology",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q512285",
+    "japanese": "環境医学",
+    "english": "environmental medicine",
+    "description_ja": "",
+    "description_en": "medical specialty",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q628764",
+    "japanese": "産業医学",
+    "english": "occupational medicine",
+    "description_ja": "産業活動のなかで労働者における作業関連疾患を医学的に解明、予防し、労働者の健康を維持するための学問",
+    "description_en": "medical specialty focusing on the health of workers, including the ability to perform work; the physical, chemical, biological, and social environments of the workplace; and the health outcomes of environmental exposures",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q5133831",
+    "japanese": "",
+    "english": "clinical ecology",
+    "description_ja": "",
+    "description_en": "form of medical practice based on concepts regarding environmental chemicals and foods",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q851186",
+    "japanese": "レーザー治療",
+    "english": "laser medicine",
+    "description_ja": "",
+    "description_en": "application of laser in medical field",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q170912",
+    "japanese": "性科学",
+    "english": "sexology",
+    "description_ja": "",
+    "description_en": "scientific study of human sexuality",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q2085182",
+    "japanese": "",
+    "english": "pharyngology",
+    "description_ja": "",
+    "description_en": "a branch of medical science concerned with the pharynx and its diseases",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q1365243",
+    "japanese": "熱帯医学",
+    "english": "tropical medicine",
+    "description_ja": "",
+    "description_en": "medical specialty",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q11691599",
+    "japanese": "",
+    "english": "medical mathematics",
+    "description_ja": "",
+    "description_en": "branch of applied mathematics",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q4117999",
+    "japanese": "医業",
+    "english": "medical practice",
+    "description_ja": "",
+    "description_en": "therapeutic measures and procedures carried out by a doctor",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q1252929",
+    "japanese": "医学統計学",
+    "english": "medical statistics",
+    "description_ja": "",
+    "description_en": "applications of statistics to medicine and the health sciences",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q261659",
+    "japanese": "ナノメディシン",
+    "english": "nanomedicine",
+    "description_ja": "",
+    "description_en": "medical application of nanotechnology",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q12128",
+    "japanese": "歯学",
+    "english": "dentistry",
+    "description_ja": "顎顔面領域に関する外傷や疾患の予防、診断、治療方法を開発する学問",
+    "description_en": "branch of medicine dealing with oral health and teeth",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q83042",
+    "japanese": "神経学",
+    "english": "neurology",
+    "description_ja": "",
+    "description_en": "medical specialty dealing with disorders of the nervous system",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q1727131",
+    "japanese": "",
+    "english": "crenotherapy",
+    "description_ja": "",
+    "description_en": "treatment at a health resort",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q7318278",
+    "japanese": "",
+    "english": "Reverse vaccinology",
+    "description_ja": "",
+    "description_en": "approach to vaccinology by using genomics to find antigens",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q5550849",
+    "japanese": "",
+    "english": "geriatric rehabilitation",
+    "description_ja": "",
+    "description_en": "healthcare specialization",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q30716287",
+    "japanese": "",
+    "english": "Cancer rehabilitation",
+    "description_ja": "",
+    "description_en": "cancer Remedy",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q7002432",
+    "japanese": "",
+    "english": "neuromuscular medicine",
+    "description_ja": "",
+    "description_en": "subspecialty of neurology and physiatry that focuses the diagnosis and treatment of neuromuscular diseases",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q5141235",
+    "japanese": "",
+    "english": "cognitive rehabilitation therapy",
+    "description_ja": "",
+    "description_en": "evidence-based interventions to improve cognitive functioning of cognitively impaired individuals",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q6393681",
+    "japanese": "",
+    "english": "keraunomedicine",
+    "description_ja": "",
+    "description_en": "medical study of lightning casualties",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q2624498",
+    "japanese": "延命治療",
+    "english": "life sustaining care",
+    "description_ja": "治癒の見込みの無い生命予後不良者に対する延命のみを目的とした医療行為",
+    "description_en": "in medicine",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q134390861",
+    "japanese": "",
+    "english": "",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q2274060",
+    "japanese": "災害医療",
+    "english": "disaster medicine",
+    "description_ja": "医療の分野",
+    "description_en": "area of medical specialization",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q6806614",
+    "japanese": "医学毒性学",
+    "english": "medical toxicology",
+    "description_ja": "",
+    "description_en": "medical specialty",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q24190247",
+    "japanese": "",
+    "english": "pediatric emergency medicine",
+    "description_ja": "",
+    "description_en": "branch of emergency medicine dealing with the emergency care of children",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q5650329",
+    "japanese": "",
+    "english": "operational medicine",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q256771",
+    "japanese": "救急精神医学",
+    "english": "emergency psychiatry",
+    "description_ja": "",
+    "description_en": "clinical application of psychiatry in emergency settings",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q6008709",
+    "japanese": "プレホスピタル救急医療",
+    "english": "pre-hospital emergency medicine",
+    "description_ja": "",
+    "description_en": "medical speciality in which physicians care for seriously ill or injured patients before they arrive at hospital",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q5370724",
+    "japanese": "",
+    "english": "emergency nursing",
+    "description_ja": "",
+    "description_en": "nursing specialty concerned with care for patients who require immediate medical attention",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q56277646",
+    "japanese": "重症救急医学",
+    "english": "critical emergency medicine",
+    "description_ja": "",
+    "description_en": "subspecialty of anaesthesiology concerned with immediately life threating emergencies",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q1285151",
+    "japanese": "",
+    "english": "",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q1741838",
+    "japanese": "",
+    "english": "Children's cure",
+    "description_ja": "",
+    "description_en": "measure of medical care, rehabilitation or integration assistance lasting several weeks",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q1851928",
+    "japanese": "健康づくり",
+    "english": "health promotion",
+    "description_ja": "",
+    "description_en": "activity designed to increase the health of a population excluding medical treatment",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q3631833",
+    "japanese": "免疫の人為的誘導",
+    "english": "artificial induction of immunity",
+    "description_ja": "",
+    "description_en": "deliberate induction of host immunity",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q48998239",
+    "japanese": "",
+    "english": "prevention of mental disorders",
+    "description_ja": "",
+    "description_en": "measures that try to decrease the chances of a mental disorder occurring",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q7239230",
+    "japanese": "曝露前予防",
+    "english": "pre-exposure prophylaxis against HIV",
+    "description_ja": "",
+    "description_en": "use of drugs to prevent HIV infection in people who have not yet been exposed to HIV",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q29645799",
+    "japanese": "",
+    "english": "preventive nutrition",
+    "description_ja": "",
+    "description_en": "branch of nutrition science with the goal of preventing or delaying or reducing the impacts of disease and disease-related complications",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q4774943",
+    "japanese": "",
+    "english": "antibiotic prophylaxis",
+    "description_ja": "",
+    "description_en": "prevention of infection complications using antimicrobial therapy",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q810235",
+    "japanese": "",
+    "english": "psychosocial aid",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q30019781",
+    "japanese": "",
+    "english": "prevention of allergy",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q3308829",
+    "japanese": "出生前診断",
+    "english": "prenatal care",
+    "description_ja": "",
+    "description_en": "regular check-ups that allow doctors or midwives to treat and prevent potential health problems throughout the course of the pregnancy",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q123585871",
+    "japanese": "",
+    "english": "pre-exposure prophylaxis",
+    "description_ja": "",
+    "description_en": "use of medication to prevent disease in those not yet exposed to the disease-causing agent",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q1470093",
+    "japanese": "肥満学",
+    "english": "bariatric medicine",
+    "description_ja": "",
+    "description_en": "branch of medicine that deals with the causes, prevention, and treatment of obesity",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q93935",
+    "japanese": "歯磨き",
+    "english": "tooth brushing",
+    "description_ja": "歯および歯周の疾患を予防するための手法のひとつ",
+    "description_en": "act of scrubbing teeth with a toothbrush equipped with toothpaste",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q102056722",
+    "japanese": "",
+    "english": "prevention of SARS-CoV-2/COVID-19",
+    "description_ja": "",
+    "description_en": "prevention of exposure to, transmission of or infection by the SARS-CoV-2 virus and/or the COVID-19 disease it causes",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q54806757",
+    "japanese": "性行為感染症の予防",
+    "english": "prevention of sexually transmitted diseases",
+    "description_ja": "",
+    "description_en": "prevent and minimize the occurrence of STDs",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q552461",
+    "japanese": "手洗い",
+    "english": "hand washing",
+    "description_ja": "手指の汚れなどを除去する行為",
+    "description_en": "act of cleaning one's hands",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q162297",
+    "japanese": "衛生",
+    "english": "hygiene",
+    "description_ja": "健康維持のための環境整備",
+    "description_en": "set of practices performed for the preservation of health",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q55190072",
+    "japanese": "中毒医学",
+    "english": "addiction medicine",
+    "description_ja": "",
+    "description_en": "medical specialty that deals with the treatment of addiction",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q7281570",
+    "japanese": "",
+    "english": "radon mitigation",
+    "description_ja": "",
+    "description_en": "Any process used to reduce radon gas concentrations in the breathing zones of occupied buildings, or radon from water supplies",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q65042430",
+    "japanese": "",
+    "english": "prophylactic surgery",
+    "description_ja": "",
+    "description_en": "medical intervention",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q192995",
+    "japanese": "予防接種",
+    "english": "vaccination",
+    "description_ja": "病気に対する免疫をつけるための抗原物質の投与",
+    "description_en": "administration of a vaccine to protect against disease",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q121029611",
+    "japanese": "",
+    "english": "Anti-D prophylaxis",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q2387000",
+    "japanese": "戦術的戦傷救護",
+    "english": "Tactical Combat Casualty Care",
+    "description_ja": "",
+    "description_en": "United States military guidelines for prehospital trauma care",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q5050921",
+    "japanese": "負傷兵搬送",
+    "english": "casualty evacuation",
+    "description_ja": "",
+    "description_en": "military operation to remove casualties by air from the combat zone",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q6857804",
+    "japanese": "軍事精神医学",
+    "english": "military psychiatry",
+    "description_ja": "",
+    "description_en": "branch of psychiatry concerned with Armed Forces personnel",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q123476728",
+    "japanese": "",
+    "english": "tactical medicine",
+    "description_ja": "",
+    "description_en": "the practice of providing medical care in high-risk or tactical environments, such as military operations, law enforcement incidents, or disaster response",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q9254278",
+    "japanese": "",
+    "english": "military epidemiology",
+    "description_ja": "",
+    "description_en": "branch of epidemiology",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q113655558",
+    "japanese": "",
+    "english": "military internal medicine",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q5446917",
+    "japanese": "",
+    "english": "field hygiene and sanitation",
+    "description_ja": "",
+    "description_en": "aspect of military medicine",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q5877314",
+    "japanese": "",
+    "english": "clinical genetics",
+    "description_ja": "",
+    "description_en": "medical specialty",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q2098469",
+    "japanese": "プラズマ医学",
+    "english": "plasma medicine",
+    "description_ja": "",
+    "description_en": "field of medical research",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q113533499",
+    "japanese": "臨床腎臓学",
+    "english": "clinical nephrology",
+    "description_ja": "",
+    "description_en": "field of medicine",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q121493590",
+    "japanese": "臨床歯科",
+    "english": "clinical dentistry",
+    "description_ja": "",
+    "description_en": "branch of dentistry",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q3560823",
+    "japanese": "",
+    "english": "clinical virology",
+    "description_ja": "",
+    "description_en": "medical speciality focusing on the effects of viruses",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q429500",
+    "japanese": "",
+    "english": "neonatal nursing",
+    "description_ja": "",
+    "description_en": "Specialty of nursing",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q5532951",
+    "japanese": "",
+    "english": "Genetics nursing",
+    "description_ja": "",
+    "description_en": "nursing specialty",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q2231753",
+    "japanese": "",
+    "english": "obstetrical nursing",
+    "description_ja": "",
+    "description_en": "prenatal care and pregnancy nursing specialty",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q2801621",
+    "japanese": "精神科看護",
+    "english": "psychiatric nursing",
+    "description_ja": "",
+    "description_en": "specialty applying psychiatric principles in caring for the mentally ill",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q11424265",
+    "japanese": "地域看護学",
+    "english": "community health nursing",
+    "description_ja": "",
+    "description_en": "nursing care delivered outside acute hospitals (e.g. home, school, prison)",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q125839790",
+    "japanese": "",
+    "english": "nursing management",
+    "description_ja": "",
+    "description_en": "subset of nursing that focuses on nurse management and patient care standards",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q1952732",
+    "japanese": "",
+    "english": "oral hygiene care",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q2345374",
+    "japanese": "",
+    "english": "terminal care",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q110353047",
+    "japanese": "",
+    "english": "Māori nursing",
+    "description_ja": "",
+    "description_en": "field of research",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q1476755",
+    "japanese": "看護アセスメント",
+    "english": "nursing assessment",
+    "description_ja": "",
+    "description_en": "gathering of information about a patient's physiological, psychological, sociological and spiritual status",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q5468719",
+    "japanese": "フォレンジック看護",
+    "english": "forensic nursing",
+    "description_ja": "",
+    "description_en": "application of nursing knowledge to questions of law",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q110408524",
+    "japanese": "",
+    "english": "preventative nursing",
+    "description_ja": "",
+    "description_en": "aspects of nursing focused on preventing illness and promoting health",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q7696411",
+    "japanese": "",
+    "english": "telenursing",
+    "description_ja": "",
+    "description_en": "nursing care through telecoms",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q7104849",
+    "japanese": "",
+    "english": "orthopaedic nursing",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q854489",
+    "japanese": "",
+    "english": "Bezugspflege",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q13378278",
+    "japanese": "",
+    "english": "holistic nursing",
+    "description_ja": "",
+    "description_en": "medical care practice",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q13378403",
+    "japanese": "",
+    "english": "maternal-child nursing",
+    "description_ja": "",
+    "description_en": "nursing specialty that deals with the care of pregnant women, with childbirth and the care of their newborn children",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q6806249",
+    "japanese": "",
+    "english": "medical-surgical nursing",
+    "description_ja": "",
+    "description_en": "nursing specialty",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q7243152",
+    "japanese": "",
+    "english": "primary nursing",
+    "description_ja": "",
+    "description_en": "nursing care delivery which emphasizes continuity of care and responsibility acceptance by having one registered nurse",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q69960115",
+    "japanese": "",
+    "english": "nursing specialty",
+    "description_ja": "",
+    "description_en": "branch of nursing practice limited to a specialized area",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q56275888",
+    "japanese": "",
+    "english": "Correctional nursing",
+    "description_ja": "",
+    "description_en": "field of nursing",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q7835958",
+    "japanese": "",
+    "english": "travel nursing",
+    "description_ja": "",
+    "description_en": "nursing practice involving licensed professional nurses who travel to work in temporary nursing positions",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q352454",
+    "japanese": "ICU看護師",
+    "english": "critical care nursing",
+    "description_ja": "",
+    "description_en": "nursing with a focus on the utmost care of the critically ill or unstable patients",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q25112484",
+    "japanese": "",
+    "english": "Person-centered care",
+    "description_ja": "",
+    "description_en": "medical care with a patient actively participating in the plan",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q1382364",
+    "japanese": "根拠に基づく看護",
+    "english": "evidence-based nursing",
+    "description_ja": "",
+    "description_en": "nursing care that integrates science with nursing expertise",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q3798492",
+    "japanese": "従軍看護",
+    "english": "military nursing",
+    "description_ja": "",
+    "description_en": "practice of nursing in military environments",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q6672123",
+    "japanese": "長期医療",
+    "english": "long-term care",
+    "description_ja": "",
+    "description_en": "services for the elderly or those with chronic illness or disability",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q73214500",
+    "japanese": "",
+    "english": "primary care nursing",
+    "description_ja": "",
+    "description_en": "nursing as primary careprovider",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q178585",
+    "japanese": "",
+    "english": "care dependency",
+    "description_ja": "",
+    "description_en": "need on caregiver's assistance for daily activities",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q374082",
+    "japanese": "看護過程",
+    "english": "nursing process",
+    "description_ja": "",
+    "description_en": "method of nursing care",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q69961726",
+    "japanese": "",
+    "english": "neuroscience nursing",
+    "description_ja": "",
+    "description_en": "nursing specialty focusing on the needs of patients with dysfunction of the nervous system",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q679690",
+    "japanese": "集中治療医学",
+    "english": "intensive care medicine",
+    "description_ja": "生命に関わる状態にある患者を扱う医療専門分野",
+    "description_en": "medical care subspecialty, treating critically ill",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q66707853",
+    "japanese": "",
+    "english": "rehabilitation nursing",
+    "description_ja": "",
+    "description_en": "nursing specialty involved in responses to health problems with altered functional ability and life-style",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q69952803",
+    "japanese": "",
+    "english": "hospice and palliative care nursing",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q118121700",
+    "japanese": "",
+    "english": "home visiting",
+    "description_ja": "",
+    "description_en": "subconcept of nursing",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q7246193",
+    "japanese": "",
+    "english": "private duty nursing",
+    "description_ja": "",
+    "description_en": "nursing by a registered or licensed nurse to care for a specific patient in a health facility or in the home",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q7257749",
+    "japanese": "公衆衛生看護",
+    "english": "public health nursing",
+    "description_ja": "",
+    "description_en": "nursing speciality focused on public health",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q70341204",
+    "japanese": "",
+    "english": "supervisory nursing",
+    "description_ja": "",
+    "description_en": "administration of nursing services for one or more clinical units",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q70346744",
+    "japanese": "",
+    "english": "office nursing",
+    "description_ja": "",
+    "description_en": "nursing practice limited to an office setting",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q70437562",
+    "japanese": "",
+    "english": "moving and lifting patients",
+    "description_ja": "",
+    "description_en": "moving or repositioning patients",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q7168673",
+    "japanese": "周術期看護",
+    "english": "perioperative nursing",
+    "description_ja": "",
+    "description_en": "nursing specialty",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q115339624",
+    "japanese": "",
+    "english": "critical care nursing simulation",
+    "description_ja": "",
+    "description_en": "type of XR nursing simulation",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q115343108",
+    "japanese": "",
+    "english": "Wound Care Simulation",
+    "description_ja": "",
+    "description_en": "Type of XR Nursing Simulation",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q2341717",
+    "japanese": "審美歯科学",
+    "english": "cosmetic dentistry",
+    "description_ja": "",
+    "description_en": "dental work that improves appearance",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q17630416",
+    "japanese": "",
+    "english": "anti-wrinkle injection",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q3675172",
+    "japanese": "美容外科学",
+    "english": "cosmetic surgery",
+    "description_ja": "形成外科学の中でも美容的見た目の改善を目的とした分野",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q691640",
+    "japanese": "根拠に基づいた医療",
+    "english": "evidence-based medicine",
+    "description_ja": "",
+    "description_en": "approach to medical practice intended to optimize decision-making by emphasizing the use of evidence from well-designed and well-conducted research",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q7107630",
+    "japanese": "",
+    "english": "osteopathic medicine in Canada",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q30314360",
+    "japanese": "",
+    "english": "Neuromusculoskeletal Medicine",
+    "description_ja": "",
+    "description_en": "subspeciality within osteopathic medicine",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q7107631",
+    "japanese": "",
+    "english": "osteopathic medicine in the United States",
+    "description_ja": "",
+    "description_en": "branch of the medical profession",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q11774630",
+    "japanese": "",
+    "english": "dermatovenerology",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q3754605",
+    "japanese": "",
+    "english": "copper in biology",
+    "description_ja": "",
+    "description_en": "Description of the element's function as an essential trace element",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q4215775",
+    "japanese": "金属中毒",
+    "english": "metal poisoning",
+    "description_ja": "金属の摂取により毒性のある化合物が形成されること",
+    "description_en": "toxic and harmful effects of certain metals and their compounds to living organisms",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q115582861",
+    "japanese": "",
+    "english": "cardiotoxicology",
+    "description_ja": "",
+    "description_en": "study of toxins of the blood",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q85746688",
+    "japanese": "",
+    "english": "Bernheim syndrome",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q5038741",
+    "japanese": "循環器系の生理学",
+    "english": "cardiovascular physiology",
+    "description_ja": "",
+    "description_en": "study of the circulatory system, specifically addressing the physiology of the heart (\"cardio\") and blood vessels (\"vascular\")",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q113884175",
+    "japanese": "小児循環器学",
+    "english": "pediatric cardiology",
+    "description_ja": "",
+    "description_en": "field of medicine related to the cardiovascular health of children",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q29315243",
+    "japanese": "",
+    "english": "cardiooncology",
+    "description_ja": "",
+    "description_en": "interdisciplinary medical research field between cardiology and oncology",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q7483166",
+    "japanese": "心臓物理学",
+    "english": "cardiophysics",
+    "description_ja": "",
+    "description_en": "interdisciplinary science that stands at the junction of cardiology and medical physics",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q1960316",
+    "japanese": "",
+    "english": "cardiogenetics",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q1573194",
+    "japanese": "",
+    "english": "rhythmology",
+    "description_ja": "",
+    "description_en": "cardiology specialty dedicated to cardiac rhythm abnormalities",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q5038704",
+    "japanese": "",
+    "english": "Cardiogeriatrics",
+    "description_ja": "",
+    "description_en": "Branch of cardiology addressing the care of elderly people with heart disease",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q2008344",
+    "japanese": "経皮的冠動脈形成術",
+    "english": "percutaneous coronary intervention",
+    "description_ja": "",
+    "description_en": "medical techniques used to manage coronary occlusion",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q54875008",
+    "japanese": "",
+    "english": "veterinary cardiology",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q7002155",
+    "japanese": "",
+    "english": "neurocardiology",
+    "description_ja": "",
+    "description_en": "Discipline within medical science",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q2118956",
+    "japanese": "心毒性",
+    "english": "cardiotoxicity",
+    "description_ja": "化学物質が心臓の電気生理学的機能障害や心筋の損傷を発生させる性質",
+    "description_en": "damage to heart electrophysiology or muscle function",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q3302130",
+    "japanese": "",
+    "english": "cardiac electrophysiology",
+    "description_ja": "",
+    "description_en": "science of elucidating, diagnosing and treating the electrical activities of the heart",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q111763181",
+    "japanese": "",
+    "english": "cardiovascular pharmacotherapy",
+    "description_ja": "",
+    "description_en": "medical treatment for the heart",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q112256811",
+    "japanese": "",
+    "english": "nuclear cardiology",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q113533491",
+    "japanese": "",
+    "english": "clinical cardiology",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q113884288",
+    "japanese": "",
+    "english": "acute cardiology",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q3559674",
+    "japanese": "",
+    "english": "interventional cardiology",
+    "description_ja": "",
+    "description_en": "branch of cardiology that deals specifically with the catheter based treatment of structural heart diseases",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q16070050",
+    "japanese": "",
+    "english": "",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q1217322",
+    "japanese": "神経眼科学",
+    "english": "neuro-ophthalmology",
+    "description_ja": "",
+    "description_en": "medical subspecialty of ophthalmology dealing with complex systemic diseases that have manifestations in the visual system",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q135195879",
+    "japanese": "",
+    "english": "clinical ophthalmology",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q116222487",
+    "japanese": "",
+    "english": "Brusco Vision",
+    "description_ja": "",
+    "description_en": "LASIK Surgery Center",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q2352552",
+    "japanese": "斜視学",
+    "english": "strabology",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q55637181",
+    "japanese": "",
+    "english": "Vitreology",
+    "description_ja": "",
+    "description_en": "subspecialised field of ophthalmology and vision science",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q4406766",
+    "japanese": "",
+    "english": "iridodonesis",
+    "description_ja": "",
+    "description_en": "vibration or agitated motion of the iris",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q114444410",
+    "japanese": "",
+    "english": "Tersigni Vision",
+    "description_ja": "",
+    "description_en": "LASIK Surgery Center",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q7159228",
+    "japanese": "",
+    "english": "pediatric ophthalmology",
+    "description_ja": "",
+    "description_en": "field of medicine treating eye disorders in children",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q2138853",
+    "japanese": "",
+    "english": "vision rehabilitation",
+    "description_ja": "",
+    "description_en": "medical rehabilitation measures to improve vision",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q113884160",
+    "japanese": "",
+    "english": "clinical neuroophthalmology",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q113884054",
+    "japanese": "",
+    "english": "veterinary ophthalmology",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q1241279",
+    "japanese": "視能訓練",
+    "english": "orthoptics",
+    "description_ja": "",
+    "description_en": "sub-discipline of ophthalmology - the study or treatment of irregularities of the eyes, especially those of the eye muscles that prevent normal binocular vision",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q112189218",
+    "japanese": "",
+    "english": "Waite Vision",
+    "description_ja": "",
+    "description_en": "LASIK Surgery Center",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q4505966",
+    "japanese": "デジタル・イモータリティ",
+    "english": "digital immortality",
+    "description_ja": "",
+    "description_en": "hypothetical concept of storing",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q2554353",
+    "japanese": "",
+    "english": "wehau",
+    "description_ja": "",
+    "description_en": "skin disease in ancient Egypt",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q9164697",
+    "japanese": "",
+    "english": "balneochemistry",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q54973970",
+    "japanese": "",
+    "english": "neoplasms by histologic type",
+    "description_ja": "",
+    "description_en": "collective term for the various histological types of neoplasms",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q129676870",
+    "japanese": "",
+    "english": "psychonosology",
+    "description_ja": "",
+    "description_en": "the systematic classification of mental disorders",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q5550843",
+    "japanese": "",
+    "english": "geriatric oncology",
+    "description_ja": "",
+    "description_en": "branch of medicine",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q438906",
+    "japanese": "",
+    "english": "sign of ageing",
+    "description_ja": "",
+    "description_en": "Multifactorial geriatric symptoms",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q136514586",
+    "japanese": "",
+    "english": "mini-mental state examination (MMSE) score",
+    "description_ja": "",
+    "description_en": "the numerical result obtained from a standardized, brief test used to assess a person's cognitive functions",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q31841220",
+    "japanese": "",
+    "english": "geriatric traumatology",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q1278031",
+    "japanese": "老年精神医学",
+    "english": "geriatric psychiatry",
+    "description_ja": "精神医学の一つ",
+    "description_en": "subspecialty of psychiatry dealing with mental disorders in humans with old age",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q5432181",
+    "japanese": "",
+    "english": "fall prevention",
+    "description_ja": "",
+    "description_en": "safety precaution for the elderly",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q16470214",
+    "japanese": "",
+    "english": "",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q20014196",
+    "japanese": "",
+    "english": "",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q105576636",
+    "japanese": "",
+    "english": "",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q114832478",
+    "japanese": "",
+    "english": "",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q136443290",
+    "japanese": "",
+    "english": "dopaminergic dysfunction",
+    "description_ja": "",
+    "description_en": "a scientific term used to describe a problem, imbalance, or malfunction within the dopaminergic system of the brain.",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q2515813",
+    "japanese": "",
+    "english": "comparative psychiatry",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q109317016",
+    "japanese": "",
+    "english": "ecopsychiatry",
+    "description_ja": "",
+    "description_en": "application of ecological thought to the study and practice of psychiatry",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q5933911",
+    "japanese": "リエゾン精神医学",
+    "english": "consultation-liaison psychiatry",
+    "description_ja": "学問の一つ",
+    "description_en": "branch of psychiatry",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q96419396",
+    "japanese": "",
+    "english": "Sports psychiatry",
+    "description_ja": "",
+    "description_en": "branch of medicine",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q1741745",
+    "japanese": "児童精神医学",
+    "english": "child and adolescent psychiatry",
+    "description_ja": "精神医学の一つ",
+    "description_en": "branch of psychiatry",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q744029",
+    "japanese": "睡眠医学",
+    "english": "sleep medicine",
+    "description_ja": "",
+    "description_en": "medical specialty or subspecialty devoted to the diagnosis and therapy of sleep disturbances and disorders",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q41630",
+    "japanese": "精神分析学",
+    "english": "psychoanalysis",
+    "description_ja": "学問の一つ",
+    "description_en": "psychological theory that was founded in 1890 by the Viennese neurologist Sigmund Freud",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q26492938",
+    "japanese": "",
+    "english": "perinatal psychiatry",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q4681117",
+    "japanese": "中毒精神医学",
+    "english": "addiction psychiatry",
+    "description_ja": "",
+    "description_en": "medical subspecialty within psychiatry",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q69942043",
+    "japanese": "",
+    "english": "orthopsychiatry",
+    "description_ja": "",
+    "description_en": "study and treatment of human behavior problems with emphasis on promotion of mental health",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q2706176",
+    "japanese": "生物学的精神医学",
+    "english": "biological psychiatry",
+    "description_ja": "",
+    "description_en": "approach to psychiatry that aims to understand mental disorder in terms of the biological function of the nervous system",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q2549364",
+    "japanese": "",
+    "english": "telepsychiatry",
+    "description_ja": "",
+    "description_en": "mental-health care by telecommunication",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q2976167",
+    "japanese": "文化精神医学",
+    "english": "cross-cultural psychiatry",
+    "description_ja": "",
+    "description_en": "subfield of psychiatry",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q2699874",
+    "japanese": "神経精神医学",
+    "english": "neuropsychiatry",
+    "description_ja": "",
+    "description_en": "branch of medicine that deals with mental disorders attributable to diseases of the nervous system",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q9390268",
+    "japanese": "地域精神保健",
+    "english": "community mental health service",
+    "description_ja": "",
+    "description_en": "treatment of mental disorders in homes over asylums",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q131399919",
+    "japanese": "",
+    "english": "schizophrenic patient",
+    "description_ja": "",
+    "description_en": "person with schizophrenia",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q136446790",
+    "japanese": "",
+    "english": "cognitive impairment",
+    "description_ja": "",
+    "description_en": "a decline or deficit in one or more of the brain's cognitive functions. These functions include mental processes such as memory, thinking, reasoning, learning, attention, judgment, and problem-solving.",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q1407263",
+    "japanese": "司法精神医学",
+    "english": "forensic psychiatry",
+    "description_ja": "法医学の一つ",
+    "description_en": "medical specialty",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q57719220",
+    "japanese": "",
+    "english": "phenomenological psychiatry",
+    "description_ja": "",
+    "description_en": "branch of psychiatry",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q113547696",
+    "japanese": "",
+    "english": "general psychiatry",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q112251963",
+    "japanese": "",
+    "english": "special psychiatry",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q115156404",
+    "japanese": "",
+    "english": "clinical psychiatry",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q3510807",
+    "japanese": "",
+    "english": "psychiatric assessment",
+    "description_ja": "",
+    "description_en": "process of gathering information about a person within a psychiatric service, with the purpose of making a diagnosis",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q473867",
+    "japanese": "心身医学",
+    "english": "psychosomatic medicine",
+    "description_ja": "心身症または不定愁訴といった精神的起因による肉体の不調を専門にした医学科",
+    "description_en": "interdisciplinary medical field exploring the relationships among social, psychological, and behavioral factors on bodily processes and quality of life in humans and animals",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q97277197",
+    "japanese": "",
+    "english": "Nutritional psychiatry",
+    "description_ja": "",
+    "description_en": "clinical application of psychiatry to treat nutritional issues",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q125674876",
+    "japanese": "",
+    "english": "personalized mRNA cancer vaccine therapy",
+    "description_ja": "",
+    "description_en": "personalized therapy that uses a cancer vaccine based on mRNA vaccine technology",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q386014",
+    "japanese": "性差医療",
+    "english": "gender-based medicine",
+    "description_ja": "",
+    "description_en": "medically-significant effects differing from person to person depending on the nature of their sex",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q2419399",
+    "japanese": "",
+    "english": "theranostics",
+    "description_ja": "",
+    "description_en": "cancer diagnosis and treatment",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q16605969",
+    "japanese": "",
+    "english": "",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q111210531",
+    "japanese": "",
+    "english": "",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q126096575",
+    "japanese": "",
+    "english": "",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q4456824",
+    "japanese": "",
+    "english": "Thuốc Nam",
+    "description_ja": "",
+    "description_en": "traditional medicine practiced by Vietnamese people",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q1725720",
+    "japanese": "柔道整復師",
+    "english": "bonesetter",
+    "description_ja": "国家資格の一つ",
+    "description_en": "practitioner of joint manipulation",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q18693974",
+    "japanese": "カレワラ式接骨",
+    "english": "Kalevala bone setting",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q29033386",
+    "japanese": "",
+    "english": "Purga (tobacco)",
+    "description_ja": "",
+    "description_en": "Preparation and use of tobacco (orally)",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q2572867",
+    "japanese": "モンゴル医学",
+    "english": "traditional Mongolian medicine",
+    "description_ja": "",
+    "description_en": "medical practice indigenous to the peoples of Mongolia",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q133752035",
+    "japanese": "",
+    "english": "Somali traditional medicine",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q16496694",
+    "japanese": "",
+    "english": "Herbal baths",
+    "description_ja": "",
+    "description_en": "Bath with medicinal plants",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q134720040",
+    "japanese": "",
+    "english": "traditional medicine in South Africa",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q29167440",
+    "japanese": "",
+    "english": "Singada",
+    "description_ja": "",
+    "description_en": "Liquid tobacco snuff",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q97341145",
+    "japanese": "",
+    "english": "bonesetting (folk medicine)",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q112879390",
+    "japanese": "",
+    "english": "Ayurvedic medicine",
+    "description_ja": "",
+    "description_en": "Traditional medicines of Ayurveda",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q2329068",
+    "japanese": "",
+    "english": "traditional African medicine",
+    "description_ja": "",
+    "description_en": "traditional medical practices in Africa",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q1567507",
+    "japanese": "チベット医学",
+    "english": "traditional Tibetan medicine",
+    "description_ja": "",
+    "description_en": "traditional medical system",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q9797370",
+    "japanese": "",
+    "english": "",
+    "description_ja": "",
+    "description_en": "traditional medicine",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q3439913",
+    "japanese": "東洋医学",
+    "english": "traditional Asian medicine",
+    "description_ja": "",
+    "description_en": "traditional Oriental systems of medicine",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q15954407",
+    "japanese": "",
+    "english": "traditional Uyghur medicine",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q29582858",
+    "japanese": "",
+    "english": "Raspa del jíkuri",
+    "description_ja": "",
+    "description_en": "Tarahumara ritual dance",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q126126367",
+    "japanese": "",
+    "english": "nigerian traditional medicine",
+    "description_ja": "",
+    "description_en": "alternative medical practice drawn from traditional medicine in Nigeria",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q130244129",
+    "japanese": "",
+    "english": "healing soil",
+    "description_ja": "",
+    "description_en": "soil that is believed to have sacred, healing or supernatural powers",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q6008723",
+    "japanese": "",
+    "english": "Andean traditional medicine",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q126557625",
+    "japanese": "",
+    "english": "Cameroonian Traditional Medicine",
+    "description_ja": "",
+    "description_en": "healing art based on herbalism and various traditional or spiritual practices",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q25705923",
+    "japanese": "",
+    "english": "Inuit medicine",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q200253",
+    "japanese": "伝統中国医学",
+    "english": "traditional Chinese medicine",
+    "description_ja": "中国の伝統的な民間療法から派生した代替医療",
+    "description_en": "alternative medical practice drawn from traditional medicine in China",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q17320123",
+    "japanese": "",
+    "english": "curanderism",
+    "description_ja": "",
+    "description_en": "traditional medicine in Latin-America",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q4200773",
+    "japanese": "ジャムウ",
+    "english": "jamu",
+    "description_ja": "インドネシアの伝統医学に基づいた代替医療行為",
+    "description_en": "form of herbal medicine and treatment that has been practised in Indonesia since the eighth century",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q2447806",
+    "japanese": "タイ式医療",
+    "english": "traditional Thai medicine",
+    "description_ja": "",
+    "description_en": "traditional system of methods and practices in Thailand",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q3273355",
+    "japanese": "シッダ医学",
+    "english": "Siddha traditional medicinal Procedure",
+    "description_ja": "インド医学界と最高裁によって、似非科学と確定した南インドの民間療法",
+    "description_en": "system of traditional medicine originating in South India",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q7918350",
+    "japanese": "",
+    "english": "vegetalismo",
+    "description_ja": "",
+    "description_en": "practice of mestizo shamanism in Peruvian Amazonia",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q3480271",
+    "japanese": "特許薬",
+    "english": "patent medicine",
+    "description_ja": "",
+    "description_en": "product that is promoted and sold as a medical cure, which may not have any medical value",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q131539468",
+    "japanese": "",
+    "english": "indigenous Brazilian medicine",
+    "description_ja": "",
+    "description_en": "system of medicinal beliefs practiced by indigenous Brazilian people",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q135466984",
+    "japanese": "",
+    "english": "Sowa Rigpa",
+    "description_ja": "",
+    "description_en": "traditional medicine system of Tibet",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q174519",
+    "japanese": "",
+    "english": "Muti",
+    "description_ja": "",
+    "description_en": "traditional medicine",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q3332443",
+    "japanese": "",
+    "english": "arabic medicine",
+    "description_ja": "",
+    "description_en": "traditional concepts of medicine and associated methods reflected in medicine in the Arab world",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q3332452",
+    "japanese": "",
+    "english": "ancient Iranian medicine",
+    "description_ja": "",
+    "description_en": "study and practice of medicine in ancient Iran/Persia",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q1371416",
+    "japanese": "",
+    "english": "ethnomedicine",
+    "description_ja": "",
+    "description_en": "study of traditional medicine practiced by various ethnic groups",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q66717883",
+    "japanese": "",
+    "english": "Shoqma",
+    "description_ja": "",
+    "description_en": "ritual cleansing used in Peruvian traditional medicine",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q20707850",
+    "japanese": "イランの伝統医学",
+    "english": "Iranian traditional medicine",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q110890571",
+    "japanese": "",
+    "english": "traditional Balkan medicine",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q113044223",
+    "japanese": "",
+    "english": "Finnish traditional healing",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q88454408",
+    "japanese": "",
+    "english": "Xue-Bi-Jing",
+    "description_ja": "",
+    "description_en": "Chinese traditional medicine",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q861699",
+    "japanese": "本草学",
+    "english": "herbalism",
+    "description_ja": "薬学",
+    "description_en": "study and use of medicinal properties of plants",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q83059234",
+    "japanese": "",
+    "english": "Teacher plant diet",
+    "description_ja": "",
+    "description_en": "ritual diet where a amazonian teacher plant is taken",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q127522898",
+    "japanese": "",
+    "english": "oral biology",
+    "description_ja": "",
+    "description_en": "area of knowledge that deals with the structure, development, and function of the oral tissues, their interrelationships, and their relation to other organ systems in both health and disease",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q113129142",
+    "japanese": "医療生化学とメタボロミクス",
+    "english": "medical biochemistry and metabolomics",
+    "description_ja": "学問領域",
+    "description_en": "field of research",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q113066539",
+    "japanese": "",
+    "english": "oncology and carcinogenesis",
+    "description_ja": "",
+    "description_en": "field of research",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q113129005",
+    "japanese": "",
+    "english": "cardiovascular medicine and haematology",
+    "description_ja": "",
+    "description_en": "field of research",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q113129166",
+    "japanese": "",
+    "english": "nutrition and dietetics",
+    "description_ja": "",
+    "description_en": "field of research",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q136527833",
+    "japanese": "",
+    "english": "reproductive studies",
+    "description_ja": "",
+    "description_en": "an interdisciplinary academic field that examines the complex facets of human and animal reproduction across biological, social, historical, political, ethical, and technological dimensions",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q110351465",
+    "japanese": "",
+    "english": "Māori biomedical and clinical sciences",
+    "description_ja": "",
+    "description_en": "field of research",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q7663857",
+    "japanese": "",
+    "english": "Systems biomedicine",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q12761879",
+    "japanese": "",
+    "english": "adenology",
+    "description_ja": "",
+    "description_en": "branch of medical science dealing with the structure and function of glands and lymphoid organs",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q1145644",
+    "japanese": "バイオミメティクス",
+    "english": "biomimetics",
+    "description_ja": "生物模倣技術",
+    "description_en": "imitation of biological systems to understand underlying mechanisms and to obtain ideas from nature to benefit science, engineering, and medicine",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q598976",
+    "japanese": "医学微生物学",
+    "english": "medical microbiology",
+    "description_ja": "",
+    "description_en": "medical specialty",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q13439429",
+    "japanese": "",
+    "english": "biomedical sciences",
+    "description_ja": "",
+    "description_en": "set of applied sciences applying portions of natural science or formal science, or both, to knowledge, interventions, or technology that are of use in healthcare or public health",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q113129019",
+    "japanese": "臨床科学",
+    "english": "clinical sciences",
+    "description_ja": "",
+    "description_en": "field of research",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q327092",
+    "japanese": "医用生体工学",
+    "english": "biomedical engineering",
+    "description_ja": "",
+    "description_en": "application of engineering principles and design concepts to medicine and biology",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q126078571",
+    "japanese": "",
+    "english": "thermology",
+    "description_ja": "",
+    "description_en": "medical science that derives diagnostic indications from highly detailed and sensitive infrared images of the human body",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q113129180",
+    "japanese": "眼科学と検眼学",
+    "english": "ophthalmology and optometry",
+    "description_ja": "",
+    "description_en": "field of research",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q113884185",
+    "japanese": "",
+    "english": "clinical neurology",
+    "description_ja": "",
+    "description_en": "the medical specialty dedicated to diagnosing and treating disorders of the nervous system.",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q85708797",
+    "japanese": "",
+    "english": "biomedical computation",
+    "description_ja": "",
+    "description_en": "science of biomedical research using computational methods",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q101929",
+    "japanese": "免疫学",
+    "english": "immunology",
+    "description_ja": "生体の持つ免疫機能の解明を目的とする学問分野",
+    "description_en": "branch of medicine studying the immune system",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q127270670",
+    "japanese": "",
+    "english": "vitaminology",
+    "description_ja": "",
+    "description_en": "branch of knowledge dealing with vitamins, their nature, action, and use",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q1061415",
+    "japanese": "再生医学",
+    "english": "regenerative medicine",
+    "description_ja": "医学分野の一つ",
+    "description_en": "branch of translational research in tissue engineering and molecular biology dealing with the process of replacing, engineering, or regenerating biological units to (re-)establish normal function",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q106584072",
+    "japanese": "",
+    "english": "",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q17052685",
+    "japanese": "",
+    "english": "electronic consultation",
+    "description_ja": "",
+    "description_en": "physician or other consultation via remote telecommunications",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q7696118",
+    "japanese": "",
+    "english": "teledentistry",
+    "description_ja": "",
+    "description_en": "use of telecommunications in dental care",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q3555418",
+    "japanese": "オンラインカウンセリング",
+    "english": "online counseling",
+    "description_ja": "",
+    "description_en": "form of counseling",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q124256271",
+    "japanese": "",
+    "english": "mental health teletherapy",
+    "description_ja": "",
+    "description_en": "provision of mental health services via telecoms",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q7312165",
+    "japanese": "",
+    "english": "remote patient monitoring",
+    "description_ja": "",
+    "description_en": "technology to monitor patients outside of conventional clinical settings",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q136543370",
+    "japanese": "",
+    "english": "public health technology",
+    "description_ja": "",
+    "description_en": "the application of scientific knowledge, devices, tools, and organized systems designed specifically to prevent disease, prolong life, and promote health across entire populations",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q28324961",
+    "japanese": "ヘルスケアにおける人工知能",
+    "english": "artificial intelligence in healthcare",
+    "description_ja": "",
+    "description_en": "use of complex algorithms and software to approximate human cognition in the analysis of complicated medical data",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q7834546",
+    "japanese": "",
+    "english": "translational research informatics",
+    "description_ja": "",
+    "description_en": "discipline of applied computer science research concerned with the application of informatics theory and methods to translational research",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q49000282",
+    "japanese": "",
+    "english": "Mental health informatics",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q5164702",
+    "japanese": "",
+    "english": "consumer health informatics",
+    "description_ja": "",
+    "description_en": "informatics from multiple consumer or patient views",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q7257747",
+    "japanese": "",
+    "english": "public health informatics",
+    "description_ja": "",
+    "description_en": "systematic application of information and computer sciences to public health practice, research, and learning",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q5691085",
+    "japanese": "医療情報交換",
+    "english": "health information exchange",
+    "description_ja": "",
+    "description_en": "mobilization of health care information electronically across organizations",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q69960926",
+    "japanese": "",
+    "english": "submarine medicine",
+    "description_ja": "",
+    "description_en": "field of medicine concerned with conditions affecting the health of people in submarines or sealabs",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q1437164",
+    "japanese": "法歯学",
+    "english": "forensic dentistry",
+    "description_ja": "",
+    "description_en": "application of dental knowledge to those criminal and civil laws that are enforced by police agencies in a criminal justice system",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q3853774",
+    "japanese": "法医学",
+    "english": "medical jurisprudence",
+    "description_ja": "",
+    "description_en": "branch of science and medicine involving the study and application of scientific and medical knowledge to legal problems",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q18355834",
+    "japanese": "",
+    "english": "forensic radiology",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q25344799",
+    "japanese": "",
+    "english": "forensic epidemiology",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q114399866",
+    "japanese": "",
+    "english": "legal epidemiology",
+    "description_ja": "",
+    "description_en": "study of law as a factor in disease and injury",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q5468721",
+    "japanese": "法足病学",
+    "english": "forensic podiatry",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q1056943",
+    "japanese": "分子病理学",
+    "english": "molecular pathology",
+    "description_ja": "病理学の中で新しい学問分野",
+    "description_en": "emerging discipline within pathology that analyses disease-causing factors at the DNA and RNA level",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q11798355",
+    "japanese": "",
+    "english": "",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q48790541",
+    "japanese": "",
+    "english": "",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q115157704",
+    "japanese": "",
+    "english": "pediatric oncology",
+    "description_ja": "",
+    "description_en": "branch of medicine concerned with the diagnosis and treatment of cancer in children",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q729267",
+    "japanese": "放射線腫瘍学",
+    "english": "radiation oncology",
+    "description_ja": "",
+    "description_en": "medical use of ionizing radiation",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q6050805",
+    "japanese": "腫瘍内科学",
+    "english": "medical oncology",
+    "description_ja": "",
+    "description_en": "subspecialty of internal medicine concerned with the study of neoplasms",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q10881532",
+    "japanese": "",
+    "english": "molecular oncology",
+    "description_ja": "",
+    "description_en": "interdisciplinary medical specialty",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q16979420",
+    "japanese": "",
+    "english": "immuno-oncology",
+    "description_ja": "",
+    "description_en": "medical specialty",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q110093561",
+    "japanese": "",
+    "english": "cancer genetics",
+    "description_ja": "",
+    "description_en": "field of research",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q16683088",
+    "japanese": "",
+    "english": "genitourinary oncology",
+    "description_ja": "",
+    "description_en": "medical branch studying tumors of the genitourinary system",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q12322152",
+    "japanese": "",
+    "english": "clinical oncology",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q3352484",
+    "japanese": "",
+    "english": "oncogenetics",
+    "description_ja": "",
+    "description_en": "medical specialty",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q3875054",
+    "japanese": "神経腫瘍学",
+    "english": "neurooncology",
+    "description_ja": "脳腫瘍と脊髄腫瘍の研究",
+    "description_en": "study of brain and spinal cord neoplasms",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q3739537",
+    "japanese": "",
+    "english": "oncogenomics",
+    "description_ja": "",
+    "description_en": "sub-field of genomics",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q3545481",
+    "japanese": "外科腫瘍学",
+    "english": "surgical oncology",
+    "description_ja": "",
+    "description_en": "medical specialty concerned with treatment of cancer through surgery",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q610737",
+    "japanese": "",
+    "english": "superior vena cava syndrome",
+    "description_ja": "",
+    "description_en": "group of symptoms caused by obstruction of the superior vena cava",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q30097393",
+    "japanese": "",
+    "english": "oncohematology",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q134303332",
+    "japanese": "",
+    "english": "National Oncological Medical Centre",
+    "description_ja": "",
+    "description_en": "Hospital in Sofia, Bulgaria",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q134689165",
+    "japanese": "",
+    "english": "gynecological oncology",
+    "description_ja": "",
+    "description_en": "medical specialty",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q7923724",
+    "japanese": "",
+    "english": "veterinary oncology",
+    "description_ja": "",
+    "description_en": "subspecialty of veterinary medicine dealing with cancer diagnosis and treatment in animals",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q131742670",
+    "japanese": "",
+    "english": "oncodiabetology",
+    "description_ja": "",
+    "description_en": "branch of medicine primarily concerned with the relationship between cancer and diabetes",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q106084266",
+    "japanese": "",
+    "english": "pediatric oncology",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q112194858",
+    "japanese": "",
+    "english": "dermatooncology",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q112225695",
+    "japanese": "",
+    "english": "pulmonary oncology",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q7280350",
+    "japanese": "",
+    "english": "Radiation enteropathy",
+    "description_ja": "",
+    "description_en": "syndrome that may develop following abdominal or pelvic radiation therapy for cancer.",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q5625186",
+    "japanese": "",
+    "english": "gynecologic oncology",
+    "description_ja": "",
+    "description_en": "medical specialty",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q113884115",
+    "japanese": "",
+    "english": "general oncology",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q113884212",
+    "japanese": "",
+    "english": "hematooncology",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q113884133",
+    "japanese": "",
+    "english": "oncopathology",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q113884116",
+    "japanese": "",
+    "english": "special oncology",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q113884192",
+    "japanese": "",
+    "english": "urological oncology",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q13033020",
+    "japanese": "",
+    "english": "",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q113827911",
+    "japanese": "",
+    "english": "child hepatology",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q2402900",
+    "japanese": "",
+    "english": "",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q642836",
+    "japanese": "",
+    "english": "neuroradiology",
+    "description_ja": "",
+    "description_en": "medical specialty focusing on the nervous system using neuroimaging techniques",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q135116545",
+    "japanese": "",
+    "english": "",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q16309706",
+    "japanese": "",
+    "english": "industrial radiology",
+    "description_ja": "",
+    "description_en": "branch of radiology",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q426449",
+    "japanese": "画像下治療",
+    "english": "interventional radiology",
+    "description_ja": "",
+    "description_en": "medical specialty that performs various minimally-invasive procedures using medical imaging guidance",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q21286187",
+    "japanese": "",
+    "english": "Magnetic resonance neurography",
+    "description_ja": "",
+    "description_en": "MRI technique to image nerves",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q1741870",
+    "japanese": "",
+    "english": "paediatric radiology",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q7099381",
+    "japanese": "歯科放射線学",
+    "english": "Oral and maxillofacial radiology",
+    "description_ja": "",
+    "description_en": "specialty of dentistry and discipline of radiology concerned with the production and interpretation of images and data that are used for the diagnosis and management of diseases, disorders and conditions of the oral and maxillofacial region",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q10659067",
+    "japanese": "X線学",
+    "english": "roentgenology",
+    "description_ja": "",
+    "description_en": "medical specialty in X-ray images",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q245341",
+    "japanese": "X線撮影",
+    "english": "radiography",
+    "description_ja": "X線を用いて、物体の内部を画像化する技術",
+    "description_en": "imaging technique using ionizing and non-ionizing radiation",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q54874929",
+    "japanese": "",
+    "english": "veterinary radiology",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q112342703",
+    "japanese": "",
+    "english": "uroradiology",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q113884232",
+    "japanese": "",
+    "english": "abdominal radiology",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q113884233",
+    "japanese": "",
+    "english": "gastrointestinal radiology",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q1120908",
+    "japanese": "医療物理学",
+    "english": "medical physics",
+    "description_ja": "",
+    "description_en": "application of physics in medicine or healthcare",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q113884206",
+    "japanese": "",
+    "english": "dental radiology",
+    "description_ja": "",
+    "description_en": "radiology of the teeth and jaws",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q551875",
+    "japanese": "神経画像検査",
+    "english": "neuroimaging",
+    "description_ja": "",
+    "description_en": "set of techniques to measure and visualize aspects of the nervous system",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q2305944",
+    "japanese": "",
+    "english": "social pediatrics",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q3407935",
+    "japanese": "",
+    "english": "Protection maternelle et infantile",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q547297",
+    "japanese": "",
+    "english": "animal forensics",
+    "description_ja": "",
+    "description_en": "application of scientific principles and techniques to investigate crimes involving animals or animal-related evidence",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q136356959",
+    "japanese": "",
+    "english": "",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q3332477",
+    "japanese": "療馬術",
+    "english": "equine medicine",
+    "description_ja": "",
+    "description_en": "specialty within veterinary medicine",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q131153250",
+    "japanese": "",
+    "english": "veterinary biochemistry",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q131153251",
+    "japanese": "",
+    "english": "veterinary therapy",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q131153253",
+    "japanese": "",
+    "english": "veterinary neuroanatomy",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q10297992",
+    "japanese": "",
+    "english": "veterinary homeopathy",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q97251620",
+    "japanese": "",
+    "english": "veterinary gynecology",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q110105899",
+    "japanese": "中獣医学",
+    "english": "traditional Chinese veterinary medicine",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q119584836",
+    "japanese": "",
+    "english": "evidence-based veterinary medicine",
+    "description_ja": "",
+    "description_en": "approach to veterinary medical practice intended to optimize decision-making by emphasizing the use of evidence from well-designed and well-conducted research",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q4193884",
+    "japanese": "",
+    "english": "zoohygiene",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q5032414",
+    "japanese": "",
+    "english": "canine physical therapy",
+    "description_ja": "",
+    "description_en": "medical intervention",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q110527678",
+    "japanese": "",
+    "english": "veterinary specialty",
+    "description_ja": "",
+    "description_en": "specialty within veterinary medicine",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q7061684",
+    "japanese": "",
+    "english": "veterinary pathology",
+    "description_ja": "",
+    "description_en": "component of pathology that focuses on the application of veterinary science",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q2499585",
+    "japanese": "",
+    "english": "veterinary surgery",
+    "description_ja": "",
+    "description_en": "surgery performed on animals",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q7923727",
+    "japanese": "獣医寄生虫学",
+    "english": "veterinary parasitology",
+    "description_ja": "",
+    "description_en": "study of animal parasites, especially relationships between parasites and animal hosts",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q30891835",
+    "japanese": "",
+    "english": "veterinary psychology",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q12275185",
+    "japanese": "",
+    "english": "veterinary clinic",
+    "description_ja": "",
+    "description_en": "clinic for curing animals",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q113884077",
+    "japanese": "",
+    "english": "veterinary neurology",
+    "description_ja": "",
+    "description_en": "subdiscipline of neurology that deals with animals",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q2521265",
+    "japanese": "",
+    "english": "Vet-gate",
+    "description_ja": "",
+    "description_en": "veterinary control",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q111326847",
+    "japanese": "",
+    "english": "veterinary mycology",
+    "description_ja": "",
+    "description_en": "field of research",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q111326845",
+    "japanese": "",
+    "english": "veterinary urology",
+    "description_ja": "",
+    "description_en": "field of research",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q127508800",
+    "japanese": "",
+    "english": "zooprophylaxis",
+    "description_ja": "",
+    "description_en": "prevention of infectious animal diseases and their spread, as well as the pathological consequences that they can have on humans",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q7923729",
+    "japanese": "",
+    "english": "veterinary public health",
+    "description_ja": "",
+    "description_en": "component of public health that focuses on the application of veterinary science",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q54874930",
+    "japanese": "",
+    "english": "veterinary dermatology",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q131561243",
+    "japanese": "",
+    "english": "Neoterica Protecto",
+    "description_ja": "",
+    "description_en": "brand of veterinary anti-parasitic drugs",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q69962053",
+    "japanese": "",
+    "english": "veterinary sports medicine",
+    "description_ja": "",
+    "description_en": "field of veterinary medicine concerned with physical fitness of animals in sports, and the diagnosis and treatment of sports injuries in animals",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q107428576",
+    "japanese": "",
+    "english": "veterinary hygiene",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q69961615",
+    "japanese": "",
+    "english": "military veterinary service",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q9258064",
+    "japanese": "",
+    "english": "veterinary pharmacology",
+    "description_ja": "",
+    "description_en": "pharmacology applied to animals",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q589646",
+    "japanese": "",
+    "english": "theriogenology",
+    "description_ja": "",
+    "description_en": "specialty of veterinary medicine concerned with reproduction, including the physiology and pathology of male and female reproductive systems of animals",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q112779238",
+    "japanese": "",
+    "english": "veterinary immunogenetics",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q113828181",
+    "japanese": "",
+    "english": "veterinary radiography",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q113884245",
+    "japanese": "",
+    "english": "veterinary pathological physiology",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q115255855",
+    "japanese": "",
+    "english": "exotic animal medicine",
+    "description_ja": "",
+    "description_en": "subdiscipline of veterinary medicine: treatment of exotic animals",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q115160300",
+    "japanese": "",
+    "english": "veterinary internal medicine",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q112114868",
+    "japanese": "",
+    "english": "veterinary microbiology",
+    "description_ja": "",
+    "description_en": "microbiology on organisms that are active in farm animals",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q25091402",
+    "japanese": "小児婦人科学",
+    "english": "pediatric gynaecology",
+    "description_ja": "",
+    "description_en": "Medical Condition of Kids",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q1029420",
+    "japanese": "",
+    "english": "pediatric rheumatology",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q125416458",
+    "japanese": "",
+    "english": "pediatric pulmonology",
+    "description_ja": "",
+    "description_en": "medical area of work",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q1741916",
+    "japanese": "",
+    "english": "pediatric traumatology",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q17155058",
+    "japanese": "",
+    "english": "pediatric gastroenterology",
+    "description_ja": "",
+    "description_en": "medical specialty",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q110352732",
+    "japanese": "",
+    "english": "Māori midwifery and paediatrics",
+    "description_ja": "",
+    "description_en": "field of research",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q203337",
+    "japanese": "呼吸器学",
+    "english": "pulmonology",
+    "description_ja": "医学の一分野",
+    "description_en": "medical specialty",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q113884093",
+    "japanese": "",
+    "english": "pediatric nephrology",
+    "description_ja": "",
+    "description_en": "medical specialty that concerns itself with the kidneys in pediatric practice",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q113884270",
+    "japanese": "",
+    "english": "pediatric otolaryngology",
+    "description_ja": "",
+    "description_en": "subspecialty of otolaryngology dealing in the management of infants and children with disorders that include congenital and acquired conditions",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q13604278",
+    "japanese": "",
+    "english": "pediatric endocrinology",
+    "description_ja": "",
+    "description_en": "medical subspecialty",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q96575561",
+    "japanese": "",
+    "english": "pediatric orthopaedics",
+    "description_ja": "",
+    "description_en": "clinical specialization for treatment of musculoskeletal problems in children",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q2120283",
+    "japanese": "",
+    "english": "pediatric audiology",
+    "description_ja": "",
+    "description_en": "science of hearing disorders in children",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q7159230",
+    "japanese": "",
+    "english": "pediatric pathology",
+    "description_ja": "",
+    "description_en": "sub-specialty of surgical pathology which deals with the diagnosis and characterization of neoplastic and non-neoplastic diseases of children",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q1430816",
+    "japanese": "小児外科学",
+    "english": "pediatric surgery",
+    "description_ja": "",
+    "description_en": "medical specialty",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q112801436",
+    "japanese": "",
+    "english": "pediatric hematology",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q113763605",
+    "japanese": "",
+    "english": "pediatric diabetology",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q113884063",
+    "japanese": "",
+    "english": "pediatric anesthesiology",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q113884180",
+    "japanese": "",
+    "english": "pediatric stomatology",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q113884202",
+    "japanese": "",
+    "english": "pediatric dermatology",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q113884262",
+    "japanese": "",
+    "english": "pediatric bariatric medicine",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q113884263",
+    "japanese": "",
+    "english": "pediatric allergology",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q113884274",
+    "japanese": "",
+    "english": "pediatric pneumology",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q1328949",
+    "japanese": "小児神経学",
+    "english": "neuropediatrics",
+    "description_ja": "",
+    "description_en": "medical specialty dealing with disorders of the nervous system in children",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q17146160",
+    "japanese": "腫瘍腎臓病学",
+    "english": "Onconephrology",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q3347171",
+    "japanese": "",
+    "english": "renal pathology",
+    "description_ja": "",
+    "description_en": "subspecialty of anatomic pathology that deals with the diagnosis and characterization of medical diseases of the kidneys",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q113884209",
+    "japanese": "",
+    "english": "veterinary nephrology",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q849737",
+    "japanese": "単一光子放射断層撮影",
+    "english": "single-photon emission computed tomography",
+    "description_ja": "画像診断法の一つ",
+    "description_en": "nuclear medicine tomographic imaging technique",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q3332475",
+    "japanese": "航空医学",
+    "english": "aviation medicine",
+    "description_ja": "",
+    "description_en": "medical specialty in effect of aviation on the body",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q1430622",
+    "japanese": "宇宙医学",
+    "english": "space medicine",
+    "description_ja": "宇宙空間や宇宙飛行下の諸条件が人体に及ぼす影響を解明する学問",
+    "description_en": "medical specialty",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q11625254",
+    "japanese": "蘭方医学",
+    "english": "Rampō",
+    "description_ja": "長崎のオランダ商館医などを介して、江戸時代の日本に伝えられた医学",
+    "description_en": "western medicine introduced to Japan during the Edo period",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q2312882",
+    "japanese": "",
+    "english": "sports traumatology",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q5284418",
+    "japanese": "産科学",
+    "english": "obstetrics",
+    "description_ja": "妊娠・出産に関連する医学の分野",
+    "description_en": "field of study concentrated on pregnancy, childbirth, and the postpartum period",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q17145564",
+    "japanese": "",
+    "english": "reproductive endocrinology and infertility",
+    "description_ja": "",
+    "description_en": "surgical subspecialty of obstetrics and gynecology",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q228036",
+    "japanese": "帝王切開",
+    "english": "cesarean section",
+    "description_ja": "手術の方法の一",
+    "description_en": "surgical procedure in which a baby is delivered through a mother's abdomen",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q256704",
+    "japanese": "",
+    "english": "urgent care center",
+    "description_ja": "",
+    "description_en": "walk-in clinic for urgent ambulatory care",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q870449",
+    "japanese": "家族療法",
+    "english": "family therapy",
+    "description_ja": "",
+    "description_en": "type of psychotherapy",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q5384510",
+    "japanese": "",
+    "english": "equine podiatry",
+    "description_ja": "",
+    "description_en": "study and management of the hooves of horses",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q113884142",
+    "japanese": "",
+    "english": "clinical rheumatology",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q30109942",
+    "japanese": "",
+    "english": "paramedical speciality",
+    "description_ja": "",
+    "description_en": "services and professions which supplement and support medical work",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q43387060",
+    "japanese": "",
+    "english": "psychiatric semiology",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q539690",
+    "japanese": "脈管学",
+    "english": "angiology",
+    "description_ja": "",
+    "description_en": "branch of internal medicine, which deals with vascular disease",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q4677936",
+    "japanese": "",
+    "english": "acute medicine",
+    "description_ja": "",
+    "description_en": "internal medicine specialty about immediate and early specialist management of adult patients with medical conditions who present in hospital as emergencies",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q162606",
+    "japanese": "内分泌学",
+    "english": "endocrinology",
+    "description_ja": "",
+    "description_en": "medical specialty; branch of science concerned with the study of hormones",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q103824",
+    "japanese": "血液学",
+    "english": "hematology",
+    "description_ja": "人体の血液細胞（白血球・赤血球・血小板）を対象とする内科学の一分野",
+    "description_en": "study of blood, the blood-forming organs, and blood diseases",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q16965438",
+    "japanese": "",
+    "english": "obstetric medicine",
+    "description_ja": "",
+    "description_en": "deals with physical health problems in pregnant women",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q30315080",
+    "japanese": "",
+    "english": "Interventional pulmonology",
+    "description_ja": "",
+    "description_en": "specialty of internal medicine devoted to the evaluation and management of thoracic diseases primarily involving the airways, lung parenchyma, and pleural space, with a focus on minimally invasive diagnostic and therapeutic procedural skills",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q2889327",
+    "japanese": "",
+    "english": "Homeopathic Materia Medica",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q4287757",
+    "japanese": "",
+    "english": "medical ecology",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q5162984",
+    "japanese": "",
+    "english": "conservation medicine",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q2091481",
+    "japanese": "",
+    "english": "",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q110821902",
+    "japanese": "",
+    "english": "",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q116876760",
+    "japanese": "",
+    "english": "occupational health care",
+    "description_ja": "",
+    "description_en": "company health services",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q3045288",
+    "japanese": "",
+    "english": "tattoo laser",
+    "description_ja": "",
+    "description_en": "type of laser",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q5494007",
+    "japanese": "",
+    "english": "Fraxel",
+    "description_ja": "",
+    "description_en": "medical treatment",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q111211603",
+    "japanese": "",
+    "english": "",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q1442890",
+    "japanese": "",
+    "english": "Lesbenforschung",
+    "description_ja": "",
+    "description_en": "interdisciplinary totality of critical knowledge about lesbians, lesbian lifestyles and history in Germany",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q4530479",
+    "japanese": "",
+    "english": "ecosexuality",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q3744958",
+    "japanese": "",
+    "english": "philematology",
+    "description_ja": "",
+    "description_en": "study of kissing",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q7068388",
+    "japanese": "",
+    "english": "nudity and sexuality",
+    "description_ja": "",
+    "description_en": "social phenomenon",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q112223813",
+    "japanese": "",
+    "english": "psychiatric sexology",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q112623901",
+    "japanese": "",
+    "english": "forensic sexology",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q113884134",
+    "japanese": "",
+    "english": "sex psychology",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q114839600",
+    "japanese": "",
+    "english": "traumasexology",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q5442887",
+    "japanese": "",
+    "english": "feminist sexology",
+    "description_ja": "",
+    "description_en": "Study of sexuality focused on women",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q106614800",
+    "japanese": "熱帯医学および衛生",
+    "english": "tropical medicine and hygiene",
+    "description_ja": "",
+    "description_en": "field of work",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q100159",
+    "japanese": "安楽死",
+    "english": "euthanasia",
+    "description_ja": "苦痛を与えないまたは低減させる形で死を医療的に幇助する行為",
+    "description_en": "medical practice of intentionally ending a life in order to relieve pain and suffering",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q131380828",
+    "japanese": "",
+    "english": "nanotherapy",
+    "description_ja": "",
+    "description_en": "usage of nanotechnologies for therapeutic purposes",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q6964000",
+    "japanese": "",
+    "english": "Nanobiopharmaceutics",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q2518429",
+    "japanese": "ナノ毒性",
+    "english": "nanotoxicology",
+    "description_ja": "",
+    "description_en": "study of the toxicity of nanomaterials",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q6964082",
+    "japanese": "",
+    "english": "nanonephrology",
+    "description_ja": "",
+    "description_en": "branch of nanomedicine",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q57417184",
+    "japanese": "",
+    "english": "theranostic nanomedicine",
+    "description_ja": "",
+    "description_en": "integrated nano-scale approach to medicine involving concurrent diagnosis, drug delivery, therapy and monitoring of therapeutic response",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q4337145",
+    "japanese": "",
+    "english": "",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q18452116",
+    "japanese": "",
+    "english": "",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q7316230",
+    "japanese": "歯科保存学",
+    "english": "restorative dentistry",
+    "description_ja": "",
+    "description_en": "branch of dentistry that deals with the restoration of diseased, injured, or abnormal teeth to normal function, as by crowns",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q4443045",
+    "japanese": "",
+    "english": "dental tourism",
+    "description_ja": "",
+    "description_en": "medical tourism for visits to dentists",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q7445147",
+    "japanese": "鎮静歯科治療",
+    "english": "sedation dentistry",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q5259433",
+    "japanese": "",
+    "english": "dental radiography",
+    "description_ja": "",
+    "description_en": "radiographic techniques used in dentistry",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q136310746",
+    "japanese": "",
+    "english": "biological and material dentistry",
+    "description_ja": "",
+    "description_en": "a patient-centered, holistic approach that emphasizes the use of safe, non-toxic, biocompatible materials and minimally invasive techniques to support overall health and wellness, rather than focusing solely on the oral cavity",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q2291504",
+    "japanese": "",
+    "english": "adhesive dentistry",
+    "description_ja": "",
+    "description_en": "branch of dentistry which deals with adhesion or bonding to the natural substance of teeth, enamel and dentin",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q1349700",
+    "japanese": "歯科補綴学",
+    "english": "prosthodontics",
+    "description_ja": "学問の一つ",
+    "description_en": "area of dentistry focusing on dental prostheses",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q10340280",
+    "japanese": "",
+    "english": "occupational dentistry",
+    "description_ja": "",
+    "description_en": "branch of dentistry concerned with maintaining oral health of employees in occupational environments",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q907359",
+    "japanese": "歯科修復",
+    "english": "dental restoration",
+    "description_ja": "",
+    "description_en": "treatments to restore function, integrity, and morphology of teeth",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q5700493",
+    "japanese": "",
+    "english": "dental anthropology",
+    "description_ja": "",
+    "description_en": "branch of anthropology around the use of human teeth",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q18333825",
+    "japanese": "",
+    "english": "dentistry in Sweden",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q7574840",
+    "japanese": "障害者歯科学",
+    "english": "special needs dentistry",
+    "description_ja": "",
+    "description_en": "dental care for the emotionally, mentally or physically disabled patient",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q2086597",
+    "japanese": "小児歯科学",
+    "english": "pediatric dentistry",
+    "description_ja": "",
+    "description_en": "mouth health care and tooth repair for children",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q72088205",
+    "japanese": "",
+    "english": "dental atraumatic restorative treatment",
+    "description_ja": "",
+    "description_en": "treatment for dental caries that uses manual excavation and glass ionomer cements",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q113468875",
+    "japanese": "",
+    "english": "oral rehabilitation",
+    "description_ja": "",
+    "description_en": "concept in dentistry",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q7099386",
+    "japanese": "",
+    "english": "oral ecology",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q19596782",
+    "japanese": "歯科薬理学",
+    "english": "dental pharmacology",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q72259780",
+    "japanese": "",
+    "english": "dental stress analysis",
+    "description_ja": "",
+    "description_en": "description and measurement of the factors that produce physical stress in dental applications and the natural oral structures",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q12221571",
+    "japanese": "",
+    "english": "preventive dentistry",
+    "description_ja": "",
+    "description_en": "branch of dentistry concerned with the prevention of disease and the maintenance and promotion of oral health",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q72369521",
+    "japanese": "",
+    "english": "dental debonding",
+    "description_ja": "",
+    "description_en": "techniques used for removal of bonded orthodontic appliances, restorations or fixed dentures from teeth",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q69953343",
+    "japanese": "",
+    "english": "oral pathology",
+    "description_ja": "",
+    "description_en": "dental specialty concerned with pathology of the oral cavity",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q938196",
+    "japanese": "歯周治療学",
+    "english": "periodontology",
+    "description_ja": "",
+    "description_en": "field of dentistry",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q72555806",
+    "japanese": "",
+    "english": "tooth remineralization",
+    "description_ja": "",
+    "description_en": "therapeutic technique for replacement of minerals in partially decalcified teeth",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q116961485",
+    "japanese": "",
+    "english": "dental tool",
+    "description_ja": "",
+    "description_en": "business or industrial product",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q116961493",
+    "japanese": "",
+    "english": "prophy paste",
+    "description_ja": "",
+    "description_en": "business or industrial product",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q504033",
+    "japanese": "口腔外科",
+    "english": "oral and maxillofacial surgery",
+    "description_ja": "",
+    "description_en": "medical specialty",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q105047512",
+    "japanese": "",
+    "english": "special care dentistry",
+    "description_ja": "",
+    "description_en": "field of dentistry for people with physical or mental disability",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q1660351",
+    "japanese": "歯科インプラント学",
+    "english": "implantology",
+    "description_ja": "",
+    "description_en": "dental implantation",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q852143",
+    "japanese": "歯内療法学",
+    "english": "endodontics",
+    "description_ja": "",
+    "description_en": "dental specialty concerned with the study and treatment of the dental pulp",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q7824278",
+    "japanese": "",
+    "english": "tooth polishing",
+    "description_ja": "",
+    "description_en": "smoothing of the surfaces of teeth that aids in restorations of teeth",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q69957839",
+    "japanese": "",
+    "english": "community dentistry",
+    "description_ja": "",
+    "description_en": "practice of dentistry concerned with preventive as well as diagnostic and treatment programs in a circumscribed population",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q123873299",
+    "japanese": "",
+    "english": "space dentistry",
+    "description_ja": "",
+    "description_en": "dentistry in space",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q5259399",
+    "japanese": "歯科麻酔学",
+    "english": "dental anesthesiology",
+    "description_ja": "歯学の一分野",
+    "description_en": "Branch of dentistry",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q73219680",
+    "japanese": "",
+    "english": "mouth rehabilitation",
+    "description_ja": "",
+    "description_en": "process of restoring damaged or decayed teeth, so that oral health is improved",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q73346773",
+    "japanese": "",
+    "english": "air abrasion",
+    "description_ja": "",
+    "description_en": "technique using a pneumatic, high-pressure stream of aluminum oxide to remove dental enamel, dentin and restorative materials from teeth",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q962213",
+    "japanese": "ナソロジー",
+    "english": "gnathology",
+    "description_ja": "",
+    "description_en": "the study of the masticatory system, including its physiology, functional disturbances, and treatment",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q73524547",
+    "japanese": "",
+    "english": "permanent dental restoration",
+    "description_ja": "",
+    "description_en": "restoration designed to remain in service for not less than 20 to 30 years",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q106091832",
+    "japanese": "",
+    "english": "children's dentistry",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q69957563",
+    "japanese": "",
+    "english": "operative dentistry",
+    "description_ja": "",
+    "description_en": "clinical dentistry concerned with restoration of tooth function",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q69961815",
+    "japanese": "",
+    "english": "military dentistry",
+    "description_ja": "",
+    "description_en": "practice of dentistry as applied to special circumstances associated with military operations",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q118301",
+    "japanese": "歯科矯正学",
+    "english": "orthodontics",
+    "description_ja": "",
+    "description_en": "specialty of dentistry that deals with the diagnosis, prevention, and correction of malpositioned teeth and jaws, and misaligned bite patterns",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q11457638",
+    "japanese": "審美歯科",
+    "english": "dental esthetics",
+    "description_ja": "歯科治療の一分野",
+    "description_en": "skills, techniques, standards, and principles used to improve the art and symmetry of the teeth and face to improve the appearance as well as the function",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q69960432",
+    "japanese": "",
+    "english": "general dental practice",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q10606999",
+    "japanese": "",
+    "english": "odontology",
+    "description_ja": "",
+    "description_en": "dentistry as viewed academically rather than professionally",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q72259700",
+    "japanese": "",
+    "english": "dental high-speed technique",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q5333092",
+    "japanese": "",
+    "english": "Eco-friendly dentistry",
+    "description_ja": "",
+    "description_en": "sustainability trend in dental services",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q113884165",
+    "japanese": "",
+    "english": "veterinary stomatology",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q4117950",
+    "japanese": "歯科公衆衛生",
+    "english": "dental public health",
+    "description_ja": "",
+    "description_en": "non-clinical specialty of dentistry that deals with the prevention of oral disease and promotion of oral health",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q5418318",
+    "japanese": "",
+    "english": "evidence-based dentistry",
+    "description_ja": "",
+    "description_en": "decisions and practices that use evidence to determine patient care",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q117091955",
+    "japanese": "",
+    "english": "Prison dentist",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q2405851",
+    "japanese": "老年歯科学",
+    "english": "geriatric dentistry",
+    "description_ja": "",
+    "description_en": "delivery of dental care to older adults involving diagnosis, prevention, management and treatment of problems associated with age related diseases",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q21013827",
+    "japanese": "",
+    "english": "narcodontics",
+    "description_ja": "",
+    "description_en": "dental treatment under general anesthesia",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q3338668",
+    "japanese": "神経消化器病学",
+    "english": "neurogastroenterology",
+    "description_ja": "",
+    "description_en": "neurology of the gastrointestinal tract, liver, gallbladder, and pancreas",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q2004217",
+    "japanese": "",
+    "english": "Nucleus ventralis anterolateralis",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q4108104",
+    "japanese": "",
+    "english": "Vertebroneurology",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q7002187",
+    "japanese": "神経疫学",
+    "english": "neuroepidemiology",
+    "description_ja": "",
+    "description_en": "medical specialty",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q2705119",
+    "japanese": "神経精神分析",
+    "english": "neuro-psychoanalysis",
+    "description_ja": "",
+    "description_en": "movement within neuroscience and psychoanalysis to combine the insights of both disciplines for a better understanding of mind and brain.",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q113957515",
+    "japanese": "",
+    "english": "neuroimmunoendocrinology",
+    "description_ja": "",
+    "description_en": "scientific field",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q23688644",
+    "japanese": "てんかん学",
+    "english": "epileptology",
+    "description_ja": "",
+    "description_en": "the study of epilepsy",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q112417293",
+    "japanese": "",
+    "english": "neurotoxicology",
+    "description_ja": "",
+    "description_en": "branch of toxicology dealing with toxicity to the nervous system",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q215948",
+    "japanese": "神経言語学",
+    "english": "neurolinguistics",
+    "description_ja": "",
+    "description_en": "neuroscience, and linguistics related studies",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q3872",
+    "japanese": "神経心理学",
+    "english": "neuropsychology",
+    "description_ja": "",
+    "description_en": "study of the brain related to specific psychological processes and behaviors",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q113884169",
+    "japanese": "神経超音波医学",
+    "english": "neurosonology",
+    "description_ja": "診療科",
+    "description_en": "medical specialty",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q113884187",
+    "japanese": "",
+    "english": "general neurology",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q113884199",
+    "japanese": "",
+    "english": "special neurology",
+    "description_ja": "",
+    "description_en": "",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q113884068",
+    "japanese": "",
+    "english": "otoneurology",
+    "description_ja": "",
+    "description_en": "field of medicine that combines elements of otology (the study of the ear) and neurology (the study of the brain and nervous system)",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q2178830",
+    "japanese": "",
+    "english": "Behavioral neurology",
+    "description_ja": "",
+    "description_en": "Branch of medicine",
+    "instance_of": [],
+    "subclass_of": []
+  },
+  {
+    "qid": "Q948647",
+    "japanese": "神経解剖学",
+    "english": "neuroanatomy",
+    "description_ja": "",
+    "description_en": "branch of neuroscience",
+    "instance_of": [],
+    "subclass_of": []
+  }
+]

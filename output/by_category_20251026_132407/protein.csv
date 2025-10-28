@@ -1,0 +1,11 @@
+﻿qid,category_en,category_ja,category_qid,en_label,ja_label,en_description,ja_description,mesh_id,icd10,icd9,snomed_id,umls_id
+Q50251126,protein,タンパク質,Q8054,BTRC:CUL1:SKP1 [cytosol],,instance of macromolecular complex in Homo sapiens with Reactome ID (R-HSA-174155),,,,,,
+Q50251195,protein,タンパク質,Q8054,AURKA:PHLDA1 [cytosol],,instance of macromolecular complex in Homo sapiens with Reactome ID (R-HSA-8853432),,,,,,
+Q50251067,protein,タンパク質,Q8054,CCNA1:p-T161-CDK1 [nucleoplasm],,instance of macromolecular complex in Homo sapiens with Reactome ID (R-HSA-68892),,,,,,
+Q50251064,protein,タンパク質,Q8054,CCNA:p-T161-CDK1 [nucleoplasm],,instance of macromolecular complex in Homo sapiens with Reactome ID (R-HSA-170146),,,,,,
+Q50251068,protein,タンパク質,Q8054,CCNA2:p-T161-CDK1 [nucleoplasm],,instance of macromolecular complex in Homo sapiens with Reactome ID (R-HSA-68906),,,,,,
+Q50251075,protein,タンパク質,Q8054,"CCNB1:p-T14,Y15,T161-CDK1 [cytosol]",,instance of macromolecular complex in Homo sapiens with Reactome ID (R-HSA-170068),,,,,,
+Q50251074,protein,タンパク質,Q8054,Cyclin B1:phospho-Cdc2 ( Thr 14) [cytosol],,instance of macromolecular complex in Homo sapiens with Reactome ID (R-HSA-170048),,,,,,
+Q50251081,protein,タンパク質,Q8054,CCNB1:p-T14-CDK1 [nucleoplasm],,instance of macromolecular complex in Homo sapiens with Reactome ID (R-HSA-170056),,,,,,
+Q50251087,protein,タンパク質,Q8054,"CCNB2:p-T14,Y15,T161-CDK1 [cytosol]",,instance of macromolecular complex in Homo sapiens with Reactome ID (R-HSA-170152),,,,,,
+Q50251091,protein,タンパク質,Q8054,CCNB1:p-T161-CDK1 [cytosol],,instance of macromolecular complex in Homo sapiens with Reactome ID (R-HSA-157456),,,,,,

@@ -1,0 +1,11 @@
+﻿qid,category_en,category_ja,category_qid,en_label,ja_label,en_description,ja_description,mesh_id,icd10,icd9,snomed_id,umls_id
+Q16295100,surgery,外科手術,Q796194,Tübingen Questionnaire for Recording Pain Behaviour,,"German modification of the Pain Behaviour Checklist (PBC), a questionnaire for assessing pain behaviour, developed in 1991 by German neuropsychologist Herta Flor",,,,,,
+Q1028104,surgery,外科手術,Q796194,Camberwell family interview,,,,,,,,
+Q1035871,surgery,外科手術,Q796194,Career Counselling for Teachers,,,,,,,,
+Q1389495,surgery,外科手術,Q796194,Frankfurt Attention Inventory,,a psychological test to assess the ability to pay attention and concentrate,,,,,,
+Q1229320,surgery,外科手術,Q796194,Dissociative Experiences Scale,解離体験尺度,questionnaire to screen for dissociative identity disorder,,,,,,
+Q818326,surgery,外科手術,Q796194,Benton Visual Retention Test,,medical diagnostic method,,,,,,
+Q1758990,surgery,外科手術,Q796194,Bagolini Striated Glasses Test,,subjective clinical test for binocular functions,,,,,,
+Q32566,surgery,外科手術,Q796194,computed tomography,コンピュータ断層撮影,medical imaging procedure using X-rays to produce cross-sectional images,放射線を用いて、物体の内部をスライス画像化して観察できるようにする技術,D014057,,,,
+Q1474590,surgery,外科手術,Q796194,functional imaging,,medical imaging technique,,,,,,
+Q897939,surgery,外科手術,Q796194,Myers-Briggs Type Indicator,MBTI,model of personality types,アメリカで提唱された、類型論に基づくパーソナリティ検査(性格検査）,,,,,

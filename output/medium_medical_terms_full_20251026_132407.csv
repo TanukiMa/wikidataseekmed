@@ -1,0 +1,107 @@
+﻿qid,category_en,category_ja,category_qid,en_label,ja_label,en_description,ja_description,mesh_id,icd10,icd9,snomed_id,umls_id
+Q403453,disease,病気,Q12136,Aicardi-Goutieres syndrome,エカルディ・グティエール症候群,a rare genetic neurodevelopmental disorder,,C535607,,,,C0393591
+Q170990,disease,病気,Q12136,arthritis,関節炎,"any of several joint disorders, some autoimmune, some infectious",,D001168,,712,372091005,C0003864
+Q390211,disease,病気,Q12136,atrioventricular septal defect,心内膜床欠損症,Human disease,,D004694,,,,C0014116
+Q493103,disease,病気,Q12136,paramyotonia congenita,先天性パラミオトニア,human disease,,C538616,G71.1,359.2,,C0221055
+Q511372,disease,病気,Q12136,Krabbe disease,クラッベ病,congenital disorder of the nervous system,,D007965,,330.0,,C0023521
+Q3221044,medication,医薬品,Q12140,pharmaceutical preparation of nitroglycerin,ニトログリセリン,drug,,,,,,
+Q136222810,medication,医薬品,Q12140,Amarasate,,extract for appetite control,,,,,,
+Q106522112,medication,医薬品,Q12140,West China Hospital COVID-19 vaccine,,vaccine candidate against COVID-19,,,,,,
+Q27275212,medication,医薬品,Q12140,luseogliflozin,ルセオグリフロジン,chemical compound,,,,,,
+Q27277423,medication,医薬品,Q12140,bexagliflozin,,chemical compound,,,,,,
+Q27294103,medication,医薬品,Q12140,atigliflozin,,chemical compound,,,,,,
+Q27283562,medication,医薬品,Q12140,ipragliflozin L-proline,,chemical compound,,,,,,
+Q3772854,medication,医薬品,Q12140,Mercromina,,topical merbromin solution used as an antiseptic agent,,,,,,
+Q27279888,medication,医薬品,Q12140,lotilaner,,chemical compound,,,,,,
+Q1752431,medication,医薬品,Q12140,Dental dam (oral sex),,,,,,,,
+Q1313510,symptom,症状,Q169872,hypophosphatasia,,"rare, and sometimes fatal, metabolic bone disease",,D007014,,275.3,,C0020630
+Q3043160,symptom,症状,Q169872,primary immunodeficiency disease,原発性免疫不全症候群,immune system disease that results when one or more essential parts of the immune system is missing or not working properly at birth due to a genetic mutation,,D000081207,,,,C0021051
+Q2553422,symptom,症状,Q169872,POEMS syndrome,クロウ・深瀬症候群,paraneoplastic syndrome,,D016878,D47.7,273.8,,C0085404
+Q649340,symptom,症状,Q169872,Alice in Wonderland syndrome,不思議の国のアリス症候群,neuropsychological condition,ものの大きさに関する様々な主観的イメージの変容を引き起こす症候群,D062026,,,,C0854348
+Q1053948,symptom,症状,Q169872,Stevens–Johnson syndrome,スティーブンス・ジョンソン症候群,skin disease,皮膚や粘膜の過敏症,D013262,,,73442001,C0014518
+Q16251731,surgery,外科手術,Q796194,eugenics in California,,state-sponsored sterilization program in California (1909-1979),,,,,,
+Q81476,surgery,外科手術,Q796194,endarterectomy,,surgical removal of the atheromatous plaque in an artery,,D004691,,,,
+Q1028104,surgery,外科手術,Q796194,Camberwell family interview,,,,,,,,
+Q1035871,surgery,外科手術,Q796194,Career Counselling for Teachers,,,,,,,,
+Q1389495,surgery,外科手術,Q796194,Frankfurt Attention Inventory,,a psychological test to assess the ability to pay attention and concentrate,,,,,,
+Q1229320,surgery,外科手術,Q796194,Dissociative Experiences Scale,解離体験尺度,questionnaire to screen for dissociative identity disorder,,,,,,
+Q818326,surgery,外科手術,Q796194,Benton Visual Retention Test,,medical diagnostic method,,,,,,
+Q196775,surgery,外科手術,Q796194,Zervikalabstrich,,German term: a medical procedure in the context of the gynecological examination,,,,,,
+Q32566,surgery,外科手術,Q796194,computed tomography,コンピュータ断層撮影,medical imaging procedure using X-rays to produce cross-sectional images,放射線を用いて、物体の内部をスライス画像化して観察できるようにする技術,D014057,,,,
+Q897939,surgery,外科手術,Q796194,Myers-Briggs Type Indicator,MBTI,model of personality types,アメリカで提唱された、類型論に基づくパーソナリティ検査(性格検査）,,,,,
+Q50251126,protein,タンパク質,Q8054,BTRC:CUL1:SKP1 [cytosol],,instance of macromolecular complex in Homo sapiens with Reactome ID (R-HSA-174155),,,,,,
+Q50251195,protein,タンパク質,Q8054,AURKA:PHLDA1 [cytosol],,instance of macromolecular complex in Homo sapiens with Reactome ID (R-HSA-8853432),,,,,,
+Q50251067,protein,タンパク質,Q8054,CCNA1:p-T161-CDK1 [nucleoplasm],,instance of macromolecular complex in Homo sapiens with Reactome ID (R-HSA-68892),,,,,,
+Q50251064,protein,タンパク質,Q8054,CCNA:p-T161-CDK1 [nucleoplasm],,instance of macromolecular complex in Homo sapiens with Reactome ID (R-HSA-170146),,,,,,
+Q50251068,protein,タンパク質,Q8054,CCNA2:p-T161-CDK1 [nucleoplasm],,instance of macromolecular complex in Homo sapiens with Reactome ID (R-HSA-68906),,,,,,
+Q50251075,protein,タンパク質,Q8054,"CCNB1:p-T14,Y15,T161-CDK1 [cytosol]",,instance of macromolecular complex in Homo sapiens with Reactome ID (R-HSA-170068),,,,,,
+Q50251074,protein,タンパク質,Q8054,Cyclin B1:phospho-Cdc2 ( Thr 14) [cytosol],,instance of macromolecular complex in Homo sapiens with Reactome ID (R-HSA-170048),,,,,,
+Q50251081,protein,タンパク質,Q8054,CCNB1:p-T14-CDK1 [nucleoplasm],,instance of macromolecular complex in Homo sapiens with Reactome ID (R-HSA-170056),,,,,,
+Q50251087,protein,タンパク質,Q8054,"CCNB2:p-T14,Y15,T161-CDK1 [cytosol]",,instance of macromolecular complex in Homo sapiens with Reactome ID (R-HSA-170152),,,,,,
+Q50251091,protein,タンパク質,Q8054,CCNB1:p-T161-CDK1 [cytosol],,instance of macromolecular complex in Homo sapiens with Reactome ID (R-HSA-157456),,,,,,
+Q5137664,gene,遺伝子,Q7187,F13A1,,protein-coding gene in the species Homo sapiens,,,,,,C1414500
+Q5145895,gene,遺伝子,Q7187,COL12A1,,protein-coding gene in the species Homo sapiens,,,,,,C1413572
+Q218706,gene,遺伝子,Q7187,erythropoietin,エリスロポエチン,mammalian protein found in Homo sapiens,,,,,,
+Q4650050,gene,遺伝子,Q7187,ABCA3,,protein-coding gene in the species Homo sapiens,,,,,,C1412062
+Q5023908,gene,遺伝子,Q7187,CAST,,protein-coding gene in the species Homo sapiens,,,,,,C1413137
+Q4032933,gene,遺伝子,Q7187,ALDH3A1,,protein-coding gene in the species Homo sapiens,,,,,,C1412336
+Q4033031,gene,遺伝子,Q7187,ANK2,,protein-coding gene in the species Homo sapiens,,,,,,C1412403
+Q5145886,gene,遺伝子,Q7187,COL4A1,,protein-coding gene in the species Homo sapiens,,,,,,C1413582
+Q30555,gene,遺伝子,Q7187,proto-oncogene,,gene that can become an oncogene,,D011519,,,,C0033713
+Q5635486,gene,遺伝子,Q7187,HOTHEAD,,Arabidopsis thaliana gene,,,,,,
+Q103471017,anatomical structure,解剖学的構造,Q4936952,Adonis vernalis flower,,flower,,,,,,
+Q103471272,anatomical structure,解剖学的構造,Q4936952,Adonis aestivalis flower,,flower,,,,,,
+Q103445788,anatomical structure,解剖学的構造,Q4936952,Fraxinus excelsior seed,,seed from Fraxinus excelsior,,,,,,
+Q103563496,anatomical structure,解剖学的構造,Q4936952,Jatropha curcas seed,,plant seed,,,,,,
+Q2333565,anatomical structure,解剖学的構造,Q4936952,aerenchyma,通気組織,spongy tissue that forms spaces or air channels in plants,,,,,,
+Q11917763,anatomical structure,解剖学的構造,Q4936952,helicoid cyme,,inflorescence,,,,,,
+Q184208,anatomical structure,解剖学的構造,Q4936952,rhizome,根茎,underground stem in which various plants asexually reproduce via budding.,,D027343,,,,C0949790
+Q4536561,anatomical structure,解剖学的構造,Q4936952,Zungenblüte,,German term: A subclass of individual flowers,,,,,,
+Q639634,anatomical structure,解剖学的構造,Q4936952,axil,,part of plant,,,,,,
+Q103748177,anatomical structure,解剖学的構造,Q4936952,cucumber seed,,seed from the fruit of Cucumis sativus,,,,,,
+Q1734637,infectious disease,感染症,Q18123741,Common scab,そうか病,Plant disease affecting potatoes and other crops,,,,,,
+Q41083,infectious disease,感染症,Q18123741,syphilis,梅毒,sexually transmitted infection,梅毒トレポネーマの感染により発症する感染症,D013587,,093,,C0007939
+Q11775289,infectious disease,感染症,Q18123741,Peach scab,,fungal disease of stone fruits,,,,,,
+Q125333650,infectious disease,感染症,Q18123741,cholera infantum,,disease state in infants,,,,,,
+Q5788570,infectious disease,感染症,Q18123741,infectious coryza,伝染性コリーザ,disease of poultry,,,,,,
+Q1104126,infectious disease,感染症,Q18123741,classic autism,,"former developmental disorder, since DSM-V replaced by Autism Spectrum Condition, type 2-3, with, or without, intellectual development disorder",,,F84.0,,,
+Q8502088,infectious disease,感染症,Q18123741,apricot leaf scorch,,plant disease,,,,,,
+Q97317440,infectious disease,感染症,Q18123741,Thysaniezia infection,,,,,,,,
+Q11176055,infectious disease,感染症,Q18123741,red band needle blight,,,,,,,,
+Q19934710,medical procedure,医療処置,Q2095549,air force officer,空軍将校,military officer in an air force,,,,,,
+Q7890793,medical procedure,医療処置,Q2095549,United States Naval Aviator,アメリカ海軍飛行士,commissioned officer or warrant officer qualified as a manned aircraft pilot in the United States Navy or United States Marine Corps,,,,,,
+Q108114975,medical procedure,医療処置,Q2095549,naval aviator,,military aircraft pilot in the navy of some country,,,,,,
+Q34530484,bacteria,細菌,Q10876,Shewanella aestuarii,,species of bacterium,,,,,,
+Q34530619,bacteria,細菌,Q10876,Psychrobacter pocilloporae,,species of bacterium,,,,,,
+Q102145852,bacteria,細菌,Q10876,Paraburkholderia madseniana,,species of Gram-negative bacteria,,,,,,C5256658
+Q121879597,bacteria,細菌,Q10876,pyogenic cocci,,,,,,,,
+Q124547579,virus,ウイルス,Q808,Oncoretroviruses,,,,,,,,
+Q69351641,virus,ウイルス,Q808,human papillomavirus 18,,associated with malignant tumors of the genital and respiratory mucosa,,D052161,,,,C0999807
+Q104376647,virus,ウイルス,Q808,SARS-CoV-2 Alpha variant,SARSコロナウイルス2-アルファ株,variant of SARS-CoV-2,SARSコロナウイルス2の変異株,,,,,
+Q332874,virus,ウイルス,Q808,tobacco mosaic virus,タバコモザイクウイルス,species of virus,ウイルスの一種,D014027,,,,C0040333
+Q4840019,virus,ウイルス,Q808,Bacteriophage T12,,species of virus,,,,,,
+Q5630028,virus,ウイルス,Q808,HL23V,,type C RNA tumor virus,,,,,,
+Q4663138,virus,ウイルス,Q808,abaca bract mosaic virus,,virus which affects plants,,,,,,
+Q5629112,virus,ウイルス,Q808,HCP5,,,,,,,,
+Q116551921,virus,ウイルス,Q808,Human circovirus 1,,species of virus,,,,,,
+Q82069695,virus,ウイルス,Q808,SARS-CoV-2,SARSコロナウイルス2,virus that causes COVID-19,2019年に存在が報告された新種のコロナウイルス、COVID-19の原因となる感染症,D000086402,,,840533007,C5203676
+Q1931566,therapeutic agent,治療薬,Q179661,turtle plastron,亀板,,漢方薬の一種の亀の甲羅,,,,,
+Q6436553,therapeutic agent,治療薬,Q179661,Krebiozen,,disproven cancer treatment,,,,,,
+Q131404964,therapeutic agent,治療薬,Q179661,Leg transplantion,,,,,,,,
+Q131588563,therapeutic agent,治療薬,Q179661,continuous suture,,,,,,,,
+Q131588561,therapeutic agent,治療薬,Q179661,simple interrupted suture,,,,,,,,
+Q131588560,therapeutic agent,治療薬,Q179661,subcuticular suture,,,,,,,,
+Q132734471,therapeutic agent,治療薬,Q179661,American Surrogacy,,"Surrogacy agency based in Overland Park, KS, providing matching and support services for intended parents and surrogates.",,,,,,
+Q1810912,therapeutic agent,治療薬,Q179661,Diphoterine,,first aid wash agent,,,,,,
+Q20826201,therapeutic agent,治療薬,Q179661,Gerson therapy,,ineffective pseudoscientific alternative cancer therapy,,,,,,
+Q119449643,therapeutic agent,治療薬,Q179661,puppet-rearing,,use of puppets to raise birds and avoid human imprinting,,,,,,
+Q741255,medical device,医療機器,Q12139612,Hubble Deep Field,ハッブル・ディープ・フィールド,multiple exposure image of deep space in the constellation Ursa Major,,,,,,
+Q492918,medical device,医療機器,Q12139612,Siding Spring Survey,サイディング・スプリングサーベイ,near-Earth object search program,,,,,,
+Q62917,medical device,医療機器,Q12139612,Hubble eXtreme Deep Field,ハッブル・エクストリーム・ディープ・フィールド,multiple exposure image of deep space in the constellation Fornax,,,,,,
+Q251609,medical device,医療機器,Q12139612,bibliography of music literature,,international bibliography of literature on music,,,,,,
+Q432287,medical device,医療機器,Q12139612,Virginia Woolf bibliography,,bibliography of works by the English novelist and essayist Virginia Woolf,,,,,,
+Q254237,medical device,医療機器,Q12139612,VD 17,,German bibliography project (17th century prints),,,,,,
+Q21578,medical device,医療機器,Q12139612,Princeton University,プリンストン大学,"private Ivy League research university in Princeton, New Jersey, United States",アメリカの私立大学,,,,,
+Q49088,medical device,医療機器,Q12139612,Columbia University,コロンビア大学,private university in New York City,アメリカの私立大学,,,,,
+Q76979,medical device,医療機器,Q12139612,Agatha Christie bibliography,アガサ・クリスティの著作一覧,list of works by Agatha Christie,ウィキメディアの一覧記事,,,,,
+Q13371,medical device,医療機器,Q12139612,Harvard University,ハーバード大学,"private university in Cambridge, Massachusetts",アメリカ・マサチューセッツ州にある私立大学,,,,,

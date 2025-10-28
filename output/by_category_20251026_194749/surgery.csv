@@ -1,0 +1,99 @@
+﻿qid,category_en,category_ja,category_qid,en_label,ja_label,en_description,ja_description,mesh_id,icd10,icd9,snomed_id,umls_id
+Q81476,surgery,外科手術,Q796194,endarterectomy,,surgical removal of the atheromatous plaque in an artery,,D004691,,,,
+Q1028104,surgery,外科手術,Q796194,Camberwell family interview,,,,,,,,
+Q615857,surgery,外科手術,Q796194,stapedectomy,アブミ骨切除術,surgical procedure of the middle ear performed to improve hearing,,D013201,,,,
+Q1035871,surgery,外科手術,Q796194,Career Counselling for Teachers,,,,,,,,
+Q1389495,surgery,外科手術,Q796194,Frankfurt Attention Inventory,,a psychological test to assess the ability to pay attention and concentrate,,,,,,
+Q1229320,surgery,外科手術,Q796194,Dissociative Experiences Scale,解離体験尺度,questionnaire to screen for dissociative identity disorder,,,,,,
+Q818326,surgery,外科手術,Q796194,Benton Visual Retention Test,,medical diagnostic method,,,,,,
+Q196775,surgery,外科手術,Q796194,Zervikalabstrich,,German term: a medical procedure in the context of the gynecological examination,,,,,,
+Q32566,surgery,外科手術,Q796194,computed tomography,コンピュータ断層撮影,medical imaging procedure using X-rays to produce cross-sectional images,放射線を用いて、物体の内部をスライス画像化して観察できるようにする技術,D014057,,,,
+Q897939,surgery,外科手術,Q796194,Myers-Briggs Type Indicator,MBTI,model of personality types,アメリカで提唱された、類型論に基づくパーソナリティ検査(性格検査）,,,,,
+Q332126,surgery,外科手術,Q796194,ELISA,ELISA,assay,試料の分析方法,D004797,,,,C0014441
+Q1440411,surgery,外科手術,Q796194,Life Satisfaction Questionnaire,,a psychological test that records the extent of life satisfaction,,,,,,
+Q680820,surgery,外科手術,Q796194,Freiburger Persönlichkeitsinventar,,psychological personality test,,,,,,
+Q1397988,surgery,外科手術,Q796194,Gießen-Test,,,,,,,,
+Q1453858,surgery,外科手術,Q796194,Freiburg Complaints List,,standardized German-language questionnaire for physical and psychological complaints,,,,,,
+Q1255660,surgery,外科手術,Q796194,Sexual Compulsivity Scale,,medical diagnostic method,,,,,,
+Q46565,surgery,外科手術,Q796194,pneumonectomy,肺切除,surgical removal of a lung,,D011013,,,,
+Q580383,surgery,外科手術,Q796194,splenectomy,脾臓摘出術,surgical removal of part or all of a spleen,,D013156,,,,C0037995
+Q475069,surgery,外科手術,Q796194,embolectomy,,surgical removal of emboli,,D017128,,,,C0162575
+Q444351,surgery,外科手術,Q796194,dual-energy X-ray absorptiometry,二重エネルギーX線吸収測定法,diagnostic test for bone mineral density testing,,,,,,
+Q16636035,surgery,外科手術,Q796194,Veterinary hemodialysis,,,,,,,,
+Q166026,surgery,外科手術,Q796194,hemispherectomy,,neurosurgical procedure wherein a cerebral hemisphere (half of the brain) is removed.,,D038421,,,,C1136213
+Q1139225,surgery,外科手術,Q796194,Pavlov's dog,,a reference to experiments in classical conditioning made by the Russian physiologist Ivan Pavlov using dogs,,,,,,
+Q180071,surgery,外科手術,Q796194,fine-needle aspiration,生検法,"diagnostic procedure to investigate lumps using a thin needle, for histopathology or cytopathology",,D044963,,,,C0085846
+Q829680,surgery,外科手術,Q796194,complaints list,,standardized German-language questionnaire for physical and psychological complaints,,,,,,
+Q1988216,surgery,外科手術,Q796194,oxygen therapy,酸素吸入,use of high concentrations of oxygen as medical treatment,,D010102,,,,C0184633
+Q814201,surgery,外科手術,Q796194,Zerssen Befindlichkeits-Skala,,,,,,,,
+Q708232,surgery,外科手術,Q796194,arthroscopy,関節鏡,medical procedure,,D001182,,,,
+Q1277086,surgery,外科手術,Q796194,D2 Test of Attention,,Neuropsychological test,,,,,,
+Q473246,surgery,外科手術,Q796194,Wechsler Memory Scale,ウェクスラー記憶検査,comprehensive battery test to assess the capacity of learning and remembering information,,D000073220,,,,C0451575
+Q32012,surgery,外科手術,Q796194,Jungian Type Index,,"psychological classification metric Introduced by Optimas in 2001, developed by Thor Ødegård and Hallvard E. Ringstad, based on the work of Carl Jung",,,,,,
+Q916859,surgery,外科手術,Q796194,cervicectomy,,surgical removal of the uterine cervix,,D000069339,,,,C0195331
+Q592565,surgery,外科手術,Q796194,apicoectomy,歯根端切除術,surgical removal of the root tip of a tooth,,D001047,,,,C0003571
+Q924295,surgery,外科手術,Q796194,vitrectomy,,surgery to remove some or all of the vitreous humor from the eye,,D014821,,,,C0042903
+Q44516,surgery,外科手術,Q796194,Pfannenstiel incision,,surgical incision of the abdomen,,,,,,
+Q742740,surgery,外科手術,Q796194,Binet-Simon test,,historical intelligence test,,,,,,
+Q909284,surgery,外科手術,Q796194,Cooper test,クーパーテスト,physical fitness test,,,,,,
+Q620840,surgery,外科手術,Q796194,appendectomy,虫垂切除術,surgical removal of the vermiform appendix,,D001062,,,,C0003611
+Q5282844,surgery,外科手術,Q796194,Distal splenorenal shunt procedure,,medical procedure,,,,,,
+Q2323044,surgery,外科手術,Q796194,Da Vinci Surgical System,da Vinci,robotic surgical system,インテュイティヴ・サージカル社が開発したマスタースレイブ型内視鏡下手術用の手術用ロボット,,,,,
+Q847202,surgery,外科手術,Q796194,Rey-Osterrieth Complex Figure,,neuropsychological test,,,,,,
+Q245341,surgery,外科手術,Q796194,radiography,X線撮影,imaging technique using ionizing and non-ionizing radiation,X線を用いて、物体の内部を画像化する技術,D011859,,,,C0043299
+Q707818,surgery,外科手術,Q796194,arteriography,,medical imaging technique,,,,,,
+Q837188,surgery,外科手術,Q796194,ophthalmoscopy,眼底検査,"test that allows a health professional to see inside the fundus of the eye and other structures using an ophthalmoscope, crucial in determining the health of the retina, optic disc, and vitreous humor",,D009887,,,,C0029090
+Q366774,surgery,外科手術,Q796194,adrenalectomy,副腎摘出術,surgical removal of the adrenal gland,,D000315,,,,C0001632
+Q550675,surgery,外科手術,Q796194,hysterectomy,子宮摘出術,surgical removal of the uterus,外科的医療処置,D007044,,,236886002,C0020699
+Q1059391,surgery,外科手術,Q796194,Sally–Anne test,サリーとアン課題,psychological test,,,,,,
+Q682553,surgery,外科手術,Q796194,Baum test,バウムテスト,projective drawing technique developed by Karl Koch,投影法による心理検査のひとつ,,,,,
+Q232839,surgery,外科手術,Q796194,Zweigläserprobe,,German term: an examination of the urine,,,,,,
+Q1336728,surgery,外科手術,Q796194,GAD-2,,two-item anxiety disorder screening instrument,,,,,,
+Q300708,surgery,外科手術,Q796194,Aachen Aphasia Test,,German language test to diagnose aphasia as a result of acquired brain damage,,,,,,
+Q356194,surgery,外科手術,Q796194,adenoidectomy,,surgical removal of the adenoids,,D000233,,,,C0001425
+Q245995,surgery,外科手術,Q796194,cystectomy,,excision of the urinary bladder,,D015653,,,,
+Q176996,surgery,外科手術,Q796194,polymerase chain reaction,ポリメラーゼ連鎖反応,in vitro method for producing large amounts of specific DNA or RNA fragments from small amounts of short oligonucleotide primers,DNAサンプルの特定領域を増幅させる反応または技術,D016133,,,,
+Q307738,surgery,外科手術,Q796194,Cover test,,examination to determine eye misalignment,,,,,,
+Q1779148,surgery,外科手術,Q796194,colectomy,結腸切除術,bowel resection of the colon,,D003082,,,,C0009274
+Q552065,surgery,外科手術,Q796194,turbinectomy,,surgical removal of the turbinate bones in the nasal passage,,,,,,
+Q1484539,surgery,外科手術,Q796194,Generalized Anxiety Disorder 7,全般性不安障害7,seven-item anxiety disorder screening instrument,,,,,,
+Q17008767,surgery,外科手術,Q796194,Concept-Oriented Reading Instruction,,reading intervention,,,,,,
+Q17118879,surgery,外科手術,Q796194,peanut butter test,,diagnostic test for Alzheimer's disease,,,,,,
+Q3592570,surgery,外科手術,Q796194,STEP Study,,clinical trials testing the efficacy of a HIV vaccine,,,,,,
+Q16251731,surgery,外科手術,Q796194,eugenics in California,,state-sponsored sterilization program in California (1909-1979),,,,,,
+Q576379,surgery,外科手術,Q796194,oxidase test,,microbiological and biochemical method for identification,,,,,,
+Q1737034,surgery,外科手術,Q796194,Kaufman Assessment Battery for Children,K-ABC,psychological test,,,,,,
+Q1228381,surgery,外科手術,Q796194,Dische test,,chemical test,,,,,,
+Q297324,surgery,外科手術,Q796194,ASCOT,,clinical trial,,,,,,
+Q1116726,surgery,外科手術,Q796194,Drehmann sign,,orthopedicclinical test for hip joint,,,,,,
+Q690838,surgery,外科手術,Q796194,vasectomy,精管切除,surgical procedure for male sterilization,精巣で作られた精子が亀頭先まで流れる精管を切断または縛ることで、精子を含有した精液の放出を遮断する不妊手術,D014659,,,,
+Q1281398,surgery,外科手術,Q796194,Gustav III of Sweden's coffee experiment,グスタフ3世のコーヒー実験,alleged twin study,,,,,,
+Q1036063,surgery,外科手術,Q796194,tone decay test,,"auditory nerve function assessment by measuring the ability to sustain hearing a continuous tone, aiding in detecting retrocochlear disorders",,,,,,
+Q5270124,surgery,外科手術,Q796194,Diabetes control and complications trial,,clinical trial,治験,,,,,
+Q1402440,surgery,外科手術,Q796194,Feldenkrais Method,フェルデンクライスメソッド,guild regulated movement education complementary to physical therapy,,,,,,
+Q2893010,surgery,外科手術,Q796194,house-tree-person test,HTPテスト,"psychological test in which the client is asked to make a drawing that includes a house, a tree and a person, after which the therapist asks several questions about each",心理学のテスト,,,,,
+Q1801578,surgery,外科手術,Q796194,laminectomy,椎弓切除,surgical procedure that removes a portion of the lamina,,D007796,,,,C0022983
+Q1929014,surgery,外科手術,Q796194,glycemic load,グリセミック負荷,estimate of how much a quantity of food will raise a person's blood glucose level,,D000067940,,,,C4042927
+Q1500020,surgery,外科手術,Q796194,PHQ Stress Module,,,,,,,,
+Q6511697,surgery,外科手術,Q796194,lecithin–sphingomyelin ratio,,test of fetal amniotic fluid to assess for fetal lung immaturity,,,,,,
+Q1572130,surgery,外科手術,Q796194,Halphen test,,,,,,,,
+Q4417208,surgery,外科手術,Q796194,HeartScore,,cardiovascular disease risk assessment,,,,,,
+Q1743663,surgery,外科手術,Q796194,Kirton Adaption-Innovation-Inventory,,,,,,,,
+Q4654994,surgery,外科手術,Q796194,AURORA trial,,study investigating the use of rosuvastatin,,,,,,
+Q1664214,surgery,外科手術,Q796194,Multiple Sleep Latency Test,多睡眠潜伏検査,Diagnostic tool used to diagnose sleep disorders,,,,,,C0519186
+Q12147139,surgery,外科手術,Q796194,passive hemagglutination test,,,,,,,,
+Q1951134,surgery,外科手術,Q796194,movement assessment battery for children,,,,,,,,
+Q2044157,surgery,外科手術,Q796194,PHQ panic module,,,,,,,,
+Q2089665,surgery,外科手術,Q796194,PiCCO,,,,,,,,
+Q5635617,surgery,外科手術,Q796194,HPTN 052,,clinical trial showing HIV treatment prevents infection of negative partners,,,,,,
+Q4119199,surgery,外科手術,Q796194,xenodiagnosis,,method for diagnosing a disease in one organism by inoculating the putative causative organism in a second animal of a different species,,D020525,,,,C0751962
+Q294443,surgery,外科手術,Q796194,Antihypertensive and Lipid Lowering Treatment to Prevent Heart Attack Trial,,,,,,,,
+Q464600,surgery,外科手術,Q796194,Millon's reagent,,reagent to detect for soluble proteins,,,,,,
+Q74148,surgery,外科手術,Q796194,Voges-Proskauer test,フォーゲス・プロスカウアー試験,microbiological and biochemical method for identification,,,,,,
+Q5690140,surgery,外科手術,Q796194,Heaf test,,Skin test,,,,,,
+Q15791819,surgery,外科手術,Q796194,alpha-hemolysis,,,,,,,,
+Q15122611,surgery,外科手術,Q796194,Frankfurt Adaptive Concentration Test,,medical diagnostic method,,,,,,
+Q16974010,surgery,外科手術,Q796194,Lp-LpA2,,,,,,,,
+Q2807637,surgery,外科手術,Q796194,Vienna Test System,,digital psychological assessment system,,,,,,
+Q4034713,surgery,外科手術,Q796194,Boel test,,,,,,,,
+Q4176369,surgery,外科手術,Q796194,Bogardus social distance scale,,,,,,,,

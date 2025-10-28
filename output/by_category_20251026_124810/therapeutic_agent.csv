@@ -1,0 +1,11 @@
+﻿qid,category_en,category_ja,category_qid,en_label,ja_label,en_description,ja_description,mesh_id,icd10,icd9,snomed_id,umls_id
+Q27731328,therapeutic agent,治療薬,Q179661,gokoto,五虎湯,Kampo drug,漢方薬の一種,,,,,
+Q6436553,therapeutic agent,治療薬,Q179661,Krebiozen,,disproven cancer treatment,,,,,,
+Q131404964,therapeutic agent,治療薬,Q179661,Leg transplantion,,,,,,,,
+Q131588563,therapeutic agent,治療薬,Q179661,continuous suture,,,,,,,,
+Q131588561,therapeutic agent,治療薬,Q179661,simple interrupted suture,,,,,,,,
+Q131588560,therapeutic agent,治療薬,Q179661,subcuticular suture,,,,,,,,
+Q27731440,therapeutic agent,治療薬,Q179661,hachimijiogan / hachimigan,八味地黄丸,Kampo drug,漢方薬の一種,,,,,
+Q132734471,therapeutic agent,治療薬,Q179661,American Surrogacy,,"Surrogacy agency based in Overland Park, KS, providing matching and support services for intended parents and surrogates.",,,,,,
+Q1810912,therapeutic agent,治療薬,Q179661,Diphoterine,,first aid wash agent,,,,,,
+Q20826201,therapeutic agent,治療薬,Q179661,Gerson therapy,,ineffective pseudoscientific alternative cancer therapy,,,,,,

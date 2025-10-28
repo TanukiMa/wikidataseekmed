@@ -1,0 +1,8 @@
+﻿qid,category_en,category_ja,category_qid,en_label,ja_label,en_description,ja_description,mesh_id,icd10,icd9,snomed_id,umls_id
+Q1313510,symptom,症状,Q169872,hypophosphatasia,,"rare, and sometimes fatal, metabolic bone disease",,D007014,,275.3,,C0020630
+Q124850662,symptom,症状,Q169872,apagender,,,,,,,,
+Q185935,symptom,症状,Q169872,mania,躁病,"state of abnormally elevated or irritable mood, arousal, and/or energy levels",気分高揚・万能感・活動性激増・多弁・自己過大評価・睡眠激減・観念奔逸・病識欠如などを特徴とする精神疾患,D000087122,F30,296.4,,
+Q130486455,symptom,症状,Q169872,Enzootic ataxia,,,,,,,,
+Q2553422,symptom,症状,Q169872,POEMS syndrome,クロウ・深瀬症候群,paraneoplastic syndrome,,D016878,D47.7,273.8,,C0085404
+Q649340,symptom,症状,Q169872,Alice in Wonderland syndrome,不思議の国のアリス症候群,neuropsychological condition,ものの大きさに関する様々な主観的イメージの変容を引き起こす症候群,D062026,,,,C0854348
+Q1053948,symptom,症状,Q169872,Stevens–Johnson syndrome,スティーブンス・ジョンソン症候群,skin disease,皮膚や粘膜の過敏症,D013262,,,73442001,C0014518

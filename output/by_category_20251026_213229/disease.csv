@@ -1,0 +1,1295 @@
+﻿qid,category_en,category_ja,category_qid,en_label,ja_label,en_description,ja_description,mesh_id,icd10,icd9,snomed_id,umls_id
+Q403453,disease,病気,Q12136,Aicardi-Goutieres syndrome,エカルディ・グティエール症候群,a rare genetic neurodevelopmental disorder,,C535607,,,,C0393591
+Q5958573,disease,病気,Q12136,compulsive sexual behaviour disorder,色情症,mental disorder according to ICD-11,性欲の異常亢進,D000096583,,,,
+Q442615,disease,病気,Q12136,slipped capital femoral epiphysis,大腿骨頭滑り症,rare disease,,D060048,M93.0,,26460006,C0149887
+Q390211,disease,病気,Q12136,atrioventricular septal defect,心内膜床欠損症,Human disease,,D004694,,,,C0014116
+Q493103,disease,病気,Q12136,paramyotonia congenita,先天性パラミオトニア,human disease,,C538616,G71.1,359.2,,C0221055
+Q1153419,disease,病気,Q12136,interstitial lung disease,間質性肺炎,group of lung diseases affecting the interstitium (the tissue and space around the air sacs of the lungs),肺にある間質組織の線維化が起こる疾患,D017563,,714.81,,C0206061
+Q390791,disease,病気,Q12136,hepatoerythropoietic porphyria,,Human disease,,D017121,E80.2,277.1,111386004,C0162569
+Q498826,disease,病気,Q12136,sucrose intolerance,ショ糖不耐症,Congenital sucrase-isomaltase deficiency (CSID) is a carbohydrate intolerance disorder characterised by malabsorption of oligosaccharides and disaccharides,,C538139,E74.3,271.3,,C1283620
+Q448698,disease,病気,Q12136,pulmonary alveolar proteinosis,肺胞蛋白症,"lung disease that is characterized by abnormal accumulation of surfactant occurs within the alveoli, interfering with gas exchange",,D011649,,,,C0034050
+Q458099,disease,病気,Q12136,triosephosphate isomerase deficiency,,Genetic metabolic disorder,,C566029,D55.2,282.3,,C0398562
+Q708165,disease,病気,Q12136,neurogenic arthrogryposis multiplex congenita,関節拘縮,congenital joint contracture in two or more areas of the body,,C536614,,728.3,,C1859721
+Q98080401,disease,病気,Q12136,Breast hemangioma,,a very rare benign vascular neoplasm accounting for 0.4% of all breast tumors,,,,,,
+Q432814,disease,病気,Q12136,Alström syndrome,,rare genetic disorder caused by mutations in the gene ALMS1,,D056769,Q87.8,,,C0268425
+Q402575,disease,病気,Q12136,maple syrup urine disease,メープルシロップ尿症,human disease,,D008375,,,,C0024776
+Q461854,disease,病気,Q12136,amelogenesis imperfecta,エナメル質形成不全,dental enamel hypoplasia characterized by abnormal enamel formation,,D000567,K00.5,,,C0002452
+Q419897,disease,病気,Q12136,porphyria due to ALAD deficiency,,"porphyria that has symptom abdominal pain, has symptom neuropathy, has symptom autonomic instability and has symptom psychosis",,,E80.2,277.1,,C0162533
+Q727436,disease,病気,Q12136,Lesch-Nyhan syndrome,レッシュ・ナイハン症候群,rare genetic syndrome,,D007926,,277.2,,C0023374
+Q492129,disease,病気,Q12136,porencephaly,,congenital disorder of nervous system characterized by cysts or cavities within the cerebral hemisphere.,,D065708,,,38837006,C0302892
+Q735652,disease,病気,Q12136,mitral valve prolapse,僧帽弁逸脱症,mitral valve disease where one or both of the cusps of the mitral valve bulge or collapse backward in the left atrium during systole,,D008945,,424.0,,C0026267
+Q55782588,disease,病気,Q12136,syndactyly type 8,,human disease,,,,,,C1839728
+Q11085,disease,病気,Q12136,Parkinson's disease,パーキンソン病,long-term degenerative neurological disorder,運動障害を示す進行性の神経変性疾患の一種,D010300,,,,C0030567
+Q498487,disease,病気,Q12136,Camurati-Engelmann disease,,rare disease,,D003966,,756.59,,C0011989
+Q556281,disease,病気,Q12136,uterine fibroid,子宮筋腫,uterine benign neoplasm derived from the smooth muscle layer of the uterus,,,,,,C0042133
+Q500314,disease,病気,Q12136,Kashin–Beck disease,カシン＝ベック病,"chronic, endemic osteochondropathy",,D057767,M12.1,716.0,,C2745963
+Q55787167,disease,病気,Q12136,Zygodactyly type 2,,human disease,,,,,,C5679982
+Q55787168,disease,病気,Q12136,Zygodactyly type 3,,human disease,,,,,,C5679983
+Q55787169,disease,病気,Q12136,Zygodactyly type 4,,human disease,,,,,,C5679981
+Q1472,disease,病気,Q12136,Crohn's disease,クローン病,type of inflammatory bowel disease,主として口腔から肛門までの全消化管に、非連続性の慢性肉芽腫性炎症を生じる原因不明の炎症性疾患,D003424,,,,C0156147
+Q387082,disease,病気,Q12136,ataxia telangiectasia,毛細血管拡張性運動失調症,"a rare, neurodegenerative, autosomal recessive human disease causing severe disability",,D001260,G11.3,334.8,,C0004135
+Q55781850,disease,病気,Q12136,"Ehlers-Danlos syndrome, fibronectinemic type",,,,C565600,,,,C1857038
+Q55783673,disease,病気,Q12136,mesoaxial synostotic syndactyly with phalangeal reduction,,,,C563721,,,,C1836206
+Q478891,disease,病気,Q12136,Simpson-Golabi-Behmel syndrome,シンプソン・ゴラビ・ベーメル症候群,"X-linked disease characterized by pre- and postnatal overgrowth and craniofacial, skeletal, cardiac and renal abnormalities",,C537340,Q87.0,,,C0796154
+Q47912,disease,病気,Q12136,lung cancer,肺癌,cancer in the lung,肺に発生する上皮細胞由来の悪性腫瘍,,C3333.-C3434.,162162,,C0024624
+Q727008,disease,病気,Q12136,McCune–Albright syndrome,マッキューン・オルブライト症候群,rare disease,,D005359,Q78.1,756.54,726029005,
+Q1151300,disease,病気,Q12136,autoimmune lymphoproliferative syndrome,自己免疫性リンパ増殖症候群,Human disease,,D056735,,,,C1328840
+Q473262,disease,病気,Q12136,complete androgen insensitivity syndrome,,intersex variation where one has no response to androgens and is born with a vulva and clitoris,,,E34.1,259.51,,
+Q4955836,disease,病気,Q12136,brain stem neoplasm,,neoplasm (disease) that involves the brainstem,,D020295,,,,C0677866
+Q40301,disease,病気,Q12136,parathyroid carcinoma,,endocrine disease,,,,,,C0153653
+Q18579,disease,病気,Q12136,frontotemporal lobar degeneration,前頭側頭葉変性症,group of disorders,,D057174,,,,C0751072
+Q18583,disease,病気,Q12136,progressive nonfluent aphasia,,neurological disorder,,D057178,,,,C0751706
+Q1485,disease,病気,Q12136,systemic lupus erythematosus,全身性エリテマトーデス,"inflammation of connective tissue marked by skin rashes, joint pain and swelling, inflammation of the kidneys and inflammation of the tissue surrounding the heart.",膠原病の一つ,D008180,,,,C0024141
+Q494922,disease,病気,Q12136,glycogen storage disease III,,human disease,,D006010,,271.0,,C0017922
+Q337554,disease,病気,Q12136,heat stroke,熱射病,"failure of the body to dissipate heat in an excessively hot environment, or during physical exertion",40℃を超える体温とせん妄を生じさせる重度の熱中症の一つ,D018883,T67.0,,,C0018843
+Q18592,disease,病気,Q12136,frontotemporal dementia,前頭側頭型認知症,medical condition,,D057180,G31.0,331.19,,C4229268
+Q1483,disease,病気,Q12136,Craniopagus parasiticus,寄生的頭蓋結合体,rare type of Craniopagus,,,,,,
+Q441077,disease,病気,Q12136,Blau syndrome,,"autosomal dominant disease characterized by familial granulomatous arthritis, uveitis and skin granulomas. It has material basis in mutations in the NOD2/CARD15 genes",,,,,,C1861303
+Q390908,disease,病気,Q12136,Lucey–Driscoll syndrome,,autosomal recessive metabolic disorder affecting enzymes involved in bilirubin metabolism,,C562692,,774.30,,C0270210
+Q32778,disease,病気,Q12136,bronchiectasis,気管支拡張症,disorder of respiratory system,,D001987,,,,C0006267
+Q1151801,disease,病気,Q12136,Waardenburg's syndrome,ワールデンブルグ症候群,genetic condition involving hearing loss and depigmentation,,D014849,,270.2270.2,,C0079661
+Q1149042,disease,病気,Q12136,cystinosis,シスチノーシス,lysosomal storage disease characterized by the abnormal accumulation of cystine in lysosomes,,D003554,,270.0,367374009,C0010690
+Q474254,disease,病気,Q12136,Bannayan-Riley-Ruvalcaba syndrome,バナヤン・ライリー・ルバルカバ症候群,"a rare overgrowth syndrome and hamartomatous disorder with occurrence of multiple subcutaneous lipomas, macrocephaly and hemangiomas.",,,,,,C0265326
+Q5508865,disease,病気,Q12136,functioning tumor,,"hormone producing endocrine neoplasm, associated with a hormonal syndrome",,,,,,C2986655
+Q1406349,disease,病気,Q12136,greasy pig disease,滲出性表皮炎,,,,,,,
+Q1404470,disease,病気,Q12136,Felty's syndrome,フェルティ症候群,"syndrome that results in rheumatoid arthritis, splenomegaly and neutropenia",関節リウマチ、脾腫、白血球減少を三主徴とする疾患,D005258,,,,C0015773
+Q1420459,disease,病気,Q12136,fish tuberculosis,抗酸菌症,,,,,,,
+Q1274464,disease,病気,Q12136,polyarthritis,多発性関節炎,type of arthritis which involves 5 or more joints simultaneously,,,M06.4,714,416956002,C0162323
+Q1435125,disease,病気,Q12136,fetus in fetu,封入胎児,"fetus-like tissue mass within a fetus, abnormality of twin pregnancy",,D000098987,,,,
+Q1144618,disease,病気,Q12136,familial Mediterranean fever,家族性地中海熱,Human disease,,D010505,,,,C0031069
+Q830308,disease,病気,Q12136,age related macular degeneration,加齢黄斑変性,medical condition which may result in blurred or no vision in the center of the visual field,,,,,267718000,C0242383
+Q1153641,disease,病気,Q12136,Wolfram syndrome,ウォルフラム症候群,"rare disease in which a human simultaneously has diabetes insipidus, diabetes, optic nerve atrophy and deafness syndrome",,D014929,E13.8,249.90,,C0043207
+Q1154619,disease,病気,Q12136,Werner syndrome,ウェルナー症候群,Lethal autosomal recessive disorder,,D014898,,,,C0043119
+Q861224,disease,病気,Q12136,juvenile rheumatoid arthritis,若年性特発性関節炎,rheumatoid arthritis that involves an autoimmune disease onset in children under 16 which attacks the healthy cells and tissue of located in joint,,,,,,C0157916
+Q757749,disease,病気,Q12136,atrial heart septal defect,心房中隔欠損,heart septal defect located in the septum that separates the two atria of the heart,,D006344,,745.6,,C0018817
+Q1235785,disease,病気,Q12136,stiff-person syndrome,スティッフパーソン症候群,"rare neurologic disorder characterized by progressive rigidity and stiffness in truncal muscles, spasms, postural deformities, chronic pain, impaired mobility, and lumbar hyperlordosis",非常に稀な進行性の神経性疾患で、自己免疫疾患の一種,D016750,,,,C0085292
+Q776881,disease,病気,Q12136,hereditary hemorrhagic telangiectasia,ランデュー・オスラー・ウェーバー症候群,genetic disorder involving capillaries,血管奇形を起こす遺伝性疾患。遺伝性出血性毛細血管拡張症あるいは遺伝性出血性末梢血管拡張症。,D013683,,,,C0039445
+Q795024,disease,病気,Q12136,sirenomelia,シレノメリア,disease,,C538595,Q87.2,759.89,,C0037205
+Q1162164,disease,病気,Q12136,clubfoot,先天性内反足,bone development disease,,D003025,,,,C0009081
+Q829150,disease,病気,Q12136,glycogen storage disease IV,,human disease,,D006011,,271.0,,C0017923
+Q736633,disease,病気,Q12136,mismatch repair cancer syndrome,ターコット症候群,genetic disease,,C536928,,,,C0265325
+Q827497,disease,病気,Q12136,Muir-Torre syndrome,,Human disease,,D055653,,,,C1321489
+Q500695,disease,病気,Q12136,retinoblastoma,網膜芽細胞腫,retinal cell cancer,,D012175,C69.2,190.5,,C0035335
+Q49989,disease,病気,Q12136,Creutzfeldt-Jakob disease,クロイツフェルト・ヤコブ病,degenerative neurological disorder,中枢神経の変性疾患,D007562,,,,C0022336
+Q773118,disease,病気,Q12136,Andersen-Tawil syndrome,,Human disease,,D050030,I45.8,426.82,,C1563715
+Q737712,disease,病気,Q12136,asplenia,無脾症,congenital disorder,,,D73.0,759.01,707147002,
+Q1112752,disease,病気,Q12136,Watson syndrome,,medical condition,,,Q87.1,,,C0347915
+Q1227139,disease,病気,Q12136,diphallia,陰茎重複症,genital medical condition,男児が2本の陰茎を持って生まれる疾患,,Q55.6,,,C0345322
+Q503642,disease,病気,Q12136,trisomy 16,16トリソミー,partial or complete triplication of chromosome 16,,C538041,,,,C1519651
+Q1196503,disease,病気,Q12136,computer vision syndrome,VDT症候群,"condition resulting from focusing the eyes on a screen for protracted, uninterrupted periods of time",,,,,,C2609092
+Q779250,disease,病気,Q12136,Crouzon syndrome,,Congenital disorder of the skull and face,,D003394,,756.0,,C0010273
+Q112670,disease,病気,Q12136,mastocytosis,肥満細胞症,human disease,,D008415,,757.33,,C0024899
+Q772022,disease,病気,Q12136,asplenia with cardiovascular anomalies,,rare disease,,,,759.0,,
+Q830265,disease,病気,Q12136,vitelliform macular dystrophy,,"macular degeneration that can cause progressive vision loss, it is characterized by the disruption of cells in a small area near the center of the retina, the macula",,D057826,,,,C0339510
+Q1106881,disease,病気,Q12136,Coffin-Lowry syndrome,コフィン・ローリー症候群,genetic disorder that is X-linked dominant,,D038921,Q87.8,759.89,,C0265252
+Q1250362,disease,病気,Q12136,Nijmegen breakage syndrome,ナイミーヘン染色体不安定症候群,human disease,,D049932,,,,C0398791
+Q1140528,disease,病気,Q12136,drusen,ドルーゼン,tiny yellow or white accumulations of extracellular material that build up between Bruch's membrane and the retinal pigment epithelium of the eye,,D015593,H35.3,,,C0035312
+Q741315,disease,病気,Q12136,von Hippel-Lindau disease,フォン・ヒッペル・リンドウ病,a rare genetic disorder characterized by visceral cysts and benign tumors in multiple organ systems with potential for subsequent malignant change.,,D006623,,759.6,,C0019562
+Q1140000,disease,病気,Q12136,Crigler-Najjar syndrome,クリグラー・ナジャール症候群,bilirubin metabolic disorder that involves a build up of bilirubin as bilirubin is not being broken down as a result of a lack or deficiency of the enzyme uridine diphosphate glycosyltransferase (UGT),,D003414,,277.4,,C0010324
+Q1097490,disease,病気,Q12136,cardiofaciocutaneous syndrome,CFC症候群,Human disease,,,,,,C1275081
+Q774016,disease,病気,Q12136,Denys-Drash syndrome,デニス・ドラッシュ症候群,Human disease,,D030321,,,,C0950121
+Q775593,disease,病気,Q12136,specific language impairment,,range of neurodevelopmental conditions,,D000080888,,,,C0973461
+Q744790,disease,病気,Q12136,Treacher Collins syndrome,トリーチャーコリンズ症候群,human genetic disorder,頬骨の欠如等の顎顔面形態の不調和を特徴とする、常染色体優位先天性疾患のひとつ,D008342,,756.0,,C0242387
+Q1208654,disease,病気,Q12136,Diamond-Blackfan anemia,,rare disease,,D029503,,,,C0265265
+Q501694,disease,病気,Q12136,congenital insensitivity to pain with anhidrosis,先天性無痛無汗症,rare disease,,,,,,C0020074
+Q1145668,disease,病気,Q12136,hemolytic anemia,溶血性貧血,form of anemia due to hemolysis,赤血球の破壊により起こる貧血,D000743,,773,,C0002878
+Q774483,disease,病気,Q12136,galactosemia,ガラクトース血症,carbohydrate metabolic disorder that involves a defect in galactose metabolism resulting in toxic levels of galactose 1-phosphate in various tissues,,D005693,,,,C0016952
+Q1107087,disease,病気,Q12136,Cohen syndrome,コーエン症候群,"a rare genetic developmental disorder characterized by microcephaly, characteristic facial features, hypotonia, non-progressive intellectual deficit, myopia and retinal dystrophy, neutropenia and truncal obesity",,C536438,,,56604005,C0265223
+Q1207967,disease,病気,Q12136,renal glycosuria,,Human disease,,D006030,,,,C0017980
+Q1101694,disease,病気,Q12136,Joubert syndrome,ジュベール症候群,"Joubert syndrome (JS) is characterized by congenital malformation of the brainstem and agenesis or hypoplasia of the cerebellar vermis leading to an abnormal respiratory pattern, nystagmus, hypotonia, ataxia, and delay in achieving motor milestones",,,,742.2,,C0431399
+Q606895,disease,病気,Q12136,enteric redmouth disease,レッドマウス病,bacterial infection of freshwater and marine fish,,,,,,
+Q766856,disease,病気,Q12136,pityriasis rubra pilaris,,Human disease,,D010916,,,,C0032027
+Q779203,disease,病気,Q12136,CINCA syndrome,新生児期発症多臓器系炎症性疾患,"Chronic Infantile Neurological, Cutaneous, and Articular (CINCA) syndrome is characterised by skin rash, joint involvement, chronic meningitis with granulocytes and, in some cases, sensorineural hearing loss and ocular signs",,D056587,,,,C0409818
+Q1120682,disease,病気,Q12136,metachromatic leukodystrophy,,human disease,,D007966,,,,C0023522
+Q781618,disease,病気,Q12136,cleidocranial dysplasia,鎖骨・頭蓋異形成症,osteochondrodysplasia that has material basis in mutations in the RUNX2 gene which results in undeveloped or absent located in clavicle along with delayed closing of fontanels in the located in skull,,D002973,,,,C0008928
+Q1087632,disease,病気,Q12136,idiopathic CD4+ lymphocytopenia,特発性CD4+リンパ球減少症,rare disease,,D018344,D72.8,288.51,,C0206744
+Q1154764,disease,病気,Q12136,DOOR syndrome,,human disease,,,Q87.8,,,
+Q782958,disease,病気,Q12136,centronuclear myopathy,,myopathy characterized by abnormally located nuclei in skeletal muscle cells,,,,,82077006,C0175709
+Q931365,disease,病気,Q12136,Ringbone,,chronic joint disease of hoofed animals,,,,,,
+Q511372,disease,病気,Q12136,Krabbe disease,クラッベ病,congenital disorder of the nervous system,,D007965,,330.0,,C0023521
+Q1108794,disease,病気,Q12136,colibacillosis in young pigs,,,,,,,,
+Q293931,disease,病気,Q12136,Edema Disease of Swine,,acute disease of young pigs that is usually associated with weaning. It is characterized clinically by paresis and subcutaneous edema,,D004488,,,,C0013605
+Q1076086,disease,病気,Q12136,chondromalacia patellae,,Human disease,,D046789,,,,C0008475
+Q1642040,disease,病気,Q12136,hemarthrosis,関節内出血,bleeding into joint spaces,,D006395,,,,C0018924
+Q127556,disease,病気,Q12136,osteochondritis dissecans,離断性骨軟骨炎,ischemic bone disease that results in necrosis located in epiphysis,,D010008,,,,C0029421
+Q530142,disease,病気,Q12136,FG syndrome,FG症候群,disease,,C537923,,,,C0220769
+Q430711,disease,病気,Q12136,gynandromorphism,雌雄モザイク,organism with both male and female characteristics,,,,,,
+Q568865,disease,病気,Q12136,cherubism,,Human disease,,D002636,,526.89,,C0008029
+Q300936,disease,病気,Q12136,red disease of eels,,,,,,,,
+Q343322,disease,病気,Q12136,actinobacillosis of swine,,,,,,,,
+Q432396,disease,病気,Q12136,achromatopsia,杆体1色覚,"human illness, a type of color blindness",,,,,,C0152200
+Q184489,disease,病気,Q12136,digital dermatitis,,cattle disease,,D058066,,,,
+Q560337,disease,病気,Q12136,Tay-Sachs disease,テイ＝サックス病,Human medical condition,,D013661,,330.1,,C1848914
+Q390434,disease,病気,Q12136,aganglionosis,,congenital absence of nerve cells in the intestinal wall,,,,,,C1836741
+Q559082,disease,病気,Q12136,chondrocalcinosis,偽痛風,arthritis that has material basis in the accumulation of salt crystals located in joint,,D002805,,,,C0033802
+Q117121,disease,病気,Q12136,Wilson disease,肝レンズ核変性症,multisystem disease due to abnormal accumulation of copper,先天性銅代謝異常によって無機銅が代謝されずに蓄積し、大脳のレンズ核の変性と共に肝硬変・角膜輪等を生ずる疾患,D006527,,275.1,,C0019202
+Q424247,disease,病気,Q12136,acute intermittent porphyria,急性間欠性ポルフィリン症,human disease,,D017118,E80.2,277.1,,C0162565
+Q938793,disease,病気,Q12136,articular cartilage disease,,disease involving the articular cartilage of joint,,,M24.1,,,C0158073
+Q567820,disease,病気,Q12136,Alexander disease,アレキサンダー病,congenital disorder of nervous system,,D038261,E75.2,331.89,,C0270726
+Q865794,disease,病気,Q12136,pear decline,,,,,,,,
+Q924421,disease,病気,Q12136,septic arthritis,敗血症性関節炎,arthritis that involves infection by a pathogen located in joint syaptic,関節の細菌感染症,D001170,,,,C0003869
+Q790971,disease,病気,Q12136,Bartter disease,バーター症候群,Human disease,,D001477,,,707742001,C0341700
+Q838139,disease,病気,Q12136,ventricular septal defect,心室中隔欠損,"heart septal defect characterized by an opening in the interventricular septum, causing a shunt between ventricles",,D006345,,,,C0018818
+Q847605,disease,病気,Q12136,neurofibromatoses,神経線維腫症,human diseases,,D017253,,,,C0027832
+Q127664,disease,病気,Q12136,febrile seizure,熱性けいれん,seizure associated with a high body temperature,温度が38°Cを超えると発生する発作,D003294,R56.0,,,C0009952
+Q452368,disease,病気,Q12136,hip osteoarthritis,,arthrosis of the hip bones,,D015207,M16,71,,C0029410
+Q1125675,disease,病気,Q12136,congenital disorder of glycosylation,,carbohydrate metabolic disorder that involves deficient or defective glycosylation of a variety of tissue proteins and/or lipids,,D018981,,,,C0282577
+Q845618,disease,病気,Q12136,Dejerine–Sottas disease,,a rare hereditary neurological disorder characterised by damage to the peripheral nerves and resulting progressive muscle wasting,,,G60.0,356.0,,
+Q1125121,disease,病気,Q12136,advanced sleep phase syndrome,睡眠相前進症候群,sleep disorder that involves an altered circadian rhythm resulting in falling asleep in early evening and awaking very early in the morning,概日リズムが正常な状態より前進する疾患,,G47.2,327.32,,C1858496
+Q431643,disease,病気,Q12136,microcephaly,小頭症,medical condition in which the brain does not develop properly resulting in a smaller than normal head,,D008831,,,,C0025958
+Q187656,disease,病気,Q12136,relapsing polychondritis,再発性多発軟骨炎,human disease,,D011081,,733.99,,C0032453
+Q130555,disease,病気,Q12136,Norman–Roberts syndrome,,lissencephaly that has_material_basis_in homozygous mutation in the gene encoding reelin (RELN) on chromosome 7q22.,,C537848,,,,C0796089
+Q1126831,disease,病気,Q12136,tetralogy of Fallot,ファロー四徴症,"congenital heart defect, whose symptoms include episodes of bluish skin color, whose embryology includes anteriosuperior displacement of the infundibular (aorticopulmonary) septum",心室中隔欠損症、大動脈騎乗、肺動脈狭窄、右心室肥大という4特徴と同時にチアノーゼを伴う先天性心疾患,D013771,,,,C0039685
+Q1034711,disease,病気,Q12136,Heberden's node,ヘバーデン結節,human disease,,,M15.1,715.04,,C0018862
+Q535364,disease,病気,Q12136,Angelman syndrome,アンジェルマン症候群,genetic condition in humans,,D017204,,759.89,,C0162635
+Q1505689,disease,病気,Q12136,tenosynovitis,腱鞘炎,"inflammation of the fluid-filled sheath (called the synovium) that surrounds a tendon, typically leading to joint pain, swelling, and stiffness",腱の周囲を覆う腱鞘（けんしょう）の炎症,D013717,M65,727.0,,C0039520
+Q1499629,disease,病気,Q12136,joint effusion,,effusion of watery liquid into the cavity of a joint,,D006833,M25.4,,,C0158157
+Q506433,disease,病気,Q12136,trimethylaminuria,トリメチルアミン尿症,rare metabolic disorder,,C536561,E88.8,270.8,,C0342739
+Q787751,disease,病気,Q12136,glycogen storage disease V,マッカードル病,Human disease,,D006012,,271.0,,C0017924
+Q531019,disease,病気,Q12136,aortic valve stenosis,大動脈弁狭窄症,aortic valve disease that has physical basis in incomplete opening of the aortic valve,,D001024,,,,C0152417
+Q504790,disease,病気,Q12136,nephrotic syndrome,ネフローゼ症候群,Human disease,尿中に大量のタンパク質が排出されることにより、血液中のタンパク質の濃度が薄くなる結果、むくみ（浮腫）等の異常が起こる疾患,D009404,,,,C0027726
+Q1585753,disease,病気,Q12136,urethral stricture,尿道狭窄,"narrowing of the urethra caused by injury, instrumentation, infection and certain non-infectious forms of urethritis",,D014525,N35,,,C0029752
+Q177878,disease,病気,Q12136,fucosidosis,,Human disease,,D005645,,271.8,,C0016788
+Q180614,disease,病気,Q12136,melanoma,悪性黒色腫,malignant neoplasm originating from melanocytes,皮膚、眼窩内組織、口腔粘膜上皮などに発生するメラノサイト由来の悪性腫瘍,D008545,C43.9,172.9,,C0025202
+Q1129007,disease,病気,Q12136,angioedema,血管性浮腫,disease characterized by the rapid swelling,,D000799,,,,C0002994
+Q310335,disease,病気,Q12136,Schindler disease,シンドラー病,Rare congenital metabolic disorder in humans.,,,E77.1,,,C0342850
+Q119280,disease,病気,Q12136,medullary sponge kidney,,congenital disorder of urinary system,,D007691,Q61.5,753.17,,C0022681
+Q846316,disease,病気,Q12136,aplastic anemia,再生不良性貧血,"anemia that is characterized by a deficiency of red blood cells, white blood cells and platelets produced by bone marrow",,D000741,,,,C0002874
+Q424258,disease,病気,Q12136,acute interstitial pneumonitis,,human disease,,D000080203,,,,C1279945
+Q132971,disease,病気,Q12136,dyslexia,ディスレクシア,specific learning disability characterized by troubles with reading,文字の読み書きに関する学習障害,D004410,,,,C0476254
+Q1423087,disease,病気,Q12136,retinopathy of prematurity,未熟児網膜症,"disease of the eye affecting prematurely born babies generally having received intensive neonatal care, in which oxygen therapy is used on them due to the premature development of their lungs",,D012178,,,,C0035344
+Q1333608,disease,病気,Q12136,medulloblastoma,髄芽腫,"infratentorial cancer located in the lower part of the brain, a type of primitive neuroectodermal tumor",神経系に発生する悪性腫瘍,D008527,,,443333004,C0025149
+Q1415842,disease,病気,Q12136,Norrie disease,,genetic disorder that primarily affects the eye and almost always leads to blindness,,C537849,,743.8,,C0266526
+Q1335642,disease,病気,Q12136,Emery-Dreifuss muscular dystrophy,エメリー・ドレフュス型筋ジストロフィー,muscular dystrophy that chiefly affects muscles used for movement (skeletal) and heart (cardiac) muscle,,D020389,,359.1,129620000,C0410189
+Q1423538,disease,病気,Q12136,gamma chain deficiency,,immunodeficiency disorder in which the body produces very few T cells and NK cells,,D053632,D80.0,279.2,,C1279481
+Q1332565,disease,病気,Q12136,Naxos disease,ナクソス病,"Naxos disease is a recessively inherited condition with arrhythmogenic right ventricular dysplasia/cardiomyopathy (ARVD/C) and a cutaneous phenotype, characterised by peculiar woolly hair and palmoplantar keratoderma",,C538346,,,,C1832600
+Q1410851,disease,病気,Q12136,fibromatosis,,poorly defined neoplasm arising from the soft tissues,,,M72.9,728.7,,C0016048
+Q1337441,disease,病気,Q12136,Kostmann syndrome,重症先天性好中球減少症,"group of diseases that affect myelopoiesis, causing a congenital form of neutropenia",,C537592,D70,288.01,,C1853118
+Q1410831,disease,病気,Q12136,fibrodysplasia ossificans progressiva,進行性骨化性線維異形成症,extremely rare connective tissue disease,,,,,,C0016037
+Q1336034,disease,病気,Q12136,sitosterolemia,シトステロール血症,rare autosomal recessively inherited lipid metabolic disorder,,C537345,,,,C0342907
+Q1399440,disease,病気,Q12136,Fechtner syndrome,,genetic disorder,,,,,,
+Q1339466,disease,病気,Q12136,empty sella syndrome,エンプティ・セラ症候群,endocrine disease,,D004652,,253.8,237722004,C0014008
+Q1313510,disease,病気,Q12136,hypophosphatasia,,"rare, and sometimes fatal, metabolic bone disease",,D007014,,275.3,,C0020630
+Q170990,disease,病気,Q12136,arthritis,関節炎,"any of several joint disorders, some autoimmune, some infectious",,D001168,,712,372091005,C0003864
+Q536269,disease,病気,Q12136,phaeochromocytoma,褐色細胞腫,endocrine organ benign neoplasm that arises within the adrenal medulla,,D010673,D35.0,194.0,360332001,C0031511
+Q541852,disease,病気,Q12136,uncombable hair syndrome,梳かせない髪症候群,rare scalp hair shaft dysplasia,,C536939,Q84.1,,,C0432347
+Q558623,disease,病気,Q12136,aphakia,無水晶体症,condition where the eye lacks a lens,水晶体が目にない状態,D001035,Q12.3,379.31,,C0003534
+Q745631,disease,病気,Q12136,polyorchidism,多睾丸症,rare disease,,,Q55.2,752.89,,C0266430
+Q1200839,disease,病気,Q12136,oculocerebrorenal syndrome,,Human disease,,D009800,,270.8,,C0028860
+Q1164401,disease,病気,Q12136,Pitt-Hopkins syndrome,ピット＝ホプキンズ症候群,"rare genetic disorder characterized by developmental delay, epilepsy, distinctive facial features, and possible intermittent hyperventilation followed by apnea",発達遅延、顔面形態異常、呼吸異常の合併を特徴とする遺伝子疾患,C537403,,,,C1970431
+Q187542,disease,病気,Q12136,Li-Fraumeni syndrome,Li-Fraumeni症候群,"autosomal dominant disease characterized by increased risk of developing several types of cancer, including breast cancer, osteosarcomata and soft tissue sarcomata",,D016864,,,,C0085390
+Q523893,disease,病気,Q12136,ichthyosis,魚鱗癬,"skin disease in which dry, scaly skin accumulates",先天的、または後天的な皮膚病の一種,D007057,Q80,757.1,,C0020757
+Q1317319,disease,病気,Q12136,Stargardt disease,スターガルト病,age related macular degeneration that is characterized by progressive vision loss usually to the point of legal blindness,,D000080362,H35.5,,70099003,C0271093
+Q18576,disease,病気,Q12136,Pick disease,ピック病,"rare neurodegenerative disorder, characterized by formation of Pick bodies",,D020774,,,13092008,CL521532
+Q189580,disease,病気,Q12136,acromegaly,先端巨大症,Human disease / micro cephaly opposite,,D000172,E22.0,253.0,,C0001206
+Q611984,disease,病気,Q12136,keratoconus,円錐角膜,"corneal disease characterized by structural changes within the cornea causing it to thin and change, leading to a protruding conical shape",,D007640,,,,C0022578
+Q167050,disease,病気,Q12136,Sertoli cell-only syndrome,セルトリ細胞遺残症候群,Human disease,,D054331,N46.01,,,C1384583
+Q1286848,disease,病気,Q12136,Pfeiffer syndrome,プファイファー症候群,acrocephalosyndactylia that has material basis in mutations in the FGFR1 and FGFR2 gene which results in premature fusion located in skull,,,,,,C0220658
+Q189167,disease,病気,Q12136,Zellweger syndrome,,congenital disorder of nervous system,,D015211,,277.86,,C0043459
+Q609165,disease,病気,Q12136,juvenile polyposis syndrome,若年性ポリープ,"autosomal dominant disease that is characterized by predisposition to hamartomatous benign polyps in the gastrointestinal tract, specifically in the stomach, small intestine, colon, and rectum",,,,,,C0221273
+Q1323713,disease,病気,Q12136,ectodermal dysplasia,,human disease,,D004476,Q82.4,757.31,8654005,C0013575
+Q1286320,disease,病気,Q12136,neurilemmomatosis,,Human disease,,C536641,,,,C1335929
+Q1200239,disease,病気,Q12136,dermatofibrosarcoma protuberans,隆起性皮膚線維肉腫,fibrosarcoma that is located in the dermis layer of the skin,,D018223,C49,8832,,C0206647
+Q1315091,disease,病気,Q12136,Freeman–Sheldon syndrome,,rare congenital disorder,,,,759.89,,
+Q750826,disease,病気,Q12136,medium chain acyl-CoA dehydrogenase deficiency,,"lipid metabolism disorder that is characterized by a deficiency of the enzyme medium chain acyl-CoA dehydrogenase that results in the inability to convert medium chain fatty acids to energy, particularly during fasting",,C536038,E71.311,277.85,,C0220710
+Q548984,disease,病気,Q12136,dentinogenesis imperfecta,,Human disease,,D003811,,520.5,196286005,C0011436
+Q525642,disease,病気,Q12136,DiGeorge syndrome,22q11.2欠失症候群,"T cell deficiency disease that is the result of a large deletion of chromosome 22, which includes the DGS gene needed for development of the thymus and related glands with subsequent lack of T-cell production",,D004062,,,,C0012236
+Q756289,disease,病気,Q12136,nephroblastoma,腎芽腫,rare disease,小児の腎腫瘍,D009396,C64,189.0,302849000,C1332219
+Q61335,disease,病気,Q12136,pre-eclampsia,子癇前症,hypertension occurring during pregnancy,,D011225,,642.4,398254007,C0032914
+Q16499,disease,病気,Q12136,hyperthyroidism,甲状腺機能亢進症,thyroid gland disease that involves an overproduction of thyroid hormone,,D006980,,,,C0020550
+Q1313757,disease,病気,Q12136,sensory ataxic neuropathy-dysarthria-ophthalmoparesis syndrome,,"Sensory ataxic neuropathy-dysarthria-ophthalmoparesis syndrome is characterised by adult-onset severe sensory ataxic neuropathy, dysarthria and chronic progressive external ophthalmoplegia",,C537583,,,,C1843851
+Q1325512,disease,病気,Q12136,rhabdoid tumor predisposition syndrome,,,,,,,,C2985524
+Q558077,disease,病気,Q12136,Williams-Beuren syndrome,ウィリアムズ症候群,"neurodevelopmental disorder caused by a deletion of around 27 genes in chromosome 7, characterized by a broad forehead, underdeveloped chin, short nose, full cheeks, challenges with visual tasks, increased empathy and decreased aggression",まれな遺伝子疾患,D018980,Q93.8,758.9,,C0175702
+Q177809,disease,病気,Q12136,adult Refsum disease,レフサム病,Human disease,,D012035,,,,C0034960
+Q548719,disease,病気,Q12136,aniridia,,Human disease,,D015783,,,,C0003076
+Q749409,disease,病気,Q12136,osteogenesis imperfecta,骨形成不全症,osteochondrodysplasia that has material basis in a deficiency in type-I collagen which results in brittle bones and defective connective tissue,,D010013,Q78.078.0,756.51756.51,,C0023931
+Q81867,disease,病気,Q12136,albinism,アルビノ,congenital disorder causing skin to lack pigmentation,,D000417,E70.3,270.2,,C0001916
+Q1179460,disease,病気,Q12136,Fanconi syndrome,ファンコーニ症候群,"renal tubular transport disease of the proximal renal tubes characterized by glucosuria, phosphaturia, generalized aminoaciduria and HCO3 wasting",,D005198,,,40488004,C0015624
+Q163905,disease,病気,Q12136,Lafora disease,ラフォラ病,"type of rare, inherited, severe, progressive myoclonic epilepsy",,D020192,G40.3,345.1,,C0751783
+Q545403,disease,病気,Q12136,hh blood group,,Rare blood group first found in Bombay(1982),,,,,,C1859408
+Q524353,disease,病気,Q12136,erythromelalgia,肢端紅痛症,Human disease,,D004916,,,,C0014804
+Q746781,disease,病気,Q12136,neuroacanthocytosis,神経有棘赤血球症,Neuroacanthocytosis (NA) syndromes are a group of genetic diseases characterized by the association of red blood cell acanthocytosis (deformed erythrocytes with spike-like protrusions) and progressive degeneration of the basal ganglia,,D054546,,,,C0393576
+Q147270,disease,病気,Q12136,cone dystrophy,錐体ジストロフィー,inherited ocular disorder characterized by the loss of cone cells,,D000077765,H35.5,,,C0730290
+Q134003,disease,病気,Q12136,hemophilia,血友病,"human genetic disease that impairs the body's ability to make blood clots, a process needed to stop bleeding",血液凝固因子のうちVIII因子、IX因子の欠損ないし活性低下による遺伝性血液凝固異常症,,D66,286,,C0684275
+Q1200233,disease,病気,Q12136,dermatochalasis,,medical condition,,,H02.3,374.87,58588007,
+Q147351,disease,病気,Q12136,peg shaped tooth,,"particular form of Zahnhypoplasie, a genetically caused malformation of the tooth",,,,,,
+Q1767508,disease,病気,Q12136,porcine proliferative enteropathy,ローソニア感染症,,,,,,,
+Q1907943,disease,病気,Q12136,Postpartum dysgalactia syndrome,,sow disease,,,,,,
+Q1777118,disease,病気,Q12136,knee osteoarthritis,変形性膝関節症,Wear and tear of the cartilaginous joint surfaces of the knee joint.,,D020370,M17,,,C0409959
+Q1956614,disease,病気,Q12136,mycoplasmal polyserositis and arthritis of pigs,,,,,,,,C0276052
+Q2165411,disease,病気,Q12136,spondylitis,脊椎炎,inflammation of the vertebra,,D013166,,,,C0029644
+Q1753520,disease,病気,Q12136,rheumatoid nodule,,variant of polyarthritis,,D012218,,,,C0035450
+Q2104382,disease,病気,Q12136,porcine intestinal spirochaetosis,,bacterial disease of pigs,,,,,,
+Q1947272,disease,病気,Q12136,Baastrup's syndrome,,orthopedic and radiographic disorder that often occurs in elderly humans,,,,,,C0158248
+Q859142,disease,病気,Q12136,citrullinemia,シトルリン血症,urea cycle disorder that involves the accumulation of ammonia in the blood.,,D020159,,270.6,,C0175683
+Q581592,disease,病気,Q12136,paraganglioma,,human disease,,D010235,C75.4,237.3,302833002,C0030421
+Q203031,disease,病気,Q12136,ciliopathy,繊毛病,"genetic disease associated with mutations encoding defective proteins, which result in either abnormal function formation or function of cilia",,D000072661,,,,C4277690
+Q858426,disease,病気,Q12136,5-alpha-reductase deficiency,5α-還元酵素II型欠損症,medical condition,,,E29.1,752.7,,
+Q864845,disease,病気,Q12136,biotin-responsive basal ganglia disease,,Human disease,,C537658,,,,C1843807
+Q861645,disease,病気,Q12136,Gaucher's disease,ゴーシェ病,human disease characterized by deficiency of the enzyme glucocerebrosidase which results in the accumulation of harmful quantities of the glycolipid glucocerebroside throughout the body,,D005776,,,,C0017205
+Q911136,disease,病気,Q12136,Degos disease,,rare multisystem disease characterized by blockages of small to medium sized blood vessels,,D054853,,447.8,,
+Q815819,disease,病気,Q12136,atrial fibrillation,心房細動,abnormal heart rhythm characterized by rapid and irregular beating,,D001281,,,,C0004238
+Q604075,disease,病気,Q12136,multiple endocrine neoplasia type 2A,多発性内分泌腫瘍症2型,"autosomal dominant disease characterized by medullary carcinoma of the thyroid, pheochromocytoma, hyperparathyroidism, and occasionally cutaneous lichen amyloidosis",,D018813,,,,C1833921
+Q916398,disease,病気,Q12136,lymphedema,リンパ水腫,human disease,,D008209,I89.0,757.0,,C0024236
+Q931538,disease,病気,Q12136,mucolipidosis type IV,,Lysosomal storage disease,,,E75.1,,,C0238286
+Q587420,disease,病気,Q12136,myotonia congenita,,muscle tissue disease that is characterised by slow muscle relaxation associated with hyperexcitation of the muscle fibres,,D009224,G71.1,,,C0027127
+Q574719,disease,病気,Q12136,anti-NMDA receptor encephalitis,抗NMDA受容体抗体脳炎,rare disease,急性型の脳炎,D060426,,,,
+Q608259,disease,病気,Q12136,trichotillomania,抜毛症,impulse control disorder with uncontrollable hair pulling,正常な毛を引き抜いてしまう精神障害のひとつ,D014256,F63.3,312.39,,C0040953
+Q890470,disease,病気,Q12136,Legius syndrome,レジウス症候群,rare genetic skin pigmentation disorder characterized by multiple cafe-au-lait macules,,C548032,Q85,,,C1969623
+Q200985,disease,病気,Q12136,Hartnup disease,,Human disease,,D006250,,270.0,,C0018609
+Q580506,disease,病気,Q12136,keratosis follicularis,,inherited skin disorder,,D007644,,757.39,,C0022595
+Q186676,disease,病気,Q12136,stuttering,吃音症,"speech disorder in which the flow of speech is disrupted by involuntary repetitions and prolongations of sounds, syllables, words, or phrases as well as involuntary silent pauses or blocks in which the person who stutters is unable to produce sounds",言葉が円滑に話せない、スムーズに言葉が出てこないこと,D013342,F98.5,,,C0038131
+Q585285,disease,病気,Q12136,thrombocytopenia,血小板減少症,blood platelet disease characterized by a low platelet count,,D013921,,,,C0040034
+Q895930,disease,病気,Q12136,nodding disease,頷き病,medical condition,,D064128,R25.0,,,C3658353
+Q863861,disease,病気,Q12136,Hailey-Hailey disease,,human disease,,D016506,,757.39,,C0085106
+Q594013,disease,病気,Q12136,Prader–Willi syndrome,プラダー・ウィリー症候群,rare genetic disorder,,D011218,,,89392001,C0032897
+Q860167,disease,病気,Q12136,bicuspid aortic valve,大動脈二尖弁,human disease,,D000082882,,746.4,72352009,
+Q819207,disease,病気,Q12136,pseudohypoparathyroidism,偽性副甲状腺機能低下症,human disease,,D011547,,275.49,,C0033806
+Q928767,disease,病気,Q12136,multiple familial trichoepithelioma,,human disease,,C536552,,,,C1275122
+Q580285,disease,病気,Q12136,Morquio syndrome,モルキオ症候群,rare disease,,D009085,,277.5,,C0026707
+Q884590,disease,病気,Q12136,Bloch-Sulzberger syndrome,,"genetic disorder that affects the skin, hair, teeth, nails, and central nervous system",,D007184,,757.33,,C4225596
+Q929963,disease,病気,Q12136,primary polydipsia,心因性多飲症,dry mouth and excessive fluid consumption in the absence of physiological stimuli to drink with physiological suppression of arginine-vasopressin secretion or a decrease in the sensitivity threshold of osmoreceptors (thirst center),,D059607,,,,C0395005
+Q890367,disease,病気,Q12136,argininemia,,urea cycle disorder that involves arginase deficiency resulting in elevated levels of plasma arginine,,D020162,,,,C0268548
+Q576109,disease,病気,Q12136,mucopolysaccharidosis VI,ムコ多糖症VI型,lysosomal storage disease,,D009087,E76.2,277.5,,C0026709
+Q203115,disease,病気,Q12136,visceral heterotaxy,内臓異位症,rare disease,,D059446,,,,C0266642
+Q799615,disease,病気,Q12136,osteitis fibrosa cystica,,"bone resorption disease that has material basis in hyperparathyroidism which results in hyperactivity in osteoclasts, deformity, and loss of mass located in bone",,D010002,E21.0,252.01,,C0029405
+Q572169,disease,病気,Q12136,Seckel syndrome,セッケル症候群,autosomal recessive disease characterized by intrauterine growth retardation and postnatal dwarfism with microcephaly and intellectual disability,,,,759.89,,
+Q823140,disease,病気,Q12136,hereditary coproporphyria,,Human disease,,D046349,,277.1,,C0162531
+Q599683,disease,病気,Q12136,Brugada syndrome,ブルガダ症候群,heart conduction disease characterized by abnormal ECG findings,,D053840,,746.89,418818005,C1142166
+Q914389,disease,病気,Q12136,Cockayne syndrome,コケイン症候群,rare and fatal autosomal recessive neurodegenerative disorder,DNA修復遺伝子の異常による常染色体潜性遺伝性の早老症,D003057,,,21086008,C0009207
+Q881855,disease,病気,Q12136,gestational trophoblastic neoplasm,胞状奇胎,Human disease,,D006828,,,,C0020217
+Q585011,disease,病気,Q12136,Antley-Bixler syndrome,アントレー・ビクスラー症候群,autosomal recessive disease that is characterized at birth or prenatally by malformations and deformities affecting the majority of the skeleton and other areas of the body with autosomal recessive inheritance of the FGFR2 gene,,D054882,Q87.0,,,C1860042
+Q814547,disease,病気,Q12136,Behr syndrome,,medical condition,,C537669,,,,C0221061
+Q928697,disease,病気,Q12136,sensorineural hearing loss,感音難聴,type of Hearing Loss,,D006319,,,,C0018776
+Q937818,disease,病気,Q12136,acrodermatitis enteropathica,,Human disease,,C538178,E83.2,686.8,,C0221036
+Q1129947,disease,病気,Q12136,caudal regression syndrome,尾部退行症候群,congenital disorder in humans caused by abnormal fetal development of the lower spine,,,Q76.4,,,C0300948
+Q939364,disease,病気,Q12136,congenital heart disease,先天性心疾患,cardiovascular disease,,D006330,,,,C0018798
+Q1263039,disease,病気,Q12136,Dubin-Johnson syndrome,デュビン・ジョンソン症候群,"rare, autosomal recessive, benign disorder that causes an isolated increase of conjugated bilirubin in the serum",,D007566,,277.4,,C0022350
+Q1725377,disease,病気,Q12136,Clostridium Perfringens infection in piglets,,,,,,,,
+Q1258463,disease,病気,Q12136,WHIM syndrome,,"immunodeficiency disease characterized by neutropenia, hypogammaglobulinemia, and extensive human papillomavirus (HPV) infection. It has material basis in heterozygous mutation in the CXCR4 gene on chromosome 2q22",,C536697,,,,C0472817
+Q1426698,disease,病気,Q12136,trisomy 22,22トリソミー,partial or complete triplication of chromosome 22,,,,,,C0265490
+Q1138580,disease,病気,Q12136,Ewing sarcoma,ユーイング肉腫,"bone cancer that has material basis in neural crest cells derives from undeveloped, undifferentiated neuroectoderm",小円形細胞の増殖によりなる悪性腫瘍,D012512,C41.9,170.9,,C0553580
+Q1433936,disease,病気,Q12136,hyperprolactinemia,高プロラクチン血症,acquired metabolic disease that has material basis in the presence of abnormally-high levels of prolactin in the blood,,D006966,,253.1,,C0008043
+Q1345746,disease,病気,Q12136,keratitis–ichthyosis–deafness syndrome,,human disease,,C537363,,,,C1275089
+Q1136492,disease,病気,Q12136,Costello syndrome,コステロ症候群,"syndrome characterized by craniofacial dysmorphology, cardiac defects, mild intellectual disability, and high birth weight followed by a failure to thrive and developmental delays",,D056685,,,,C0587248
+Q1133289,disease,病気,Q12136,Cornelia de Lange syndrome,,genetic disease,,D003635,,759.89,,C0270972
+Q1362721,disease,病気,Q12136,tuberous sclerosis,結節性硬化症,rare multisystem genetic disease that causes benign tumors to grow in the brain and on other vital organs,,D014402,,,,C0041341
+Q1262684,disease,病気,Q12136,Duane retraction syndrome,デュアン症候群,a rare congenital disease characterized by external gaze palsy,,D004370,,,,C0013261
+Q1424491,disease,病気,Q12136,aplasia cutis congenita,,medical condition,,,Q84.8,,,C4017250
+Q1425018,disease,病気,Q12136,Pallister–Killian syndrome,パリスター・キリアン症候群,rare disease,,C538105,Q99.8,758.5,9527009,C0265449
+Q1660341,disease,病気,Q12136,shoulder impingement syndrome,インピンジメント症候群,"syndrome which occurs when the tendons of the rotator cuff muscles become irritated and inflamed as they pass through the subacromial space, the passage beneath the acromion",,D019534,,726.2,,C0376685
+Q1344835,disease,病気,Q12136,hyperparathyroidism,副甲状腺機能亢進症,endocrine disease,副甲状腺が過剰に働き血中カルシウム濃度が高くなる病気,D006961,,,,C0020502
+Q1424706,disease,病気,Q12136,opsoclonus myoclonus syndrome,眼球クローヌス・ミオクローヌス運動失調,rare disease,,D053578,,,230350000,C0393626
+Q1268671,disease,病気,Q12136,Dyggve–Melchior–Clausen syndrome,,rare skeletal disorder belonging to the group of spondyloepimetaphyseal dysplasias,,C535726,,,,C0265286
+Q1722736,disease,病気,Q12136,bacterial cold water disease,冷水病,bacterial disease of salmonid fish,,,,,,
+Q1426491,disease,病気,Q12136,thrombotic thrombocytopenic purpura,血栓性血小板減少性紫斑病,human disease,,D011697,,446.6,,C0034155
+Q1347729,disease,病気,Q12136,Epstein syndrome,エプスタイン症候群,disease,,C535507,,,,
+Q1283054,disease,病気,Q12136,hypochondroplasia,,osteochondrodysplasia that has material basis in mutation in the FGFR3 gene which affects ossification of cartilage and results in short limb dwarfism,,C562937,Q77.4,,,C0410529
+Q1255956,disease,病気,Q12136,Dravet syndrome,ドラべ症候群,epilepsy characterized by frequent febrile seizures and with onset before 1 year,,,,345.1,230437002,
+Q1360044,disease,病気,Q12136,syndactyly,合指症,synostosis that results in the fusion of two or more digits,,D013576,,,,C0039075
+Q1531324,disease,病気,Q12136,autosomal dominant limb-girdle muscular dystrophy type 1C,,autosomal dominant limb-girdle muscular dystrophy that has material basis in mutation in the caveolin-3 gene (CAV3) on chromosome 3p25,,,,,,C1832567
+Q1531337,disease,病気,Q12136,autosomal recessive limb-girdle muscular dystrophy type 2O,,"autosomal recessive limb-girdle muscular dystrophy that has material basis in homozygous mutation in the gene encoding protein O-mannose beta-1,2-N-acetylglucosaminyltransferase (POMGNT1) on chromosome 1p34",,,,,,C3150417
+Q1544408,disease,病気,Q12136,Alagille syndrome,アラジール症候群,congenital disorder of digestive system,,D016738,,759.89,,C0085280
+Q1469646,disease,病気,Q12136,Bloom syndrome,ブルーム症候群,rare genetic disorder with short strature and predisposition to cancer,,D001816,,757.39,,C0005859
+Q1531326,disease,病気,Q12136,autosomal dominant limb-girdle muscular dystrophy type 1E,,autosomal dominant limb-girdle muscular dystrophy that has material basis in heterozygous mutation in the DNAJB6 gene on chromosome 7q36,,,,,,C3148763
+Q1456383,disease,病気,Q12136,situs inversus,内臓逆位,congenital condition in which the major visceral organs are reversed from their normal positions,,D012857,,,,C0037221
+Q1544416,disease,病気,Q12136,lissencephaly,滑脳症,brain disorder that prevents growth of brain folds,,D054082,,,,C0266463
+Q1538218,disease,病気,Q12136,Muckle-Wells syndrome,マックル・ウェルズ症候群,Human disease,,,L50.8,,,C0268390
+Q1549421,disease,病気,Q12136,tooth agenesis,歯数不足症,human disease,,,,,,C0020608
+Q1472818,disease,病気,Q12136,common variable immunodeficiency,分類不能型免疫不全症,immune disorder,,D017074,,,,C0009447
+Q1396345,disease,病気,Q12136,Farber lipogranulomatosis,,extremely rare autosomal recessive lysosomal storage disease marked by a deficiency in the enzyme ceramidase,,D055577,E75.2,272.8,,C0268255
+Q1457267,disease,病気,Q12136,schizencephaly,,rare birth defect characterized by abnormal clefts lined with grey matter that form the ependyma of the cerebral ventricles to the pia mater.,,D065707,Q04.6,742.4,,C0266484
+Q1462309,disease,病気,Q12136,coloboma,コロボーマ,"eye disease characterized by missing pieces of tissue in structures that form the eye, such as the iris, retina, choroid or optic disc",,D003103,,377.23,,C0009363
+Q1543446,disease,病気,Q12136,Noonan syndrome,ヌーナン症候群,"congenital, genetically widespread disease considered to be a type of dwarfism affecting boys and girls equally",,D009634,,759.89,205824006,C0028326
+Q1456924,disease,病気,Q12136,Madelung's deformity,マーデルング変形,"Madelung disease, or deformity (MD) is a predominantly bilateral wrist anomaly characterized by shortened and bowed radii and long ulnae leading to dorsal dislocation of the distal ulna and limited mobility of the wrist and elbow",,,Q74.0,755.54,,C0152441
+Q1531328,disease,病気,Q12136,autosomal dominant limb-girdle muscular dystrophy type 1F,,autosomal dominant limb-girdle muscular dystrophy that has material basis in heterozygous mutation in the TNPO3 gene on chromosome 7q32,,C564242,,,,C1842062
+Q1531329,disease,病気,Q12136,autosomal dominant limb-girdle muscular dystrophy type 1G,,autosomal dominant limb-girdle muscular dystrophy that has material basis in heterozygous mutation in the HNRNPDL gene on chromosome 4q21,,C563794,,,,C1836765
+Q1531335,disease,病気,Q12136,autosomal recessive limb-girdle muscular dystrophy type 2L,,autosomal recessive limb-girdle muscular dystrophy that has material basis in homozygous or compound heterozygous mutation in the ANO5 gene on chromosome 11p14,,C566968,,,,C1969785
+Q1531333,disease,病気,Q12136,autosomal recessive limb-girdle muscular dystrophy type 2G,,autosomal recessive limb-girdle muscular dystrophy that has material basis in mutation in the gene encoding telethonin (TCAP),,C566599,,,,C1866008
+Q1531338,disease,病気,Q12136,autosomal recessive limb-girdle muscular dystrophy type 2M,,autosomal recessive limb-girdle muscular dystrophy that has material basis in homozygous or compound heterozygous mutation in the gene encoding fukutin (FKTN) on chromosome 9q31,,C566912,,,,C1969040
+Q1538227,disease,病気,Q12136,Kabuki syndrome,歌舞伎症候群,rare disease,常染色体優性遺伝の遺伝疾患,C537705,,759.89,,C0796004
+Q1541620,disease,病気,Q12136,Rosenthal fiber,,rare disease,,,,,,C0333731
+Q1550521,disease,病気,Q12136,vesicoureteral reflux,膀胱尿管逆流,ureteral disease characterized by backward flow of urine from the urinary bladder into the ureter,,D014718,,,26836002,C0042580
+Q1473749,disease,病気,Q12136,Müllerian agenesis,ミュラー管無発生,congenital atypical development of Müllerian ducts,10代後半以降の無月経や性交障害で発覚する、染色体・卵巣・卵管は正常なものの、子宮や腟が皆無または一部が欠損している先天性疾患,C567186,Q51.0,626.0,,C1698581
+Q1456403,disease,病気,Q12136,Legg–Calvé–Perthes disease,レッグペルテス,osteochondrosis that results in death and fracture located in hip joint,,D007873,,732.1,,C0022441
+Q1399155,disease,病気,Q12136,Fazio-Londe disease,ファチオ・ロンド症候群,a very rare inherited motor neuron disease of children and young adults,,,G12.1,335.2,,C0015708
+Q1544989,disease,病気,Q12136,Peutz-Jeghers syndrome,ポイツ・ジェガーズ症候群,autosomal dominant genetic disorder characterized by the development of benign hamartomatous polyps in the gastrointestinal tract and hyperpigmented macules on the lips and oral mucosa (melanosis),大腸に100個以上のポリープが発生する常染色体優性遺伝疾患,D010580,,759.6,,C0031269
+Q917357,disease,病気,Q12136,Rett syndrome,レット症候群,genetic brain disorder,生後6カ月以降の女児にみられる遺伝性発達障害,D015518,,330.8,,C0035372
+Q185034,disease,病気,Q12136,sickle-cell disease,鎌状赤血球症,group of genetic blood disorders,,D000755,,,,C0002895
+Q692536,disease,病気,Q12136,muscular disease,ミオパチー,"disease in which the muscle fibers do not function, resulting in muscular weakness",筋肉の疾患の総称,D009135,,,,C0026848
+Q994859,disease,病気,Q12136,homocystinuria,ホモシスチン尿症,amino acid metabolic disorder that involves an accumulation of homocysteine in the serum and an increased excretion of homocysteine in the urine,,D006712,,270.4,11282001,C0019880
+Q922411,disease,病気,Q12136,hypopituitarism,下垂体機能低下症,pituitary gland disease characterized by the decreased secretion of one or more of the eight hormones normally produced by the pituitary gland,,D007018,,253.7,,C4273747
+Q182005,disease,病気,Q12136,Holt-Oram syndrome,,autosomal dominant disease characterized by congenital anomalies located_in heart and located_in upper limb.,,C535326,,,205814003,C0265264
+Q917227,disease,病気,Q12136,Sandhoff disease,サンドホフ病,"lysosomal storage disorder from the GM2 gangliosidosis family, characterised by central nervous system degeneration",,D012497,E75.0,330.1,,C0036161
+Q1369011,disease,病気,Q12136,familial adenomatous polyposis,家族性大腸腺腫症,autosomal dominant disease that is has material basis in mutations in the APC gene and involves formation of numerous polyps in the epithelium of the large intestine which are initially benign and later transform into colon cancer,,D011125,C18,211.3,,C0032580
+Q190454,disease,病気,Q12136,cerebral salt-wasting syndrome,,rare disease,,,N28.8,593.9,,C0241831
+Q183098,disease,病気,Q12136,hepatic vein thrombosis,,Human disease,,D006502,,453.0,,C0019154
+Q975182,disease,病気,Q12136,Pelger-Huet anomaly,ペルゲル・ヒュエット異常症,Human disease,,D010381,D72.0,288.2,,C0030779
+Q917399,disease,病気,Q12136,Usher syndrome,アッシャー症候群,syndrome characterized by a combination of hearing loss and visual impairment,,D052245,,,57838006,C1568248
+Q925092,disease,病気,Q12136,Wolff–Parkinson–White syndrome,WPW症候群,"congenital syndrome characterized by additional electrical pathways causing electrical conduction problems in the heart, leading to sporadic episodes of tachycardia and other symptoms.",,D014927,,,,C0032915
+Q632228,disease,病気,Q12136,Hajdu-Cheney syndrome,,rare disease,,D031845,,,,C0917715
+Q1394711,disease,病気,Q12136,myofibrillar myopathy 3,,,,,,,,
+Q966149,disease,病気,Q12136,McLeod syndrome,マクロード症候群,rare disease,,C564038,,,,C0398568
+Q954831,disease,病気,Q12136,prolactinoma,プロラクチノーマ,adenoma of the pituitary gland producing prolactin,,D015175,D35.2,253.1,34337008,C0033375
+Q959211,disease,病気,Q12136,chylomicron retention disease,,Human disease,,C535460,,,,C0795956
+Q203601,disease,病気,Q12136,pneumothorax,気胸,abnormal collection of air in the pleural space,肺の疾患,D011030,J93,,,C0029850
+Q183390,disease,病気,Q12136,lymphangiomatosis,リンパ管腫症,rare disease,,,,,,
+Q190564,disease,病気,Q12136,Huntington's disease,ハンチントン病,"rare neurodegenerative disorder of the central nervous system characterized by unwanted choreatic movements, behavioral and psychiatric disturbances and dementia",遺伝子の第1エクソンのCAGの繰り返し配列が異常に伸びることによる変性疾患,D006816,F02.2,"333.4333.4,294.1294.1",,C0020179
+Q638975,disease,病気,Q12136,central core myopathy,セントラルコア病,Human disease,,D020512,,359.0,,C0751951
+Q635339,disease,病気,Q12136,macrocephaly,大頭症,human disease,,C537717,Q75.3,756.0,9740002,C0220690
+Q640836,disease,病気,Q12136,Lujan–Fryns syndrome,,rare genetic condition in humans,,C537724,F70.1,317,,C0796022
+Q684840,disease,病気,Q12136,Sneddon syndrome,,form of arteriopathy,,D018860,M30.8,,,C0282492
+Q639203,disease,病気,Q12136,Menkes disease,メンケス病,Human disease,,D007706,E83.0,759.89,,C0022716
+Q630090,disease,病気,Q12136,glycogen storage disease I,グルコース-6-ホスファターゼ欠損症,rare disease,,D005953,,271.0,,C0017920
+Q669435,disease,病気,Q12136,renal agenesis,,congenital disorder of urinary system,,,Q60.2,753.0,,
+Q689777,disease,病気,Q12136,dopamine-responsive dystonia,ジストニア,genetic movement disorder,,C538007,G24.1,,,C1851920
+Q1393718,disease,病気,Q12136,hemophilia C,第XI因子欠乏症,human disease,,D005173,,,,C0015523
+Q928424,disease,病気,Q12136,Barth syndrome,バース症候群,lipid metabolism disorder that has material basis in X-linked inheritance of the tafazzin gene and is characterized by decreased production of an enzyme required to produce cardiolipin,,D056889,,759.89,297231002,C0574083
+Q622437,disease,病気,Q12136,alpha-1-antitrypsin deficiency,α1-アンチトリプシン欠乏症,genetic disorder that may result in lung disease or liver disease,,D019896,,,,C0221757
+Q1395332,disease,病気,Q12136,familial hypocalciuric hypercalcemia,,hypercalcemia characterized byautosomal dominant inheritance with elevation of serum calcium levels and decreased urinary calcium excretion,,,,,,C1809471
+Q1393725,disease,病気,Q12136,factor XIII deficiency,第XIII因子欠乏症,Human disease,,D005177,D68.2,286.3,18604004,C0015530
+Q622828,disease,病気,Q12136,hypokalemic periodic paralysis,,Human disease,,D020514,,359.3,,C0238358
+Q205214,disease,病気,Q12136,Guillain–Barré syndrome,ギラン・バレー症候群,autoimmune disease that causes the immune system to attack part of the peripheral nervous system,主に感染症をきっかけに発症する急性の炎症性多発神経障害であり、自己免疫反応による攻撃によって末梢神経根に炎症を引き起こす自己免疫疾患,D020275,,,,C0018378
+Q631904,disease,病気,Q12136,atypical teratoid rhabdoid tumor,,"brain cancer that is usually located in the brain, but can occur anywhere in the central nervous system",,,C72,191,,C1266184
+Q974928,disease,病気,Q12136,pycnodysostosis,濃化異骨症,"osteochondrodysplasia that has material basis in a mutation in the CTSK gene which results in dwarfism, brittle bones, osteopetrosis, shortening of the distal phalanges",,D058631,,,,C0238402
+Q666980,disease,病気,Q12136,Rubinstein-Taybi syndrome,ルビンシュタイン・テイビ症候群,rare disease,,D012415,,,45582004,C0035934
+Q996200,disease,病気,Q12136,Niigata Minamata disease,第二水俣病,Japanese outbreak of mercury poisoning,日本の公害病、有機水銀を含んだ廃液による食物連鎖で生じた中毒性中枢神経系疾患,,T56.1,985.0,,
+Q998273,disease,病気,Q12136,Smith-Lemli-Opitz syndrome,,"an inborn error of cholesterol synthesis, caused by a mutation in the enzyme 7-Dehydrocholesterol reductase",,D019082,,759.89,,C0175694
+Q1368780,disease,病気,Q12136,essential thrombocytosis,本態性血小板血症,human disease,,D013920,,,,C0040028
+Q979129,disease,病気,Q12136,congenital central hypoventilation syndrome,先天性中枢性肺胞低換気症候群,Human disease,,C536209,,348.8,,C1275808
+Q918285,disease,病気,Q12136,adrenocortical carcinoma,副腎皮質癌,adrenal cortex cancer that forms in the outer layer of tissue of the adrenal gland and that has material basis in abnormally proliferating cells derives from epithelial cells,,D018268,C74.0,194,,C0206686
+Q638729,disease,病気,Q12136,autoimmune thrombocytopenic purpura,特発性血小板減少性紫斑病,primary thrombocytopenia that involves relatively few platelets in blood as a result of autoantibodies,,D016553,,,234490009,C0242584
+Q957751,disease,病気,Q12136,XY gonadal dysgenesis,XY型性腺形成異常症,"gonadal dysgenesis that is characterized by a normal 46,XY karyotype along with a progressive loss of germ cells on the developing gonads of an embryo",,D006061,Q56.4,752.7,,C0018054
+Q624748,disease,病気,Q12136,multiple endocrine neoplasia type 2B,多発性内分泌腫瘍症2B型,"autosomal dominant disease characterized by medullary thyroid carcinoma, pheochromocytoma, multiple mucosal neuromas and intestinal ganglioneuromas, and often a marfanoid habitus and other skeletal abnormalities",,D018814,,,,C0025269
+Q647630,disease,病気,Q12136,premature ovarian failure,早発卵巣不全,ovarian disease where ovaries do not produce estrogen despite high levels of circulating gonadotropins in women under 40,,D016649,,,,C0085215
+Q669822,disease,病気,Q12136,Laron syndrome,ラロン症候群,congenital disorder characterized by marked short stature associated with normal or high serum growth hormone (GH) and low serum insulin-like growth factor-1 (IGF-I) levels which fail to rise after exogenous GH administration,,D046150,,259.4,,C0271568
+Q620760,disease,病気,Q12136,postural orthostatic tachycardia syndrome,体位性起立性頻拍症候群,condition in which a change from lying to standing causes an abnormally large increase in heart rate,,D054972,,337.9,371073003,C1299624
+Q619428,disease,病気,Q12136,Roberts syndrome,ロバーツ症候群,Human disease,,C535687,Q73.8,,,C0392475
+Q620639,disease,病気,Q12136,dysautonomia,自律神経不全,"any disease or malfunction, mostly of neurogenic origin, of the autonomic nervous system",神経疾患による自律神経機能低下等の総称,,G90,337.9,,
+Q206901,disease,病気,Q12136,amyotrophic lateral sclerosis,筋萎縮性側索硬化症,rare neurodegenerative disease with amyotrophy and progressive paralysis,筋肉の萎縮と筋力低下をもたらす神経変性疾患,D000690,,335.20,,C0002736
+Q183392,disease,病気,Q12136,rickets,くる病,human disease,カルシウム・リン・ビタミンDなどの摂取不足・代謝異常によって、骨形成過程の石灰化が正常にならず、弱い骨となる病気,D012279,,,,C0035579
+Q1016605,disease,病気,Q12136,Burkitt lymphoma,バーキットリンパ腫,type of cancer,悪性リンパ腫の一つ,D002051,C83.783.7,200.2200.2,,C0006413
+Q1002195,disease,病気,Q12136,autosomal recessive limb-girdle muscular dystrophy type 2K,,autosomal recessive limb-girdle muscular dystrophy that has material basis in homozygous or compound heterozygous mutation in the gene encoding protein O-mannosyltransferase (POMT1),,,,,,C1836373
+Q10859907,disease,病気,Q12136,leaf spot of sorghum,,plant disease,,,,,,
+Q7144437,disease,病気,Q12136,patellofemoral pain syndrome,膝蓋大腿疼痛症候群,Human disease,,D046788,M22.2,719.46,,C0877149
+Q4340292,disease,病気,Q12136,office worker syndrome,,,,,,,,
+Q7423586,disease,病気,Q12136,sarcoglycanopathy,,collection of diseases resulting from mutations in any of the four sarcoglycan genes,,D058088,,,,C2936331
+Q5319350,disease,病気,Q12136,dysbaric osteonecrosis,,ischemic bone disease caused by decompression bubbles in bone,,,,,,
+Q7406013,disease,病気,Q12136,Salt water aspiration syndrome,,rare diving disorder caused by inhaling a mist of seawater,,,,,,
+Q9378210,disease,病気,Q12136,furunculosis of fish,せっそう病,,,,,,,
+Q3899850,disease,病気,Q12136,periarthritis,,Human disease,,D010489,,726,,C0031037
+Q4090775,disease,病気,Q12136,Kummell's disease,,Human disease,,,,,,C0152088
+Q3346720,disease,病気,Q12136,occupational nystagmus,,,,,,,,
+Q3382144,disease,病気,Q12136,phenylhydrazine poisoning,,,,,,,,
+Q3556816,disease,病気,Q12136,occupational disease due to vibration,,,,,,,,
+Q3877686,disease,病気,Q12136,Copeman's nodule,,,,,,,,
+Q3400643,disease,病気,Q12136,Columnaris,カラムナリス病,bacterial infection of fish,,,,,,
+Q1475743,disease,病気,Q12136,Robinow syndrome,,"syndrome characterized by mild to moderate short stature due to growth delays after birth, distinctive craniofacial abnormalities, skeletal malformations and genital abnormalities",,C562492,,759.8,,C0265205
+Q616667,disease,病気,Q12136,temporal lobe epilepsy,側頭葉てんかん,Human disease,,D004833,G40.2,345.4,,C0014556
+Q1435223,disease,病気,Q12136,focal segmental glomerulosclerosis,巣状糸球体硬化症,kidney disease,,D005923,N08,581.1,236403004,C0017668
+Q1476965,disease,病気,Q12136,xanthinuria,,"purine-pyrimidine metabolic disorder characterized by deficiency of xanthine oxidase, resulting in excretion of large amounts of xanthine in the urine and the formation of xanthine stones",,C562584,,,190919008,C0220988
+Q1437472,disease,病気,Q12136,atransferrinemia,無トランスフェリン血症,Human disease,,C538259,,273.8,,C0521802
+Q1060827,disease,病気,Q12136,Kikuchi disease,組織球性壊死性リンパ節炎,rare disease,感染症や免疫異常が原因でリンパ節で炎症と組織の壊死が起こる病気,D020042,,,,C0398367
+Q649602,disease,病気,Q12136,Ohtahara syndrome,大田原症候群,neonatoal period electroclinical syndrome that is characterized by tonic spasms and partial seizures,,,G40.4,,,C3281191
+Q650026,disease,病気,Q12136,ectrodactyly,,deficiency or absence of one or more central digits of the hand or foot,,C574275,Q71.671.6,755.4,,C0265554
+Q1363508,disease,病気,Q12136,monilethrix,連珠毛,Human disease,,D056734,,757.4,,C0546966
+Q1440027,disease,病気,Q12136,branchiootic syndrome 1,,,,,,,,
+Q1364270,disease,病気,Q12136,hypertrophic cardiomyopathy,肥大型心筋症,disease in which the heart muscle is enlarged,,D002312,,,,C0007194
+Q615645,disease,病気,Q12136,Fabry disease,ファブリー病,rare human genetic lysosomal storage disorder,,D000795,,272.7,,C0002986
+Q657193,disease,病気,Q12136,metabolic syndrome,メタボリックシンドローム,"disease diagnosed by a cluster of at least 3 out of the following conditions: abdominal obesity, high blood pressure, high blood sugar, high serum triglycerides, low serum high-density lipoprotein",内臓脂肪型肥満に高血糖・高血圧・脂質異常症のうち2つ以上の症状が一度に出ている状態,D024821,,277.7,,C0524620
+Q657516,disease,病気,Q12136,hereditary spastic paraplegia,遺伝性痙性対麻痺,genetically and clinically heterogeneous group of neurodegenerative disorders characterized by progressive spasticity and hyperreflexia of the lower limbs,,D015419,,,,C0037773
+Q1440436,disease,病気,Q12136,fragile X-associated tremor/ataxia syndrome,脆弱X随伴振戦/失調症候群,Fragile X-associated tremor/ataxia syndrome (FXTAS) is a rare neurodegenerative disorder characterized by adult-onset progressive intention tremor and gait ataxia,,C564105,,,,C1839780
+Q220551,disease,病気,Q12136,diabetes insipidus,尿崩症,"human disease, a condition characterized by large amounts of dilute urine and increased thirst",,D003919,E23.2,253.5,1296758008,C0011848
+Q224513,disease,病気,Q12136,precocious puberty,性的早熟,human disease,,D011629,E22.8,259.1,,C0034013
+Q1436162,disease,病気,Q12136,pantothenate kinase-associated neurodegeneration,パントテン酸キナーゼ関連神経変性症,neurodegeneration with brain iron accumulation that has_material_basis_in autosomal recessive inheritance of mutation in the PANK2 gene on chromosome 20p13,,D006211,,333.0,,C0018523
+Q1076421,disease,病気,Q12136,choreatic disease,舞踏運動,"movement disease characterized by brief, semi-directed, irregular movements that not repetitive or rhythmic, but appear to flow from one muscle to the next",,D002819,G25.525.5,333.5,,C0008489
+Q1485893,disease,病気,Q12136,encephalopathy due to GLUT1 deficiency,De Vivo病,disease,,C536830,G93.4,,,C1847501
+Q1071707,disease,病気,Q12136,Arnold-Chiari malformation,アーノルド・キアリ奇形,human disease,小脳の形成異常に関連した脳の奇形,D001139,Q07.0,348.4,,C0003803
+Q1479494,disease,病気,Q12136,paroxysmal nocturnal hemoglobinuria,発作性夜間血色素尿症,"disease of the blood characterized by destruction of red blood cells by the complement system, a part of the body's innate immune system",,D006457,,,,C0019050
+Q1365789,disease,病気,Q12136,glycogen storage disease II,ポンペ病,human disease,,D006009,,271.0,,C0017921
+Q953638,disease,病気,Q12136,Wiskott-Aldrich syndrome,ウィスコット・アルドリッチ症候群,rare disease,,D014923,,,36070007,C0043194
+Q1442621,disease,病気,Q12136,Tangier disease,タンジール病,extremely rare inherited human disorder,,D013631,,272.5,,C0039292
+Q656199,disease,病気,Q12136,torsion dystonia,,a hereditary disease characterized by involuntary painful muscle contractions resulting in uncontrollable distortions,,,G24.1,333.6,,
+Q213098,disease,病気,Q12136,progeria,ハッチンソン・ギルフォード・プロジェリア症候群,genetic disorder that causes early aging,先天的遺伝子異常を原因とする早老症のひとつ,D011371,,259.8,,C0033300
+Q940210,disease,病気,Q12136,ankyloblepharon-ectodermal defects-cleft lip/palate syndrome,,human disease,,C535289,,,,C1785148
+Q1076087,disease,病気,Q12136,chondrosarcoma,軟骨肉腫,connective tissue cancer that has material basis in cells derived from transformed cells that produce cartilage,軟骨から発生する悪性骨腫瘍,D002813,,170.9,,C0008479
+Q945930,disease,病気,Q12136,progressive supranuclear palsy,進行性核上性麻痺,"neurodegenerative disease characterized by supranuclear gaze palsy, postural instability, progressive rigidity, and mild dementia",,D013494,,,,C0038868
+Q618246,disease,病気,Q12136,Apert syndrome,,congenital disorder of digestive system,,,Q87.0,755.55,205258009,
+Q250449,disease,病気,Q12136,alpha-mannosidosis,,lysosomal storage disease that has material basis in deficiency of the alpha-D-manosidase enzyme resulting in the impairment of cell function from a build up of complex sugars derived from glycoproteins in the lysosome,,D008363,E77.1,271,,C0024748
+Q1452604,disease,病気,Q12136,multiple epiphyseal dysplasia,,"osteochondrodysplasia that has material basis in defective cartilage mineralization into bone which results in irregular ossification centers of the located in hip or located in knee. The disease has symptom fatigue, has symptom joint pain",,,,,,C0026760
+Q221472,disease,病気,Q12136,fragile X syndrome,脆弱X症候群,congenital disorder of nervous system,,D005600,Q99.2,,,C0016667
+Q259765,disease,病気,Q12136,SADDAN,,"autosomal dominant disease characterized by severe achondroplasia, developmental delay and acanthosis nigricans that has material basis in heterozygous mutation in the FGFR3 gene on chromosome 4p16",,,,,,C2674173
+Q222634,disease,病気,Q12136,cleft lip and cleft palate,口唇口蓋裂,congenital malformations caused by the failure of embryonic structures of the lip and/or palate to fuse,口蓋が閉じていない、または口唇に裂け目がある先天性異常のひとつ,,Q35,,,C3810181
+Q651680,disease,病気,Q12136,alkaptonuria,アルカプトン尿症,"amino acid metabolic disorder that involves phenylalanine and tyrosine metabolism with the accumulation of homogentisic acid, a toxic tyrosine byproduct",,D000474,,270.2,,C0002066
+Q1484058,disease,病気,Q12136,short QT syndrome,QT短縮症候群,"heart conduction disease that is characterized by heart arrhythmia defined as a short QT interval on an EKG (less than 300 ms) that does not significantly change with heart rate, tall and peaked T waves, and a structurally normal heart",,C580439,R94.3,,,C2348199
+Q250354,disease,病気,Q12136,prune belly syndrome,プルーンベリー症候群,pediatrics cases,,D011535,,756.71,,C0033770
+Q612693,disease,病気,Q12136,xeroderma pigmentosum,色素性乾皮症,autosomal recessive disease that is characterized by a deficiency in the ability to repair ultraviolet damage that has material basis in autosomal recessive inheritance of DNA repair,,D014983,,757.33,,C0043346
+Q660330,disease,病気,Q12136,TAR syndrome,血小板減少橈骨欠損症候群,genetic disorder,,C536940,Q87.2,287.33,,C0175703
+Q246002,disease,病気,Q12136,polycystic liver disease,多発肝嚢胞症,human disease,,C536330,Q44.6,,,C0158683
+Q208562,disease,病気,Q12136,Marfan syndrome,マルファン症候群,genetic disorder of the connective tissue,,D008382,,,,C0024796
+Q653924,disease,病気,Q12136,long QT syndrome,QT延長症候群,condition involving delayed repolarization of the heart during the heartbeat cycle,,D008133,I49.8,,9651007,C0023976
+Q1652102,disease,病気,Q12136,osteonecrosis of the femoral head,,aseptic or avascular necrosis of the femoral head,,D005271,,,,C0015814
+Q1561430,disease,病気,Q12136,developmental verbal dyspraxia,,neurodevelopmental condition,,,,,,C0750927
+Q1530812,disease,病気,Q12136,oculo-facial-cardio-dental syndrome,,Very rare genetic disease involving ocular abnormalities and cardiac abnormalities.,,C537465,Q87.8,,,C1846265
+Q1515038,disease,病気,Q12136,thyroid hormone resistance syndrome,甲状腺ホルモン不応症,Human disease,,D018382,E07,246.8,,C2937288
+Q1527888,disease,病気,Q12136,pancreatitis,膵炎,inflammation of the pancreas,膵臓が炎症を起こした状態の総称,D010195,,577.1,,C0030305
+Q2255642,disease,病気,Q12136,swine dysentery,豚赤痢,,,,,,,
+Q1516888,disease,病気,Q12136,inclusion-cell disease,アイセル病,Human disease,,C538602,E77.0,272.7,,C0020725
+Q1570013,disease,病気,Q12136,thrombophilia,血栓性素因,abnormality of blood coagulation that increases the risk of thrombosis (blood clots in blood vessels),,D019851,,286.9,,C3160733
+Q1629483,disease,病気,Q12136,Walker–Warburg syndrome,,rare form of autosomal recessive congenital muscular dystrophy,,D058494,,,,C0265221
+Q1648960,disease,病気,Q12136,Tarlov cyst,,"Tarlov cysts, also known as perineural cysts, are cerebrospinal fluid-filled sacs that form within the nerve root sheath, most commonly at the sacral level of the spine.",,D052958,,355.9,,C0520720
+Q1649897,disease,病気,Q12136,catecholaminergic polymorphic ventricular tachycardia,カテコールアミン誘発多形性心室頻拍,disorder characterized by an abnormal heart rhythm (arrhythmia),,D000098850,I47.2,427,419671004,C5574922
+Q1557239,disease,病気,Q12136,microphthalmia,小眼球症,eye disease where one or both eyeballs are abnormally small,眼球の大きさ,D008850,,,,C0026010
+Q2385178,disease,病気,Q12136,occupational lead poisoning,,,,,,,,
+Q2405864,disease,病気,Q12136,Respiratory manifestations due to nickel,,,,,,,,
+Q3135042,disease,病気,Q12136,hexane (professional illness),,,,,,,,
+Q1621463,disease,病気,Q12136,molybdenum cofactor deficiency,モリブデン補因子欠損症,metal metabolism disease characterized by encephalopathy that worsens over time resulting from the absence of molybdenum cofactor which leads to accumulation of toxic levels of sulphite and neurological damage,,,,,,C0268119
+Q1495797,disease,病気,Q12136,panhypopituitarism,,human disease,,C580003,,,,C0242343
+Q1654860,disease,病気,Q12136,argininosuccinic aciduria,,amino acid metabolic disorder that involves the accumulation of argininosuccinic acid (ASA) in the blood and urine,,D056807,E72.2,270.6,,C0268547
+Q1507379,disease,病気,Q12136,nemaline myopathy,ネマリンミオパチー,congenital structural myopathy characterized by generally non-progressive muscle weakness of varying severity,,D017696,,,,C0206157
+Q1512812,disease,病気,Q12136,Rotor syndrome,ローター症候群,rare disease,,,E80.6,277.4,,C0220991
+Q2312030,disease,病気,Q12136,discitis,椎間板炎,Human disease,,D015299,,722.90,,C0012624
+Q1583485,disease,病気,Q12136,Rothmund-Thomson syndrome,ロスムンド・トムソン症候群,human disease,,D011038,,757.33,,C0032339
+Q2253530,disease,病気,Q12136,Blackleg,黒あし病,caused by Pectobacterium carotovorum,,,,,,
+Q1491661,disease,病気,Q12136,galactosialidosis,,rare disease,,C536411,E77.1,,,C0268233
+Q1648484,disease,病気,Q12136,Duchenne muscular dystrophy,デュシェンヌ型筋ジストロフィー,"neuromuscular disease characterized by rapidly progressive muscle weakness and wasting due to degeneration of skeletal, smooth and cardiac muscle",,D020388,,,,C0013264
+Q1617658,disease,病気,Q12136,hyper IgM syndrome,高IgM症候群,primary immune deficiency disorders characterized by defective CD40 signaling,,D053306,D80.5,279.05,,
+Q1587881,disease,病気,Q12136,popliteal pterygium syndrome,,Human disease,,C562509,,,,C0265259
+Q1677755,disease,病気,Q12136,Jacobsen syndrome,ヤコブセン症候群,"multiple congenital anomaly caused by deletion on chromosome 11, often featuring intellectual disabilities, dysmorphic features, delayed development and heart defects.",,D054868,Q93.5,758.3,,C0795841
+Q1506216,disease,病気,Q12136,Hermansky-Pudlak syndrome,ヘルマンスキー・プドラック症候群,rare disease,,D022861,,,9311003,C0079504
+Q1559250,disease,病気,Q12136,Peters plus syndrome,,"syndrome that is characterized by anterior chamber eye anomalies, short limbs with broad distal extremities, characteristic facial features, cleft lip/palate, and variable developmental delay/intellectual disability",,C537617,,,449817000,C0796012
+Q2188219,disease,病気,Q12136,tooth ankylosis,,Human disease,,D020254,,,,C0155930
+Q1529983,disease,病気,Q12136,mucopolysaccharidosis II,ムコ多糖症II型,mucopolysaccharidosis characterized by a deficiency of the lysosomal enzyme iduronate sulfatase,,D016532,,277.5,,C0026705
+Q1531320,disease,病気,Q12136,autosomal dominant limb-girdle muscular dystrophy type 1B,,autosomal dominant limb-girdle muscular dystrophy that has material basis in mutation in the gene encoding lamin A/C (LMNA),,C535898,,,,C1834653
+Q1585081,disease,病気,Q12136,malignant hyperthermia,悪性高熱症,"genetic disease that is characterized by a drastic and uncontrolled increase in skeletal muscle oxidative metabolism, which overwhelms the body's capacity to supply oxygen, remove carbon dioxide, and regulate body temperature",全身麻酔の併発症のひとつ,D008305,,,,C0024591
+Q1516211,disease,病気,Q12136,renal tubular acidosis,尿細管性アシドーシス,"renal tubular transport disease characterized by excess levels of acid in the blood, due to a failure of the kidneys",,D000141,,,,C0001126
+Q1609755,disease,病気,Q12136,hereditary fructose intolerance syndrome,,inborn error of fructose metabolism caused by a deficiency of the enzyme aldolase B,,D005633,,,,C0016751
+Q1504570,disease,病気,Q12136,protein C deficiency,プロテインC欠乏症,rare genetic trait that predisposes to thrombotic disease,,D020151,,289.81,,C0398625
+Q2651722,disease,病気,Q12136,temporomandibular joint pathology,,any condition affecting the anatomic and functional characteristics of the temporomandibular joint,,D013705,,,,C0039494
+Q1516083,disease,病気,Q12136,piebaldism,ぶち症,human disease,,D016116,,709.09,,C0080024
+Q1636310,disease,病気,Q12136,Landau–Kleffner syndrome,ランドウ・クレフナー症候群,a rare childhood neurological syndrome characterized by seizures and progressive loss of speech typically in a child with previous age-appropriate development,,D018887,F80.3,345.8,,C0282512
+Q2286523,disease,病気,Q12136,Flax dressers disease,,,,,J66.1,,,C2242894
+Q1609733,disease,病気,Q12136,hereditary folate malabsorption,,medical condition,,C562799,,,,C0342705
+Q28024579,disease,病気,Q12136,dilated cardiomyopathy 1S,,dilated cardiomyopathy that has material basis in mutation in the MYH7 gene on chromosome 14q12,,C563538,,,,C1834481
+Q28024578,disease,病気,Q12136,dilated cardiomyopathy 1EE,,human disease,,C567683,,,,C2750466
+Q28024576,disease,病気,Q12136,dilated cardiomyopathy 1O,,dilated cardiomyopathy that has material basis in mutation in the ABCC9 gene on chromosome 12p12.1,,C563906,,,,C1837839
+Q27164432,disease,病気,Q12136,amelogenesis imperfecta type 1G,,amelogenesis imperfecta that has material basis in homozygous or compound heterozygous mutation in the FAM20A gene on chromosome 17q24,,C538241,,,,C0403549
+Q27164435,disease,病気,Q12136,arrhythmogenic right ventricular dysplasia 2,,arrhythmogenic right ventricular dysplasia that has material basis in heterozygous mutation in the cardiac ryanodine receptor-2 gene (RYR2) on chromosome 1q43,,C563409,,,,C1832931
+Q27164439,disease,病気,Q12136,arrhythmogenic right ventricular dysplasia 5,,arrhythmogenic right ventricular dysplasia that has material basis in heterozygous mutation in the TMEM43 gene on chromosome 3p25,,C565776,,,,C1858379
+Q27164443,disease,病気,Q12136,arrhythmogenic right ventricular dysplasia 9,,arrhythmogenic right ventricular dysplasia that has material basis in heterozygous mutations in the PKP2 gene on chromosome 12p11,,C563808,,,,C1836906
+Q27164444,disease,病気,Q12136,arrhythmogenic right ventricular dysplasia 10,,arrhythmogenic right ventricular dysplasia that has material basis in heterozygous mutation in the desmoglein-2 gene (DSG2) on chromosome 18q12,,C565707,,,,C1857777
+Q27164445,disease,病気,Q12136,arrhythmogenic right ventricular dysplasia 11,,arrhythmogenic right ventricular dysplasia that has material basis in heterozygous mutation in the desmocollin-2 gene (DSC2) on chromosome 18q,,C566471,,,,C1864850
+Q27164422,disease,病気,Q12136,X-linked cleft palate with or without ankyloglossia,,cleft palate that has material basis in mutation in the TBX22 gene on chromosome Xq21,,C536426,,,,C1844830
+Q28024555,disease,病気,Q12136,dilated cardiomyopathy 1NN,,dilated cardiomyopathy that has material basis in mutation in the RAF1 gene on chromosome 3p25,,,,,,C4014656
+Q28024558,disease,病気,Q12136,dilated cardiomyopathy 1GG,,dilated cardiomyopathy that has material basis in mutation in the SDHA gene on chromosome 5p15.33,,,,,,C3150898
+Q28024561,disease,病気,Q12136,dilated cardiomyopathy 1JJ,,dilated cardiomyopathy that has material basis in mutation in the LAMA4 gene on chromosome 6q21,,,,,,C3808935
+Q28024564,disease,病気,Q12136,dilated cardiomyopathy 2B,,dilated cardiomyopathy that has material basis in mutation in the GATAD1 gene on chromosome 7q21,,,,,,C3553409
+Q28024574,disease,病気,Q12136,dilated cardiomyopathy 1II,,dilated cardiomyopathy that has material basis in mutation in the CRYAB gene on chromosome 11q23,,,,,,C3554649
+Q28024572,disease,病気,Q12136,dilated cardiomyopathy 1HH,,dilated cardiomyopathy that has material basis in mutation in the BAG3 gene on chromosome 10q26.11,,,,,,C3151293
+Q27164419,disease,病気,Q12136,microcephalic osteodysplastic primordial dwarfism type I,,Human disease,,,,,,C4319565
+Q27164424,disease,病気,Q12136,otulipenia,,Human disease,,,,,,C4310614
+Q27164434,disease,病気,Q12136,FTDALS4,,amyotrophic lateral sclerosis that has material basis in mutation in the TBK1 gene on chromosome 12q14,,,,,,C4225325
+Q28024547,disease,病気,Q12136,dilated cardiomyopathy 1CC,,dilated cardiomyopathy that has material basis in mutation in the NEXN gene on chromosome 1p31.1,,C567733,,,,C2751084
+Q28024551,disease,病気,Q12136,dilated cardiomyopathy 1AA,,dilated cardiomyopathy that has material basis in mutation in the ACTN2 gene on chromosome 1q43,,C567407,,,,C2677338
+Q28024550,disease,病気,Q12136,dilated cardiomyopathy 1V,,dilated cardiomyopathy that has material basis in mutation in the PSEN2 gene on chromosome 1q31-q42,,C566856,,,,C3150958
+Q28024549,disease,病気,Q12136,dilated cardiomyopathy 1D,,dilated cardiomyopathy that has material basis in mutation in the TNNT2 gene on chromosome 1q32,,C563306,,,,C1832243
+Q28024554,disease,病気,Q12136,dilated cardiomyopathy 1I,,dilated cardiomyopathy that has material basis in mutation in the DES gene on chromosome 2q35,,C565752,,,,C1858154
+Q28024553,disease,病気,Q12136,dilated cardiomyopathy 1G,,dilated cardiomyopathy that has material basis in mutation in the TTN gene on chromosome 2q31,,C565824,,,,C1858763
+Q28024559,disease,病気,Q12136,dilated cardiomyopathy 1L,,dilated cardiomyopathy that has material basis in mutations in the SGCD gene on chromosome 5q33.2-q33.3,,C564679,,,,C1847667
+Q28024556,disease,病気,Q12136,dilated cardiomyopathy 1E,,dilated cardiomyopathy that has material basis in mutation in the SCN5A gene on chromosome 3p22.2,,C563384,,,,C1832680
+Q28024557,disease,病気,Q12136,dilated cardiomyopathy 1Z,,dilated cardiomyopathy that has material basis in mutation in the TNNC1 gene on chromosome 3p,,C567506,,,,C2678475
+Q28024562,disease,病気,Q12136,dilated cardiomyopathy 1P,,dilated cardiomyopathy that has material basis in mutation in the PLN gene on chromosome 6q22,,C563690,,,,C1835928
+Q28024563,disease,病気,Q12136,dilated cardiomyopathy 1J,,dilated cardiomyopathy that has material basis in mutation in the EYA4 gene on chromosome 6q23.2,,C565337,,,,C1854368
+Q27164442,disease,病気,Q12136,arrhythmogenic right ventricular dysplasia 8,不整脈原性右室異形成8,arrhythmogenic right ventricular dysplasia that has material basis in heterozygous mutation in the gene encoding desmoplakin (DSP) on chromosome 6p24,,C564400,,,,C1843896
+Q28024567,disease,病気,Q12136,dilated cardiomyopathy 1X,,dilated cardiomyopathy that has material basis in mutation in the FKTN gene on chromosome 9q31,,C566907,,,,C1969024
+Q28024570,disease,病気,Q12136,dilated cardiomyopathy 1W,,dilated cardiomyopathy that has material basis in mutation in the VCL gene on chromosome 10q22.2,,C566954,,,,C1969639
+Q28024571,disease,病気,Q12136,dilated cardiomyopathy 1DD,,dilated cardiomyopathy that has material basis in mutation in the RBM20 gene on chromosome 10q25,,C567725,,,,C2750995
+Q28024573,disease,病気,Q12136,dilated cardiomyopathy 1M,,dilated cardiomyopathy that has material basis in mutation in the CSRP3 gene on chromosome 11p15,,C564390,,,,C1843808
+Q27164425,disease,病気,Q12136,advanced sleep phase syndrome 3,,advanced sleep phase syndrome that has material basis in heterozygous mutation in the PER3 gene on chromosome 1p36.23,,,,,,C4225169
+Q27164430,disease,病気,Q12136,amelogenesis imperfecta type 1C,,amelogenesis imperfecta that has material basis in homozygous mutation in the enamelin gene (ENAM),,,,,,C2673923
+Q27164415,disease,病気,Q12136,alpha-methylacyl-CoA racemase deficiency,,Human disease,,C535444,K76.8,,,
+Q18557444,disease,病気,Q12136,tendon sheath lipoma,,Human disease,,,,,,C1336703
+Q1018534,disease,病気,Q12136,progressive familial intrahepatic cholestasis,,"intrahepatic cholestasis characterized by early onset of chronic unremitting cholestasis of hepatocellular origin that progresses to hepatic fibrosis, cirrhosis, and end-stage liver disease before adulthood",,,,,,C0268312
+Q356410,disease,病気,Q12136,adermatoglyphia,,rare genetic disorder causing lack of fingerprints,,C565010,Q82.8,,,C1851080
+Q18558213,disease,病気,Q12136,ganglion or cyst of synovium/tendon/bursa,,Human disease,,,,,,C0158336
+Q27164414,disease,病気,Q12136,alpha-2-plasmin inhibitor deficiency,,hemorrhagic disease that has material basis in mutation in the PLI gene. It is characterized by a hemorrhagic tendency presenting from childhood with prolonged bleeding and ecchymoses following minor trauma and spontaneous bleeding episodes,,C537777,,,,C2752081
+Q194041,disease,病気,Q12136,phenylketonuria,フェニルケトン尿症,"amino acid metabolic disorder that is characterized by a mutation in the gene for the hepatic enzyme phenylalanine hydroxylase (PAH), rendering it nonfunctional",,D010661,E70.0,,,C0031485
+Q246040,disease,病気,Q12136,congenital cystic adenomatoid malformation,,congenital disorder of respiratory system,,D015615,Q34.8,748.4,111318005,C0010668
+Q1640860,disease,病気,Q12136,hyperaldosteronism,アルドステロン症,adrenal gland hyperfunction disease that results in the overproduction of aldosterone by the adrenal glands,,D006929,,,,C0010481
+Q366964,disease,病気,Q12136,X-linked adrenoleukodystrophy,副腎白質ジストロフィー,"peroxisomal disorder resulting in cerebral demyelination, axonal dysfunction in the spinal cord leading to spastic paraplegia, adrenal insufficiency and in some cases testicular insufficiency",,D000326,E71.3,,,C0007795
+Q703961,disease,病気,Q12136,transmissible spongiform encephalopathy,伝達性海綿状脳症,group of brain diseases induced by prion proteins,,D017096,A81,046,,C0162534
+Q845527,disease,病気,Q12136,mathematical anxiety,数学の心配,anxiety about one's ability to do mathematics,,,,,,
+Q1019940,disease,病気,Q12136,Borjeson-Forssman-Lehmann syndrome,,genetic condition in humans,,C536575,,,,C0265339
+Q385774,disease,病気,Q12136,Townes-Brocks syndrome,タウンズ＝ブロックズ症候群,genetic disorder,,C536974,Q87.8,,24750000,C0265246
+Q1052391,disease,病気,Q12136,inherited pseudoxanthoma elasticum,弾力繊維性仮性黄色腫,Human disease,,D011561,,,,C0033847
+Q1362819,disease,病気,Q12136,vertebral subluxation,サブラクセーション,chiropractic concept,,,,,,
+Q1637035,disease,病気,Q12136,keratosis pilaris,毛孔性苔癬,skin condition characterized by small bumps,,C537412,,757.39,,C0263428
+Q366225,disease,病気,Q12136,adopted child syndrome,,disputed syndrome,,,,,,
+Q209049,disease,病気,Q12136,chromosome 1q21.1 deletion syndrome,1q21.1欠失症候群,Human disease,,,,,,C2675897
+Q1047559,disease,病気,Q12136,agammaglobulinemia,低ガンマグロブリン血症,B cell deficiency that is caused by a reduction in all types of gamma globulins,,,,,,C0001768
+Q25393455,disease,病気,Q12136,occupational fluoride exposure,,,,,,,,
+Q1023604,disease,病気,Q12136,CHARGE syndrome,CHARGE症候群,"syndrome that is characterized by a pattern of congenital anomalies including choanal atresia and malformations of the heart, inner ear, and retina",先天性疾患,D058747,Q89.8,,,C0265354
+Q193003,disease,病気,Q12136,hydrocephalus,水頭症,disorder characterized by an abnormal increase of cerebrospinal fluid in the ventricles of the brain,脳脊髄液が頭蓋腔内に貯まり、脳室が正常より大きくなる病気,D006849,,,,C0020255
+Q1044327,disease,病気,Q12136,Caroli disease,カロリ病,bile duct disease that is characterized by abnormal dilatation of the intrahepatic bile ducts,,D016767,,,717232005,C0162510
+Q1641483,disease,病気,Q12136,hypotrichosis,低毛症,"hair disease that is characterized by sparse hair on the scalp resulting from abnormal hair follicle development and has material basis in mutations in proteins involved in hair growth, division or proliferation of cells within hair follicles",,D007039,,,,C0020678
+Q1022312,disease,病気,Q12136,C syndrome,,"C syndrome is a rare multiple congenital anomaly/intellectual disability syndrome characterized by trigonocephaly and metopic suture synostosis, dysmorphic facial features, short neck, skeletal anomalies, and variable intellectual disability",,C537418,,,,C0796095
+Q266421,disease,病気,Q12136,autosomal recessive congenital ichthyosis,常染色体劣性遺伝性魚鱗癬,congenital skin disease,,,,757.1,,C0239849
+Q19850514,disease,病気,Q12136,Olive Quick Decline Syndrome,,phytopathology targeting olive trees and causing leaf scorch and death of branches and of the entire  plant,,,,,,
+Q1088054,disease,病気,Q12136,chronic cerebrospinal venous insufficiency,,term developed by Italian researcher Paolo Zamboni in 2008 to describe compromised flow of blood in the veins draining the central nervous system,,,I87.8,,,CL529180
+Q11348224,disease,病気,Q12136,Little league shoulder,リトルリーガーズショルダー,,,,,,,
+Q1598909,disease,病気,Q12136,supraventricular tachycardia,上室性頻拍,abnormally fast heart rhythm arising from improper electrical activity in the upper part of the heart,,D013617,I47.1,427.0,,C0039240
+Q19001412,disease,病気,Q12136,villonodular synovitis,,human disease,,,,,,C0158168
+Q1053120,disease,病気,Q12136,Gitelman syndrome,ギテルマン症候群,Human disease,,D053579,E83.4,,707756004,C0268450
+Q4892313,disease,病気,Q12136,Berk–Tabatznik syndrome,,human disease,,C535432,,,,C2930899
+Q338857,disease,病気,Q12136,Minamata disease,水俣病,"a severe neurological disease caused by mercury poisoning, first discovered in the Japanese city of Minamata.",日本の公害病、メチル水銀による中毒性中枢神経系疾患,,T56.1,985.0,,C0265376
+Q283656,disease,病気,Q12136,dilated cardiomyopathy,拡張型心筋症,disease characterized by an enlarged heart,,D002311,,425.4,74368002,C0007193
+Q1052687,disease,病気,Q12136,Charcot–Marie–Tooth disease,シャルコー・マリー・トゥース病,"neuromuscular disease that is characterized by a slowly progressive degeneration of the muscles of the foot, lower leg, hand and forearm",,D002607,,,,C0007959
+Q1641486,disease,病気,Q12136,Marie Unna hereditary hypotrichosis,,disease,,C535912,,,,C2931059
+Q245455,disease,病気,Q12136,chromosome 5q deletion syndrome,5q-症候群,human disease,,C535323,,,,C0740302
+Q275385,disease,病気,Q12136,variegate porphyria,異型ポルフィリン症,Human disease,,D046350,E80.2,277.1,,C0162532
+Q351708,disease,病気,Q12136,Adams-Oliver syndrome,,"syndrome characterized by defects of the scalp (aplasia cutis congenita), abnormalities of the fingers, toes, arms and legs",,C538225,,,,C0265268
+Q1437576,disease,病気,Q12136,electromagnetic hypersensitivity,電磁波過敏症,sensitivity to electromagnetic fields,,,,,,
+Q383228,disease,病気,Q12136,Gerstmann-Straussler-Scheinker syndrome,ゲルストマン・ストロイスラー・シャインカー症候群,"prion disease characterized by adult onset of memory loss, dementia, ataxia, and pathologic deposition of amyloid-like plaques in the brain",中枢神経の遺伝性疾患,D016098,,,,C0017495
+Q1031536,disease,病気,Q12136,campomelic dysplasia,,osteochondrodysplasia that has material basis in a mutation in chromosome 17 which results in bowing in the located in tibia or located in femur,,D055036,,,,C1861922
+Q332293,disease,病気,Q12136,carpal tunnel syndrome,手根管症候群,medical condition due to compression of the median nerve as it travels through the wrist at the carpal tunnel,,D002349,,,,C0007286
+Q28024583,disease,病気,Q12136,dilated cardiomyopathy 1BB,,dilated cardiomyopathy that has material basis in mutation the DSG2 gene on chromosome 18q12.1,,C567877,,,,C2752072
+Q28024582,disease,病気,Q12136,dilated cardiomyopathy 1Y,,dilated cardiomyopathy that has material basis in mutation in the TPM1 gene on chromosome 15q22.1,,C567507,,,,C2678476
+Q28024580,disease,病気,Q12136,dilated cardiomyopathy 1U,,dilated cardiomyopathy that has material basis in mutation in the PSEN1 gene on chromosome 14q24.3,,C566296,,,,C3160720
+Q28024584,disease,病気,Q12136,dilated cardiomyopathy 1FF,,dilated cardiomyopathy that has material basis in mutation in the TNNI3 gene on chromosome 19q13.42,,C567654,,,,C2750091
+Q7234683,disease,病気,Q12136,potassium-aggravated myotonia,カリウム惹起性ミオトニー,human disease,,C538353,,,,C0752355
+Q7204815,disease,病気,Q12136,pleuropulmonary blastoma,胸膜肺芽腫,pulmonary blastoma that derives from the lung or pleural cavity,,C537516,,,,C1266144
+Q7263591,disease,病気,Q12136,pyridoxine-dependent epilepsy,,extremely rare disorder,,C536254,,,,C1291560
+Q7316718,disease,病気,Q12136,reticular dysgenesis,細網異形成症,Human disease,,C538361,D81.0,,,C0272167
+Q7294342,disease,病気,Q12136,Rapp-Hodgkin syndrome,,"autosomal dominant disease characterized by abnormal development of ectodermal tissues including the skin, hair, nails, teeth and sweat glands and anhidrotic ectodermal dysplasia with cleft lip/palate",,C535289,,,,
+Q7316329,disease,病気,Q12136,restrictive dermopathy,拘束性皮膚障害,human disease,,C536920,,,,C0406585
+Q7254411,disease,病気,Q12136,pseudo-Hurler polydystrophy,,Human disease,,,E77.0,272.7,,C0033788
+Q28024598,disease,病気,Q12136,autosomal recessive nonsyndromic deafness 18A,,human disease,,C566580,,,,C1865870
+Q7269853,disease,病気,Q12136,Quebec platelet disorder,,"Quebec platelet syndrome (QPS) is a platelet granule disorder characterized by moderate to severe bleeding after trauma, surgery or obstetric interventions, frequent ecchymoses, mucocutaneous bleeding and muscle and joint bleeds",,C536260,,,,C1866423
+Q7261148,disease,病気,Q12136,pure hair-nail type ectodermal dysplasia,,human disease,,C566592,,,,C1865951
+Q7243138,disease,病気,Q12136,primary hypertrophic osteoarthropathy,,human disease,,D010004,,757.39,,C0029411
+Q7250189,disease,病気,Q12136,properdin deficiency,,human disease,,C537241,,,,C0398762
+Q7316720,disease,病気,Q12136,Dowling-Degos disease,,"pigmentation disease characterized by a reticulate pattern of abnormally dark skin coloring, particularly in the body's folds and creases",,C562924,,,,C0406811
+Q7243115,disease,病気,Q12136,primary cutaneous amyloidosis,,"amyloidosis characterized by pruritus, skin scratching and by deposits of amyloid in the dermis",,C562643,,277.3,,C0268397
+Q7316761,disease,病気,Q12136,retinal degeneration  associated with rhodopsin mutations,,retinitis pigmentosa that has material basis in mutation in the RHO gene on chromosome 3q22,,C566706,,,,C3151001
+Q7250337,disease,病気,Q12136,propionic acidemia,,organic acidemia that involes a nonfunctional propionyl CoA carboxylase affecting conversion of aminio acids and fats into sugar for energy,,D056693,,270.3,,C0268579
+Q32140112,disease,病気,Q12136,congenital myasthenic syndrome 11,,human disease,,C563831,,,,C1837094
+Q32139932,disease,病気,Q12136,congenital myasthenic syndrome 20,,congenital myasthenic syndrome characterized by autosomal recessive inheritance of severe hypotonia associated with episodic apnea that has material basis in homozygous or compound heterozygous mutation in the SLC5A7 gene on chromosome 2q12,,,,,,C4310694
+Q32139946,disease,病気,Q12136,congenital myasthenic syndrome 1B,,congenital myasthenic syndrome characterized by defects in postsynaptic neuromuscular junctions with early-onset progressive muscle weakness that has material basis in mutation in the CHRNA1 gene on chromosome 2q,,,,,,C1837122
+Q32140070,disease,病気,Q12136,congenital myasthenic syndrome 21,,"congenital myasthenic syndrome characterized by autosomal recessive inheritance of hypotonia, apneas, and feeding difficulties that has material basis in homozygous or compound heterozygous mutation in the SLC18A3 gene on chromosome 10q11",,,,,,C4310654
+Q32140098,disease,病気,Q12136,congenital myasthenic syndrome 17,,congenital myasthenic syndrome that has material basis in compound heterozygous mutation in the LRP4 gene on chromosome 11p11,,,,,,C4225377
+Q32140200,disease,病気,Q12136,congenital myasthenic syndrome 16,,congenital myasthenic syndrome that has material basis in heterozygous or homozygous mutation in the SCN4A gene on chromosome 17q23,,,,,,C3280112
+Q32140239,disease,病気,Q12136,hypotrichosis 2,,hypotrichosis that has material basis in a autosomal dominant mutation of CDSN on chromosome 6p21.33,,,,,,C1840299
+Q32140250,disease,病気,Q12136,hypotrichosis 3,,hypotrichosis that has material basis in a autosomal dominant mutation of KRT74 on chromosome 12q13.13,,,,,,C3151432
+Q32140359,disease,病気,Q12136,hypotrichosis 11,,hypotrichosis that has material basis in a autosomal dominant mutation of SNRPE on chromosome 1q32.1,,,,,,C3554409
+Q32140374,disease,病気,Q12136,hypotrichosis 12,,hypotrichosis that has material basis in a autosomal dominant mutation of RPL21 on chromosome 13q12.2,,,,,,C4014563
+Q32140386,disease,病気,Q12136,hypotrichosis 13,,hypotrichosis that has material basis in a autosomal dominant mutation of KRT71 on chromosome 12q13.13,,,,,,C4014616
+Q32140059,disease,病気,Q12136,congenital myasthenic syndrome 6,,"Congenital myasthenic syndrome caused by mutation(s) in the CHAT gene, encoding choline O-acetyltransferase. It is inherited in an autosomal recessive manner.",,C535759,,,,C0393929
+Q32140290,disease,病気,Q12136,hypotrichosis 6,,hypotrichosis that has material basis in a autosomal recessive mutation of DSG4 on chromosome 18q12.1,,C564312,,,,C1842839
+Q32140305,disease,病気,Q12136,hypotrichosis 7,,hypotrichosis that has material basis in a autosomal recessive mutation of LIPH on chromosome 3q27.2,,C536973,,,,C1836672
+Q32140317,disease,病気,Q12136,hypotrichosis 8,,hypotrichosis has material basis in a autosomal recessive mutation of LPAR6 on chromosome 13q14.2,,C566950,,,,C1848435
+Q32139917,disease,病気,Q12136,congenital myasthenic syndrome 12,,human disease,,,,,,C1864649
+Q32139971,disease,病気,Q12136,congenital myasthenic syndrome 3C,,human disease,,,,,,C4225370
+Q32139982,disease,病気,Q12136,congenital myasthenic syndrome 3B,,human disease,,,,,,C4225371
+Q32139991,disease,病気,Q12136,congenital myasthenic syndrome 3A,,human disease,,,,,,C4225372
+Q32140002,disease,病気,Q12136,congenital myasthenic syndrome 5,,human disease,,,,,,C5681640
+Q32140031,disease,病気,Q12136,congenital myasthenic syndrome 14,,human disease,,,,,,C4015597
+Q32140045,disease,病気,Q12136,congenital myasthenic syndrome 9,,human disease,,,,,,C4225368
+Q32140086,disease,病気,Q12136,congenital myasthenic syndrome 19,,human disease,,,,,,C4225235
+Q32140125,disease,病気,Q12136,congenital myasthenic syndrome 13,,human disease,,,,,,C3553645
+Q32140138,disease,病気,Q12136,congenital myasthenic syndrome 4B,,human disease,,,,,,C4225369
+Q32140154,disease,病気,Q12136,congenital myasthenic syndrome 4A,,human disease,,,,,,C1853949
+Q32140167,disease,病気,Q12136,congenital myasthenic syndrome 4C,,human disease,,,,,,C1837091
+Q32140177,disease,病気,Q12136,congenital myasthenic syndrome 2C,,human disease,,,,,,C4225373
+Q32140190,disease,病気,Q12136,congenital myasthenic syndrome 2A,,human disease,,,,,,C4225374
+Q32140212,disease,病気,Q12136,congenital myasthenic syndrome 18,,human disease,,,,,,C4225364
+Q32140422,disease,病気,Q12136,Oguchi disease-2,,human disease,,,,,,C3150678
+Q32139891,disease,病気,Q12136,congenital myasthenic syndrome 15,,congenital myasthenic syndrome characterized by onset of progressive fatigable proximal muscle weakness in childhood that has material basis in compound heterozygous mutation in the ALG14 gene on chromosome 1p21,,,,,,C4015596
+Q32139904,disease,病気,Q12136,congenital myasthenic syndrome 7,,congenital myasthenic syndrome characterized by autosomal dominant inheritance of presynaptic defects with onset of symptoms in early childhood that has material basis in heterozygous mutation in the SYT2 gene on chromosome 1q32,,,,,,C4015038
+Q32139880,disease,病気,Q12136,congenital myasthenic syndrome 8,,human disease,,,,,,C3808739
+Q796218,disease,病気,Q12136,pregnancy fetishism,妊婦フェティシズム,contexts in which pregnancy is seen by individuals and cultures as an erotic phenomenon,,,,,,
+Q28024640,disease,病気,Q12136,autosomal recessive nonsyndromic deafness 61,,"autosomal recessive nonsyndromic deafness that is characterized by prelingual onset with severe to profound, stable hearing loss and has material basis in mutation in the SLC26A5 gene on chromosome 7q22",,,,,,C3151230
+Q28024650,disease,病気,Q12136,autosomal recessive nonsyndromic deafness 74,,autosomal recessive nonsyndromic deafness that has material basis in mutation in the MSRB3 gene on chromosome 12q14,,,,,,C2239351
+Q28024651,disease,病気,Q12136,autosomal recessive nonsyndromic deafness 76,,"autosomal recessive nonsyndromic deafness that is characterized by prelingual onset with high frequency, progressive hearing loss and has material basis in mutation in the SYNE4 gene on chromosome 19q13",,,,,,C3147083
+Q28024648,disease,病気,Q12136,autosomal recessive nonsyndromic deafness 70,,autosomal recessive nonsyndromic deafness that has material basis in mutation in the PNPT1 gene on chromosome 2p16,,,,,,C1824925
+Q28024654,disease,病気,Q12136,autosomal recessive nonsyndromic deafness 8,,autosomal recessive nonsyndromic deafness that has material basis in mutation in the TMPRSS3 gene on chromosome 21q22,,,,,,C1832827
+Q28024659,disease,病気,Q12136,autosomal recessive nonsyndromic deafness 86,,autosomal recessive nonsyndromic deafness that has material basis in mutation in the TBC1D24 gene on chromosome 16p13,,,,,,C2829265
+Q28024656,disease,病気,Q12136,autosomal recessive nonsyndromic deafness 84A,,"autosomal recessive nonsyndromic deafness that is characterized by prelingual onset with moderate to profound, progressive hearing loss and has material basis in mutation in the PTPRQ gene on chromosome 12q21",,,,,,C3150654
+Q28024657,disease,病気,Q12136,autosomal recessive nonsyndromic deafness 84B,,autosomal recessive nonsyndromic deafness that has material basis in mutation in the OTOGL gene on chromosome 12q21,,,,,,C3554159
+Q28024662,disease,病気,Q12136,autosomal recessive nonsyndromic deafness 9,,"autosomal recessive nonsyndromic deafness that is characterized by prelingual onset with usually severe to profound, stable hearing loss and has material basis in mutation in the OTOF gene on chromosome 2p23",,,,,,C1832828
+Q28024663,disease,病気,Q12136,autosomal recessive nonsyndromic deafness 91,,autosomal recessive nonsyndromic deafness that has material basis in mutation in the SERPINB6 gene on chromosome 6p25,,,,,,C3150704
+Q28024660,disease,病気,Q12136,autosomal recessive nonsyndromic deafness 88,,autosomal recessive nonsyndromic deafness that has material basis in mutation in the ELMOD3 gene on chromosome 2p11,,,,,,C2829267
+Q28024661,disease,病気,Q12136,autosomal recessive nonsyndromic deafness 89,,autosomal recessive nonsyndromic deafness that has material basis in mutation in the KARS gene on chromosome 16q23,,,,,,C3151351
+Q28024666,disease,病気,Q12136,autosomal recessive nonsyndromic deafness 97,,autosomal recessive nonsyndromic deafness that has material basis in mutation in the MET gene on chromosome 7q31,,,,,,C4084709
+Q28024667,disease,病気,Q12136,autosomal recessive nonsyndromic deafness 98,,autosomal recessive nonsyndromic deafness that has material basis in mutation in the TSPEAR gene on chromosome 21q22,,,,,,C3553932
+Q1266016,disease,病気,Q12136,katoptronophilia,,,,,,,,
+Q28024664,disease,病気,Q12136,autosomal recessive nonsyndromic deafness 93,,human disease,,,,,,C3470075
+Q28024642,disease,病気,Q12136,autosomal recessive nonsyndromic deafness 63,,"autosomal recessive nonsyndromic deafness that is characterized by prelingual onset with severe to profound, stable hearing loss and has material basis in mutation in the LRTOMT gene on chromosome 11q13",,C566951,,,,C1969621
+Q28024646,disease,病気,Q12136,autosomal recessive nonsyndromic deafness 68,,autosomal recessive nonsyndromic deafness that has material basis in mutation in the S1PR2 gene on chromosome 19p13,,C563669,,,,C1835854
+Q28024647,disease,病気,Q12136,autosomal recessive nonsyndromic deafness 7,,"autosomal recessive nonsyndromic deafness that is characterized by prelingual onset with severe to profound, stable hearing loss and has material basis in mutation in the TMC1 gene on chromosome 9q21",,C563417,,,,C1832978
+Q28024644,disease,病気,Q12136,autosomal recessive nonsyndromic deafness 66,,autosomal recessive nonsyndromic deafness that has material basis in mutation in the DCDC2 gene on chromosome 6p22,,C565701,,,,C1857750
+Q28024645,disease,病気,Q12136,autosomal recessive nonsyndromic deafness 67,,"autosomal recessive nonsyndromic deafness that is characterized by prelingual onset with severe to profound, stable hearing loss and has material basis in mutation in the LHFPL5 gene on chromosome 6p21",,C565207,,,,C1853223
+Q28024652,disease,病気,Q12136,autosomal recessive nonsyndromic deafness 77,,"autosomal recessive nonsyndromic deafness that is characterized by postlingual onset with moderate to profound, progressive hearing loss and has material basis in mutation in the LOXHD1 gene on chromosome 18q21",,C567543,,,,C2746083
+Q28024653,disease,病気,Q12136,autosomal recessive nonsyndromic deafness 79,,"autosomal recessive nonsyndromic deafness that is characterized by prelingual onset with severe to profound, stable hearing loss and has material basis in mutation in the TPRN gene on chromosome 9q34",,C567651,,,,C2750082
+Q28024669,disease,病気,Q12136,autosomal dominant nonsyndromic deafness 10,,autosomal dominant nonsyndromic deafness that is characterized by postlingual onset in the third or forth decade of life with a flat or gently downsloping audioprofiles and has material basis in mutation in the EYA4 gene on chromosome 6q23,,C563354,,,,C1832476
+Q1266024,disease,病気,Q12136,odaxelagnia,,arousal from biting/being bitten,噛む、噛まれることに対する性的倒錯,,,,,
+Q1055374,disease,病気,Q12136,adenosine deaminase deficiency,アデノシンデアミナーゼ欠損症,"severe combined immunodeficiency that is caused by a defective enzyme, adenosine deaminase (ADA), necessary for the breakdown of purines. Lack of ADA causes accumulation of dATP",,,,279.2,,C0268124
+Q18553951,disease,病気,Q12136,Eastern equine encephalitis,東部馬脳炎,horse disease,,D020242,,,,C0153065
+Q1417880,disease,病気,Q12136,Non-Verbal Learning Disorder,,medical condition,,,,,,
+Q18553329,disease,病気,Q12136,intestinal schistosomiasis,,Human disease,,,,,,C0036329
+Q957217,disease,病気,Q12136,hypopnea,低呼吸,overly shallow breathing or an abnormally low respiratory rate,,,,,,
+Q18553920,disease,病気,Q12136,chronic endophthalmitis,,Human disease,,,,,,C0154774
+Q18553285,disease,病気,Q12136,Barmah Forest virus disease,,"viral infectious disease that results in infection located in joint, has material basis in Barmah Forest virus, which is transmitted by mosquito bite. The infection has symptom fever, has symptom arthralgia, and has symptom rash",,,,,,
+Q32139750,disease,病気,Q12136,long QT syndrome 3,,long QT syndrome that has_material_basis_in dominant inheritance of mutation in the SCN5A gene on chromosome 3p22.2,,C565840,,,,C1838527
+Q32139785,disease,病気,Q12136,long QT syndrome 9,,long QT syndrome that has material basis in mutation of the CAV3 gene on chromosome 3p25.3,,C567515,,,,C2678485
+Q32139811,disease,病気,Q12136,long QT syndrome 11,,long QT syndrome that has_material_basis_in dominant inheritance of mutation in the AKAP9 gene on chromosome 7q21.2,,C567513,,,,C2678483
+Q32139824,disease,病気,Q12136,long QT syndrome 12,,long QT syndrome that has_material_basis_in dominant inheritance of mutation in the SNTA1 gene on chromosome 20q11.21,,C567842,,,,C2751830
+Q32136733,disease,病気,Q12136,renal hypomagnesemia 6,,human disease,,,,,,C3151295
+Q32136833,disease,病気,Q12136,young-onset Parkinson disease,,human disease,,,,,,C4275179
+Q32139615,disease,病気,Q12136,megaconial type congenital muscular dystrophy,,human disease,,C566527,,,,C1865233
+Q32139666,disease,病気,Q12136,muscular dystrophy-dystroglycanopathy type B6,,human disease,,C563844,,,,C1837229
+Q32140778,disease,病気,Q12136,type 1 diabetes mellitus 2,,type 1 diabetes mellitus that has material basis in autosomal dominant inheritance of mutation of the INS gene on chromosome 11p15.5,,C565100,,,,C1852092
+Q50349721,disease,病気,Q12136,hereditary sensory and autonomic neuropathy type 2A,,hereditary sensory and autonomic neuropathy type 2 characterized by progressive sensory neuropathy with onset in childhood that has material basis in mutation in the HSN2 isoform of the WNK1 gene on chromosome 12p13,,,,,,C0751540
+Q55787127,disease,病気,Q12136,"brachydactyly of fingers, unilateral",,human disease,,,,,,
+Q55787060,disease,病気,Q12136,non-syndromic brachydactyly of fingers,,human disease,,,,,,
+Q55785527,disease,病気,Q12136,Symbrachydactyly of hands and feet,,human disease,,C538062,,,,C2931719
+Q32142380,disease,病気,Q12136,type 1 diabetes mellitus 12,,type 1 diabetes mellitus that has material basis in mutation of the CTLA4 gene on chromosome 2q33.2,,C563326,,,,C1832392
+Q50349706,disease,病気,Q12136,autosomal recessive cutis laxa type IIC,,autosomal recessive cutis laxa type II classic type characterized by cardiovascular involvement that has material basis in homozygous mutation in the ATP6V1E1 gene on chromosome 22q11,,,,,,C4479387
+Q50349711,disease,病気,Q12136,hereditary sensory and autonomic neuropathy type 5,,hereditary sensory neuropathy characterized by impaired pain and thermal perception in the extremities and selective reduction in small myelinated fibers that has material basis in homozygous mutation in the NGF gene on chromosome 1p13,,,,,,C0002768
+Q50349713,disease,病気,Q12136,hereditary sensory neuropathy type 2C,,hereditary sensory and autonomic neuropathy type 2 characterized by peripheral nerve degeneration and progressive distal sensory loss that has material basis in homozygous or compound heterozygous mutation in the KIF1A gene on chromosome 2q37,,,,,,C3280168
+Q50349719,disease,病気,Q12136,hereditary sensory and autonomic neuropathy type 8,,hereditary sensory neuropathy characterized by congenital insensitivity to pain and decreased sweating and tear production that has material basis in homozygous mutation in the PRDM12 gene on chromosome 9q34,,,,,,C4225308
+Q50349716,disease,病気,Q12136,hereditary sensory and autonomic neuropathy type 2B,,hereditary sensory and autonomic neuropathy type 2 characterized by early childhood onset of distal sensory impairment that has material basis in homozygous mutation in the FAM134B gene on chromosome 5p15,,,,,,C2751092
+Q50349723,disease,病気,Q12136,hereditary sensory and autonomic neuropathy type 1C,,hereditary sensory and autonomic neuropathy type 1 that has material basis in heterozygous mutation in the SPTLC2 gene on chromosome 14q24,,,,,,C3150896
+Q50349722,disease,病気,Q12136,hereditary sensory neuropathy type ID,,hereditary sensory and autonomic neuropathy type 1 characterized by adult onset of a distal axonal sensory neuropathy that has material basis in heterozygous mutation in the ATL1 gene on chromosome 14q,,,,,,C3150972
+Q50349724,disease,病気,Q12136,hereditary sensory neuropathy-deafness-dementia syndrome,,"hereditary sensory neuropathy characterized by adult onset of progressive peripheral sensory loss, progressive hearing impairment, and early-onset dementia that has material basis in heterozygous mutation in the DNMT1 gene on chromosome 19p13",,,,,,C3279885
+Q32142548,disease,病気,Q12136,hereditary spastic paraplegia 10,,hereditary spastic paraplegia that has material basis in mutation in the KIF5A gene on chromosome 12q13,,C537482,,,,C1858712
+Q51097746,disease,病気,Q12136,geleophysic dysplasia,,disease,,C537677,,,,C3489726
+Q32142563,disease,病気,Q12136,hereditary spastic paraplegia 11,,hereditary spastic paraplegia that has material basis in mutation in the SPG11 gene on chromosome 15q21,,C537483,,,,C1858479
+Q32142578,disease,病気,Q12136,hereditary spastic paraplegia 12,,hereditary spastic paraplegia that has material basis in mutation in the RTN2 gene on chromosome 19q13,,C537484,,,,C1858106
+Q32142472,disease,病気,Q12136,type 1 diabetes mellitus 20,,type 1 diabetes mellitus that has material basis in mutation of the HNF1A gene on chromosome 12q24.31,,C567286,,,,C2675866
+Q32142594,disease,病気,Q12136,hereditary spastic paraplegia 13,,hereditary spastic paraplegia that is characterized by a pure form of the disease with late onset and has material basis in mutation in the HSPD1 on chromosome 2q33,,C537485,,,,C1854467
+Q32142628,disease,病気,Q12136,hereditary spastic paraplegia 15,,hereditary spastic paraplegia that has material basis in mutation in the ZFYVE26 gene on chromosome 14q24.1,,C536642,,,,C1849128
+Q32142660,disease,病気,Q12136,hereditary spastic paraplegia 17,,hereditary spastic paraplegia that has material basis in mutation in the BSCL2 gene on chromosome 11q12,,C536644,,,,C2931276
+Q32142675,disease,病気,Q12136,hereditary spastic paraplegia 18,,"gene (8p11.2) encoding the protein, Erlin-2.",,C567628,,,,C2749936
+Q32142710,disease,病気,Q12136,hereditary spastic paraplegia 2,,hereditary spastic paraplegia that has material basis in mutation in the PLP1 gene on chromosome Xq22.2,,C536857,,,,C1839264
+Q32142762,disease,病気,Q12136,hereditary spastic paraplegia 26,,"gene (12q13.3), encoding Beta-1, 4 N-acetylgalactosaminyltransferase 1.",,C536862,,,,C1836632
+Q32140436,disease,病気,Q12136,congenital stationary night blindness 1G,,congenital stationary night blindness characterized by autosomal recessive inheritance that has material basis in homozygous mutation in the GNAT1 gene on chromosome 3p21,,,,,,C4225345
+Q32142794,disease,病気,Q12136,hereditary spastic paraplegia 28,,hereditary spastic paraplegia that has material basis in mutation in the DDHD1 gene on chromosome 14q22,,C563732,,,,C1836295
+Q32140475,disease,病気,Q12136,Warburg micro syndrome 2,,Warburg micro syndrome that has material basis in autosomal recessive inheritance of homozygous or compound heterozygous mutation in the RAB3GAP2 gene on chromosome 1q41,,,,,,C3280214
+Q32140486,disease,病気,Q12136,Warburg micro syndrome 3,,Warburg micro syndrome that has material basis in autosomal recessive inheritance of homozygous or compound heterozygous mutation in the RAB18 gene on chromosome 10p12,,,,,,C3280203
+Q32140499,disease,病気,Q12136,Warburg micro syndrome 4,,Warburg micro syndrome that has material basis in autosomal recessive inheritance of homozygous or compound heterozygous mutation in the TBC1D20 gene on chromosome 20p13,,,,,,C3810265
+Q32140763,disease,病気,Q12136,neurodegeneration with brain iron accumulation 6,,neurodegeneration with brain iron accumulation that has material basis in autosomal recessive inheritance of mutation in the COASY gene on chromosome 17q21.2,,,,,,C3810230
+Q50349821,disease,病気,Q12136,acute infantile liver failure-cerebellar ataxia-peripheral sensory motor neuropathy syndrome,,autosomal recessive cerebellar ataxia that has material basis in homozygous or compound heterozygous mutation in the SCYL1 gene on chromosome 11q13,,,,,,C4225236
+Q50349816,disease,病気,Q12136,autosomal dominant isolated ectopia lentis 1,,isolated ectopia lentis that has material basis in heterozygous mutation in the FBN1 gene on chromosome 15q21,,,,,,C1851286
+Q50349837,disease,病気,Q12136,subcortical band heterotopia,,congenital nervous system abnormality characterized by migration of neurons to ectopic locations in the brain where the neurons form areas that appear as band-like clusters of white tissue underneath the gray tissue of the cerebral cortex,,,,,,C1848201
+Q53160608,disease,病気,Q12136,Tatton-Brown–Rahman syndrome,,human disease,,,,,,C4014545
+Q53660450,disease,病気,Q12136,"sideroblastic anemia with B-cell immunodeficiency, periodic fevers, and developmental delay",,human disease,,,,,,C4015172
+Q32140736,disease,病気,Q12136,neurodegeneration with brain iron accumulation 4,,neurodegeneration with brain iron accumulation that has material basis in autosomal recessive inheritance of mutation in the C19orf12 gene on chromosome 19q12,,,,,,C3280371
+Q32140749,disease,病気,Q12136,neurodegeneration with brain iron accumulation 5,,neurodegeneration with brain iron accumulation that has material basis in X-linked dominant inheritance of mutation in the WDR45 gene on chromosome Xp11.23,,,,,,C3550973
+Q52611903,disease,病気,Q12136,5-oxoprolinase deficiency,,5-Oxoprolinase deficiency is clinically a very heterogeneous condition characterized by 5-oxoprolinuria,,C535322,,,,C0268525
+Q53923559,disease,病気,Q12136,congenital bilateral aplasia of the vas deferens,,human disease,,C535984,,,,C0403814
+Q51728449,disease,病気,Q12136,epithelial recurrent erosion dystrophy,,human disease,,C565155,,,,C1852551
+Q55787061,disease,病気,Q12136,non-syndromic brachydactyly of toes,,human disease,,,,,,C0432029
+Q50349715,disease,病気,Q12136,hereditary sensory and autonomic neuropathy type 7,,human disease,,,,,,C3809882
+Q50349720,disease,病気,Q12136,hereditary sensory neuropathy type 1F,,human disease,,,,,,C3810194
+Q52956039,disease,病気,Q12136,SC phocomelia syndrome,,human disease,,,,,,C0392475
+Q53705015,disease,病気,Q12136,trisomy 20,,partial or complete triplication of chromosome 20,,,,,,C0265479
+Q50349826,disease,病気,Q12136,camptodactyly-tall stature-scoliosis-hearing loss syndrome,,"autosomal genetic disease characterized by camptodactyly, tall stature, scoliosis, and hearing loss that has material basis in partial loss of function in the FGFR3 gene on chromosome 4p16",,C537975,,,,C1864852
+Q52886674,disease,病気,Q12136,trisomy 2,,partial or complete triplication of chromosome 2,,,,,,
+Q53951449,disease,病気,Q12136,infantile parkinsonism-dystonia,,Infantile dystonia-parkinsonism (IPD) is an extremely rare inherited neurological syndrome that presents in early infancy with hypokinetic parkinsonism and dystonia and that can be fatal,,C567730,,,,C2751067
+Q50349829,disease,病気,Q12136,molybdenum cofactor deficiency type B,,molybdenum cofactor deficiency that has material basis in homozygous or compound heterozygous mutation in the MOCS2 gene on chromosome 5q11,,C565373,,,,C1854989
+Q50349834,disease,病気,Q12136,molybdenum cofactor deficiency type C,,molybdenum cofactor deficiency that has material basis in homozygous mutation in the GPHN gene on chromosome 14q23,,C565374,,,,C1854990
+Q50824966,disease,病気,Q12136,oculocutaneous albinism type 6,,disease,,,,,,
+Q50349741,disease,病気,Q12136,CAKUT2,,CAKUT that has material basis in heterozygous mutation in the TBX18 gene on chromosome 6q14,,,,,,C1840451
+Q50364510,disease,病気,Q12136,Ataxia-oculomotor apraxia type 4,,AOA4,,,,,,
+Q53705008,disease,病気,Q12136,trisomy 5,,partial or complete triplication of chromosome 5,,,,,,
+Q53705025,disease,病気,Q12136,trisomy 17,,partial or complete triplication of chromosome 17,,,,,,
+Q53705022,disease,病気,Q12136,trisomy 13,,partial or complete triplication of chromosome 13,,,,,,
+Q50824137,disease,病気,Q12136,Exfoliative ichthyosis,,Autosomal recessive exfoliative ichthyosis. Ichthyosis exfoliativa,,,,,,C1838440
+Q32140515,disease,病気,Q12136,neuronal ceroid lipofuscinosis 4B,,human disease,,,,,,C1834207
+Q32140605,disease,病気,Q12136,neuronal ceroid lipofuscinosis 13,,human disease,,,,,,C3715049
+Q32140661,disease,病気,Q12136,neuronal ceroid lipofuscinosis 11,,human disease,,,,,,C3539123
+Q32140451,disease,病気,Q12136,congenital stationary night blindness autosomal dominant 3,,congenital stationary night blindness characterized by autosomal dominant inheritance that has material basis in heterozygous mutation in the GNAT1 gene on chromosome 3p21,,C566475,,,,C1864870
+Q28024676,disease,病気,Q12136,autosomal dominant nonsyndromic deafness 17,,autosomal dominant nonsyndromic deafness that is characterized by postlingual onset with high frequency progressive hearing loss and has material basis in mutation in the MYH9 gene on chromosome 22q12,,,,,,C1863659
+Q28024680,disease,病気,Q12136,autosomal dominant nonsyndromic deafness 22,,autosomal dominant nonsyndromic deafness that is characterized by postlingual onset with high frequency progressive hearing loss and has material basis in mutation in the MYO6 gene on chromosome 6q14,,,,,,C4304831
+Q32136810,disease,病気,Q12136,juvenile onset Parkinson disease 19A,,Parkinson's disease that has material basis in homozygous mutation in the DNAJC6 gene on chromosome 1p31,,,,,,C3809811
+Q32136880,disease,病気,Q12136,early-onset Parkinson disease 20,,early-onset Parkinson disease that has material basis in homozygous mutation in the SYNJ1 gene on chromosome 21q22,,,,,,C3809824
+Q32136868,disease,病気,Q12136,Parkinson disease 17,,late-onset Parkinson disease that has material basis in heterozygous mutation in the VPS35 gene on chromosome 16q13,,,,,,C3280133
+Q32136929,disease,病気,Q12136,karyomegalic interstitial nephritis,,"interstitial nephritis characterized by nephritis, interstitial fibrosis, and enlarged and atypical tubular epithelial cell nuclei that has material basis in homozygous or compound heterozygous mutation in the FAN1 gene on chromosome 15q13.3",,,,,,C3553774
+Q32137273,disease,病気,Q12136,PHARC syndrome,,"autosomal recessive disease that is characterized by polyneuropathy, hearing loss, cerebellar ataxia, retinitis pigmentosa and early-onset cataract",,,,,,C2675204
+Q32139838,disease,病気,Q12136,long QT syndrome 13,,long QT syndrome that has_material_basis_in dominant inheritance of mutation in the KCNJ5 gene on chromosome 11q24.3,,,,,,C3150733
+Q32139852,disease,病気,Q12136,long QT syndrome 14,,long QT syndrome that has material basis in dominant inheritance of mutation in the CALM1 gene on chromosome 14q32.11,,,,,,C4015671
+Q32139866,disease,病気,Q12136,long QT syndrome 15,,long QT syndrome that has_material_basis_in dominant inheritance of mutation in the CALM2 gene on chromosome 2p21,,,,,,C4015695
+Q32139737,disease,病気,Q12136,long QT syndrome 2,,long QT syndrome that has_material_basis_in dominant inheritance of mutation in the KCNH2 gene on chromosome 7q36.1,,,,,,
+Q32139763,disease,病気,Q12136,long QT syndrome 5,,long QT syndrome that has_material_basis_in dominant inheritance of mutation in the KCNE1 gene on chromosome 21q22.12,,,,,,
+Q32139773,disease,病気,Q12136,long QT syndrome 6,,long QT interval syndrome that has_material_basis_in dominant inheritance of mutation in the KCNE2 gene on chromosome 21q22.11,,,,,,
+Q28024670,disease,病気,Q12136,autosomal dominant nonsyndromic deafness 11,,autosomal dominant nonsyndromic deafness that is characterized by postlingual onset in the first decade of life with a flat or gently downsloping audioprofiles and has material basis in mutation in the MYO7A gene on chromosome 11q13,,C563353,,,,C1832475
+Q28024671,disease,病気,Q12136,autosomal dominant nonsyndromic deafness 12,,autosomal dominant nonsyndromic deafness that is characterized by prelingual onset and mid-frequency hearing loss and has material basis in mutation in the TECTA gene on chromosome 11q23,,C563295,,,,C1832187
+Q28024672,disease,病気,Q12136,autosomal dominant nonsyndromic deafness 13,,autosomal dominant nonsyndromic deafness that is characterized by postlingual onset in the second decade of life with mid-frequency hearing loss and has material basis in mutation in the COL11A2 gene on chromosome 6p21,,C566612,,,,C1866095
+Q28024673,disease,病気,Q12136,autosomal dominant nonsyndromic deafness 15,,autosomal dominant nonsyndromic deafness that is characterized by postlingual onset with high frequency progressive hearing loss and has material basis in mutation in the POU4F3 gene on chromosome 5q32,,C566545,,,,C1865366
+Q28024678,disease,病気,Q12136,autosomal dominant nonsyndromic deafness 20,,autosomal dominant nonsyndromic deafness that is characterized by postlingual onset with high frequency progressive hearing loss and has material basis in mutation in the ACTG1 gene on chromosome 17q25,,C565754,,,,C1858172
+Q28024681,disease,病気,Q12136,autosomal dominant nonsyndromic deafness 23,,autosomal dominant nonsyndromic deafness that is characterized by prelingual onset with high frequency progressive hearing loss and has material basis in mutation in the SIX1 gene on chromosome 14q23,,C565357,,,,C1854594
+Q32136845,disease,病気,Q12136,autosomal dominant Parkinson disease 4,,late onset Parkinson disease that has material basis in heterozygous triplication of the alpha-synuclein gene (SNCA) on chromosome 4q22,,C565324,,,,C1854182
+Q32136892,disease,病気,Q12136,autosomal recessive Parkinson disease 14,,"Adult-onset dystonia-parkinsonism is a rare neurodegenerative disease usually presenting before the age of 30 and which is characterized by dystonia, L-dopa-responsive parkinsonism, pyramidal signs and rapid cognitive decline",,C567844,,,,C2751842
+Q32136745,disease,病気,Q12136,renal hypomagnesemia 2,,hypomagnesemia characterized by autosomal dominant inheritance of hypomagnesemia due to renal magnesium loss that has material basis in heterozygous mutation in the FXYD2 gene on chromosome 11q23,,C537152,,,,C1835171
+Q32136756,disease,病気,Q12136,osteopathia striata with cranial sclerosis,,"Osteopathia striata with cranial sclerosis (OS-CS) is a bone dysplasia characterized by longitudinal striations of the metaphyses of the long bones, sclerosis of the craniofacial bones, macrocephaly, cleft palate and hearing loss",,C536053,,,,C0432268
+Q32139695,disease,病気,Q12136,congenital muscular dystrophy due to integrin alpha-7 deficiency,,congenital muscular dystrophy characterized by autosomal recessive inheritance that has material basis in compound heterozygous mutation in the ITGA7 gene on chromosome 12q13,,C567709,,,,C2750786
+Q7136039,disease,病気,Q12136,parastremmatic dwarfism,,"a very rare chondrodysplasia characterized by severe dwarfism, kyphoscoliosis, stiffness of large joints and distortion of lower limbs",,C537172,,,722210007,C1868616
+Q92298037,disease,病気,Q12136,mouse tongue squamous cell carcinoma,,,,,,,,
+Q12199,disease,病気,Q12136,AIDS,後天性免疫不全症候群,spectrum of conditions caused by HIV infection,HIVによって引き起こされる感染症、性感染症の一つ,D000163,B2424.,043,,C0001175
+Q97466175,disease,病気,Q12136,equine transitional cell carcinoma,,,,,,,,
+Q63430622,disease,病気,Q12136,Splenic sequestration crisis,,Illness,,,,,,
+Q53845060,disease,病気,Q12136,mouse mesothelioma,,,,,,,,
+Q53845064,disease,病気,Q12136,mouse lymphoma,,,,,,,,
+Q53845065,disease,病気,Q12136,mouse sarcoma,,,,,,,,
+Q53845070,disease,病気,Q12136,mouse osteosarcoma,,,,,,,,
+Q53845146,disease,病気,Q12136,mouse adrenal cortical carcinoma,,,,,,,,
+Q53869257,disease,病気,Q12136,mouse gastric carcinoma,,,,,,,,
+Q53869262,disease,病気,Q12136,mouse thymic lymphoma,,,,,,,,
+Q53869260,disease,病気,Q12136,mouse rectum carcinoma,,,,,,,,
+Q53869264,disease,病気,Q12136,mouse kidney carcinoma,,,,,,,,
+Q53869265,disease,病気,Q12136,mouse islet cell adenoma,,,,,,,,
+Q53869273,disease,病気,Q12136,mouse basal cell carcinoma,,,,,,,,
+Q53869277,disease,病気,Q12136,mouse colon adenocarcinoma,,,,,,,,
+Q53869283,disease,病気,Q12136,mouse histiocytic sarcoma,,,,,,,,
+Q53869285,disease,病気,Q12136,mouse reticulum cell sarcoma,,,,,,,,
+Q53869414,disease,病気,Q12136,mouse gastric adenocarcinoma,,,,,,,,
+Q53869413,disease,病気,Q12136,mouse malignant ovarian neoplasm,,,,,,,,
+Q53869418,disease,病気,Q12136,mouse monocytic leukemia,,,,,,,,
+Q53869417,disease,病気,Q12136,mouse medullary thyroid carcinoma,,,,,,,,
+Q53869422,disease,病気,Q12136,mouse testicular teratoma,,,,,,,,
+Q53869421,disease,病気,Q12136,mouse squamous cell carcinoma,,,,,,,,
+Q53869531,disease,病気,Q12136,mouse granulosa cell tumor,,,,,,,,
+Q53869534,disease,病気,Q12136,mouse ovarian histiocytic sarcoma,,,,,,,,
+Q53869535,disease,病気,Q12136,mouse cervical carcinoma,,,,,,,,
+Q53869563,disease,病気,Q12136,mouse myeloid leukemia,,,,,,,,
+Q53869560,disease,病気,Q12136,mouse cervical squamous cell carcinoma,,,,,,,,
+Q53869565,disease,病気,Q12136,mouse pancreatic ductal adenocarcinoma,,,,,,,,
+Q53869570,disease,病気,Q12136,mouse adrenal gland pheochromocytoma,,,,,,,,
+Q53869575,disease,病気,Q12136,mouse thyroid gland parafollicular cell carcinoma,,,,,,,,
+Q53869572,disease,病気,Q12136,mouse gastric squamous cell carcinoma,,,,,,,,
+Q53869581,disease,病気,Q12136,mouse bladder transitional cell carcinoma,,,,,,,,
+Q53869587,disease,病気,Q12136,mouse glial tumours of uncertain origin,,,,,,,,
+Q53869584,disease,病気,Q12136,mouse astrocytic tumours,,,,,,,,
+Q53939006,disease,病気,Q12136,mouse papilloma,,,,,,,,
+Q61722989,disease,病気,Q12136,mouse ganglioneuroblastoma,,,,,,,,
+Q104721837,disease,病気,Q12136,mouse hibernoma,,,,,,,,
+Q104721844,disease,病気,Q12136,mouse islet cell neoplasm,,,,,,,,
+Q105045449,disease,病気,Q12136,rat testis malignant Sertoli cell tumor,,,,,,,,
+Q76643346,disease,病気,Q12136,coronary artery disease in adults,,,,,,,,
+Q76643393,disease,病気,Q12136,Coronary heart disease in children,,,,,,,,
+Q7118181,disease,病気,Q12136,PAPA syndrome,,"Pyogenic arthritis-pyoderma gangrenosum-acne syndrome is a rare pleiotropic autoinflammatory disorder of childhood, primarily affecting the joints and skin",,C536253,,,724015007,C1858361
+Q7103627,disease,病気,Q12136,ornithine translocase deficiency,高オルニチン血症・高アンモニア血症・ホモシトルリン尿症症候群,amino acid metabolic disorder that has material basis in deficiency of ornithine translocase resulting in the accumulation of ammonia in the blood,,C538380,,270.6,,C0268540
+Q7133011,disease,病気,Q12136,renal coloboma syndrome,,autosomal dominant disease characterized by optic nerve coloboma and renal disease,,C537168,,,,C1852759
+Q7109017,disease,病気,Q12136,otospondylomegaepiphyseal dysplasia,,"osteochondrodysplasia that results from mutations in the COL11A2 gene which results in enlargement of the located in epiphysis in located in hand and located in foot, distinct facial features, platyspondyly and hearing loss",,,Q77.7,,,C1855310
+Q53844746,disease,病気,Q12136,rat malignant mesothelioma,,,,,,,,
+Q53844751,disease,病気,Q12136,rat malignant oligodendroglioma,,,,,,,,
+Q53844756,disease,病気,Q12136,rat malignant peripheral nerve sheath tumor,,,,,,,,
+Q53844763,disease,病気,Q12136,rat malignant schwannoma,,,,,,,,
+Q53844786,disease,病気,Q12136,mouse schwannoma,,,,,,,,
+Q53844794,disease,病気,Q12136,mouse rhabdomyosarcoma,,,,,,,,
+Q53844769,disease,病気,Q12136,rat malignant thymoma,,,,,,,,
+Q53844800,disease,病気,Q12136,mouse ependymoma,,,,,,,,
+Q53845054,disease,病気,Q12136,mouse plasmacytoma,,,,,,,,
+Q53845059,disease,病気,Q12136,mouse angiosarcoma,,,,,,,,
+Q50349626,disease,病気,Q12136,autosomal dominant non-syndromic intellectual disability 22,,autosomal dominant non-syndromic intellectual disability that has material basis in an autosomal dominant mutation of ZBTB18 on chromosome 1q44,,C567346,,,,C2676727
+Q50349617,disease,病気,Q12136,autosomal dominant non-syndromic intellectual disability 13,,autosomal dominant non-syndromic intellectual disability that has material basis in an autosomal dominant mutation of DYNC1H1 on chromosome 14q32.31,,,,,,C3281202
+Q50349622,disease,病気,Q12136,autosomal dominant non-syndromic intellectual disability 18,,autosomal dominant non-syndromic intellectual disability that has material basis in an autosomal dominant mutation of GATAD2B on chromosome 1q21.3,,,,,,C3554448
+Q50349623,disease,病気,Q12136,autosomal dominant non-syndromic intellectual disability 19,,autosomal dominant non-syndromic intellectual disability that has material basis in an autosomal dominant mutation of CTNNB1 on chromosome 3p22.1,,,,,,C3554449
+Q50349627,disease,病気,Q12136,autosomal dominant non-syndromic intellectual disability 23,,autosomal dominant non-syndromic intellectual disability that has material basis in an autosomal dominant mutation of SETD5 on chromosome 3p25.3,,,,,,C3810406
+Q50349625,disease,病気,Q12136,autosomal dominant non-syndromic intellectual disability 21,,autosomal dominant non-syndromic intellectual disability that has material basis in an autosomal dominant mutation of CTCF on chromosome 16q22.1,,,,,,C3809686
+Q50349630,disease,病気,Q12136,autosomal dominant non-syndromic intellectual disability 26,,autosomal dominant non-syndromic intellectual disability that has material basis in an autosomal dominant mutation of AUTS2 on chromosome 7q11.22,,,,,,C4014435
+Q50349631,disease,病気,Q12136,autosomal dominant non-syndromic intellectual disability 27,,autosomal dominant non-syndromic intellectual disability that has material basis in an autosomal dominant mutation of SOX11 on chromosome 2p25.2,,,,,,C4014528
+Q50349628,disease,病気,Q12136,autosomal dominant non-syndromic intellectual disability 24,,autosomal dominant non-syndromic intellectual disability that has material basis in an autosomal dominant mutation of DEAF1 on chromosome 11p15.5,,,,,,C4014414
+Q50349634,disease,病気,Q12136,autosomal dominant non-syndromic intellectual disability 30,,autosomal dominant non-syndromic intellectual disability that has material basis in an autosomal dominant mutation of ZMYND11 on chromosome 10p15.3,,,,,,C4015167
+Q50349635,disease,病気,Q12136,autosomal dominant non-syndromic intellectual disability 31,,autosomal dominant non-syndromic intellectual disability that has material basis in an autosomal dominant mutation of PURA on chromosome 5q31.3,,,,,,C4015357
+Q50349633,disease,病気,Q12136,autosomal dominant non-syndromic intellectual disability 29,,autosomal dominant non-syndromic intellectual disability that has material basis in an autosomal dominant mutation of SETBP1 on chromosome 18q12.3,,,,,,C4015141
+Q50349638,disease,病気,Q12136,autosomal dominant non-syndromic intellectual disability 34,,autosomal dominant non-syndromic intellectual disability that has material basis in an autosomal dominant mutation of COL4A3BP on chromosome 5q13.3,,,,,,C4225156
+Q50349639,disease,病気,Q12136,autosomal dominant non-syndromic intellectual disability 35,,autosomal dominant non-syndromic intellectual disability that has material basis in an autosomal dominant mutation of PPP2R5D on chromosome 6p21.1,,,,,,C4225354
+Q50349636,disease,病気,Q12136,autosomal dominant non-syndromic intellectual disability 32,,autosomal dominant non-syndromic intellectual disability that has material basis in an autosomal dominant mutation of KAT6A on chromosome 8p11.21,,,,,,C4225396
+Q50349637,disease,病気,Q12136,autosomal dominant non-syndromic intellectual disability 33,,autosomal dominant non-syndromic intellectual disability that has material basis in an autosomal dominant mutation of DPP6 on chromosome 7q36.2,,,,,,C4225375
+Q50349642,disease,病気,Q12136,autosomal dominant non-syndromic intellectual disability 38,,autosomal dominant non-syndromic intellectual disability that has material basis in an autosomal dominant mutation of EEF1A2 on chromosome 20q13.33,,,,,,C4225343
+Q50349643,disease,病気,Q12136,autosomal dominant non-syndromic intellectual disability 39,,autosomal dominant non-syndromic intellectual disability that has material basis in an autosomal dominant mutation of MYT1L on chromosome 2p25.3,,,,,,C4225296
+Q50349640,disease,病気,Q12136,autosomal dominant non-syndromic intellectual disability 36,,autosomal dominant non-syndromic intellectual disability that has material basis in an autosomal dominant mutation of PPP2R1A on chromosome 19q13.41,,,,,,C4225352
+Q50349646,disease,病気,Q12136,autosomal dominant non-syndromic intellectual disability 42,,autosomal dominant non-syndromic intellectual disability that has material basis in an autosomal dominant mutation of GNB1 on chromosome 1p36.33,,,,,,C4310774
+Q50349647,disease,病気,Q12136,autosomal dominant non-syndromic intellectual disability 43,,autosomal dominant non-syndromic intellectual disability that has material basis in an autosomal dominant mutation of HIVEP2 on chromosome 6q24.2,,,,,,C4310771
+Q50349644,disease,病気,Q12136,autosomal dominant non-syndromic intellectual disability 40,,autosomal dominant non-syndromic intellectual disability that has material basis in an autosomal dominant mutation of MYT1L on chromosome 2p25.3,,,,,,C4225275
+Q50349645,disease,病気,Q12136,autosomal dominant non-syndromic intellectual disability 41,,autosomal dominant non-syndromic intellectual disability that has material basis in an autosomal dominant mutation of TBL1XR1 on chromosome 3q26.32,,,,,,C0795942
+Q50349648,disease,病気,Q12136,autosomal dominant non-syndromic intellectual disability44,,autosomal dominant non-syndromic intellectual disability that has material basis in an autosomal dominant mutation of TRIO on chromosome 5p15.2,,,,,,C4310740
+Q50349695,disease,病気,Q12136,autosomal recessive cutis laxa type IID,,autosomal recessive cutis laxa type II classic type characterized by cardiovascular and neurologic involvement and that has material basis in homozygous mutation in the ATP6V1A gene on chromosome 3q13,,,,,,C4479409
+Q50349619,disease,病気,Q12136,Coffin-Siris syndrome 3,,autosomal dominant non-syndromic intellectual disability that has material basis in an autosomal dominant mutation of SMARCB1 on chromosome 22q11.23,,,,,,C3553248
+Q50349620,disease,病気,Q12136,Coffin-Siris syndrome 4,,autosomal dominant non-syndromic intellectual disability that has material basis in an autosomal dominant mutation of SMARCA4 on chromosome 19p13.2,,,,,,C3553249
+Q50349632,disease,病気,Q12136,Helsmoortel-Van Der Aa syndrome,,autosomal dominant non-syndromic intellectual disability that has material basis in an autosomal dominant mutation of ADNP on chromosome 20q13.13,,,,,,C4014538
+Q50349624,disease,病気,Q12136,"mental retardation, autosomal dominant 20",,autosomal dominant non-syndromic intellectual disability that has material basis in an autosomal dominant mutation of MEF2C on chromosome 5q14.3,,,,,,C3150700
+Q50349621,disease,病気,Q12136,Schuurs-Hoeijmakers Syndrome,,autosomal dominant non-syndromic intellectual disability that has material basis in an autosomal dominant mutation of PACS1 on chromosome 11q13.1-q13.2,,,,,,C3554343
+Q50349683,disease,病気,Q12136,Meckel syndrome 4,,Meckel syndrome that has material basis in an autosomal recessive mutation of CEP290 on chromosome 12q21.32,,,,,,C1970161
+Q50349675,disease,病気,Q12136,oculocutaneous albinism type VII,,oculocutaneous albinism that has material basis in an autosomal recessive mutation of C10orf11 on chromosome 10q22.2-q22.3,,,,,,C3808786
+Q50349688,disease,病気,Q12136,Meckel syndrome 8,,Meckel syndrome that has material basis in an autosomal recessive mutation of TCTN2 on chromosome 12q24.31,,,,,,C4082174
+Q50349641,disease,病気,Q12136,White-Sutton syndrome,,autosomal dominant non-syndromic intellectual disability that has material basis in an autosomal dominant mutation of POGZ on chromosome 1q21.3,,,,,,C4225351
+Q50349682,disease,病気,Q12136,Meckel syndrome 3,,Meckel syndrome that has material basis in an autosomal recessive mutation of TMEM67 on chromosome 8q22.1,,C536132,,,,C1846357
+Q50349681,disease,病気,Q12136,Meckel syndrome 2,,Meckel syndrome that has material basis in an autosomal recessive mutation of TMEM216 on chromosome 11q12.2,,C536131,,,,C1864148
+Q50349684,disease,病気,Q12136,Meckel syndrome 5,,Meckel syndrome that has material basis in an autosomal recessive mutation of RPGRIP1L on chromosome 16q12.2,,C566915,,,,C1969052
+Q50349685,disease,病気,Q12136,Meckel syndrome 6,,Meckel syndrome that has material basis in an autosomal recessive mutation of CC2D2A on chromosome 4p15.32,,C567365,,,,C2676790
+Q50349697,disease,病気,Q12136,autosomal dominant cutis laxa 3,,human disease,,,,,,C4225268
+Q53843928,disease,病気,Q12136,mouse hepatocellular carcinoma,,,,,,,,
+Q53843700,disease,病気,Q12136,rat mammary gland adenocarcinoma,,form of cancer,,,,,,
+Q53843861,disease,病気,Q12136,chicken monocytic leukemia,,,,,,,,
+Q53843865,disease,病気,Q12136,chicken lymphoma,,,,,,,,
+Q53843712,disease,病気,Q12136,mouse intestinal tract neuroendocrine adenoma,,,,,,,,
+Q53843703,disease,病気,Q12136,rat erythroleukemia,,,,,,,,
+Q53843848,disease,病気,Q12136,hamster mammary carcinoma,,,,,,,,
+Q53843853,disease,病気,Q12136,hamster melanoma,,,,,,,,
+Q53843840,disease,病気,Q12136,mouse skeletal system osteochondroma,,,,,,,,
+Q53843845,disease,病気,Q12136,mouse pulmonary system papillary adenoma,,,,,,,,
+Q53843896,disease,病気,Q12136,mouse oral cavity squamous cell carcinoma,,,,,,,,
+Q53843903,disease,病気,Q12136,mouse skin squamous cell carcinoma,,,,,,,,
+Q53843914,disease,病気,Q12136,mouse skin spindle-cell squamous cell carcinoma,,,,,,,,
+Q53843918,disease,病気,Q12136,mouse salivary glands carcinoma,,,,,,,,
+Q53843917,disease,病気,Q12136,mouse skin papilloma,,,,,,,,
+Q53843926,disease,病気,Q12136,mouse pulmonary system adenoma,,,,,,,,
+Q53843927,disease,病気,Q12136,mouse skin hemangioma,,,,,,,,
+Q53843909,disease,病気,Q12136,rat esophagus squamous cell carcinoma,,,,,,,,
+Q53843934,disease,病気,Q12136,mouse thyroid gland hemangioendothelioma,,,,,,,,
+Q53843933,disease,病気,Q12136,mouse skin and subcutis sarcomas,,,,,,,,
+Q53843938,disease,病気,Q12136,mouse pulmonary system adenocarcinoma,,,,,,,,
+Q53843941,disease,病気,Q12136,mouse pulmonary system malignant tumors,,,,,,,,
+Q53843920,disease,病気,Q12136,rat kidney carcinoma,,,,,,,,
+Q53843924,disease,病気,Q12136,rat lung carcinoma,,,,,,,,
+Q53843943,disease,病気,Q12136,rat yolk sac carcinoma,,,,,,,,
+Q53843946,disease,病気,Q12136,rat uterus adenocarcinoma,,,,,,,,
+Q53843956,disease,病気,Q12136,rat prostate adenocarcinoma,,,,,,,,
+Q53843964,disease,病気,Q12136,rat colon adenocarcinoma,,,,,,,,
+Q53843993,disease,病気,Q12136,mouse blood vessel malignant hemangioendothelioma,,,,,,,,
+Q53843973,disease,病気,Q12136,rat ovary adenocarcinoma,,,,,,,,
+Q53843978,disease,病気,Q12136,rat glandular stomach adenocarcinoma,,,,,,,,
+Q53844070,disease,病気,Q12136,mouse Leydig cell tumor,,,,,,,,
+Q53844078,disease,病気,Q12136,rat Leydig cell adenoma,,,,,,,,
+Q53844424,disease,病気,Q12136,rat rhabdomyosarcoma,,,,,,,,
+Q53844609,disease,病気,Q12136,rat nephroblastoma,,,,,,,,
+Q53844695,disease,病気,Q12136,rat chondrosarcoma,,,,,,,,
+Q53844692,disease,病気,Q12136,rat cholangiocarcinoma,,,,,,,,
+Q53844693,disease,病気,Q12136,rat leiomyoma,,,,,,,,
+Q53844698,disease,病気,Q12136,rat fibrosarcoma,,,,,,,,
+Q53844697,disease,病気,Q12136,rat choriocarcinoma,,,,,,,,
+Q53844702,disease,病気,Q12136,rat endometrial stromal sarcoma,,,,,,,,
+Q53844700,disease,病気,Q12136,rat sarcoma,,,,,,,,
+Q53844701,disease,病気,Q12136,rat squamous cell carcinoma,,,,,,,,
+Q53844706,disease,病気,Q12136,rat hepatocellular carcinoma,,,,,,,,
+Q53844710,disease,病気,Q12136,rat plasma cell myeloma,,,,,,,,
+Q53844709,disease,病気,Q12136,rat histiocytic sarcoma,,,,,,,,
+Q53844714,disease,病気,Q12136,rat malignant astrocytoma,,,,,,,,
+Q53844720,disease,病気,Q12136,rat malignant fibrous histiocytoma,,,,,,,,
+Q53844727,disease,病気,Q12136,rat malignant glioma,,,,,,,,
+Q53844733,disease,病気,Q12136,rat malignant lymphoma,,,,,,,,
+Q53844739,disease,病気,Q12136,rat malignant meningioma,,,,,,,,
+Q50349603,disease,病気,Q12136,ADan amyloidosis,,"cerebral amyloid angiopathy characterized by ataxia, intention tremor, psychosis and dementia that has material basis in an autosomal dominant mutation of ITM2B on chromosome 13q14.2",,C538209,,,,C1861735
+Q50349607,disease,病気,Q12136,autosomal dominant non-syndromic intellectual disability 3,,autosomal dominant non-syndromic intellectual disability that has material basis in an autosomal dominant mutation of CDH15 on chromosome 16q24.3,,C567241,,,,C2675488
+Q50349608,disease,病気,Q12136,autosomal dominant non-syndromic intellectual disability 4,,autosomal dominant non-syndromic intellectual disability that has material basis in an autosomal dominant mutation of KIRREL3 on chromosome 11q24.2,,C567240,,,,C2675487
+Q50349609,disease,病気,Q12136,autosomal dominant non-syndromic intellectual disability 5,,autosomal dominant non-syndromic intellectual disability that has material basis in an autosomal dominant mutation of SYNGAP1 on chromosome 6p21.32,,C567234,,,,C2675473
+Q50349590,disease,病気,Q12136,autosomal recessive dyskeratosis congenita 2,,dyskeratosis congenita that has material basis in an autosomal recessive mutation of NOLA2 on chromosome 5q35.3,,,,,,C3151441
+Q50349588,disease,病気,Q12136,autosomal recessive dyskeratosis congenita 1,,dyskeratosis congenita that has material basis in an autosomal dominant mutation of NOLA3 on chromosome 15q14,,,,,,C1857144
+Q50349592,disease,病気,Q12136,autosomal recessive dyskeratosis congenita 3,,dyskeratosis congenita that has material basis in an autosomal recessive mutation of WRAP53 on chromosome 17p13.1,,,,,,C3151442
+Q50349610,disease,病気,Q12136,autosomal dominant non-syndromic intellectual disability 6,,autosomal dominant non-syndromic intellectual disability that has material basis in an autosomal dominant mutation of GRIN2B on chromosome 12p13.1,,,,,,C3151411
+Q50349611,disease,病気,Q12136,autosomal dominant non-syndromic intellectual disability 7,,autosomal dominant non-syndromic intellectual disability that has material basis in an autosomal dominant mutation of DYRK1A on chromosome 21q22.13,,,,,,C3279839
+Q50349614,disease,病気,Q12136,autosomal dominant non-syndromic intellectual disability 10,,autosomal dominant non-syndromic intellectual disability that has material basis in an autosomal dominant mutation of CACNG2 on chromosome 22q12.3,,,,,,C3280284
+Q50349615,disease,病気,Q12136,autosomal dominant non-syndromic intellectual disability 11,,autosomal dominant non-syndromic intellectual disability that has material basis in an autosomal dominant mutation of EPB41L1 on chromosome 20q11.23,,,,,,C3280285
+Q50349612,disease,病気,Q12136,autosomal dominant non-syndromic intellectual disability 8,,autosomal dominant non-syndromic intellectual disability that has material basis in an autosomal dominant mutation of GRIN1 on chromosome 9q34.3,,,,,,C3280282
+Q50349613,disease,病気,Q12136,autosomal dominant non-syndromic intellectual disability 9,,autosomal dominant non-syndromic intellectual disability that has material basis in an autosomal dominant mutation of KIF1A on chromosome 2q37.3,,,,,,C3280283
+Q50349618,disease,病気,Q12136,Coffin-Siris syndrome 2,,autosomal dominant non-syndromic intellectual disability that has material basis in an autosomal dominant mutation of ARID1A on chromosome 1p36.11,,,,,,C3553247
+Q50349585,disease,病気,Q12136,Seckel syndrome 5,,Seckel syndrome that has material basis in homozygous or compound heterozygous mutation in the CEP152 gene on chromosome 15q21,,,,,,C3151187
+Q50349586,disease,病気,Q12136,Seckel syndrome 2,,Seckel syndrome that has material basis in homozygous mutation in the RBBP8 gene on chromosome 18q11,,C537534,,,,C1847572
+Q16938818,disease,病気,Q12136,mental retardation and microcephaly with pontine and cerebellar hypoplasia,,rare X-linked dominant genetic disorder,,C567466,,,,C2677903
+Q11789642,disease,病気,Q12136,sexual narcissism,,egocentric pattern of sexual behavior,,,,,,
+Q50349578,disease,病気,Q12136,Seckel syndrome 9,,Seckel syndrome that has material basis in homozygous mutation in the TRAIP gene on chromosome 3p21,,,,,,C4225212
+Q50349579,disease,病気,Q12136,Seckel syndrome 6,,Seckel syndrome that has material basis in homozygous mutation in the CEP63 gene on chromosome 3q22,,,,,,C3553582
+Q50349582,disease,病気,Q12136,Seckel syndrome 8,,Seckel syndrome that has material basis in homozygous mutation in the DNA2 gene on chromosome 10q21,,,,,,C3891452
+Q50349583,disease,病気,Q12136,Seckel syndrome 4,,Seckel syndrome that has material basis in homozygous mutation in the CENPJ gene on chromosome 13q12,,,,,,C1826553
+Q50349581,disease,病気,Q12136,Seckel syndrome 10,,Seckel syndrome that has material basis in compound heterozygous mutation in the NSMCE2 gene on chromosome 8q24,,,,,,C4310647
+Q50349584,disease,病気,Q12136,Seckel syndrome 7,,Seckel syndrome that has material basis in compound heterozygous mutation in the NIN gene on chromosome 14q22,,,,,,C3553870
+Q16944450,disease,病気,Q12136,autosomal recessive distal spinal muscular atrophy 2,,human disease,,C535715,,,,C1854023
+Q7139588,disease,病気,Q12136,paroxysmal extreme pain disorder,発作性激痛症,rare disorder of abnormal pain sensation,,C563475,,,,C1833661
+Q7139585,disease,病気,Q12136,childhood onset GLUT1 deficiency syndrome 2,,"Paroxysmal exertion-induced dyskinesia (PED) is a form of paroxysmal dyskinesia (see this term), characterized by painless attacks of dystonia of the extremities triggered by prolonged physical activities",,C564288,,,,C1842534
+Q32142828,disease,病気,Q12136,hereditary spastic paraplegia 30,,hereditary spastic paraplegia that has material basis in mutation in the KIF1A gene on chromosome 2q37,,C563677,,,,C1835896
+Q32142846,disease,病気,Q12136,hereditary spastic paraplegia 31,,"30 years). In some cases, it can present as a complex phenotype with additional associated manifestations including peripheral neuropathy, bulbar palsy (with dysarthria and dysphagia), distal amyotrophy, and impaired distal vibration sense.",,C565210,,,,C1853247
+Q32142876,disease,病気,Q12136,hereditary spastic paraplegia 33,,hereditary spastic paraplegia that has material basis in mutation in the ZFYVE27 gene on chromosome 10q24,,C565214,,,,C1853251
+Q11709693,disease,病気,Q12136,heterochromophilia,,,,,,,,
+Q32142969,disease,病気,Q12136,hereditary spastic paraplegia 39,,This syndrome is characterised by progressive spastic paraplegia and distal muscle wasting,,C567433,,,,C2677586
+Q32142909,disease,病気,Q12136,hereditary spastic paraplegia 35,,hereditary spastic paraplegia that has material basis in mutation in the FA2H gene on chromosome 16q23.1,,,,,,C1823105
+Q32142983,disease,病気,Q12136,hereditary spastic paraplegia 3A,,hereditary spastic paraplegia that is characterized by lower limb weakness and spasticity that is generally non-progressive or extremely slow and has material basis in mutation in the ATL1 gene on chromosome 14q22,,C536864,,,,C2931355
+Q32143030,disease,病気,Q12136,hereditary spastic paraplegia 43,,hereditary spastic paraplegia that has material basis in mutation in the C19ORF12 gene on chromosome 19q12,,,,,,C2680446
+Q32143061,disease,病気,Q12136,hereditary spastic paraplegia 45,,hereditary spastic paraplegia that has material basis in mutation in the NT5C2 gene on chromosome 10q24,,,,,,C2680447
+Q32143076,disease,病気,Q12136,hereditary spastic paraplegia 46,,gene (9p13.2) encoding non-lysosomal glucosylceramidase.,,,,,,C2828721
+Q32143094,disease,病気,Q12136,hereditary spastic paraplegia 47,,hereditary spastic paraplegia that has material basis in mutation in the AP4B1 gene on chromosome 1p13,,,,,,C3279738
+Q32143107,disease,病気,Q12136,hereditary spastic paraplegia 48,,hereditary spastic paraplegia that has material basis in mutation in the AP5Z1 gene on chromosome 7p22.1,,,,,,C3150901
+Q32143120,disease,病気,Q12136,hereditary spastic paraplegia 49,,hereditary spastic paraplegia that has material basis in mutation in the TECPR2 gene on chromosome 14q32,,,,,,C3542549
+Q32143147,disease,病気,Q12136,hereditary spastic paraplegia 51,,hereditary spastic paraplegia that has material basis in mutation in the AP4E1 gene on chromosome 15q21,,,,,,C3151056
+Q32143154,disease,病気,Q12136,hereditary spastic paraplegia 52,,hereditary spastic paraplegia that has material basis in mutation in the AP4S1 gene on chromosome 14q12,,,,,,C3279743
+Q32143165,disease,病気,Q12136,hereditary spastic paraplegia 53,,gene (8p22) encoding vacuolar protein sorting-associated protein 37A,,,,,,C3539494
+Q11919722,disease,病気,Q12136,telephone scatologia,,,,,,,,
+Q32143018,disease,病気,Q12136,hereditary spastic paraplegia 42,,hereditary spastic paraplegia that has material basis in mutation in the SLC33A1 gene on chromosome 3q25.31,,C567262,,,,C2675528
+Q7169165,disease,病気,Q12136,Perlman syndrome,,"syndrome characterized by polyhydramnios with neonatal macrosomia, nephromegaly, distinctive facial appearance, renal dysplasia, nephroblastomatosis, and predisposition to Wilms tumor. It shows similarities to Beckwith-Wiedemann syndrome",,C536399,,,,C0796113
+Q32143044,disease,病気,Q12136,hereditary spastic paraplegia 44,,gene (1q41-q42) encoding the gap junction gamma-2 protein,,C567707,,,,C2750784
+Q18351141,disease,病気,Q12136,demonophobia,悪魔恐怖症,fear of demons,,,,,,
+Q32143133,disease,病気,Q12136,hereditary spastic paraplegia 50,,hereditary spastic paraplegia that has material basis in mutation in the AP4M1 gene on chromosome 7q22.1,,C567858,,,,C2752008
+Q17119115,disease,病気,Q12136,ethylmalonic encephalopathy,,Human disease,,C535737,,,723307008,C1865349
+Q16867852,disease,病気,Q12136,spheksophobia,,fear of wasps,,,,,,
+Q16968886,disease,病気,Q12136,mandibuloacral dysplasia,下顎骨異形成,medical condition,,,,,,C0432291
+Q16884931,disease,病気,Q12136,eisoptrophobia,,fear of mirrors or seeing one's reflection,,,,,,
+Q17083093,disease,病気,Q12136,Cenani-Lenz syndactyly syndrome,,"dysostosis characterized by syndactyly, malformation of the forearm and lower limb bones, renal hypoplasia or aplasia and that has material basis in homozygous or compound heterozygous mutation in the LRP4 gene on chromosome 11p11",,C538150,,,,C1859309
+Q17042115,disease,病気,Q12136,Myhre syndrome,Myhre症候群,medical condition,,C537620,,,699316006,C0796081
+Q18387254,disease,病気,Q12136,TB-Mission 2020,,,,,,,,
+Q48988385,disease,病気,Q12136,voretigene neparvovec,ボレチジーンネパルボベック,gene therapy medication,,,,,,
+Q17084678,disease,病気,Q12136,cortisone reductase deficiency 1,,cortisone reductase deficiency that has material basis in homozygous or compound heterozygous mutation in the H6PD gene on chromosome 1p36,,,,,,
+Q17141594,disease,病気,Q12136,Urocanic aciduria,ウロカニン酸尿症,medical condition,,C536479,,,,C0268514
+Q17295799,disease,病気,Q12136,chionophobia,,fear of snow,,,,,,
+Q16909671,disease,病気,Q12136,generalized epilepsy with febrile seizures plus,全般てんかん熱性けいれんプラス,idiopathic generalized epilepsy that is characterized by febrile seizures often with accessory afebrile generalized tonic-clonic seizures with childhood onset,,C565809,,,,C1858672
+Q7539758,disease,病気,Q12136,sleep inversion,,reversal of sleeping tendencies,,,G47.2,,,C0338497
+Q18209757,disease,病気,Q12136,aversion to happiness,幸福恐怖症,People wanting to deliberately avoid positive emotions and / or happiness,,,,,,
+Q17125786,disease,病気,Q12136,Singleton Merten syndrome,Singleton-Merten症候群,medical condition,,C537343,,,,C0432254
+Q9162603,disease,病気,Q12136,automonosexualism,,,,,,,,
+Q9253950,disease,病気,Q12136,endytophilia,,,,,,,,
+Q17105439,disease,病気,Q12136,Fish-eye disease,,,,C538467,,,,C0342895
+Q17127709,disease,病気,Q12136,tibial hemimelia,,Tibial hemimelia is a rare congenital anomaly characterized by deficiency of the tibia with a relatively intact fibula,,C535563,Q72.5,,,C0265633
+Q17027368,disease,病気,Q12136,balloon phobia,風船恐怖症,fear of balloons,,,,,,
+Q28024683,disease,病気,Q12136,autosomal dominant nonsyndromic deafness 25,,autosomal dominant nonsyndromic deafness that is characterized by postlingual onset in the second-sixth decade of life with high frequency progressive hearing loss and has material basis in mutation in the SLC17A8 gene on chromosome 12q23,,C565319,,,,C1854158
+Q28024686,disease,病気,Q12136,autosomal dominant nonsyndromic deafness 2A,,autosomal dominant nonsyndromic deafness that is characterized by high frequency progressive hearing loss and has material basis in mutation in the KCNQ4 gene on chromosome 1p34.2,,C567441,,,,C2677637
+Q28024687,disease,病気,Q12136,autosomal dominant nonsyndromic deafness 2B,,autosomal dominant nonsyndromic deafness that is characterized postlingual onset in the fourth decade of life with by high frequency progressive hearing loss and has material basis in mutation in the GJB3 gene on chromosome 1p34.3,,C567214,,,,C2675236
+Q28024685,disease,病気,Q12136,autosomal dominant nonsyndromic deafness 28,,autosomal dominant nonsyndromic deafness that is characterized by postlingual onset with flat or gently downsloping audioprofiles and has material basis in mutation in the GRHL2 gene on chromosome 8q22,,C563890,,,,C1837640
+Q28024691,disease,病気,Q12136,autosomal dominant nonsyndromic deafness 36,,autosomal dominant nonsyndromic deafness that is characterized by postlingual onset with flat or gently downsloping audioprofiles and has material basis in mutation in the TMC1 gene on chromosome 9q21,,C564675,,,,C1847626
+Q28024692,disease,病気,Q12136,autosomal dominant nonsyndromic deafness 3A,,"autosomal dominant nonsyndromic deafness that is characterized by prelingual, high frequency hearing loss and has material basis in mutation in the GJB2 gene on chromosome 13q12",,C567277,,,,C2675750
+Q7141967,disease,病気,Q12136,Pashayan syndrome,,"Blepharonasofacial syndrome is a rare otorhinolaryngological malformation syndrome characterized by a distinctive mask-like facial dysmorphism, lacrimal duct obstruction, extrapyramidal features, digital malformations and intellectual disability",,C536303,,,,C0796197
+Q7170412,disease,病気,Q12136,persistent fetal vasculature,,Human disease,,D054514,,,,C0266568
+Q17119158,disease,病気,Q12136,Eiken syndrome,,"a rare familial skeletal dysplasia characterized by multiple epiphyseal dysplasia, with extremely retarded ossification; it has been described in 6 members of a unique consanguineous family",,C564010,,,720863002,C1838779
+Q48990236,disease,病気,Q12136,Bainbridge Ropers Syndrome,,Human genetic disorder,,,,,,C3809650
+Q17624380,disease,病気,Q12136,papyrophobia,,fear of paper,,,,,,
+Q17080095,disease,病気,Q12136,22q11.2 distal deletion syndrome,,Human disease,,C567511,,,,C2678480
+Q17141939,disease,病気,Q12136,Hereditary neuralgic amyotrophy,,neuralgic disorder,,,G54.5,,,C0221759
+Q17084842,disease,病気,Q12136,creatine transporter deficiency,,Human disease,,C535598,,,,C1845862
+Q17082044,disease,病気,Q12136,Kowarski syndrome,,medical condition,,C537505,,,,C1849779
+Q16965307,disease,病気,Q12136,Neonatal adrenoleukodystrophy,,medical condition,,,,,238061001,C0282525
+Q7205631,disease,病気,Q12136,plushophilia,ぬいぐるみ性愛,stuffed animals fetishism,,,,,,
+Q17122800,disease,病気,Q12136,Desbuquois dysplasia,,"osteochondrodysplasia characterized by short stature, joint laxity, scoliosis, and advanced carpal ossification with a delta phalanx",,C535943,,,,C0432242
+Q17028486,disease,病気,Q12136,intestinal hypomagnesemia 1,,human disease,,,,,,C1865974
+Q17143464,disease,病気,Q12136,Pretzel syndrome,,human disease,,C567020,,,,C1970203
+Q17122962,disease,病気,Q12136,hypoplastic tibiae-postaxial polydactyly syndrome,,a very rare congenital malformation syndrome characterized by bilateral hypoplasia of the tibia with polydactyly of the feet and hands,,C535564,,,,C1861099
+Q16947790,disease,病気,Q12136,McGillivray syndrome,,"Familial scaphocephaly syndrome, McGillivray type is a rare newly described craniosynostosis (see this term) syndrome characterized by scaphocephaly, macrocephaly, severe maxillary retrusion, and mild intellectual disability",,C566511,,,,C1865070
+Q48969022,disease,病気,Q12136,ZTTK syndrome,,human disease,,,,,,C4310696
+Q17120550,disease,病気,Q12136,peeling skin syndrome,,Human disease,,,,,,C1849193
+Q17120696,disease,病気,Q12136,MDP syndrome,,human disease,,,,,,C3715192
+Q48989142,disease,病気,Q12136,Kenny-Caffey syndrome,,"genetic condition characterized by long bone sclerosis and thickening, short stature, and head and eye anomalies. Many affected individuals have hypoparathyroidism with hypocalcemia",,C537020,,,,C0265291
+Q17125601,disease,病気,Q12136,iridogoniodysgenesis syndrome,,Human disease,,,,,,C1842031
+Q18348224,disease,病気,Q12136,coimetrophobia,,fear of cemeteries,,,,,,
+Q18169108,disease,病気,Q12136,bibliophobia,書籍恐怖症,fear or hatred of books,,,,,,
+Q48989325,disease,病気,Q12136,Kosaki overgrowth syndrome,,genetic disease,,,Q87.3,,,C4225270
+Q48989430,disease,病気,Q12136,immunodeficiency 26,,medical condition,,,,,,C4014833
+Q55009396,disease,病気,Q12136,Fornicata infectious disease,,"parasitic protozoa infectious disease that involves infection caused by fornicates, which are unicellular flagellates with one or two karyomastigonts per cell",,,,,,
+Q135192627,disease,病気,Q12136,delusional mood,,,,,,,,
+Q55411849,disease,病気,Q12136,Semliki Forest fever,,disease,,,,,,C0343598
+Q55231802,disease,病気,Q12136,animal helminthiasis,,infestation of animals with parasitic worms (helminths),,D006374,,,,C0018891
+Q55779847,disease,病気,Q12136,iatrogenic Kaposi's sarcoma,,Kaposi sarcoma that develops after organ transplantation or immunosuppressive treatment,,,,,,C1334149
+Q55082255,disease,病気,Q12136,animal Salmonella infection,,infections in animals with bacteria of the genus Salmonella,,D012481,,,,C0036118
+Q54945069,disease,病気,Q12136,animal parasitic disease,,animal disease caused by parasites,,D010273,,,,C0030500
+Q56298665,disease,病気,Q12136,pseudoneurasthenic syndrome,,,,,F06.6,,,
+Q55223519,disease,病気,Q12136,animal protozoan infections,,infections with unicellular organisms formerly members of the subkingdom Protozoa.,,D011529,,,,C0033741
+Q55009402,disease,病気,Q12136,parasitic stramenopiles infectious disease,,"parasitic infectious disease that involves infection caused by parasitic members of the taxon stramenopiles, in which the flagellate cells possess two different shaped flagella. This taxon contains both unicellular and multicellular organisms",,,,,,
+Q55009178,disease,病気,Q12136,Chlamydia pneumonia,,human disease,,,,,,
+Q55009420,disease,病気,Q12136,Trichomonas tenax trichomoniasis,,human disease,,,,,,
+Q55636535,disease,病気,Q12136,Unicentric Castleman disease,,Localized Castleman disease (LCD) is the most common form of Castleman disease (CD; see this term) and it is usually asymptomatic or it may present with enlarged lymph nodes. LCD may be cured by surgical resection.,,,,,,C3898582
+Q11094,disease,病気,Q12136,chronic thyroiditis,慢性甲状腺炎,autoimmune disease,,D050031,E06.3,245.2,,C0677607
+Q54931725,disease,病気,Q12136,animal toxoplasmosis,,acquired infection of non-human animals by organisms of the genus Toxoplasma,,D014124,,,,C0040559
+Q54927311,disease,病気,Q12136,infectious encephalitis,,brain inflammation caused by an infectious agent,,D000069544,,,,C0596773
+Q7578960,disease,病気,Q12136,spondyloepiphyseal dysplasia congenita,,Human disease,,C535788,Q77.7,756.9,,C0038015
+Q185935,disease,病気,Q12136,mania,躁病,"state of abnormally elevated or irritable mood, arousal, and/or energy levels",気分高揚・万能感・活動性激増・多弁・自己過大評価・睡眠激減・観念奔逸・病識欠如などを特徴とする精神疾患,D000087122,F30,296.4,,
+Q1699007,disease,病気,Q12136,Johanson-Blizzard syndrome,,congenital disorder of digestive system,,C535880,Q87.8,751.7,75979009,C0175692
+Q838018,disease,病気,Q12136,Capgras syndrome,カプグラ症候群,psychiatric disorder (syndrome) in which a person holds a delusion that a family member has been replaced by an identical imposter,精神疾患の一種,D002194,,,,C0006895
+Q1725245,disease,病気,Q12136,left ventricular noncompaction,心筋緻密化障害,human disease,,D056830,I42.8,,,C1858725
+Q1774751,disease,病気,Q12136,Klippel-Feil syndrome,頸椎癒合症,physical disorder that has material basis in abnormal segmentation of the vertebra during fetal development which results in fusion located in cervical vertebra,,D007714,,,,C0022738
+Q1747726,disease,病気,Q12136,tyrosinemia type I,高チロシン血症1型,tyrosinemia that has material basis in deficiency of the enzyme fumarylacetoacetate hydrolase resulting in an increase in fumarylacetoacetate which inhibits previous steps in tyrosine degradation leading to an accumulation of tyrosine in the body,,,E70.2,270.2,,
+Q911160,disease,病気,Q12136,Ganser syndrome,拘禁反応,rare dissociative disorder previously classified as a factitious disorder,強制的に自由を抑圧される環境に置かれた人に表れる人格の変化,,F44.8,300.15,,C0086335
+Q1779312,disease,病気,Q12136,urophagia,飲尿,consumption of urine,尿を飲むこと,,,,,
+Q2411095,disease,病気,Q12136,Char syndrome,,patent ductus arteriosus with facial dysmorphism and abnormal fifth digits,,C566815,Q87.8,,,C1868570
+Q1566645,disease,病気,Q12136,hadaka,,,,,,,,
+Q6750947,disease,病気,Q12136,Mannosidosis,,Lysosomal storage disease,,D044904,,,,C1257960
+Q1707822,disease,病気,Q12136,Pendred syndrome,,genetic disorder,,C536648,,,70348004,C0271829
+Q1046055,disease,病気,Q12136,depressive syndrome,,accumulation of symptoms typical of depression,,,,,,C0086133
+Q1758730,disease,病気,Q12136,transposition of great vessels,大血管転位,"group of congenital heart defects involving an abnormal spatial arrangement of any of the great vessels: superior and/or inferior venae cavae, pulmonary artery, pulmonary veins, and aorta",,D014188,Q25.9,747.9,,C0040761
+Q2500516,disease,病気,Q12136,duplicated ureter,,human disease,,C566012,Q62.5,,,C1860586
+Q1781517,disease,病気,Q12136,muscular dystrophy-dystroglycanopathy type B1,,congenital disease,,,,,,C3150415
+Q1718432,disease,病気,Q12136,KBG syndrome,,"syndrome that is characterized by short stature, moderate to severe degrees of mental retardation, developmental abnormalities of the limbs, bones of the spine (vertebrae), extremities, and/or underdevelopment of the bones of the skeleton",,C537015,,,711156009,C0220687
+Q2725587,disease,病気,Q12136,burusera,ブルセラ,"clothing paraphilia, sexualized attraction to the underwear or school uniforms",アダルトグッズとして流通する中古の学校用衣料品,,,,,
+Q1906054,disease,病気,Q12136,mucopolysaccharidosis I,ムコ多糖症I型,lysosomal storage disease,,D008059,,277.5,,C0023786
+Q1759600,disease,病気,Q12136,erythropoietic protoporphyria,骨髄性プロトポルフィリン症,"acute porphyria characterized by a deficiency in the enzyme ferrochelatase, leading to abnormally high levels of protoporphyrin in the tissue",,D046351,,,,C0162568
+Q1760294,disease,病気,Q12136,trigonocephaly,,congenital condition of premature fusion of the metopic suture leading to a triangular shaped forehead.,,,Q75.0,756.0,,C3280974
+Q1759389,disease,病気,Q12136,congenital erythropoietic porphyria,先天性骨髄性ポルフィリン症,congenital human disease,,D017092,,277.1,,C0162530
+Q1478636,disease,病気,Q12136,microphilia,矮人嗜好,attraction to short or small people,,,,,,
+Q1269342,disease,病気,Q12136,somnophilia,,Attraction to sleeping people,,,,,,
+Q1781802,disease,病気,Q12136,hyperekplexia,びっくり病,"nervous system disease characterized by an exaggerated startle response to sudden, unexpected auditory or tactile stimuli and hypertonia",不意をつく音や接触などにより筋痙攣・硬直が誘発される非常に稀な病気,,,759.89,,
+Q6839330,disease,病気,Q12136,microcephaly lymphoedema chorioretinal dysplasia,,"syndrome characterized byvariable expression of microcephaly, ocular disorders including chorioretinopathy, congenital lymphedema of the lower limbs, and mild to moderate intellectual disability",,C537711,,,,C1835265
+Q6839205,disease,病気,Q12136,Warburg micro syndrome,,"autosomal recessive disease characterized by severe intellectual disability, microcephaly, congenital cataract, microcornea, microphthalmia, agenesis or hypoplasia of the corpus callosum and hypogenitalism",,C536681,,,,C1838625
+Q1678281,disease,病気,Q12136,Bardet-Biedl syndrome,バルデー・ビードル症候群,ciliopathic human genetic disorder that produces many effects and affects many body systems,,D020788,,759.89,,C0752166
+Q6881883,disease,病気,Q12136,mitochondrial trifunctional protein deficiency,,medical condition,,C566945,,,,C1969443
+Q501571,disease,病気,Q12136,catatonia,緊張病,"psychopathological syndrome, a group of postural and movement abnormalities",精神運動の低下および昏迷状態に代表される異常行動を特徴とする状態,D002389,F20.2,295.2,247917007,
+Q1741965,disease,病気,Q12136,Kindler syndrome,,"skin disease characterized by congenital blistering, skin atrophy, photosensitivity, skin fragility, and scaling",,C536321,Q82.8,,,C0406557
+Q1290947,disease,病気,Q12136,dacryphilia,,arousal from tears or crying,,,,,,
+Q2246002,disease,病気,Q12136,branchial cleft cyst,,tumor derived from branchial epithelium or branchial rests,,D001935,Q18.0,,,C0006131
+Q6773846,disease,病気,Q12136,Marshall syndrome,,medical condition,,C536025,Q87.0,,,C0265235
+Q1798016,disease,病気,Q12136,LEOPARD syndrome,LEOPARD症候群,"rare autosomal dominant,[3] multisystem disease caused by a mutation in the protein tyrosine phosphatase, non-receptor type 11 gene (PTPN11)",,D044542,,,,C0175704
+Q6837320,disease,病気,Q12136,3MC syndrome 1,,3MC syndrome associated with the MASP1 gene on chromosome 3q27,,,,,,
+Q2645926,disease,病気,Q12136,rabbit coat colors,,overview article,,,,,,
+Q6822414,disease,病気,Q12136,metachondromatosis,メタコンドロマトーシス,a rare disorder characterized by the presence of both multiple enchondromas and osteochondroma-like lesions,,C562938,,,,C0410530
+Q2057682,disease,病気,Q12136,mechanophilia,メカノフィリア,sexual attraction to machines,,,,,,
+Q1760461,disease,病気,Q12136,ovarian hyperstimulation syndrome,卵巣過剰刺激症候群,human disease,,D016471,N98.1,,129635004,C0085083
+Q1779987,disease,病気,Q12136,X-linked hypophosphatemic rickets,,Human disease,,D053098,E83.31,275.3,,C0733682
+Q2092492,disease,病気,Q12136,clinical vampirism,レンフィールド症候群,obsession with drinking blood,,,F50.8,,,
+Q3539484,disease,病気,Q12136,triphalangeal thumb,,congenital disorder,,C573898,,,,C0241397
+Q1787020,disease,病気,Q12136,thanatophoric dysplasia,,osteochondrodysplasia that results in short arms and legs with excess folds of skin,,D013796,,,,C0039743
+Q1770836,disease,病気,Q12136,Sotos syndrome,ソトス症候群,autosomal recessive disease that occurs rarely and is characterized by excessive physical growth during the first 2 to 3 years of life,,D058495,,759.89,,C0175695
+Q1704531,disease,病気,Q12136,pilomatrixoma,毛母腫,Human disease,,D018296,D23,,,C0206711
+Q6824028,disease,病気,Q12136,methylmalonyl-CoA mutase deficiency,,methylmalonic acidemia characterized by accumulation of methylmalonic acid in the blood that is unresponsive to vitamn B12 therapy and that has material basis in mutation in the MUT gene on chromosome 6p12.3,,,,,,C1855114
+Q361648,disease,病気,Q12136,double outlet right ventricle,両大血管右室起始症,"Human disease, Congenital Heart Disease",,D004310,,,,C0013069
+Q693578,disease,病気,Q12136,pseudoachondroplasia,,osteochondrodysplasia that has material basis in mutations in the COMP gene which results in short limb dwarfism,,C535819,Q77.3,756.4,,C0410538
+Q6717006,disease,病気,Q12136,MODY 5,,medical condition,,C535520,,,,C0431693
+Q6717008,disease,病気,Q12136,MODY 6,,medical condition,,C565231,,,,C1853371
+Q6881876,disease,病気,Q12136,mitochondrial DNA depletion syndrome 1,,Human disease,,C536350,,277.87,,C0872218
+Q6717114,disease,病気,Q12136,MORM syndrome,,medical condition,,C536984,,,,C1857802
+Q6839323,disease,病気,Q12136,microcephalic osteodysplastic primordial dwarfism type II,,Human disease,,C565898,,,,C0432246
+Q693519,disease,病気,Q12136,essential tremor,本態性振戦,"movement disorder causing involuntary tremors, especially in the hand",,D020329,,,609558009,C0270736
+Q6758640,disease,病気,Q12136,Marden–Walker syndrome,,medical condition,,C535910,Q87.0,,,C0796033
+Q1781515,disease,病気,Q12136,congenital muscular dystrophy type 1C,,human disease,,,,,,
+Q6836884,disease,病気,Q12136,Michelin tire baby syndrome,,human disease,,C537575,,,,C0473586
+Q366868,disease,病気,Q12136,congenital adrenal hyperplasia,先天性副腎過形成症,steroid inherited metabolic disorder that is characterized by adrenal insufficiency and variable degrees of hyper- or hypo-androgeny manifestations resulting from steroidogenic enzyme deficiency,副腎皮質におけるステロイドホルモンの産生過程に必要な酵素が先天的に欠損している常染色体潜性遺伝病,D000312,,,,C0001627
+Q2369029,disease,病気,Q12136,acephaly,,congenital disorder,,,Q00.0,,,
+Q7053148,disease,病気,Q12136,normophosphatemic familial tumoral calcinosis,,"calcinosis that is characterized by massive periarticular, and seldom visceral, deposition of calcified tumors",,C566473,,,,C1864861
+Q6949365,disease,病気,Q12136,myxoid liposarcoma,粘液型脂肪肉腫,human disease,,D018208,,,,C0206634
+Q7088441,disease,病気,Q12136,Olmsted syndrome,オルムステッド症候群,human disease,,,,,,C2609071
+Q6951345,disease,病気,Q12136,N-Acetylglutamate synthase deficiency,,N-acetylglutamate synthase (NAGS) deficiency is a urea cycle disorder leading to hyperammonaemia,,C536109,,,,C0268543
+Q6947340,disease,病気,Q12136,Myeloperoxidase deficiency,,human disease,,C562864,,,,C0398595
+Q7098797,disease,病気,Q12136,optic nerve hypoplasia,視神経低形成,human disease,,D000080344,Q14.2,743.57,,C0338502
+Q6960193,disease,病気,Q12136,Nakajo syndrome,,medical condition,,C538334,,,,
+Q6947909,disease,病気,Q12136,myoclonic astatic epilepsy,ドーゼ症候群,generalised idiopathic epilepsy,,,,,,C4085238
+Q7059204,disease,病気,Q12136,neuronal ceroid lipofuscinosis 8 northern epilepsy variant,,human disease,,,,,,C1864923
+Q7003001,disease,病気,Q12136,neutral lipid storage disease,中性脂質蓄積症,"lipid storage disease that is characterized by accumulation of triglycerides in the cytoplasm of leukocytes, muscle, liver, fibroblasts, and other tissues",,C536560,E75.5,,,C0268238
+Q6954317,disease,病気,Q12136,NIH funding of IBS Research,,,,,,,,
+Q7087988,disease,病気,Q12136,Oliver–McFarlane syndrome,,"autosomal recessive disease characterized by trichomegaly, severe chorioretinal atrophy and multiple pituitary hormone deficiencies that has material basis in homozygous or compound heterozygous mutation in PNPLA6 on 19p13.2",,C536554,,,,C1848745
+Q7098730,disease,病気,Q12136,Opsismodysplasia,,Opsismodysplasia is a skeletal dysplasia characterized by congenital dwarfism and facial dysmorphism,,C537122,Q77.8,,,C0432219
+Q7003142,disease,病気,Q12136,neutrophil immunodeficiency syndrome,,medical condition,,C564275,,,723443003,C1842398
+Q7080278,disease,病気,Q12136,Oguchi disease-1,,human disease,,C537743,,368.61,,C1306122
+Q6993484,disease,病気,Q12136,Neonatal ichthyosis–sclerosing cholangitis syndrome,,medical condition,,,,,,C1843355
+Q6901244,disease,病気,Q12136,MonoMAC,,disease,,,,,,C3280030
+Q54911414,disease,病気,Q12136,parasitic skin disease,,"skin disease caused by arthropods, helminths or other parasites",,D012876,,,,C0037280
+Q54912126,disease,病気,Q12136,bacterial sexually transmitted disease,,bacterial disease transmitted or propagated by sexual conduct,,D015231,,,,C0036917
+Q7578954,disease,病気,Q12136,spondyloepimetaphyseal dysplasia-short limb-abnormal calcification syndrome,脊椎骨端骨幹端異形成症,medical condition,,C564794,,,,C1849011
+Q7577468,disease,病気,Q12136,spinal muscular atrophy with progressive myoclonic epilepsy,,rare neurodegenerative disease whose symptoms include slowly progressive muscle wasting,,C537563,,,,C1834569
+Q7578957,disease,病気,Q12136,"spondyloepimetaphyseal dysplasia, Pakistani type",,"spondyloepimetaphyseal dysplasia that is characterized by short stature, short and bowed lower limbs, mild brachydactyly, kyphoscoliosis, abnormal gait, enlarged knee joints, precocious osteoarthropathy, and normal intelligence",,,,,,C2748515
+Q7578959,disease,病気,Q12136,Spondyloperipheral dysplasia,,medical condition,,C535799,,,702339001,C0796173
+Q7577467,disease,病気,Q12136,Spinal muscular atrophy with lower extremity predominance,,rare neuromuscular disorder of infants characterised by severe progressive muscle atrophy,,,G12.1,,,
+Q18975243,disease,病気,Q12136,coronavirus disease,コロナウイルス感染症,diseases caused by coronaviruses,コロナウイルスによって引き起こされる人獣共通感染症,D018352,B97.2,,,C0206750
+Q18558221,disease,病気,Q12136,bulbar polio,,Human disease,,D011052,,,,C0032372
+Q16673158,disease,病気,Q12136,magiphrenic syndrome,,mental disorder,,,,,,
+Q18976020,disease,病気,Q12136,Dictyocaulus infectious disease,,Human disease,,D004022,,,,C0012118
+Q7702722,disease,病気,Q12136,Terminal complement pathway deficiency,,medical condition,,,,,,
+Q7632441,disease,病気,Q12136,subvalvular aortic stenosis,大動脈弁下狭窄症,Human disease,,D001020,,,,C0340375
+Q18558193,disease,病気,Q12136,gonococcal endophthalmia,,Human disease,,,,,,C0153213
+Q18558260,disease,病気,Q12136,chronic canaliculitis,,Human disease,,,,,,C0155240
+Q18558202,disease,病気,Q12136,purulent endophthalmitis,,Human disease,,,,,,C0259800
+Q18967922,disease,病気,Q12136,Cytomegalovirus pneumonia,,Human disease,,,B25.0,484.1,,C0276253
+Q10376449,disease,病気,Q12136,SPOAN syndrome,,"gene (11q13.1), encoding kinesin light chain 2.",,C563702,,,,C1836010
+Q18967247,disease,病気,Q12136,Chagas cardiomyopathy,,Human disease,,D002598,,086.0,,C0007930
+Q21283002,disease,病気,Q12136,logophobia,,fear of certain words,,,,,,
+Q23807889,disease,病気,Q12136,financial domination,,sexual fetish involving transfer of money,,,,,,
+Q23808134,disease,病気,Q12136,iconophobia,,"aversion to images, especially religious icons",,,,,,
+Q18967339,disease,病気,Q12136,classic Kaposi's sarcoma,,Human disease,,,,,,C0279084
+Q22350879,disease,病気,Q12136,Spondweni fever,,medical condition,,,A92.8,,,C0276292
+Q18967422,disease,病気,Q12136,trichomonas balanoposthitis,,Human disease,,,,,,C0341769
+Q7861692,disease,病気,Q12136,tyrosinemia type III,高チロシン血症3型,tyrosinemia that has material basis in deficiency of 4-hydroxyphenylpyruvate dioxygenase disrupting the break down of tyrosine,,,E70.2,270.2,,
+Q7706537,disease,病気,Q12136,tetrahydrobiopterin deficiency,,medical condition,,C538382,E70.1,270.1,,C1849700
+Q7840696,disease,病気,Q12136,tricho-hepato-enteric syndrome,,human disease,,,,,,C1857276
+Q18558249,disease,病気,Q12136,cardiovascular syphilis,,tertiary syphilis manifested as aneurysm formation in the ascending aorta,,,,,,C0029751
+Q18975234,disease,病気,Q12136,human herpesvirus 8 infectious disease,,Human disease,,,,,,C0154053
+Q18967690,disease,病気,Q12136,bovine trypanosomiasis,,cattle disease,,D014354,,,,C0041230
+Q7840841,disease,病気,Q12136,Trichomegaly,,human disease,,,,,,C0854699
+Q16706028,disease,病気,Q12136,thymoneuroleptic syndrome,,,,,,,,
+Q18966970,disease,病気,Q12136,Trichomonas prostatitis,,Human disease,,,,131.03,,C0153315
+Q21235538,disease,病気,Q12136,stage fright,,,,,,,,
+Q18357680,disease,病気,Q12136,harpaxophobia,,,,,,,,
+Q11699959,disease,病気,Q12136,lipoprotein glomerulopathy,,human disease,,C567089,,,,C2673196
+Q19607141,disease,病気,Q12136,abyssophobia,,,,,,,,
+Q7702740,disease,病気,Q12136,terminal osseous dysplasia with pigmentary defects,,"Terminal osseous dysplasia-pigmentary defects syndrome is characterised by malformation of the hands and feet, pigmentary skin lesions on the face and scalp and digital fibromatosis",,C564554,,,,C1846129
+Q21659432,disease,病気,Q12136,SSRI-induced apathy syndrome,,,,,,,,
+Q11798714,disease,病気,Q12136,glucocorticoid resistance,,medical condition,,C564221,,,,C1841971
+Q25098926,disease,病気,Q12136,scedosporiosis,,human disease,,,,,,
+Q7623555,disease,病気,Q12136,Striate palmoplantar keratoderma,,,,,,,,
+Q7841074,disease,病気,Q12136,tricho–dento–osseous syndrome,,congenital disorder of digestive system,,C536549,,,,C0265333
+Q7833752,disease,病気,Q12136,transaldolase deficiency,,medical condition,,C563207,,,,C1291329
+Q18558200,disease,病気,Q12136,vitreous abscess,,Human disease,,,H44.0,,,C0042904
+Q9390616,disease,病気,Q12136,Van den Ende-Gupta syndrome,,"Van den Ende-Gupta syndrome is a very rare syndrome characterized by blepharophimosis, arachnodactyly, joint contractures, and characteristic dysmorphic features",,C535909,,,,C1833136
+Q11695513,disease,病気,Q12136,"spondylometaphyseal dysplasia, Kozlowski type",,"Spondylometaphyseal dysplasia, Kozlowski type is characterized by short stature (short-trunk dwarfism), scoliosis, metaphyseal abnormalities in the femur (prominent in the femoral neck and trochanteric area), coxa vara and generalized platyspondyly",,C535797,,,,C0265280
+Q18558227,disease,病気,Q12136,tuberculous peritonitis,,human disease,,D014395,K67.3,,,C0041325
+Q7876086,disease,病気,Q12136,UV-sensitive syndrome,,autosomal recessive disease characterized by photosensitivity and liver spots (solar lentigines),,C563466,,,,C1833561
+Q7879712,disease,病気,Q12136,ulnar-mammary syndrome,,"skin condition characterized by underdevelopment of the apocrine and mammary glands which can cause various nipple, breast and genital abnormalities, and abnormal development of fingers and forearms",,C536937,,,,C1866994
+Q24946301,disease,病気,Q12136,eurotophobia,女性器恐怖症,aversion to or dislike of female genitalia,,,,,,
+Q18558195,disease,病気,Q12136,bacterial conjunctivitis,細菌性結膜炎,Human disease,,D003234,,,,C0009768
+Q18558204,disease,病気,Q12136,renal tuberculosis,,urogenital tuberculosis that results in formation of granulomas located in kidney,,D014398,,,,C0041328
+Q7923095,disease,病気,Q12136,very long chain acyl-CoA dehydrogenase deficiency,,human disease,,,,277.85,237997005,C0342784
+Q18975687,disease,病気,Q12136,equine Strongyle infections,,horse disease,,D013319,,,,C0038459
+Q24898107,disease,病気,Q12136,climacophilia,,"paraphilia, or fetish in which the subject experiences erotic gratification when falling down stairs",,,,,,
+Q18353745,disease,病気,Q12136,toxiphobia,毒物恐怖症,fear of poisons and being poisoned,,,,,,
+Q18353905,disease,病気,Q12136,lilapsophobia,竜巻恐怖症,abnormal fear of tornadoes or hurricanes,,,,,,
+Q7824262,disease,病気,Q12136,tooth and nail syndrome,,Human disease,,C536736,Q82.4,,,C0406716
+Q7707070,disease,病気,Q12136,Teunissen–Cremers syndrome,,"Stapes ankylosis with broad thumbs and toes is a very rare genetic bone disorder characterized by ankylosis of stapes, broad thumbs and halluces, conductive hearing loss and hyperopia",,,,,,C1866656
+Q7834264,disease,病気,Q12136,transient bullous dermolysis of the newborn,,"Transient bullous dermolysis of the newborn is a rare subtype of dystrophic epidermolysis bullosa (DEB, see this term) characterized by generalized blistering at birth that usually regresses within the first 6 to 24 months of life",,C536979,,,,C1851573
+Q11781607,disease,病気,Q12136,Native American myopathy,,Human disease,,C538343,,,,C1850625
+Q7834286,disease,病気,Q12136,transient neonatal diabetes mellitus,,neonatal diabetes mellitus characterized by hyperglycemia during the neonatal period that remits during infancy but recurs in later life in most patients,,C563322,,,,C0342273
+Q10295763,disease,病気,Q12136,hyperlysinemia,,amino acid metabolic disorder that involves an abnormal increase of lysine in the blood,,D020167,,270.7,,C0268553
+Q22461944,disease,病気,Q12136,Rhinovirus infection,,viral human infection,,,,079.3,,C0276447
+Q10282075,disease,病気,Q12136,gingival fibromatosis,,rare condition of gingival overgrowth,,D005351,,,,C0016049
+Q23679966,disease,病気,Q12136,hedonophobia,快楽恐怖症,fear or aversion to obtaining pleasure,,,,,,
+Q7852683,disease,病気,Q12136,Tumoral calcinosis,,medical condition,,,,,,C0263628
+Q18967342,disease,病気,Q12136,endemic African Kaposi's sarcoma,,Kaposi's sarcoma that is located in black Africans,,,C46.0,176.0,,C1275231
+Q10832211,disease,病気,Q12136,megaloblastic anemia,巨赤芽球性貧血,macrocytic anemia that is characterized by inhibition of DNA synthesis during red blood cell production,,D000749,D51.0,281.0,,C0002888
+Q11690084,disease,病気,Q12136,Charcot-Marie-Tooth disease type 1C,,Charcot-Marie-Tooth disease type 1 that has material basis in heterozygous mutation in the LITAF gene on chromosome 16p13,,C537984,,,,C0270913
+Q19597369,disease,病気,Q12136,gram-negative bacterial infection,グラム陰性菌感染症,Infections caused by bacteria that show up as pink (negative) when treated by the gram-staining method,,D016905,,,,C0085423
+Q7801152,disease,病気,Q12136,Tietz syndrome,Tietz症候群,"monogenic disease that is characterized by congenital profound bilateral sensorineural hearing loss and generalized albino-like hypopigmentation of skin, eyes and hair that has material basis in mutation in the MITF gene on chromosome 3p13",,C536919,E70.3,,,C0391816
+Q9392705,disease,病気,Q12136,striatonigral degeneration,,Human disease,,D020955,,,,C0270733
+Q18928476,disease,病気,Q12136,fusariosis,,Human disease,,D060585,,,,C0276758
+Q7662637,disease,病気,Q12136,synpolydactyly,多合指症,syndactyly characterized by an increased number of digits; often a result of a mutation in the HOX D13 gene,,C538153,,,,C2699746
+Q18975808,disease,病気,Q12136,bovine hemorrhagic syndrome,,cattle disease,,D030243,,,,C0950112
+Q19000403,disease,病気,Q12136,Enterovirus infectious disease,,Human disease,,D004769,B34.1,,,C0014378
+Q10992004,disease,病気,Q12136,hereditary cystatin C amyloid angiopathy,,a cerebral amyloid angiopathy that has material basis in an autosomal dominant mutation of CST3 on chromosome 20p11.21.,,,,,,C1527338
+Q18975460,disease,病気,Q12136,infectious canine hepatitis,,dog disease,,D006522,,,,C0019191
+Q18389618,disease,病気,Q12136,mechanophobia,機械恐怖症,fear of machines,,,,,,
+Q7632698,disease,病気,Q12136,Succinyl-CoA:3-oxoacid CoA transferase deficiency,,"Succinyl-CoA:3-ketoacid CoA transferase deficiency (SCOTD) is a defect in ketone body utilization characterized by severe, potentially fatal intermittent episodes of ketoacidosis",,C537527,,,,C0342792
+Q19000581,disease,病気,Q12136,classical swine fever,豚熱,animal disease,ブタのウイルス性疾病,D006691,,,,C0019841
+Q7799748,disease,病気,Q12136,Thyroid dyshormonogenesis,,"Familial thyroid dyshormonogenesis is a type of primary congenital hypothyroidism (see this term), a permanent thyroid hormone deficiency that is present from birth, which results from inborn errors of thyroid hormone synthesis",,C564766,E07.1,246.1,,C1848805
+Q11612732,disease,病気,Q12136,hyperinsulinemic hypoglycemia,,sporadic or inherited disorder characterized by the focal or diffuse proliferation of the cells of the islets of Langerhans in the pancreas,,,,,,C0027773
+Q7616403,disease,病気,Q12136,stiff skin syndrome,,medical condition,,C566112,Q82.8,,765187004,C1861456
+Q18924547,disease,病気,Q12136,Rocio virus encephalitis,,Human disease,,,,,,
+Q41788331,disease,病気,Q12136,Tick-borne paroxysmal rickettsiosis,,Infectious disease,,,,,,
+Q38088209,disease,病気,Q12136,reduction of energy potential,,"syndrome (constellation of symptoms), occurring in schizophrenia",,,,,,
+Q25399767,disease,病気,Q12136,centrophobia,,,,,,,,
+Q25406773,disease,病気,Q12136,potamophobia,,,,,,,,
+Q30017150,disease,病気,Q12136,buttocks fetishism,,a paraphilia involving sexual attraction to the human buttocks.,,,,,,
+Q30914598,disease,病気,Q12136,xylophobia,,,,,,,,
+Q46545345,disease,病気,Q12136,apathy-aboulia syndrome,,"psychopathological syndrome, characterised by apathy and aboulia, occurring in schizophrenia or after a brain damage",,,,,,
+Q27991457,disease,病気,Q12136,papaphobia,,fear of pope,,,,,,
+Q25339134,disease,病気,Q12136,Iophobia,,,,,,,102921008,C0522186
+Q25380070,disease,病気,Q12136,hebephrenic syndrome,,"syndrome (constellation of symptoms), occurring in hebephrenic schizophrenia (hebephrenia)",,,,,,
+Q25456248,disease,病気,Q12136,e-commerce fear,,fear of online shopping,,,,,,
+Q30898145,disease,病気,Q12136,metallophobia,,fear of metal,,,,,,
+Q28402671,disease,病気,Q12136,ostraconophobia,,fear of shellfish,,,,,,
+Q27675547,disease,病気,Q12136,vaccinia,,disease caused by smallpox vaccination with attenuated Vaccinia virus,,D014615,,,,C0042214
+Q44313201,disease,病気,Q12136,hallucinatory–paranoid syndrome,,"psychopathological syndrome (constellation of symptoms), occurring in schizophrenia, especially in paranoid schizophrenia",,,,,,
+Q7535394,disease,病気,Q12136,Skin fragility syndrome,,"Epidermolysis bullosa simplex due to plakophilin deficiency (EBS-PD) is a suprabasal subtype of epidermolysis bullosa simplex (EBS, see this term) characterized by generalized superficial erosions and less commonly blistering",,C536183,,,,C1858302
+Q6420625,disease,病気,Q12136,kleptolagnia,,paraphilia in which a subject derives gratification from stealing,,,,,,
+Q7433355,disease,病気,Q12136,Schöpf–Schulz–Passarge syndrome,,"SchC6pf-Schulz-Passarge syndrome (SSPS) is a rare autosomal recessive ectodermal dysplasia characterized by multiple eyelid apocrine hidrocystomas, palmoplantar keratoderma, hypotrichosis, hypodontia and nail dystrophy",,C565607,Q82.8,,,C1857069
+Q7545701,disease,病気,Q12136,Smith–Fineman–Myers syndrome,,medical condition,,C537445,,,719212004,C0796159
+Q7501551,disease,病気,Q12136,short-chain acyl-coenzyme A dehydrogenase deficiency,,lipid metabolism disorder that is characterized by deficiency of the enzyme short chain acyl-CoA dehydrogenase that results in the inability to convert short chain fatty acids,,C537596,,277.85,,C0342783
+Q5279950,disease,病気,Q12136,Diplopodia,,congenital anamoly in tetrapods,,,,,,C0266738
+Q7451019,disease,病気,Q12136,Sensenbrenner syndrome,,Human disease,,,Q87.5,,,C3150874
+Q7431481,disease,病気,Q12136,Schinzel–Giedion syndrome,シンツェル-ギーディオン症候群,"Schinzel-Giedion syndrome (SGS) is an ectodermal dysplasia syndrome chiefly characterized by a distinctive facial dysmorphism, hydronephrosis, severe developmental delay, typical skeletal malformations, and genital and cardiac anomalies",,C536632,,,,C0265227
+Q7576389,disease,病気,Q12136,spermatogenesis arrest,,,,C536875,,,,C0232981
+Q5711576,disease,病気,Q12136,Hemifacial microsomia,,human disease,,,Q75.8,,,
+Q7484623,disease,病気,Q12136,tyrosinemia type II,高チロシン血症2型,"tyrosinemia that has material basis in deficiency of hepatic tyrosine aminotransferase located in the liver and is characterized by keratitis, painful palmoplantar hyperkeratosis, mental retardation, and elevated serum tyrosine levels",,,E70.2,270.2,,
+Q7437571,disease,病気,Q12136,Scott syndrome,,inherited blood coagulation disease,,C563120,,,,C0796149
+Q7429841,disease,病気,Q12136,scalp–ear–nipple syndrome,,human disease,,C536623,,,,C1867020
+Q7506658,disease,病気,Q12136,Sialidosis type 1,,Lysosomal storage disease,,,E77.1,,,C0023806
+Q7423635,disease,病気,Q12136,sarcosinemia,,Sarcosinemia is a metabolic disorder characterized by an increased concentration of sarcosine in plasma and urine due to sarcosine dehydrogenase deficiency,,C537236,E72.5,270.8,,C0268563
+Q7506696,disease,病気,Q12136,sialuria,,lysosomal storage disease characterized by increased sialic acid in the urine,,D029461,E77.8,,238051008,C1096903
+Q7161794,disease,病気,Q12136,pelvic digit,,rare congenital abnormality in humans,,,,,,
+Q7454942,disease,病気,Q12136,Serkal syndrome,,genetic disorder,,,,,,C2678492
+Q4420119,disease,病気,Q12136,Geschwind syndrome,,potential personality changes over time associated with temporal lobe epilepsy,,,,,,
+Q4420118,disease,病気,Q12136,Van Gogh syndrome,,polysurgical addiction,,,,,,
+Q4740761,disease,病気,Q12136,Amazia,,absence of the mammary gland,,C535565,Q83.0,,,C0432357
+Q3815525,disease,病気,Q12136,kink,キンク,colloquial term for non-normative sexual behavior,,,,,,
+Q4505896,disease,病気,Q12136,cisvestism,,paraphilia in which a subject derives gratification from crossdressing,,,,,,
+Q1226826,disease,病気,Q12136,diogenes syndrome,ディオゲネス症候群,behavioral disorder notably characterized by extreme self-neglect and compulsive hoarding,,,,,,C0424291
+Q1358140,disease,病気,Q12136,mange,毛包虫症,class of skin diseases caused by parasitic mites,,,,,,
+Q4132712,disease,病気,Q12136,hallucinosis,,psychopathological syndrome characterized by hallucinations,,,F06.0,,,C0233777
+Q1947304,disease,病気,Q12136,Cushing's disease,クッシング病,disease related to the anterior pituitary,,,E24.0,,190502001,
+Q2266838,disease,病気,Q12136,sole ulcer,,hoof lesion in cattle and horses,,,,,,
+Q4009452,disease,病気,Q12136,persistent left superior vena cava,,medical condition,,D000083402,Q26.1,747.49,,C0265931
+Q1947298,disease,病気,Q12136,glycogen storage disease VI,,Glycogen storage disease,,D006013,,,,C0017925
+Q1462780,disease,病気,Q12136,Paris syndrome,パリ症候群,tourist experience of being overwhelmed by visiting Paris,異文化における適応障害の一種,,,,,
+Q2034658,disease,病気,Q12136,osseous choristoma of the ciliary body,,,,,,,,
+Q381719,disease,病気,Q12136,trisomy 9,9トリソミー,partial or complete triplication of chromosome 9,,,Q92,758,,
+Q2308637,disease,病気,Q12136,frontal fibrosing alopecia,,"Frontal fibrosing alopecia (FFA) is a rare variant of lichen planopilaris (see this term) characterized by symmetrical, progressive, band-like anterior hair loss of the scalp",,,,,,C1274700
+Q2001911,disease,病気,Q12136,devil facial tumour disease,デビル顔面腫瘍性疾患,cancer type affecting Tasmanian devils,,,,,,
+Q2017218,disease,病気,Q12136,Duane-radial ray syndrome,,"autosomal dominant disease characterized by upper limb anomalies, ocular anomalies, and, in some cases, renal anomalies and that has material basis in heterozygous mutation in the SALL4 gene on chromosome 20q13",,,,,,C1623209
+Q2452665,disease,病気,Q12136,bovine trichomoniasis,,,,,,,,
+Q2533095,disease,病気,Q12136,Von-Willebrand disease in animals,,,,,,,,
+Q1823656,disease,病気,Q12136,Liddle syndrome,リドル症候群,"genetic disorder inherited in an autosomal dominant manner that is characterized by early, and frequently severe, high blood pressure",,D056929,I15.1,,,C0221043
+Q2019832,disease,病気,Q12136,glycoproteinosis,,metabolic disease,,,E77.1,272.7,,C0026697
+Q2914153,disease,病気,Q12136,amotivational syndrome,,impairements associated with cannabis use,,,,,,
+Q369262,disease,病気,Q12136,growth hormone deficiency,下垂体性矮小症,Human disease,,D004393,E23.0,253.3,,
+Q3116781,disease,病気,Q12136,avian influenza in animals,,,,,,,,
+Q3281248,disease,病気,Q12136,phocine distemper,,,,,,,,
+Q1952032,disease,病気,Q12136,mucolipidosis,,human disease,,D009081,E77.1,272.7,70528007,
+Q1815019,disease,病気,Q12136,Leigh disease,亜急性壊死性脳脊髄障害,"mitochondrial metabolism disease characterized by progressive loss of mental and movement abilities. Symptoms usually begin between ages of three months and two years and include loss of appetite, vomiting, irritability and seizure activity",,D007888,,,,C4229116
+Q1128527,disease,病気,Q12136,locoism,,central nervous system disorder of animals,,,,,,C0275191
+Q2028015,disease,病気,Q12136,Alpers' disease,,cerebral degeneration that results in progressive degeneration of grey matter in the cerebrum and has symptom convulsions,,,,330.8,,C0205710
+Q4316445,disease,病気,Q12136,neuroleptic-induced deficit syndrome,,Psychopathological syndrome caused by overdose of antipsychotics,,,,,,C3854473
+Q1344619,disease,病気,Q12136,enterotoxemia,エンテロトキセミア,animal disease,,D004767,,,,C0014371
+Q4827032,disease,病気,Q12136,Autovampirism,,"A form of vampirism that refers to drinking one's own blood, typically as a form of sexual gratification",,,,,,
+Q371520,disease,病気,Q12136,polydactyly,多指症,physical anomaly resulting in supernumerary fingers and/or toes,,D017689,,,367506006,C0152427
+Q2165907,disease,病気,Q12136,Tyzzer's disease,ティザー病,bacterial disease of mammals,,,,,,
+Q164727,disease,病気,Q12136,ornithosis,オウム病,disease,主に鳥類経由で気道感染症を引き起こす人獣共通感染症,D009956,,,,C0029291
+Q2569523,disease,病気,Q12136,Skumin syndrome,,disease,,,,,,
+Q2017741,disease,病気,Q12136,oculocutaneous albinism,,"autosomal recessive disease characterized by abnormal pigmentation of the skin, hair and eyes",,D016115,,270.265856,,C0078918
+Q2026857,disease,病気,Q12136,chronic progressive external ophthalmoplegia,慢性進行性外眼筋麻痺症候群,human disease,,D017246,,,,C0162674
+Q1827028,disease,病気,Q12136,ectopia lentis,水晶体転位,disorder of lens,,D004479,H27.1,743.37,,
+Q2027515,disease,病気,Q12136,hypoparathyroidism-deafness-renal disease syndrome,,"characterized by autosomal dominant inheritance of hypoparathyroidism, sensorineural deafness and progressive renal failure that has material basis in chromosome deletion that results in haploinsufficiency of the GATA3 gene on chromosome 10p14",,C537907,,,,C1840333
+Q3071319,disease,病気,Q12136,fibropapillomatosis,,disease of sea turtles,,,,,,
+Q893408,disease,病気,Q12136,border disease (sheep),ボーダー病,viral disease of sheep and goats caused by Pestivirus D,,,,,,
+Q622914,disease,病気,Q12136,egg binding,,"medical condition in birds or other egg-laying animals, where the female is unable to pass an egg that has formed",,,,,,
+Q2008651,disease,病気,Q12136,cerebellar hypoplasia in animals,,disorder where cerebellum is smaller than usual or underdeveloped (non-human),,,,,,
+Q1848471,disease,病気,Q12136,inclusion body myositis,封入体筋炎,inflammatory muscle disease in older adults,,D018979,,,,C0238190
+Q3136424,disease,病気,Q12136,hirsutophilia,,paraphilia involving sexual attraction to body hair,,,,,,
+Q3046513,disease,病気,Q12136,omorashi,失禁,Bladder incontinence fetishism,自分の意思によらずに小便または大便を排泄すること,,,,,
+Q4420150,disease,病気,Q12136,psychological dependence,精神的依存,form of dependence that involves emotional,,,,,,
+Q1947302,disease,病気,Q12136,Castleman's disease,キャッスルマン病,"lymphoproliferative syndrome characterized by one or more enlarged lymph nodes containing cells with hyaline-vascular, plasmacytic, or mixed appearance microscopically",,D005871,D47.Z2,785.6,,C0017531
+Q1951267,disease,病気,Q12136,moya moya disease,もやもや病,cerebral arterial disease characterized by constriction of certain arteries at the base of the brain; blood flow is blocked by the constriction and also by blood clots,脳底部に異常血管網がみられる脳血管障害,D009072,,,,C0026654
+Q1182826,disease,病気,Q12136,canine degenerative myelopathy,,"incurable, progressive disease of the canine spinal cord",,,,,,
+Q602370,disease,病気,Q12136,crayfish plague,ザリガニペスト,crayfish disease caused by Aphanomyces astaci,,,,,,
+Q379038,disease,病気,Q12136,adult polyglucosan body disease,,"Adult polyglucosan body disease (APBD) is a glycogen storage disease of adults characterized by progressive upper and lower motor neuron dysfunction, progressive neurogenic bladder and cognitive difficulties that can lead to dementia",,C564878,,,,C1849722
+Q638344,disease,病気,Q12136,bumblefoot,,inflammation on birds' and rodents' feet,,,,,,
+Q1947307,disease,病気,Q12136,basal ganglia calcification,ファール病,"a rare, genetic neurological disorder characterized by abnormal deposits of calcium in areas of the brain that control movement",,C536275,,,,C0393590
+Q3540866,disease,病気,Q12136,avian keratin disorder,,bird disease,,,,,,
+Q191571,disease,病気,Q12136,polioencephalomalacia,,animal disease,,,,,,
+Q4388376,disease,病気,Q12136,Bifid penis,二裂陰茎,congenital defect,,,,,,
+Q1077955,disease,病気,Q12136,hypohidrotic ectodermal dysplasia,,no proof,,D053358,Q82.4,757.31,,C0162359
+Q4253356,disease,病気,Q12136,Milk stasis,,,,,O92.792.7,,,
+Q3474070,disease,病気,Q12136,animal lead poisoning,動物の鉛中毒,,,,,,,
+Q4291654,disease,病気,Q12136,metaphysical intoxication,,"psychopathological syndrome (constellation of symptoms), occurring in schizophrenia, characterized by overintellectuallization",,,,,,
+Q1995327,disease,病気,Q12136,Kennedy disease,球脊髄性筋萎縮症,"Kennedy's disease, also known as bulbospinal muscular atrophy (BSMA), is a rare X-linked recessive motor neuron disease characterized by proximal and bulbar muscle wasting",,D055534,G12.1,335.1,,C0393547
+Q3508612,disease,病気,Q12136,sleep hypoventilation syndrome,,,,,,,,C2732337
+Q2705600,disease,病気,Q12136,dysorthography,,medical condition,,,F81.1,,,
+Q3144984,disease,病気,Q12136,necrotising hepatopancreatitis,壊死性肝膵炎,lethal epizootic disease of farmed shrimp,,,,,,
+Q1362025,disease,病気,Q12136,white-nose syndrome,,"disease affecting hibernating bats caused by a white fungus infecting the skin of the muzzle, ears, and wings",,,,,,
+Q1835481,disease,病気,Q12136,familial cold urticaria,,"primary immunodeficiency disease characterized by recurrent episodes of maculopapular skin rash triggered by exposure to cold associated with low-grade fever, general malaise, eye redness and arthralgia/myalgia",,,,,,C0343068
+Q2033532,disease,病気,Q12136,Van der Woude syndrome,,"syndrome characterized by the combination of lower lip pits, cleft lip with or without cleft palate and cleft palate alone",,C536528,,,,C0175697
+Q1997180,disease,病気,Q12136,cutis marmorata telangiectatica congenita,,medical condition,,C536226,L95.0,,,C0345419
+Q908981,disease,病気,Q12136,photoinhibition,,"light-induced reduction in the photosynthetic capacity of a plant, alga, or cyanobacterium",,,,,,
+Q1811132,disease,病気,Q12136,Leber congenital amaurosis,レーバー先天性黒内障,"retinal disease that is characterized by nystagmus, sluggish or no pupillary responses, and severe vision loss or blindness",,D057130,,,,C0339527
+Q8074019,disease,病気,Q12136,zonular cataract and nystagmus,,cataract that has material basis in mutation in the NHS gene on chromosome Xp22,,C535338,,,,C2752078
+Q30314092,disease,病気,Q12136,mageirocophobia,料理恐怖症,fear of cooking,,,,,,
+Q52440562,disease,病気,Q12136,Sindbis fever,,disease,,,,,,
+Q8062938,disease,病気,Q12136,ZAP70 deficiency,ZAP70欠損症,medical condition,,C537590,,,,C1849236
+Q8067052,disease,病気,Q12136,myofibrillar myopathy 4,,Human disease,,C563718,,,,C1836155
+Q8061303,disease,病気,Q12136,Yunis-Varon syndrome,,Human disease,,C536719,,,,C1857663
+Q8072143,disease,病気,Q12136,Zimmermann–Laband syndrome,,"rare disorder characterized by gingival fibromatosis, coarse facial appearance, and absence or hypoplasia of nails or terminal phalanges of hands and feet",,C536725,Q87.8,,,C0796013
+Q39760628,disease,病気,Q12136,Posterior inferior cerebellar artery syndrome,,,,,,,,
+Q55787130,disease,病気,Q12136,"brachydactyly of toes, unilateral",,human disease,,,,,,
+Q55787131,disease,病気,Q12136,"brachydactyly of toes, bilateral",,human disease,,,,,,
+Q55787129,disease,病気,Q12136,"brachydactyly of fingers, bilateral",,human disease,,,,,,
+Q55787132,disease,病気,Q12136,"Symbrachydactyly of hand and foot, unilateral",,human disease,,,,,,
+Q55787133,disease,病気,Q12136,"Symbrachydactyly of hand and foot, bilateral",,human disease,,,,,,
+Q136276724,disease,病気,Q12136,Septate hymen,,Congenital variant of the hymen with a central tissue band that divides the vaginal opening,,,,,,
+Q55781208,disease,病気,Q12136,marfanoid hypermobility syndrome,,human disease,,C531742,,,,C0268365
+Q122585672,disease,病気,Q12136,congenital limb deficiency,,congenital absence of a limb,,,,,,
+Q83851589,disease,病気,Q12136,Situs ambiguus,内臓錯位症候群,congenital defect,,,,,,
+Q55012959,disease,病気,Q12136,dyskinetic syndrome,,human disease,,,,,,C0013384
+Q54396715,disease,病気,Q12136,religious trauma syndrome,宗教的トラウマ症候群,set of symptoms experienced by those who participate in or have left certain religious groups and belief systems,,,,,,
+Q12125,disease,病気,Q12136,common cold,風邪,common viral infection of upper respiratory tract,ウイルス感染症の一種,D003139,J00,,82272006,C0009443
+Q113471672,disease,病気,Q12136,corpus callosum dysgenesis,,human disease,,,,,,
+Q12090,disease,病気,Q12136,Cholera,コレラ,bacterial infection of the small intestine,激しい下痢を主症状とする細菌感染症,D002771,,001,,C0008354
+Q55787064,disease,病気,Q12136,hyperphalangy,,,,,,,,C4706507
+Q55781919,disease,病気,Q12136,Gorlin-Chaudhry-Moss syndrome,,"Gorlin-Chaudhry-Moss (GCM) syndrome is a multiple congenital anomaly syndrome characterized by craniofacial dysostosis, facial dysmorphism, conductive hearing loss, generalized hypertrichosis, and extremity, ocular and dental anomalies",,C537290,,,,C0345382

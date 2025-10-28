@@ -1,0 +1,953 @@
+﻿qid,category_en,category_ja,category_qid,en_label,ja_label,en_description,ja_description,mesh_id,icd10,icd9,snomed_id,umls_id
+Q5308134,rare disease,希少疾患,Q929833,driving phobia,自動車恐怖症,fear of riding in a vehicle,,,,,,
+Q124547579,rare disease,希少疾患,Q929833,Oncoretroviruses,,,,,,,,
+Q130303254,rare disease,希少疾患,Q929833,compulsive orderliness,,,,,,,,
+Q113383445,rare disease,希少疾患,Q929833,solitary kidney,,"a single kidney, or a single functioning kidney, caused by nephrectomy, birth defects or other kidney diseases",,D000075529,,,,
+Q16517358,rare disease,希少疾患,Q929833,stasophobia,,fear of standing,,,,,,
+Q5630028,rare disease,希少疾患,Q929833,HL23V,,type C RNA tumor virus,,,,,,
+Q1131359,rare disease,希少疾患,Q929833,amaxophobia,,fear of driving a vehicle,,,,,,
+Q13373927,rare disease,希少疾患,Q929833,acribophobia,,,,,,,,
+Q16519032,rare disease,希少疾患,Q929833,dextrophobia,,,,,,,,
+Q55780528,rare disease,希少疾患,Q929833,ear without helix,,human disease,,,,,,C1851899
+Q4813049,rare disease,希少疾患,Q929833,atelophobia,,fear of not being good enough or imperfection,,,,,,
+Q1316515,rare disease,希少疾患,Q929833,school refusal,学校恐怖症,anxiety or fear of school causing physical symptoms such as nausea and headaches,,D000098453,,,,
+Q25499596,rare disease,希少疾患,Q929833,urophobia,,,,,,,,
+Q104835295,rare disease,希少疾患,Q929833,Masklophobia,,"fear of masks, costumes and mascots",,,,,,
+Q27991435,rare disease,希少疾患,Q929833,arachibutyrofobie,,phobia,,,,,,
+Q5439398,rare disease,希少疾患,Q929833,fear of negative evaluation,他者からの否定的評価への恐れ,psychological construct,,,,,,
+Q12363250,rare disease,希少疾患,Q929833,hadephobia,,fear of hell,,,,,,
+Q245455,rare disease,希少疾患,Q929833,chromosome 5q deletion syndrome,5q-症候群,human disease,,C535323,,,,C0740302
+Q31172799,rare disease,希少疾患,Q929833,Nephophobia,,fear of clouds,,,,,,
+Q220783,rare disease,希少疾患,Q929833,arachnophobia,クモ恐怖症,fear of spiders and other arachnids,,,F40.2,,,
+Q5439395,rare disease,希少疾患,Q929833,fear of medical procedures,,any experience that involves medical personnel or procedures involved in the process of evaluating or modifying health status in traditional health care settings,,,,,,
+Q12358299,rare disease,希少疾患,Q929833,aerophobia,,fear of air,,,,,,
+Q85774959,rare disease,希少疾患,Q929833,Koumpounophobia,ボタン恐怖症,phobia of buttons on clothing,,,,,,
+Q632228,rare disease,希少疾患,Q929833,Hajdu-Cheney syndrome,,rare disease,,D031845,,,,C0917715
+Q635339,rare disease,希少疾患,Q929833,macrocephaly,大頭症,human disease,,C537717,Q75.3,756.0,9740002,C0220690
+Q630090,rare disease,希少疾患,Q929833,glycogen storage disease I,グルコース-6-ホスファターゼ欠損症,rare disease,,D005953,,271.0,,C0017920
+Q622828,rare disease,希少疾患,Q929833,hypokalemic periodic paralysis,,Human disease,,D020514,,359.3,,C0238358
+Q631904,rare disease,希少疾患,Q929833,atypical teratoid rhabdoid tumor,,"brain cancer that is usually located in the brain, but can occur anywhere in the central nervous system",,,C72,191,,C1266184
+Q624748,rare disease,希少疾患,Q929833,multiple endocrine neoplasia type 2B,多発性内分泌腫瘍症2B型,"autosomal dominant disease characterized by medullary thyroid carcinoma, pheochromocytoma, multiple mucosal neuromas and intestinal ganglioneuromas, and often a marfanoid habitus and other skeletal abnormalities",,D018814,,,,C0025269
+Q1886238,rare disease,希少疾患,Q929833,Sturge–Weber syndrome,スタージー・ウェーバー症候群,"neurological and skin disorder associated with port-wine stains of the face, glaucoma, seizures, intellectual disability, and cerebral malformations",,D013341,Q85.8,759.6,,C0038505
+Q2028015,rare disease,希少疾患,Q929833,Alpers' disease,,cerebral degeneration that results in progressive degeneration of grey matter in the cerebrum and has symptom convulsions,,,,330.8,,C0205710
+Q2017741,rare disease,希少疾患,Q929833,oculocutaneous albinism,,"autosomal recessive disease characterized by abnormal pigmentation of the skin, hair and eyes",,D016115,,270.265856,,C0078918
+Q2026857,rare disease,希少疾患,Q929833,chronic progressive external ophthalmoplegia,慢性進行性外眼筋麻痺症候群,human disease,,D017246,,,,C0162674
+Q2027515,rare disease,希少疾患,Q929833,hypoparathyroidism-deafness-renal disease syndrome,,"characterized by autosomal dominant inheritance of hypoparathyroidism, sensorineural deafness and progressive renal failure that has material basis in chromosome deletion that results in haploinsufficiency of the GATA3 gene on chromosome 10p14",,C537907,,,,C1840333
+Q660330,rare disease,希少疾患,Q929833,TAR syndrome,血小板減少橈骨欠損症候群,genetic disorder,,C536940,Q87.2,287.33,,C0175703
+Q2033861,rare disease,希少疾患,Q929833,carnitine palmitoyltransferase II deficiency,カルニチンパルミトイルトランスフェラーゼII欠損症,lipid metabolism disorder characterized by an enzymatic defect that prevents long-chain fatty acids from being transported into the mitochondria,,C535589,,,,C1850734
+Q1995327,rare disease,希少疾患,Q929833,Kennedy disease,球脊髄性筋萎縮症,"Kennedy's disease, also known as bulbospinal muscular atrophy (BSMA), is a rare X-linked recessive motor neuron disease characterized by proximal and bulbar muscle wasting",,D055534,G12.1,335.1,,C0393547
+Q2033532,rare disease,希少疾患,Q929833,Van der Woude syndrome,,"syndrome characterized by the combination of lower lip pits, cleft lip with or without cleft palate and cleft palate alone",,C536528,,,,C0175697
+Q1997180,rare disease,希少疾患,Q929833,cutis marmorata telangiectatica congenita,,medical condition,,C536226,L95.0,,,C0345419
+Q2823334,rare disease,希少疾患,Q929833,neurodegeneration due to 3-hydroxyisobutyryl-CoA hydrolase deficiency,,"gene, encoding 3-hydroxyisobutyryl-CoA hydrolase; the mode of transmission has not yet been established.",,C562803,,,,C0342738
+Q2823337,rare disease,希少疾患,Q929833,fumarase deficiency,,rare disease,,C538191,,,237983002,C0342770
+Q657193,rare disease,希少疾患,Q929833,metabolic syndrome,メタボリックシンドローム,"disease diagnosed by a cluster of at least 3 out of the following conditions: abdominal obesity, high blood pressure, high blood sugar, high serum triglycerides, low serum high-density lipoprotein",内臓脂肪型肥満に高血糖・高血圧・脂質異常症のうち2つ以上の症状が一度に出ている状態,D024821,,277.7,,C0524620
+Q657516,rare disease,希少疾患,Q929833,hereditary spastic paraplegia,遺伝性痙性対麻痺,genetically and clinically heterogeneous group of neurodegenerative disorders characterized by progressive spasticity and hyperreflexia of the lower limbs,,D015419,,,,C0037773
+Q611984,rare disease,希少疾患,Q929833,keratoconus,円錐角膜,"corneal disease characterized by structural changes within the cornea causing it to thin and change, leading to a protruding conical shape",,D007640,,,,C0022578
+Q2060353,rare disease,希少疾患,Q929833,Bulbar palsy,球麻痺,medical condition,,,G12.2,335.22,,C4082299
+Q609165,rare disease,希少疾患,Q929833,juvenile polyposis syndrome,若年性ポリープ,"autosomal dominant disease that is characterized by predisposition to hamartomatous benign polyps in the gastrointestinal tract, specifically in the stomach, small intestine, colon, and rectum",,,,,,C0221273
+Q2823497,rare disease,希少疾患,Q929833,acropachy,,isolated congenital digital clubbing is a rare genodermatosis disorder characterized by enlargement of the terminal segments of fingers and toes with thickened nails without any other abnormality,,,,,,C0345408
+Q2039267,rare disease,希少疾患,Q929833,aspirin-exacerbated respiratory disease,,human disease,,D055963,J45.1,493.1,,C1319853
+Q2065747,rare disease,希少疾患,Q929833,apparent mineralocorticoid excess syndrome,,Human disease,,D043204,,,,C0342488
+Q2035109,rare disease,希少疾患,Q929833,nail-patella syndrome,,Human disease,,D009261,,756.89,22199006,C0027341
+Q656199,rare disease,希少疾患,Q929833,torsion dystonia,,a hereditary disease characterized by involuntary painful muscle contractions resulting in uncontrollable distortions,,,G24.1,333.6,,
+Q2868790,rare disease,希少疾患,Q929833,episodic ataxia type 2,,"episodic ataxia characterized by acetazolamide-responsive attacks of ataxia lasting for hours/days (unlike EA1, which lasts up to minutes); caused by mutations in CACNA1A encoding P/Q-type voltage-gated calcium channel CaV2.1",,C535506,G11.8,,,C1720416
+Q2069207,rare disease,希少疾患,Q929833,familial dysbetalipoproteinemia,,Human disease,,D006952,,,,C0020479
+Q2841213,rare disease,希少疾患,Q929833,factor XII deficiency,第XII因子欠乏症,Human disease,,D005175,,,,C0015526
+Q2067267,rare disease,希少疾患,Q929833,"Niemann–Pick disease, type C",ニーマン・ピック病C型,autosomal recessive lipid storage disorder that is characterized by accumulation of cholesterol and sphingomyelins in cells of the viscera and the central nervous system,,D052556,E75.2,272.7,,C0220756
+Q2868788,rare disease,希少疾患,Q929833,spinocerebellar ataxia type 6,脊髄小脳変性症6型,Human disease,,,G11.2,334.9,715752006,C0752124
+Q2035074,rare disease,希少疾患,Q929833,Paget's disease of bone,骨ページェット病,"bone formation disease that has material basis in hyperactive osteoclast which results in abnormal osteoblast bone formation located in skull, located in pelvis, located in vertebral column, located in set of limbs",,D010001,,,2089002,C0029401
+Q2868786,rare disease,希少疾患,Q929833,Charlevoix-Saguenay spastic ataxia,,"autosomal recessive spastic ataxia of Charlevoix-Saguenay (ARSACS) is a neurodegenerative disorder characterised by early-onset cerebellar ataxia with spasticity, a pyramidal syndrome and peripheral neuropathy",,C536787,G11.1,,,C1849140
+Q2844603,rare disease,希少疾患,Q929833,transthyretin amyloidosis,家族性アミロイド,HEREDITARY AMYLOIDOSIS,,,,,,C0206245
+Q2857909,rare disease,希少疾患,Q929833,thiamine-responsive megaloblastic anemia syndrome,,"Thiamine-responsive megaloblastic anemia (TRMA) is characterized by a triad of megaloblastic anemia, non-type I diabetes mellitus, and sensorineural deafness",,C536510,,,,C0342287
+Q1952032,rare disease,希少疾患,Q929833,mucolipidosis,,human disease,,D009081,E77.0,272.7,70528007,
+Q2299379,rare disease,希少疾患,Q929833,membranoproliferative glomerulonephritis,膜性増殖性糸球体腎炎,"glomerulonephritis caused by deposits in the kidney glomerular mesangium and basement membrane thickening, activating the complement system and damaging the glomeruli",,D015432,N00,583.2,,C0017662
+Q1970052,rare disease,希少疾患,Q929833,Shwachman-Diamond syndrome,シュワッハマン・ダイアモンド症候群,"syndrome characterized by exocrine pancreatic insufficiency, bone marrow failure and skeletal abnormalities",,D000081003,,,,C0272170
+Q27674822,rare disease,希少疾患,Q929833,atrial heart septal defect 6,,human disease,,C567764,,,,C2751315
+Q27674811,rare disease,希少疾患,Q929833,amelogenesis imperfecta type 1F,,amelogenesis imperfecta that has material basis in homozygous mutation in the ameloblastin gene (AMBN) on chromosome 4q13,,,,,,C4225394
+Q27674808,rare disease,希少疾患,Q929833,amelogenesis imperfecta hypomaturation type 2A5,,amelogenesis imperfecta that has material basis in homozygous mutation in the SLC24A4 gene on chromosome 14q32,,,,,,C4014578
+Q27674809,rare disease,希少疾患,Q929833,amelogenesis imperfecta type 1H,,amelogenesis imperfecta that has material basis in homozygous or compound heterozygous mutation in the integrin beta-6 gene (ITGB6) on chromosome 2q24,,,,,,C4015557
+Q27674823,rare disease,希少疾患,Q929833,atrial heart septal defect 7,,atrial heart septal defect that has material basis in heterozygous mutation in the NKX2-5 gene on chromosome 5q35,,,,,,C1862388
+Q27674824,rare disease,希少疾患,Q929833,atrial heart septal defect 8,,atrial heart septal defect that has material basis in heterozygous mutation in the CITED2 gene on chromosome 6q23.3,,,,,,C3280790
+Q27674825,rare disease,希少疾患,Q929833,atrial heart septal defect 9,,atrial heart septal defect that has material basis in heterozygous mutation in the GATA6 gene on chromosome 18q11,,,,,,C3280943
+Q27674828,rare disease,希少疾患,Q929833,Bardet-Biedl syndrome 2,,Bardet-Biedl syndrome that has material basis in homozygous or compound heterozygous mutations in the BBS2 gene on chromosome 16q13,,C537910,,,,C2936863
+Q27674829,rare disease,希少疾患,Q929833,Bardet-Biedl syndrome 3,,Bardet-Biedl syndrome that has material basis in homozygous mutation in the ARL6 gene on chromosome 3q11,,,,,,
+Q27674834,rare disease,希少疾患,Q929833,Bardet-Biedl syndrome 8,,Bardet-Biedl syndrome that has material basis in homozygous mutation in the TTC8 gene on chromosome 14q31,,,,,,
+Q27674832,rare disease,希少疾患,Q929833,Bardet-Biedl syndrome 6,,Bardet-Biedl syndrome that has material basis in homozygous or compound heterozygous mutation in the MKKS gene on chromosome 20p12,,,,,,
+Q27674818,rare disease,希少疾患,Q929833,atrial heart septal defect 2,,atrial heart septal defect type 2 that has material basis in heterozygous mutation in the GATA4 gene on chromosome 8p23,,C538263,,,,C1842778
+Q27674819,rare disease,希少疾患,Q929833,atrial heart septal defect 3,,atrial heart septal defect type 3 that has material basis in heterozygous mutation in the myosin heavy chain-6 gene (MYH6) on chromosome 14q12,,C563540,,,,C1834527
+Q27674820,rare disease,希少疾患,Q929833,atrial heart septal defect 4,,atrial heart septal defect type 4 that has material basis in mutation in the TBX20 gene,,C566963,,,,C1969657
+Q27674821,rare disease,希少疾患,Q929833,atrial heart septal defect 5,,atrial heart septal defect type 5 that has material basis in heterozygous mutation in the ACTC1 gene on chromosome 15q14,,C567561,,,,C2748552
+Q27674839,rare disease,希少疾患,Q929833,Bardet-Biedl syndrome 13,,Bardet-Biedl syndrome that has material basis in compound heterozygous mutation in the MKS1 gene on chromosome 17q22,,C567140,,,,C2673873
+Q27674837,rare disease,希少疾患,Q929833,Bardet-Biedl syndrome 11,,Bardet-Biedl syndrome that has material basis in mutation in the TRIM32 gene on chromosome 9q33,,C565920,,,,C1859569
+Q27674838,rare disease,希少疾患,Q929833,Bardet-Biedl syndrome 12,,Bardet-Biedl syndrome that has material basis in homozygous or compound heterozygous mutation in the BBS12 gene on chromosome 4q27,,C565921,,,,C1859570
+Q27674830,rare disease,希少疾患,Q929833,Bardet-Biedl syndrome 4,,Bardet-Biedl syndrome that has material basis in homozygous mutation in the BBS4 gene on chromosome 15q24,,,,,,
+Q27674835,rare disease,希少疾患,Q929833,Bardet-Biedl syndrome 9,,Bardet-Biedl syndrome that has material basis in homozygosity or compound heterozygosity for mutations in the PTHB1 gene on chromosome 7p14,,,,,,
+Q27674833,rare disease,希少疾患,Q929833,Bardet-Biedl syndrome 7,,Bardet-Biedl syndrome that has material basis in homozygous mutation in the BBS7 gene on chromosome 4q27,,,,,,
+Q27674831,rare disease,希少疾患,Q929833,Bardet-Biedl syndrome 5,,Bardet-Biedl syndrome that has material basis in homozygous mutation in the BBS5 gene on chromosome 2q31,,,,,,
+Q27674836,rare disease,希少疾患,Q929833,Bardet-Biedl syndrome 10,,Bardet-Biedl syndrome that has material basis in homozygous or compound heterozygous mutation in the BBS10 gene on chromosome 12q21,,C565919,,,,C1859568
+Q3512243,rare disease,希少疾患,Q929833,autosomal dominant familial periodic fever,,human disease,,C536657,,,,C1275126
+Q3508800,rare disease,希少疾患,Q929833,congenital myasthenic syndrome,先天性筋無力症候群,Human disease,,D020294,,,,C0751882
+Q3508794,rare disease,希少疾患,Q929833,Tricho–rhino–phalangeal syndrome,,human disease,,,,,,C0265255
+Q1915681,rare disease,希少疾患,Q929833,Meckel syndrome,メッケル・グルーバー症候群,"a rare, lethal, ciliopathic, genetic disorder with malformations of the urinary system, of central nervous system, hepatic developmental defects, and pulmonary hypoplasia.",,,,,,C0311245
+Q1077955,rare disease,希少疾患,Q929833,hypohidrotic ectodermal dysplasia,,no proof,,D053358,Q82.4,757.31,,C0162359
+Q492728,rare disease,希少疾患,Q929833,mark of Cale,カインの刻印,phrase originating in the Hebrew,,,,,,
+Q2718677,rare disease,希少疾患,Q929833,du Pan syndrome,,bone malformation affecting arms and legs,,C537931,,,,C1856738
+Q3508735,rare disease,希少疾患,Q929833,Bare lymphocyte syndrome,裸リンパ球症候群,medical condition,,,D81.6,,,
+Q2500124,rare disease,希少疾患,Q929833,lipoid proteinosis,ウルバッハ・ヴィーデ類脂質蛋白症,rare recessive genetic disorder,遺伝性疾患,D008065,E78.8,272.8,38692000,C0023795
+Q1947298,rare disease,希少疾患,Q929833,glycogen storage disease VI,,Glycogen storage disease,,D006013,,,,C0017925
+Q3508723,rare disease,希少疾患,Q929833,solitary median maxillary central incisor syndrome,,human disease,,C537342,,,,C1840235
+Q2454139,rare disease,希少疾患,Q929833,trisomy 14,,,,,,,,
+Q2454191,rare disease,希少疾患,Q929833,Warkany syndrome 2,,human chromosomal disorder caused by having three copies of chromosome 8,,,Q92,,,
+Q3508750,rare disease,希少疾患,Q929833,Opitz-GBBB syndrome,,"monogenic disease that is characterized by hypertelorism, hypospadias, and additional midline defects resulting from mutations to the MID1 gene in the X-linked form or from a deletion on chromosome 22q11.2 in the autosomal dominant form",,,,,,C1801950
+Q3508782,rare disease,希少疾患,Q929833,otopalatodigital syndrome type 1,,,,,Q87.0,,,C2748918
+Q2632848,rare disease,希少疾患,Q929833,alternating hemiplegia of childhood,,hemiplegia characterized by recurrent episodes of temporary weakness or complete paralysis on one or both sides of the body,,C536589,,,230466004,C0338488
+Q2470609,rare disease,希少疾患,Q929833,Wagner's disease,,"Wagner disease is a rare hereditary vitreoretinopathy characterized by an anomaleous vitreous associated with myopia, cataract, chorioretinal atrophy, and peripheral tractional or rhegmatogenous retinal detachment",,C536075,H35.5,,,C0339540
+Q2691713,rare disease,希少疾患,Q929833,Miller syndrome,,human disease,,C537680,,,,C0265257
+Q2454136,rare disease,希少疾患,Q929833,trisomy 12,,partial or complete triplication of chromosome 12,,,,,,
+Q2454143,rare disease,希少疾患,Q929833,trisomy 15,,partial or complete triplication of chromosome 15,,,,,,
+Q2454146,rare disease,希少疾患,Q929833,trisomy 3,,partial or complete triplication of chromosome 3,,,,,,
+Q2711291,rare disease,希少疾患,Q929833,familial hypercholesterolemia,家族性高コレステロール血症,familial hyperlipidemia characterized by very high levels of low-density lipoprotein (LDL) and early cardiovascular disease,,D006938,,,,C0020445
+Q1947302,rare disease,希少疾患,Q929833,Castleman's disease,キャッスルマン病,"lymphoproliferative syndrome characterized by one or more enlarged lymph nodes containing cells with hyaline-vascular, plasmacytic, or mixed appearance microscopically",,D005871,D47.Z2,785.6,,C0017531
+Q3508764,rare disease,希少疾患,Q929833,hand-foot-genital syndrome,,autosomal dominant human genetic disease characterized by limb malformations (e.g. bilateral shortening of thumbs/big toes) and urogenital defects (e.g. abnormalities of ureters/urethra; incomplete Müllerian fusion in females; hypospadias in males),,C535627,,,,C1841679
+Q3508768,rare disease,希少疾患,Q929833,Lymphedema–distichiasis syndrome,,"people with this hereditary condition have a double row of eyelashes,",,C537710,,,,C0265345
+Q3508706,rare disease,希少疾患,Q929833,Troyer syndrome,,"gene (13q13.1), which encodes the protein spartin.",,C536858,,,,C0393559
+Q3508786,rare disease,希少疾患,Q929833,orofaciodigital syndrome I,口顔指症候群1型,orofaciodigital syndrome characterized_by polycystic kidney disease and variable involvement of the central nervous system and has_material_basis_in X-linked inheritance of the OFD1 gene,,,,,,C0026363
+Q3508729,rare disease,希少疾患,Q929833,occipital horn syndrome,,"Occipital horn syndrome (OHS) is a mild form of Menkes disease (MD, see this term), a syndrome characterized by progressive neurodegeneration and connective tissue disorders due to a copper transport defect",,C537860,E83.0,,,C0268353
+Q2467739,rare disease,希少疾患,Q929833,Donohue syndrome,ドナヒュー症候群,Human disease,,D056731,,,,C0265344
+Q2484592,rare disease,希少疾患,Q929833,Becker muscular dystrophy,ベッカー型筋ジストロフィー,X-linked recessive inherited disorder characterized by slowly progressive muscle weakness of the legs and pelvis,,,G71.0,359.1,,C0699741
+Q2628677,rare disease,希少疾患,Q929833,Marinesco-Sjogren syndrome,,"Marinesco-Sjogren syndrome (MSS) belongs to the group of autosomal recessive cerebellar ataxias. Cardinal features of MSS are cerebellar ataxia, congenital cataract, and delayed psychomotor development.",,,,,80734006,C0024814
+Q1916694,rare disease,希少疾患,Q929833,medullary cystic kidney disease,,"inherited form of cystic kidney disease leading to fibrosis and impaired renal function that is caused by mutations in the UMOD gene, which encodes uromodulin/Tamm-Horsfall mucoprotein",,,Q61.5,753.16,204957003,C1859040
+Q3508770,rare disease,希少疾患,Q929833,inclusion body myopathy with Paget disease of bone and frontotemporal dementia,,syndrome,,,G71.8,,,
+Q55790150,rare disease,希少疾患,Q929833,Die Smulders Droog Van Dijk syndrome,,human disease,,,,,,
+Q55950213,rare disease,希少疾患,Q929833,familial cylindromatosis,,human disease,,C536611,,,,C1704217
+Q53160608,rare disease,希少疾患,Q929833,Tatton-Brown–Rahman syndrome,,human disease,,,,,,C4014545
+Q55788471,rare disease,希少疾患,Q929833,hypotrichosis-lymphedema-telangiectasia-renal defect syndrome,,human disease,,C536825,,,,C1841989
+Q20182872,rare disease,希少疾患,Q929833,Curtius syndrome,,,,,,,,
+Q55950229,rare disease,希少疾患,Q929833,"hypercholesterolemia, autosomal dominant, type b",,human disease,,,,,,C1704417
+Q55788803,rare disease,希少疾患,Q929833,short rib dysplasia,,human disease,,,,,,C0432195
+Q55790899,rare disease,希少疾患,Q929833,"epileptic encephalopathy, early infantile, 52",,human disease,,,,,,C4479236
+Q55790902,rare disease,希少疾患,Q929833,"epileptic encephalopathy, early infantile, 54",,human disease,,,,,,C0393706
+Q55790901,rare disease,希少疾患,Q929833,"epileptic encephalopathy, early infantile, 53",,human disease,,,,,,C4479313
+Q55790157,rare disease,希少疾患,Q929833,dipsogenic diabetes insipidus,,Diabetes insipidus caused by excessive intake of water due to damage to the thirst-regulating mechanism,,C548013,,,,C0268813
+Q55790286,rare disease,希少疾患,Q929833,gestational diabetes insipidus,,a special type of diabetes insipidus in pregnant women,,C548014,,,,C2932666
+Q3508634,rare disease,希少疾患,Q929833,Donnai-Barrow syndrome,,human disease,,C536390,,,,C1857277
+Q2142496,rare disease,希少疾患,Q929833,Silver-Russell syndrome,シルバー・ラッセル症候群,growth disorder,,D056730,,759.89,,C0175693
+Q3508568,rare disease,希少疾患,Q929833,CHILD syndrome,,human disease,,C562515,Q87.8,,,C0265267
+Q3508623,rare disease,希少疾患,Q929833,Bruck syndrome,,syndrome characterized by a combination of multiple joint contractures and osteogenesis imperfecta,,,,,,C0432253
+Q3508601,rare disease,希少疾患,Q929833,"Ehlers-Danlos syndrome, arthrochalasis type",,,,C562625,,,,C0268345
+Q3508614,rare disease,希少疾患,Q929833,hyperinsulinism-hyperammonemia syndrome,,medical condition,,C538375,E72.8,,,C1847555
+Q970646,rare disease,希少疾患,Q929833,Denny-Brown Syndrome,,paraneoplastic polyneuropathy,,,,,,C1335344
+Q2155008,rare disease,希少疾患,Q929833,Ritscher–Schinzel syndrome,,"developmental malformation syndrome characterized by craniofacial abnormalities, congenital heart defects, and cerebellar brain malformations.",,C535313,,,,C0796137
+Q2102705,rare disease,希少疾患,Q929833,pentasomy X,,sex chromosome aneuploidy where a female has three additional X chromosomes,,C535319,Q97.1,,,C0265497
+Q3508580,rare disease,希少疾患,Q929833,Joubert syndrome with orofaciodigital defect,,Joubert syndrome subtype with orofaciodigital defect,,C536531,,,,C2745997
+Q2123641,rare disease,希少疾患,Q929833,"spondyloepimetaphyseal dysplasia, Strudwick type",,Human disease,,,,,,C0700635
+Q3508616,rare disease,希少疾患,Q929833,Baller-Gerold syndrome,バレーゲロルド症候群,"synostosis characterized by coronal craniosynostosis, short stature, and aplasia or hypoplasia of the radial bone",,C536788,,,,C0265308
+Q3508578,rare disease,希少疾患,Q929833,rapadilino syndrome,,Human disease,,C535288,Q87.1,,,C1849453
+Q3508572,rare disease,希少疾患,Q929833,muscle-eye-brain disease,,disease,,,,,,C0457133
+Q3508570,rare disease,希少疾患,Q929833,MASS syndrome,,Connective tissue disorder,,C536030,Q87.5,,,C1858556
+Q3508618,rare disease,希少疾患,Q929833,Congenital contractural arachnodactyly,,human disease,,,,,,C0220668
+Q3508563,rare disease,希少疾患,Q929833,leukoencephalopathy with vanishing white matter,,human disease,,,,,,C1858991
+Q3508585,rare disease,希少疾患,Q929833,ablepharon macrostomia syndrome,,Human disease,,C535557,,,,C1860224
+Q3508598,rare disease,希少疾患,Q929833,brittle cornea syndrome,,Human disease,,C536198,,,,C0268342
+Q3508605,rare disease,希少疾患,Q929833,autosomal dominant type IV Ehlers-Danlos syndrome,,Human disease,,D000094623,,,,C0268338
+Q2140501,rare disease,希少疾患,Q929833,glutaric aciduria type 1,グルタル酸尿症1型,Glutaryl-CoA dehydrogenase (GCDH) deficiency (GDD) is an autosomal recessive neurometabolic disorder clinically characterized by encephalopathic crises resulting in striatal injury and a severe dystonic dyskinetic movement disorder,,C536833,E72.3,,,C0268595
+Q32145936,rare disease,希少疾患,Q929833,cone-rod dystrophy 2,,cone-rod dystrophy that has material basis in heterozygous mutation in the CRX gene on chromosome 19q13,,,,,,C0035334
+Q32145981,rare disease,希少疾患,Q929833,X-linked cone-rod dystrophy 1,,cone-rod dystrophy that has material basis in mutation in an alternative terminal exon 15 of the RPGR gene on chromosome Xp11,,,,,,C1844776
+Q32146011,rare disease,希少疾患,Q929833,cone-rod dystrophy 5,,cone-rod dystrophy that has material basis in mutation in the PITPNM3 gene in chromosome region 17p13.2-p13.1,,C563415,,,,C1832976
+Q32145870,rare disease,希少疾患,Q929833,Joubert syndrome 5,,Joubert syndrome that has material basis in mutation in the CEP290 gene on chromosome 12q21,,C537688,,,,C1857780
+Q32145925,rare disease,希少疾患,Q929833,Joubert syndrome 9,,Joubert syndrome that has material basis in homozygous or compound heterozygous mutation in the CC2D2A gene on chromosome 4p15,,C567364,,,,C2676788
+Q32146026,rare disease,希少疾患,Q929833,cone-rod dystrophy 6,,cone-rod dystrophy that has material basis in heterozygous mutation in the GUCY2D gene on chromosome 17p13.1,,C538363,,,,C1866293
+Q32146040,rare disease,希少疾患,Q929833,cone-rod dystrophy 7,,cone-rod dystrophy that has material basis in heterozygous mutation in the RIMS1 gene on chromosome 6q13,,C566350,,,,C1863634
+Q32145967,rare disease,希少疾患,Q929833,X-linked cone-rod dystrophy 3,,cone-rod dystrophy that has material basis in mutation in the CACNA1F gene on chromosome Xp11,,C564507,,,,C1845407
+Q50349721,rare disease,希少疾患,Q929833,hereditary sensory and autonomic neuropathy type 2A,,hereditary sensory and autonomic neuropathy type 2 characterized by progressive sensory neuropathy with onset in childhood that has material basis in mutation in the HSN2 isoform of the WNK1 gene on chromosome 12p13,,,,,,C0751540
+Q50349634,rare disease,希少疾患,Q929833,autosomal dominant non-syndromic intellectual disability 30,,autosomal dominant non-syndromic intellectual disability that has material basis in an autosomal dominant mutation of ZMYND11 on chromosome 10p15.3,,,,,,C4015167
+Q50349635,rare disease,希少疾患,Q929833,autosomal dominant non-syndromic intellectual disability 31,,autosomal dominant non-syndromic intellectual disability that has material basis in an autosomal dominant mutation of PURA on chromosome 5q31.3,,,,,,C4015357
+Q50349633,rare disease,希少疾患,Q929833,autosomal dominant non-syndromic intellectual disability 29,,autosomal dominant non-syndromic intellectual disability that has material basis in an autosomal dominant mutation of SETBP1 on chromosome 18q12.3,,,,,,C4015141
+Q50349638,rare disease,希少疾患,Q929833,autosomal dominant non-syndromic intellectual disability 34,,autosomal dominant non-syndromic intellectual disability that has material basis in an autosomal dominant mutation of COL4A3BP on chromosome 5q13.3,,,,,,C4225156
+Q50349639,rare disease,希少疾患,Q929833,autosomal dominant non-syndromic intellectual disability 35,,autosomal dominant non-syndromic intellectual disability that has material basis in an autosomal dominant mutation of PPP2R5D on chromosome 6p21.1,,,,,,C4225354
+Q50349636,rare disease,希少疾患,Q929833,autosomal dominant non-syndromic intellectual disability 32,,autosomal dominant non-syndromic intellectual disability that has material basis in an autosomal dominant mutation of KAT6A on chromosome 8p11.21,,,,,,C4225396
+Q50349637,rare disease,希少疾患,Q929833,autosomal dominant non-syndromic intellectual disability 33,,autosomal dominant non-syndromic intellectual disability that has material basis in an autosomal dominant mutation of DPP6 on chromosome 7q36.2,,,,,,C4225375
+Q50349642,rare disease,希少疾患,Q929833,autosomal dominant non-syndromic intellectual disability 38,,autosomal dominant non-syndromic intellectual disability that has material basis in an autosomal dominant mutation of EEF1A2 on chromosome 20q13.33,,,,,,C4225343
+Q50349643,rare disease,希少疾患,Q929833,autosomal dominant non-syndromic intellectual disability 39,,autosomal dominant non-syndromic intellectual disability that has material basis in an autosomal dominant mutation of MYT1L on chromosome 2p25.3,,,,,,C4225296
+Q50349640,rare disease,希少疾患,Q929833,autosomal dominant non-syndromic intellectual disability 36,,autosomal dominant non-syndromic intellectual disability that has material basis in an autosomal dominant mutation of PPP2R1A on chromosome 19q13.41,,,,,,C4225352
+Q50349646,rare disease,希少疾患,Q929833,autosomal dominant non-syndromic intellectual disability 42,,autosomal dominant non-syndromic intellectual disability that has material basis in an autosomal dominant mutation of GNB1 on chromosome 1p36.33,,,,,,C4310774
+Q50349647,rare disease,希少疾患,Q929833,autosomal dominant non-syndromic intellectual disability 43,,autosomal dominant non-syndromic intellectual disability that has material basis in an autosomal dominant mutation of HIVEP2 on chromosome 6q24.2,,,,,,C4310771
+Q50349644,rare disease,希少疾患,Q929833,autosomal dominant non-syndromic intellectual disability 40,,autosomal dominant non-syndromic intellectual disability that has material basis in an autosomal dominant mutation of MYT1L on chromosome 2p25.3,,,,,,C4225275
+Q50349645,rare disease,希少疾患,Q929833,autosomal dominant non-syndromic intellectual disability 41,,autosomal dominant non-syndromic intellectual disability that has material basis in an autosomal dominant mutation of TBL1XR1 on chromosome 3q26.32,,,,,,C0795942
+Q50349648,rare disease,希少疾患,Q929833,autosomal dominant non-syndromic intellectual disability44,,autosomal dominant non-syndromic intellectual disability that has material basis in an autosomal dominant mutation of TRIO on chromosome 5p15.2,,,,,,C4310740
+Q50349695,rare disease,希少疾患,Q929833,autosomal recessive cutis laxa type IID,,autosomal recessive cutis laxa type II classic type characterized by cardiovascular and neurologic involvement and that has material basis in homozygous mutation in the ATP6V1A gene on chromosome 3q13,,,,,,C4479409
+Q50349706,rare disease,希少疾患,Q929833,autosomal recessive cutis laxa type IIC,,autosomal recessive cutis laxa type II classic type characterized by cardiovascular involvement that has material basis in homozygous mutation in the ATP6V1E1 gene on chromosome 22q11,,,,,,C4479387
+Q50349632,rare disease,希少疾患,Q929833,Helsmoortel-Van Der Aa syndrome,,autosomal dominant non-syndromic intellectual disability that has material basis in an autosomal dominant mutation of ADNP on chromosome 20q13.13,,,,,,C4014538
+Q50349711,rare disease,希少疾患,Q929833,hereditary sensory and autonomic neuropathy type 5,,hereditary sensory neuropathy characterized by impaired pain and thermal perception in the extremities and selective reduction in small myelinated fibers that has material basis in homozygous mutation in the NGF gene on chromosome 1p13,,,,,,C0002768
+Q50349683,rare disease,希少疾患,Q929833,Meckel syndrome 4,,Meckel syndrome that has material basis in an autosomal recessive mutation of CEP290 on chromosome 12q21.32,,,,,,C1970161
+Q50349713,rare disease,希少疾患,Q929833,hereditary sensory neuropathy type 2C,,hereditary sensory and autonomic neuropathy type 2 characterized by peripheral nerve degeneration and progressive distal sensory loss that has material basis in homozygous or compound heterozygous mutation in the KIF1A gene on chromosome 2q37,,,,,,C3280168
+Q50349719,rare disease,希少疾患,Q929833,hereditary sensory and autonomic neuropathy type 8,,hereditary sensory neuropathy characterized by congenital insensitivity to pain and decreased sweating and tear production that has material basis in homozygous mutation in the PRDM12 gene on chromosome 9q34,,,,,,C4225308
+Q50349716,rare disease,希少疾患,Q929833,hereditary sensory and autonomic neuropathy type 2B,,hereditary sensory and autonomic neuropathy type 2 characterized by early childhood onset of distal sensory impairment that has material basis in homozygous mutation in the FAM134B gene on chromosome 5p15,,,,,,C2751092
+Q50349675,rare disease,希少疾患,Q929833,oculocutaneous albinism type VII,,oculocutaneous albinism that has material basis in an autosomal recessive mutation of C10orf11 on chromosome 10q22.2-q22.3,,,,,,C3808786
+Q50349688,rare disease,希少疾患,Q929833,Meckel syndrome 8,,Meckel syndrome that has material basis in an autosomal recessive mutation of TCTN2 on chromosome 12q24.31,,,,,,C4082174
+Q50349723,rare disease,希少疾患,Q929833,hereditary sensory and autonomic neuropathy type 1C,,hereditary sensory and autonomic neuropathy type 1 that has material basis in heterozygous mutation in the SPTLC2 gene on chromosome 14q24,,,,,,C3150896
+Q50349722,rare disease,希少疾患,Q929833,hereditary sensory neuropathy type ID,,hereditary sensory and autonomic neuropathy type 1 characterized by adult onset of a distal axonal sensory neuropathy that has material basis in heterozygous mutation in the ATL1 gene on chromosome 14q,,,,,,C3150972
+Q50349724,rare disease,希少疾患,Q929833,hereditary sensory neuropathy-deafness-dementia syndrome,,"hereditary sensory neuropathy characterized by adult onset of progressive peripheral sensory loss, progressive hearing impairment, and early-onset dementia that has material basis in heterozygous mutation in the DNMT1 gene on chromosome 19p13",,,,,,C3279885
+Q50349641,rare disease,希少疾患,Q929833,White-Sutton syndrome,,autosomal dominant non-syndromic intellectual disability that has material basis in an autosomal dominant mutation of POGZ on chromosome 1q21.3,,,,,,C4225351
+Q51097746,rare disease,希少疾患,Q929833,geleophysic dysplasia,,disease,,C537677,,,,C3489726
+Q50349682,rare disease,希少疾患,Q929833,Meckel syndrome 3,,Meckel syndrome that has material basis in an autosomal recessive mutation of TMEM67 on chromosome 8q22.1,,C536132,,,,C1846357
+Q50349681,rare disease,希少疾患,Q929833,Meckel syndrome 2,,Meckel syndrome that has material basis in an autosomal recessive mutation of TMEM216 on chromosome 11q12.2,,C536131,,,,C1864148
+Q50349684,rare disease,希少疾患,Q929833,Meckel syndrome 5,,Meckel syndrome that has material basis in an autosomal recessive mutation of RPGRIP1L on chromosome 16q12.2,,C566915,,,,C1969052
+Q50349685,rare disease,希少疾患,Q929833,Meckel syndrome 6,,Meckel syndrome that has material basis in an autosomal recessive mutation of CC2D2A on chromosome 4p15.32,,C567365,,,,C2676790
+Q50349821,rare disease,希少疾患,Q929833,acute infantile liver failure-cerebellar ataxia-peripheral sensory motor neuropathy syndrome,,autosomal recessive cerebellar ataxia that has material basis in homozygous or compound heterozygous mutation in the SCYL1 gene on chromosome 11q13,,,,,,C4225236
+Q50349816,rare disease,希少疾患,Q929833,autosomal dominant isolated ectopia lentis 1,,isolated ectopia lentis that has material basis in heterozygous mutation in the FBN1 gene on chromosome 15q21,,,,,,C1851286
+Q50349837,rare disease,希少疾患,Q929833,subcortical band heterotopia,,congenital nervous system abnormality characterized by migration of neurons to ectopic locations in the brain where the neurons form areas that appear as band-like clusters of white tissue underneath the gray tissue of the cerebral cortex,,,,,,C1848201
+Q53660450,rare disease,希少疾患,Q929833,"sideroblastic anemia with B-cell immunodeficiency, periodic fevers, and developmental delay",,human disease,,,,,,C4015172
+Q52611903,rare disease,希少疾患,Q929833,5-oxoprolinase deficiency,,5-Oxoprolinase deficiency is clinically a very heterogeneous condition characterized by 5-oxoprolinuria,,C535322,,,,C0268525
+Q51728449,rare disease,希少疾患,Q929833,epithelial recurrent erosion dystrophy,,human disease,,C565155,,,,C1852551
+Q50349697,rare disease,希少疾患,Q929833,autosomal dominant cutis laxa 3,,human disease,,,,,,C4225268
+Q50349715,rare disease,希少疾患,Q929833,hereditary sensory and autonomic neuropathy type 7,,human disease,,,,,,C3809882
+Q50349720,rare disease,希少疾患,Q929833,hereditary sensory neuropathy type 1F,,human disease,,,,,,C3810194
+Q52956039,rare disease,希少疾患,Q929833,SC phocomelia syndrome,,human disease,,,,,,C0392475
+Q50349826,rare disease,希少疾患,Q929833,camptodactyly-tall stature-scoliosis-hearing loss syndrome,,"autosomal genetic disease characterized by camptodactyly, tall stature, scoliosis, and hearing loss that has material basis in partial loss of function in the FGFR3 gene on chromosome 4p16",,C537975,,,,C1864852
+Q52886674,rare disease,希少疾患,Q929833,trisomy 2,,partial or complete triplication of chromosome 2,,,,,,
+Q50349829,rare disease,希少疾患,Q929833,molybdenum cofactor deficiency type B,,molybdenum cofactor deficiency that has material basis in homozygous or compound heterozygous mutation in the MOCS2 gene on chromosome 5q11,,C565373,,,,C1854989
+Q50349834,rare disease,希少疾患,Q929833,molybdenum cofactor deficiency type C,,molybdenum cofactor deficiency that has material basis in homozygous mutation in the GPHN gene on chromosome 14q23,,C565374,,,,C1854990
+Q50824966,rare disease,希少疾患,Q929833,oculocutaneous albinism type 6,,disease,,,,,,
+Q50349741,rare disease,希少疾患,Q929833,CAKUT2,,CAKUT that has material basis in heterozygous mutation in the TBX18 gene on chromosome 6q14,,,,,,C1840451
+Q50364510,rare disease,希少疾患,Q929833,Ataxia-oculomotor apraxia type 4,,AOA4,,,,,,
+Q42423530,rare disease,希少疾患,Q929833,Jeremy the snail,ジェレミー,sinistral garden snail; Internet celebrity,左巻きのカタツムリの一匹,,,,,
+Q53705008,rare disease,希少疾患,Q929833,trisomy 5,,partial or complete triplication of chromosome 5,,,,,,
+Q53705022,rare disease,希少疾患,Q929833,trisomy 13,,partial or complete triplication of chromosome 13,,,,,,
+Q50824137,rare disease,希少疾患,Q929833,Exfoliative ichthyosis,,Autosomal recessive exfoliative ichthyosis. Ichthyosis exfoliativa,,,,,,C1838440
+Q102296658,rare disease,希少疾患,Q929833,ankyrin-B-related cardiac arrhythmia,,human disease,,,,,,C1970119
+Q104704529,rare disease,希少疾患,Q929833,epithelioid glioblastoma,,,,,,,,CL512400
+Q102293922,rare disease,希少疾患,Q929833,X-linked congenital bilateral absence of vas deferens,,human disease,,,,,,C4310815
+Q70210929,rare disease,希少疾患,Q929833,Adiponectin deficiency,,,,C567258,,,,C2675518
+Q70210922,rare disease,希少疾患,Q929833,Al-Gazali-Bakalinova syndrome,,,,C564621,,,,C1846722
+Q69633053,rare disease,希少疾患,Q929833,"Neurodevelopmental disorder with epilepsy, cataracts, feeding difficulties, and delayed brain myelination",,rare genetic disease,,,,,,C4479333
+Q92195432,rare disease,希少疾患,Q929833,Aicardi-Goutieres syndrome 1,,a rare genetic neurodevelopmental disorder,,,,,,
+Q92195950,rare disease,希少疾患,Q929833,Aicardi-Goutieres syndrome 2,,a rare genetic neurodevelopmental disorder,,,,,,
+Q70210939,rare disease,希少疾患,Q929833,"deafness, X-linked 5",,human disease,,,,,,
+Q55782588,rare disease,希少疾患,Q929833,syndactyly type 8,,human disease,,,,,,C1839728
+Q93448901,rare disease,希少疾患,Q929833,immunodeficiency 31C,,human disease,,,,,,
+Q69638170,rare disease,希少疾患,Q929833,Dursun syndrome,,rare genetic disease,,C567260,,,,C2751630
+Q69642532,rare disease,希少疾患,Q929833,"Hyperphenylalaninemia, mild, non-BH4-deficient",,rare genetic disorder,,,,,,
+Q69642903,rare disease,希少疾患,Q929833,"Congenital heart defects, dysmorphic facial features, and intellectual developmental disorder",,rare genetic disorder,,,,,,CL761115
+Q69643169,rare disease,希少疾患,Q929833,Congenital heart defects and ectodermal dysplasia,,rare genetic disorder,,,,,,CL761126
+Q93950751,rare disease,希少疾患,Q929833,achromatopsia 5,,human disease,,,,,,
+Q70209517,rare disease,希少疾患,Q929833,"deafness, X-linked 6",,human disease,,,,,,
+Q70210920,rare disease,希少疾患,Q929833,"neutropenia, severe congenital 2, autosomal dominant",,human disease,,,,,,
+Q94149208,rare disease,希少疾患,Q929833,primary congenital glaucoma 3A,,human disease,,,,,,
+Q94151564,rare disease,希少疾患,Q929833,osteogenesis imperfecta type 19,,human disease,,,,,,
+Q70106747,rare disease,希少疾患,Q929833,"ectodermal dysplasia 13, hair/tooth type",,rare genetic disorder,,,,,,
+Q70107399,rare disease,希少疾患,Q929833,"Neutropenia, severe congenital, 6, autosomal recessive",,rare genetic disorder,,,,,,
+Q70108020,rare disease,希少疾患,Q929833,"Neutropenia, severe congenital, 5, autosomal recessive",,rare genetic disorder,,,,,,
+Q94261906,rare disease,希少疾患,Q929833,Aicardi-Goutieres syndrome 5,,Human disease,,,,,,
+Q94262854,rare disease,希少疾患,Q929833,Gabriele-de Vries syndrome,,human disease,,,,,,
+Q94263369,rare disease,希少疾患,Q929833,combined oxidative phosphorylation deficiency 1,,human disease,,,,,,
+Q70196762,rare disease,希少疾患,Q929833,"Rhabdomyosarcoma, embryonal, 2",,rare genetic disorder,,,,,,
+Q69636198,rare disease,希少疾患,Q929833,Cowden syndrome 5,,rare genetic disease,,,,,,
+Q69636629,rare disease,希少疾患,Q929833,Cowden syndrome 6,,rare genetic disease,,,,,,
+Q69637370,rare disease,希少疾患,Q929833,Cowden syndrome 4,,rare genetic disease,,,,,,
+Q102296291,rare disease,希少疾患,Q929833,X-linked deafness 4,,human disease,,,,,,
+Q70207920,rare disease,希少疾患,Q929833,Bone mineral density QTL 15,,,,,,,,
+Q102296176,rare disease,希少疾患,Q929833,gnathodiaphyseal dysplasia,,human disease,,C536039,,,,C1833736
+Q69638807,rare disease,希少疾患,Q929833,Bardet-Biedl syndrome 21,,rare genetic disorder,,,,,,
+Q70209077,rare disease,希少疾患,Q929833,"Neutropenia, severe congenital 4, autosomal recessive",,,,,,,,
+Q70210198,rare disease,希少疾患,Q929833,Premature ovarian failure 10,,,,,,,,
+Q70210943,rare disease,希少疾患,Q929833,autosomal dominant osteosclerosis,,,,,,,,
+Q70210937,rare disease,希少疾患,Q929833,blood group Lutheran inhibitor,,,,,,,,
+Q66804111,rare disease,希少疾患,Q929833,congenital myasthenic syndrome 22,,"congenital myasthenic syndrome characterized by neonatal hypotonia, neonatal feeding problems, and nasal dysarthria and that has material basis in homozygous or compound heterozygous mutation in the PREPL gene on chromosome 2p21",,,,,,
+Q70209131,rare disease,希少疾患,Q929833,"Congenital disorder of glycosylation, type Io",,,,,,,,C2752007
+Q70209859,rare disease,希少疾患,Q929833,"X-inactivation, familial skewed",,,,,,,,C1848138
+Q70210934,rare disease,希少疾患,Q929833,NOR polyagglutination syndrome,,,,,,,,C3549486
+Q102293450,rare disease,希少疾患,Q929833,ectodermal dysplasia 11A,,human disease,,,,,,C3541517
+Q102293469,rare disease,希少疾患,Q929833,ectodermal dysplasia 12,,human disease,,,,,,C4310616
+Q27677598,rare disease,希少疾患,Q929833,Alzheimer disease 2,,Alzheimer's disease that is characterized by an association of the apolipoprotein E E4 allele,,C536595,,,,C1863051
+Q27677581,rare disease,希少疾患,Q929833,Leber congenital amaurosis 9,,Leber congenital amaurosis that has material basis in mutation in the NMNAT1 gene on chromosome 1p36,,C536603,,,,C1837873
+Q27677590,rare disease,希少疾患,Q929833,Leber congenital amaurosis 2,,"Leber congenital amaurosis that is characterized by night blindness, some transient improvement in vision, and eventual progressive visual loss and has material basis in mutation in the RPE65 gene on chromosome 1",,C536601,,,,C1859844
+Q27674899,rare disease,希少疾患,Q929833,cataract 43,,cataract that has material basis in heterozygous mutation in the UNC45B gene on chromosome 17q12,,,,,,C4225389
+Q27674903,rare disease,希少疾患,Q929833,cataract 19 multiple types,,cataract that has material basis in homozygous mutation in the LIM2 gene on chromosome 19q13,,,,,,C3809004
+Q27674904,rare disease,希少疾患,Q929833,cataract 33,,cataract that has material basis in homozygous mutation in the beaded filament structural protein-1 gene (BFSP1) on chromosome 20p12,,,,,,C1969644
+Q27674912,rare disease,希少疾患,Q929833,cataract 23,,cataract that has material basis in heterozygous mutation in the crystallin beta-A4 gene (CRYBA4) on chromosome 22q12,,,,,,C1864879
+Q27674942,rare disease,希少疾患,Q929833,osteogenesis imperfecta type 17,,osteogenesis imperfecta that has material basis in mutation in the SPARC gene on chromosome 5q33,,,,,,C4225301
+Q27674948,rare disease,希少疾患,Q929833,retinitis pigmentosa 39,,retinitis pigmentosa that has material basis in mutation in the USH2A gene on chromosome 1q41,,,,,,C3151138
+Q27674950,rare disease,希少疾患,Q929833,retinitis pigmentosa 71,,retinitis pigmentosa that has material basis in mutation in the IFT172 gene on chromosome 2p23,,,,,,C4225342
+Q27674949,rare disease,希少疾患,Q929833,retinitis pigmentosa 75,,retinitis pigmentosa that has material basis in mutation in the AGBL5 gene on chromosome 2p23,,,,,,C4310759
+Q27674955,rare disease,希少疾患,Q929833,retinitis pigmentosa 73,,retinitis pigmentosa that has material basis in mutation in the HGSNAT gene on chromosome 8p11,,,,,,C4225287
+Q27674958,rare disease,希少疾患,Q929833,retinitis pigmentosa 72,,retinitis pigmentosa that has material basis in mutation in the ZNF408 gene on chromosome 11p11,,,,,,C4225315
+Q27674960,rare disease,希少疾患,Q929833,retinitis pigmentosa 74,,retinitis pigmentosa that has material basis in mutation in the BBS2 gene on chromosome 16q13,,,,,,C4225281
+Q27677579,rare disease,希少疾患,Q929833,"3-methylglutaconic aciduria with cataracts, neurologic involvement and neutropenia",,3-methylglutaconic aciduria that has material basis in homozygous or compound heterozygous mutation in the CLPB gene on chromosome 11q13,,,,,,C4225393
+Q27677577,rare disease,希少疾患,Q929833,"3-methylglutaconic aciduria with deafness, encephalopathy, and Leigh-like syndrome",,3-methylglutaconic aciduria that has material basis in homozygous or compound heterozygous mutation in the SERAC1 gene on chromosome 6q25,,,,,,C3553597
+Q27677589,rare disease,希少疾患,Q929833,advanced sleep phase syndrome 2,,advanced sleep phase syndrome that has material basis in heterozygous mutation in the CSNK1D gene on chromosome 17q25,,,,,,C3808874
+Q27677605,rare disease,希少疾患,Q929833,Alzheimer disease 3,,Alzheimer's disease that has material basis in mutation in the presenilin-1 gene (PSEN1) on chromosome 14q24,,,,,,C1843013
+Q27677594,rare disease,希少疾患,Q929833,autosomal dominant Alport syndrome,,Alport syndrome that has material -basis in heterozygous mutation in the COL4A3 gene,,,,,,C1567743
+Q27677597,rare disease,希少疾患,Q929833,X-linked Alport syndrome,,Alport syndrome that has material -basis in mutation in the gene encoding the alpha-5 chain of basement membrane collagen type IV (COL4A5),,,,,,C1567742
+Q27674906,rare disease,希少疾患,Q929833,cataract 44,,cataract that has material basis in homozygous mutation in the LSS gene on chromosome 21q22,,,,,,
+Q27677602,rare disease,希少疾患,Q929833,Alzheimer disease 4,,Alzheimer's disease that has material basis in a mutation in the presenilin-2 gene (PSEN2) on chromosome 1q42,,C536596,,,,C1847200
+Q27674898,rare disease,希少疾患,Q929833,cataract 10 multiple types,,cataract that has material basis in heterozygous mutation in the CRYBA1 gene on chromosome 17q11,,C563435,,,,C1833229
+Q27674895,rare disease,希少疾患,Q929833,cataract 5 multiple types,,cataract that has material basis in heterozygous mutation in the gene that encodes heat-shock transcription factor-4 (HSF4) on chromosome 16q22,,C535342,,,,C0266537
+Q27674896,rare disease,希少疾患,Q929833,cataract 21 multiple types,,cataract that has material basis in heterozygous mutation in the MAF gene on chromosome 16q23,,C565703,,,,C1857768
+Q27674907,rare disease,希少疾患,Q929833,cataract 22 multiple types,,cataract that has material basis in heterozygous or homozygous mutation in the beta-B3 crystallin gene (CRYBB3) on chromosome 22q11,,C565725,,,,C1857853
+Q27674909,rare disease,希少疾患,Q929833,cataract 17 multiple types,,cataract that has material basis in heterozygous or homozygous mutation in the beta-B1 crystallin gene (CRYBB1) on chromosome 22q12,,C566923,,,,C1969062
+Q27674927,rare disease,希少疾患,Q929833,hypertrophic cardiomyopathy 9,,hypertrophic cardiomyopathy that has material basis in heterozygous mutation in the TTN gene on chromosome 2q31,,C566044,,,,C1861065
+Q3335660,rare disease,希少疾患,Q929833,3-M syndrome,,"autosomal recessive disease characterized by dwarfism, facial dysmorphia and skeletal abnormalities",,C535314,,,,C1848862
+Q27674842,rare disease,希少疾患,Q929833,Bardet-Biedl syndrome 16,,Bardet-Biedl syndrome that has material basis in homozygous or compound heterozygous mutations in the SDCCAG8 gene on chromosome 1q43,,,,,,C3889474
+Q3270312,rare disease,希少疾患,Q929833,hereditary leiomyomatosis and renal cell cancer syndrome,,"Hereditary leiomyomatosis and renal cell cancer (HLRCC) is a hereditary cancer syndrome characterized by a predisposition to cutaneous and uterine leiomyomas and, in some families, to renal cell cancer",,C535516,D23,,,C1708350
+Q3335666,rare disease,希少疾患,Q929833,diastrophic dysplasia,,osteochondrodysplasia that has material basis in abnormal cartilage development due to mutations in the SLC26A2 gene which results in short limb dwarfism,,C536170,,,,C0220726
+Q3298999,rare disease,希少疾患,Q929833,microcytic anemia,小球性貧血,human disease,,C562385,D50.8,,,C0085576
+Q3335671,rare disease,希少疾患,Q929833,mulibrey nanism,,Human disease,,D050336,,,,C0524582
+Q2356131,rare disease,希少疾患,Q929833,Unverricht-Lundborg syndrome,,Human disease,,D020194,G40.3,333.2,,C0751785
+Q2376219,rare disease,希少疾患,Q929833,X-linked sideroblastic anemia with ataxia,,Human disease,,,,,,
+Q296104,rare disease,希少疾患,Q929833,activated protein C resistance,活性化プロテインC抵抗性,hemostatic disorder,,D020016,,289.81,,C0600433
+Q3312899,rare disease,希少疾患,Q929833,familial hemiplegic migraine,家族性片麻痺性片頭痛,"migraine with aura that is characterized by temporary numbness or weakness, often affecting one side of the body",,,,,,C0477373
+Q3281285,rare disease,希少疾患,Q929833,"Niemann–Pick disease, SMPD1-associated",,medical condition,,D052536,E75.2,272.7,,C0268242
+Q3331456,rare disease,希少疾患,Q929833,Laing early-onset distal myopathy,,,,,,,,
+Q3276506,rare disease,希少疾患,Q929833,orotic aciduria,オロト酸尿症,pyrimidine metabolic disorder that is characterized by an excessive secretion of orotic acid in urine,,C537136,D53.0,281.4,47641009,C0220987
+Q3335662,rare disease,希少疾患,Q929833,hydrops-ectopic calcification-moth-eaten skeletal dysplasia,グリーンバーグ骨異形成症,lethality and affected fetuses are considered as nonviable,,C535858,,,,C1300226
+Q2362826,rare disease,希少疾患,Q929833,Werdnig–Hoffmann disease,ウエルドニッヒ・ホフマン症,Human disease,,,,,,C0043116
+Q2397009,rare disease,希少疾患,Q929833,choroideremia,コロイデレミア,"rare, X-linked recessive form of hereditary retinal degeneration",,D015794,,,,C0008525
+Q17067610,rare disease,希少疾患,Q929833,Kodaikanal mercury poisoning,,environmental contamination incident in India,,,,,,
+Q27674841,rare disease,希少疾患,Q929833,Bardet-Biedl syndrome 15,,Bardet-Biedl syndrome that has material basis in homozygous mutation in the WDPCP gene on chromosome 2p15,,,,,,C3150127
+Q56003403,rare disease,希少疾患,Q929833,hyperphosphatasia with mental retardation syndrome 5,,human disease,,,,,,C4014958
+Q56003348,rare disease,希少疾患,Q929833,pachyonychia congenita 3,,human disease,,,,,,C3714948
+Q56003349,rare disease,希少疾患,Q929833,pachyonychia congenita 4,,human disease,,,,,,C3714949
+Q56003379,rare disease,希少疾患,Q929833,pancreatic agenesis 2,,human disease,,,,,,C4014737
+Q56013532,rare disease,希少疾患,Q929833,"aortic aneurysm, familial thoracic 9",,human disease,,,,,,C4015368
+Q56013526,rare disease,希少疾患,Q929833,"epileptic encephalopathy, early infantile, 27",,human disease,,,,,,C4015316
+Q56013535,rare disease,希少疾患,Q929833,"generalized epilepsy with febrile seizures plus, type 9",,human disease,,,,,,C4015395
+Q56013514,rare disease,希少疾患,Q929833,mirror movements 3,,human disease,,,,,,C4015124
+Q56013512,rare disease,希少疾患,Q929833,"microcephaly 13, primary, autosomal recessive",,human disease,,,,,,C4015080
+Q56013523,rare disease,希少疾患,Q929833,Perrault syndrome 5,,human disease,,,,,,C4015307
+Q56013553,rare disease,希少疾患,Q929833,mitochondrial short-chain enoyl-CoA hydratase 1 deficiency,,human disease,,,,,,C4225391
+Q56013517,rare disease,希少疾患,Q929833,"porokeratosis 8, disseminated superficial actinic type",,human disease,,,,,,C4015128
+Q56013537,rare disease,希少疾患,Q929833,retinal dystrophy and obesity,,human disease,,,,,,C4015424
+Q56013550,rare disease,希少疾患,Q929833,peeling skin syndrome type a,,"Peeling skin syndrome (PSS) type A is a non inflammatory form of generalized PSS (see this term), a type of ichthyosis (see this term), characterized by generalized white scaling and superficial painless peeling of the skin",,,,,,C4015729
+Q56003377,rare disease,希少疾患,Q929833,short stature due to GHSR deficiency,,,,,,,,C1858656
+Q2622714,rare disease,希少疾患,Q929833,cholesterol ester storage disease,,lysosomal storage disease,,D015217,E75.5,272.7,,C0008384
+Q178194,rare disease,希少疾患,Q929833,cystic fibrosis,嚢胞性線維症,autosomal recessive disease characterized by the buildup of mucus,,D003550,E84,,190905008,C0010674
+Q2964434,rare disease,希少疾患,Q929833,Schmid metaphyseal chondrodysplasia,,metaphyseal dysplasia that results in dwarfism and bowed legs,,C537352,,,,C0265289
+Q3042159,rare disease,希少疾患,Q929833,X-linked dystonia-parkinsonism,,focal dystonia characterized by parkinsonism that is frequently accompanied by focal dystonia and progresses to generalized dystonia that has material basis in an SVA retrotransposon insertion in the intron of the TAF1 gene on chromosome Xq13.1,,C564048,,,,C1839130
+Q3042143,rare disease,希少疾患,Q929833,frontometaphyseal dysplasia,,human disease,,C538064,Q78.5,,,C0265293
+Q2613277,rare disease,希少疾患,Q929833,Alpha-thalassemia mental retardation syndrome,ATR-X症候群,alpha thalassemia that has material basis in mutation in the ATRX gene on Xq21,,C538258,,,,C1845055
+Q3042104,rare disease,希少疾患,Q929833,dysferlinopathy,,human disease,,C537995,,,,C2931687
+Q3030635,rare disease,希少疾患,Q929833,coronary artery dissection,,"uncommon cause of heart attacks mostly affecting younger, healthy women",,,I25.4,414.12,,
+Q2964433,rare disease,希少疾患,Q929833,Jansen's metaphyseal chondrodysplasia,,metaphyseal dysplasia that has material basis in mutation in PTH receptor which results in short-limbed dwarfism,,C537564,,,,C0265295
+Q2964437,rare disease,希少疾患,Q929833,Conradi–Hünermann syndrome,,Rare X-linked form of chondrodysplasia punctata,,,Q77.3,756.59,398719004,
+Q2532540,rare disease,希少疾患,Q929833,Birt-Hogg-Dube syndrome,Birt-Hogg-Dube症候群,"human autosomal dominant genetic disorder that can cause susceptibility to kidney cancer, renal and pulmonary cysts",,D058249,Q87,759.89,,C0346010
+Q3042113,rare disease,希少疾患,Q929833,episodic kinesigenic dyskinesia 1,,dystonia characterized by autosomal dominant inheritance of recurrent brief involuntary hyperkinesias triggered by sudden movements that has material basis in heterozygous mutation in the PRRT2 gene on chromosome 16p11,,,,,,
+Q2610084,rare disease,希少疾患,Q929833,sideroblastic anaemia P,鉄芽球性貧血,aplastic anemia where the bone marrow produces ringed sideroblasts rather than healthy red blood cells (erythrocytes),,D000756,,,,C0002896
+Q3043136,rare disease,希少疾患,Q929833,enteropeptidase deficiency,,human disease,,C562649,,,,C0268416
+Q2964438,rare disease,希少疾患,Q929833,McKusick type metaphyseal dysplasia,軟骨毛髪低形成症,metaphyseal dysplasia that results in short-limbed dwarfism and fine sparse hair,,C535916,,,,C0220748
+Q2941671,rare disease,希少疾患,Q929833,"congenital cataracts, facial dysmorphism, and neuropathy",,disease,,C565822,Q87.8,,,C1858726
+Q3042144,rare disease,希少疾患,Q929833,autosomal recessive multiple epiphyseal dysplasia,,medical condition,,C535504,,,,C1847593
+Q1473749,rare disease,希少疾患,Q929833,Müllerian agenesis,ミュラー管無発生,congenital atypical development of Müllerian ducts,10代後半以降の無月経や性交障害で発覚する、染色体・卵巣・卵管は正常なものの、子宮や腟が皆無または一部が欠損している先天性疾患,C567186,Q51.0,626.0,,C1698581
+Q3042140,rare disease,希少疾患,Q929833,"hip dysplasia, Beukes type",,human disease,,C564185,Q65.8,,,C1840572
+Q3026441,rare disease,希少疾患,Q929833,Machado-Joseph disease,Machado-Joseph病,autosomal dominant cerebellar ataxia that is characterized by slow degeneration of the hindbrain and has material basis in expansion of CAG triplet repeats (glutamine) in the ATXN3 gene,,D017827,G11.1,334.2,,C0024408
+Q3042171,rare disease,希少疾患,Q929833,oculopharyngeal muscular dystrophy,眼咽頭型筋ジストロフィー,"Oculopharyngeal muscular dystrophy (OPMD) is an adult-onset progressive myopathy characterized by progressive eyelid ptosis, dysphagia, dysarthria and proximal limb weakness",,D039141,,359.1,,C0244252
+Q2964435,rare disease,希少疾患,Q929833,rhizomelic chondrodysplasia punctata type 1,,rhizomelic chondrodysplasia punctata that has material basis in autosomal recessive inheritance of homozygous or compound heterozygous mutation in the PEX7 gene on chromosome 6q23.3,,,,,,C1859133
+Q3629049,rare disease,希少疾患,Q929833,optic atrophy,,"disorder characterized by loss of optic nerve fibers. It may be inherited or acquired. Acquired causes include ischemia, optic nerve neuropathy, glaucoma, trauma, radiation, brain tumors, and multiple sclerosis. It leads to vision disturbances",,D009896,,,,C0029124
+Q28024762,rare disease,希少疾患,Q929833,primary ciliary dyskinesia 24,,primary ciliary dyskinesia that is characterized by autosomal recessive inheritance with sinopulmonary infection and subfertility and has material basis in homozygous or compound heterozygous mutation in the RSPH1 gene on chromosome 21q22,,,,,,C3809634
+Q28024759,rare disease,希少疾患,Q929833,primary ciliary dyskinesia 20,,Human disease,,,,,,C3540844
+Q28024761,rare disease,希少疾患,Q929833,primary ciliary dyskinesia 26,,Human disease,,,,,,C3809684
+Q28024760,rare disease,希少疾患,Q929833,primary ciliary dyskinesia 2,,Human disease,,C535277,,,,C1847554
+Q3629026,rare disease,希少疾患,Q929833,ear canal atresia,,human disease,,C564321,Q16.1,744.0,,C1842937
+Q28065544,rare disease,希少疾患,Q929833,methylmalonic acidemia due to transcobalamin receptor defect,,"methylmalonic acidemia characterized by autosomal recessive inheritance of low uptake of transcobalamin-bound cobalamin, but normal conversion to adenosylcobalamin and methylcobalamin and that has material basis in mutation in the CD320 gene",,,,,,C3150900
+Q32140112,rare disease,希少疾患,Q929833,congenital myasthenic syndrome 11,,human disease,,C563831,,,,C1837094
+Q32136810,rare disease,希少疾患,Q929833,juvenile onset Parkinson disease 19A,,Parkinson's disease that has material basis in homozygous mutation in the DNAJC6 gene on chromosome 1p31,,,,,,C3809811
+Q32136880,rare disease,希少疾患,Q929833,early-onset Parkinson disease 20,,early-onset Parkinson disease that has material basis in homozygous mutation in the SYNJ1 gene on chromosome 21q22,,,,,,C3809824
+Q32136868,rare disease,希少疾患,Q929833,Parkinson disease 17,,late-onset Parkinson disease that has material basis in heterozygous mutation in the VPS35 gene on chromosome 16q13,,,,,,C3280133
+Q32136929,rare disease,希少疾患,Q929833,karyomegalic interstitial nephritis,,"interstitial nephritis characterized by nephritis, interstitial fibrosis, and enlarged and atypical tubular epithelial cell nuclei that has material basis in homozygous or compound heterozygous mutation in the FAN1 gene on chromosome 15q13.3",,,,,,C3553774
+Q32137273,rare disease,希少疾患,Q929833,PHARC syndrome,,"autosomal recessive disease that is characterized by polyneuropathy, hearing loss, cerebellar ataxia, retinitis pigmentosa and early-onset cataract",,,,,,C2675204
+Q32139838,rare disease,希少疾患,Q929833,long QT syndrome 13,,long QT syndrome that has_material_basis_in dominant inheritance of mutation in the KCNJ5 gene on chromosome 11q24.3,,,,,,C3150733
+Q32139852,rare disease,希少疾患,Q929833,long QT syndrome 14,,long QT syndrome that has material basis in dominant inheritance of mutation in the CALM1 gene on chromosome 14q32.11,,,,,,C4015671
+Q32139866,rare disease,希少疾患,Q929833,long QT syndrome 15,,long QT syndrome that has_material_basis_in dominant inheritance of mutation in the CALM2 gene on chromosome 2p21,,,,,,C4015695
+Q32139891,rare disease,希少疾患,Q929833,congenital myasthenic syndrome 15,,congenital myasthenic syndrome characterized by onset of progressive fatigable proximal muscle weakness in childhood that has material basis in compound heterozygous mutation in the ALG14 gene on chromosome 1p21,,,,,,C4015596
+Q32139904,rare disease,希少疾患,Q929833,congenital myasthenic syndrome 7,,congenital myasthenic syndrome characterized by autosomal dominant inheritance of presynaptic defects with onset of symptoms in early childhood that has material basis in heterozygous mutation in the SYT2 gene on chromosome 1q32,,,,,,C4015038
+Q32139932,rare disease,希少疾患,Q929833,congenital myasthenic syndrome 20,,congenital myasthenic syndrome characterized by autosomal recessive inheritance of severe hypotonia associated with episodic apnea that has material basis in homozygous or compound heterozygous mutation in the SLC5A7 gene on chromosome 2q12,,,,,,C4310694
+Q32139946,rare disease,希少疾患,Q929833,congenital myasthenic syndrome 1B,,congenital myasthenic syndrome characterized by defects in postsynaptic neuromuscular junctions with early-onset progressive muscle weakness that has material basis in mutation in the CHRNA1 gene on chromosome 2q,,,,,,C1837122
+Q32140070,rare disease,希少疾患,Q929833,congenital myasthenic syndrome 21,,"congenital myasthenic syndrome characterized by autosomal recessive inheritance of hypotonia, apneas, and feeding difficulties that has material basis in homozygous or compound heterozygous mutation in the SLC18A3 gene on chromosome 10q11",,,,,,C4310654
+Q32140098,rare disease,希少疾患,Q929833,congenital myasthenic syndrome 17,,congenital myasthenic syndrome that has material basis in compound heterozygous mutation in the LRP4 gene on chromosome 11p11,,,,,,C4225377
+Q32139737,rare disease,希少疾患,Q929833,long QT syndrome 2,,long QT syndrome that has_material_basis_in dominant inheritance of mutation in the KCNH2 gene on chromosome 7q36.1,,,,,,
+Q32139763,rare disease,希少疾患,Q929833,long QT syndrome 5,,long QT syndrome that has_material_basis_in dominant inheritance of mutation in the KCNE1 gene on chromosome 21q22.12,,,,,,
+Q32139773,rare disease,希少疾患,Q929833,long QT syndrome 6,,long QT interval syndrome that has_material_basis_in dominant inheritance of mutation in the KCNE2 gene on chromosome 21q22.11,,,,,,
+Q32136845,rare disease,希少疾患,Q929833,autosomal dominant Parkinson disease 4,,late onset Parkinson disease that has material basis in heterozygous triplication of the alpha-synuclein gene (SNCA) on chromosome 4q22,,C565324,,,,C1854182
+Q32136892,rare disease,希少疾患,Q929833,autosomal recessive Parkinson disease 14,,"Adult-onset dystonia-parkinsonism is a rare neurodegenerative disease usually presenting before the age of 30 and which is characterized by dystonia, L-dopa-responsive parkinsonism, pyramidal signs and rapid cognitive decline",,C567844,,,,C2751842
+Q32136756,rare disease,希少疾患,Q929833,osteopathia striata with cranial sclerosis,,"Osteopathia striata with cranial sclerosis (OS-CS) is a bone dysplasia characterized by longitudinal striations of the metaphyses of the long bones, sclerosis of the craniofacial bones, macrocephaly, cleft palate and hearing loss",,C536053,,,,C0432268
+Q32139695,rare disease,希少疾患,Q929833,congenital muscular dystrophy due to integrin alpha-7 deficiency,,congenital muscular dystrophy characterized by autosomal recessive inheritance that has material basis in compound heterozygous mutation in the ITGA7 gene on chromosome 12q13,,C567709,,,,C2750786
+Q32139750,rare disease,希少疾患,Q929833,long QT syndrome 3,,long QT syndrome that has_material_basis_in dominant inheritance of mutation in the SCN5A gene on chromosome 3p22.2,,C565840,,,,C1838527
+Q32139785,rare disease,希少疾患,Q929833,long QT syndrome 9,,long QT syndrome that has material basis in mutation of the CAV3 gene on chromosome 3p25.3,,C567515,,,,C2678485
+Q32139811,rare disease,希少疾患,Q929833,long QT syndrome 11,,long QT syndrome that has_material_basis_in dominant inheritance of mutation in the AKAP9 gene on chromosome 7q21.2,,C567513,,,,C2678483
+Q32139824,rare disease,希少疾患,Q929833,long QT syndrome 12,,long QT syndrome that has_material_basis_in dominant inheritance of mutation in the SNTA1 gene on chromosome 20q11.21,,C567842,,,,C2751830
+Q32140059,rare disease,希少疾患,Q929833,congenital myasthenic syndrome 6,,"Congenital myasthenic syndrome caused by mutation(s) in the CHAT gene, encoding choline O-acetyltransferase. It is inherited in an autosomal recessive manner.",,C535759,,,,C0393929
+Q32136833,rare disease,希少疾患,Q929833,young-onset Parkinson disease,,human disease,,,,,,C4275179
+Q32139880,rare disease,希少疾患,Q929833,congenital myasthenic syndrome 8,,human disease,,,,,,C3808739
+Q32139917,rare disease,希少疾患,Q929833,congenital myasthenic syndrome 12,,human disease,,,,,,C1864649
+Q32139971,rare disease,希少疾患,Q929833,congenital myasthenic syndrome 3C,,human disease,,,,,,C4225370
+Q32139982,rare disease,希少疾患,Q929833,congenital myasthenic syndrome 3B,,human disease,,,,,,C4225371
+Q32139615,rare disease,希少疾患,Q929833,megaconial type congenital muscular dystrophy,,human disease,,C566527,,,,C1865233
+Q32139666,rare disease,希少疾患,Q929833,muscular dystrophy-dystroglycanopathy type B6,,human disease,,C563844,,,,C1837229
+Q55784027,rare disease,希少疾患,Q929833,"intellectual disability, anterior maxillary Protrusion, and strabismus",,human disease,,,,,,C3150924
+Q61913514,rare disease,希少疾患,Q929833,ovarian dysgenesis 3,,46 XX gonadal dysgenesis that has material basis in homozygous mutation in the PSMC3IP gene on chromosome 17q12-q21,,,,,,
+Q55784046,rare disease,希少疾患,Q929833,multisystemic smooth muscle dysfunction syndrome,,medical condition,,,,,,C3151201
+Q55784025,rare disease,希少疾患,Q929833,infantile cerebral and cerebellar atrophy with postnatal progressive microcephaly,,human disease,,,,,,C3150921
+Q55784033,rare disease,希少疾患,Q929833,porencephaly-microcephaly-bilateral congenital cataract syndrome,,human disease,,,,,,C3151000
+Q55784031,rare disease,希少疾患,Q929833,progressive demyelinating neuropathy with bilateral striatal necrosis,,human disease,,,,,,C3150973
+Q55784039,rare disease,希少疾患,Q929833,susceptibility to viral and mycobacterial infections,,human disease,,,,,,C3151088
+Q55784028,rare disease,希少疾患,Q929833,THOC6-related developmental delay-microcephaly-facial dysmorphism syndrome,,human disease,,,,,,C3150939
+Q55784034,rare disease,希少疾患,Q929833,FADD-related immunodeficiency,,gene (11q13.3) was found in the family and the disease is thought to follow an autosomal recessive pattern of inheritance.,,,,,,C3151062
+Q55784036,rare disease,希少疾患,Q929833,immunodeficiency due to MASP-2 deficiency,,human disease,,C565360,,,,C3151085
+Q61913453,rare disease,希少疾患,Q929833,early infantile epileptic encephalopathy 3,,human disease,,,,,,
+Q61913465,rare disease,希少疾患,Q929833,early infantile epileptic encephalopathy 17,,human disease,,,,,,
+Q30315066,rare disease,希少疾患,Q929833,marfanoid–progeroid–lipodystrophy syndrome,,human disease,,,,,,C4310796
+Q32142628,rare disease,希少疾患,Q929833,hereditary spastic paraplegia 15,,hereditary spastic paraplegia that has material basis in mutation in the ZFYVE26 gene on chromosome 14q24.1,,C536642,,,,C1849128
+Q32142660,rare disease,希少疾患,Q929833,hereditary spastic paraplegia 17,,hereditary spastic paraplegia that has material basis in mutation in the BSCL2 gene on chromosome 11q12,,C536644,,,,C2931276
+Q32142675,rare disease,希少疾患,Q929833,hereditary spastic paraplegia 18,,"gene (8p11.2) encoding the protein, Erlin-2.",,C567628,,,,C2749936
+Q32142710,rare disease,希少疾患,Q929833,hereditary spastic paraplegia 2,,hereditary spastic paraplegia that has material basis in mutation in the PLP1 gene on chromosome Xq22.2,,C536857,,,,C1839264
+Q32142762,rare disease,希少疾患,Q929833,hereditary spastic paraplegia 26,,"gene (12q13.3), encoding Beta-1, 4 N-acetylgalactosaminyltransferase 1.",,C536862,,,,C1836632
+Q32142794,rare disease,希少疾患,Q929833,hereditary spastic paraplegia 28,,hereditary spastic paraplegia that has material basis in mutation in the DDHD1 gene on chromosome 14q22,,C563732,,,,C1836295
+Q32142828,rare disease,希少疾患,Q929833,hereditary spastic paraplegia 30,,hereditary spastic paraplegia that has material basis in mutation in the KIF1A gene on chromosome 2q37,,C563677,,,,C1835896
+Q32142846,rare disease,希少疾患,Q929833,hereditary spastic paraplegia 31,,"30 years). In some cases, it can present as a complex phenotype with additional associated manifestations including peripheral neuropathy, bulbar palsy (with dysarthria and dysphagia), distal amyotrophy, and impaired distal vibration sense.",,C565210,,,,C1853247
+Q53951449,rare disease,希少疾患,Q929833,infantile parkinsonism-dystonia,,Infantile dystonia-parkinsonism (IPD) is an extremely rare inherited neurological syndrome that presents in early infancy with hypokinetic parkinsonism and dystonia and that can be fatal,,C567730,,,,C2751067
+Q53705025,rare disease,希少疾患,Q929833,trisomy 17,,partial or complete triplication of chromosome 17,,,,,,
+Q55783879,rare disease,希少疾患,Q929833,pyogenic bacterial infections due to MyD88 deficiency,,"pyogenic bacterial infection due to MyD88 deficiency is a primary immunodeficiency characterized by increased susceptibility to pyogenic bacterial infections, including invasive pneumococcal, invasive staphylococcal and pseudomonas disease",,C567379,,,,C5680529
+Q55783837,rare disease,希少疾患,Q929833,autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome,,medical condition,,C567088,,,,C2673195
+Q55783840,rare disease,希少疾患,Q929833,Temple-Baraitser syndrome,,medical condition,,C567516,,,,C2678486
+Q55783855,rare disease,希少疾患,Q929833,juvenile cataract-microcornea-renal glucosuria syndrome,,,,,,,,C2677587
+Q55783673,rare disease,希少疾患,Q929833,mesoaxial synostotic syndactyly with phalangeal reduction,,,,C563721,,,,C1836206
+Q55783858,rare disease,希少疾患,Q929833,ANE syndrome,,human disease,,C567425,,,,C2677535
+Q55783838,rare disease,希少疾患,Q929833,"erythrocytosis, familial, 4",,human disease,,C567086,,,,C2673187
+Q55783896,rare disease,希少疾患,Q929833,"Ehlers-Danlos syndrome, spondylocheirodysplastic type",,human disease,,C567340,,,,C2676510
+Q55783898,rare disease,希少疾患,Q929833,heparin cofactor 2 deficiency,,human disease,,C562865,,,,C0398626
+Q55783887,rare disease,希少疾患,Q929833,primary CD59 deficiency,,human disease,,C567355,,,,C2676767
+Q55783890,rare disease,希少疾患,Q929833,"thrombophilia due to protein C deficiency, autosomal recessive",,human disease,,C567353,,,,C2676759
+Q55783893,rare disease,希少疾患,Q929833,"thrombophilia due to protein S deficiency, autosomal dominant",,human disease,,C567077,,,,C2363755
+Q55783885,rare disease,希少疾患,Q929833,bilateral microtia-deafness-cleft palate syndrome,,"This syndrome is characterized by the association of bilateral microtia with severe to profound hearing impairment, and cleft palate",,C567359,,,,C2676772
+Q55783863,rare disease,希少疾患,Q929833,epidermolysis bullosa simplex with pyloric atresia,,"Epidermolysis bullosa simplex with pyloric atresia (EBS-PA) is a basal subtype of epidermolysis bullosa simplex (EBS, see this term) characterized by generalized severe blistering with widespread congenital absence of skin and pyloric atresia",,C567408,,,,C2677349
+Q30314091,rare disease,希少疾患,Q929833,HUPRA syndrome,,human disease,,,,,,C3151209
+Q30314087,rare disease,希少疾患,Q929833,hypertension and brachydactyly syndrome,,human disease,,C537095,,,,C1862170
+Q30314095,rare disease,希少疾患,Q929833,Sorsby's fundus dystrophy,,human disease,,C564992,,,,C0339515
+Q55784011,rare disease,希少疾患,Q929833,ectodermal dysplasia-syndactyly syndrome,,human disease,,,,,,
+Q55784026,rare disease,希少疾患,Q929833,intellectual disability-severe speech delay-mild dysmorphism syndrome,,,,,,,,C3150923
+Q55783956,rare disease,希少疾患,Q929833,acute infantile liver failure due to synthesis defect of mtDNA-encoded proteins,,human disease,,,,,,C2751567
+Q55784002,rare disease,希少疾患,Q929833,Birbeck granule deficiency,,human disease,,,,,,C3150657
+Q55784007,rare disease,希少疾患,Q929833,frontonasal dysplasia-severe microphthalmia-severe facial clefting syndrome,,human disease,,,,,,C3150706
+Q55783947,rare disease,希少疾患,Q929833,"lethal polymalformative syndrome, Boissel type",,human disease,,,,,,C2752001
+Q55784018,rare disease,希少疾患,Q929833,lymphedema-posterior choanal atresia syndrome,,human disease,,,,,,C3150875
+Q55784010,rare disease,希少疾患,Q929833,Noonan syndrome-like disorder with juvenile myelomonocytic leukemia,,human disease,,,,,,C3150803
+Q55784000,rare disease,希少疾患,Q929833,syndromic multisystem autoimmune disease due to ICTH deficiency,,human disease,,,,,,C3150649
+Q55783901,rare disease,希少疾患,Q929833,congenital prekallikrein deficiency,,,,C562725,,,,C0272339
+Q55783900,rare disease,希少疾患,Q929833,connective tissue disorder due to lysyl hydroxylase-3 deficiency,,,,C567320,,,,C2676285
+Q55783952,rare disease,希少疾患,Q929833,cystic leukoencephalopathy without megalencephaly,,,,C567845,,,,C2751843
+Q55783951,rare disease,希少疾患,Q929833,epileptic encephalopathy with global cerebral demyelination,,,,C567847,,,,C2751855
+Q55783946,rare disease,希少疾患,Q929833,glycogen storage disease due to lactate dehydrogenase M-subunit deficiency,,,,C538133,,,,C2752022
+Q55783964,rare disease,希少疾患,Q929833,hereditary hypotrichosis with recurrent skin vesicles,,,,C567751,,,,C2751292
+Q55784006,rare disease,希少疾患,Q929833,frontonasal dysplasia with alopecia and genital anomaly,,Frontonasal dysplasia with alopecia and genital anomaly is a new phenotype of frontonasal dysplasia associated with total alopecia and hypogonadism,,,,,,C3150703
+Q55783958,rare disease,希少疾患,Q929833,RIN2 syndrome,,,,C567770,,,,C2751321
+Q55783989,rare disease,希少疾患,Q929833,"autosomal recessive spondylometaphyseal dysplasia, Mégarbané type",,human disease,,C567644,,,,C2750075
+Q55783959,rare disease,希少疾患,Q929833,congenital cataract-progressive muscular hypotonia-hearing loss-developmental delay syndrome,,human disease,,C567769,,,,C2751320
+Q55783984,rare disease,希少疾患,Q929833,cirrhosis-dystonia-polycythemia-hypermanganesemia syndrome,,human disease,,C548016,,,,C2750442
+Q55783966,rare disease,希少疾患,Q929833,hereditary thrombophilia due to congenital histidine-rich (poly-L) glycoprotein deficiency,,human disease,,C567737,,,,C2751090
+Q55783903,rare disease,希少疾患,Q929833,"skeletal defects, genital hypoplasia, and mental retardation",,human disease,,C567306,,,,C2676231
+Q55783974,rare disease,希少疾患,Q929833,polymicrogyria with optic nerve hypoplasia,,human disease,,C567715,,,,C2750798
+Q55783992,rare disease,希少疾患,Q929833,spondylo-megaepiphyseal-metaphyseal dysplasia,,human disease,,C567639,,,,C2750066
+Q55783931,rare disease,希少疾患,Q929833,combined immunodeficiency due to ORAI1 deficiency,,"deficiency is a form of CID due to Calcium release activated Ca2+ (CRAC) channel dysfunction (see this term) characterized by recurrent infections, congenital myopathy, ectodermal dysplasia and anhydrosis",,C557826,,,,C2748568
+Q55783932,rare disease,希少疾患,Q929833,combined immunodeficiency due to STIM1 deficiency,,"deficiency is a form of CID due to Calcium release activated Ca2+(CRAC) channel dysfunction (see this term) characterized by recurrent infections, autoimmunity, congenital myopathy and ectodermal dysplasia",,C557827,,,,C2748557
+Q55783991,rare disease,希少疾患,Q929833,congenital plasminogen activator inhibitor type 1 deficiency,,Congenital plasminogen activator inhibitor type 1 (PAI-1) deficiency is a rare genetic bleeding disorder characterized by premature lysis of hemostatic clots and a moderate bleeding tendency,,C567640,,,,C2750067
+Q55783945,rare disease,希少疾患,Q929833,glycogen storage disease due to muscle beta-enolase deficiency,,Muscle beta-enolase deficiency is a glycolysis disorder reported in one patient to date and characterized clinically by exercise intolerance and myalgia due to severe enolase deficiency in muscle,,C567861,,,,C2752027
+Q55783923,rare disease,希少疾患,Q929833,pancreatic insufficiency-anemia-hyperostosis syndrome,,"This syndrome is characterized by exocrine pancreatic insufficiency, dyserythropoietic anemia, and calvarial hyperostosis",,C567195,,,,C2675184
+Q55783935,rare disease,希少疾患,Q929833,"spondyloepimetaphyseal dysplasia, aggrecan type",,"Spondyloepimetaphyseal dysplasia, aggrecan type is a new form of skeletal dysplasia characterized by severe short stature, facial dysmorphism and characteristic radiographic findings",,C567558,,,,C2748544
+Q29982053,rare disease,希少疾患,Q929833,otopalatodigital syndrome type 2,,,,C538089,,,,C1844696
+Q29982079,rare disease,希少疾患,Q929833,"D,L-2-hydroxyglutaric aciduria",,human disease,,,,,,C5574940
+Q29982036,rare disease,希少疾患,Q929833,Parietal foramina with cleidocranial dysplasia,,human disease,,C566825,,,,C1868597
+Q2869820,rare disease,希少疾患,Q929833,Kjer's optic neuropathy,,medical condition,,,,377.16,,C0338508
+Q3357668,rare disease,希少疾患,Q929833,agnathia-otocephaly complex,,Human disease,,C562503,,,,C0265242
+Q2868792,rare disease,希少疾患,Q929833,familial isolated deficiency of vitamin E,,rare autosomal recessive neurodegenerative disease. Symptoms are similar to those of Friedreich ataxia,,C535393,,,,C1848533
+Q2892779,rare disease,希少疾患,Q929833,nephrogenic diabetes insipidus,腎性尿崩症,impaired renal function disease characterized by a complete or partial resistance of the kidneys to arginine vasopressin (AVP),ADHの効力低下により腎臓での水の再吸収機能が低下することにより発症する疾患,D018500,N25.1,588.1,111395007,C0162283
+Q3352097,rare disease,希少疾患,Q929833,omodysplasia,,Human disease,,C537746,Q78.8,,,C1850318
+Q3360152,rare disease,希少疾患,Q929833,pachyonychia congenita,,rare group of autosomal dominant skin disorders that are caused by a mutation in one of five different keratin genes,,D053549,Q84.5,757.5,39427000,C0265334
+Q3358864,rare disease,希少疾患,Q929833,Southeast Asian ovalocytosis,東南アジア楕円赤血球症,medical condition,,C566230,D58.1,282.1,,C1862322
+Q3281254,rare disease,希少疾患,Q929833,Charcot-Marie-Tooth disease type 2,,Charcot-Marie-Tooth disease characterized by abnormalities in the axon of the peripheral nerve cell,,,,,,C0392553
+Q3281299,rare disease,希少疾患,Q929833,Scheie syndrome,シャイエ症候群,"mucopolysaccharidosis characterized by corneal clouding, facial dysmorphism and normal lifespan",,,,,,
+Q3281403,rare disease,希少疾患,Q929833,hepatic veno-occlusive disease with immunodeficiency,,,,,K76.5,,,C4510630
+Q3281227,rare disease,希少疾患,Q929833,mucosulfatidosis,,lysosomal storage disease,,D052517,,,,C0268263
+Q3273331,rare disease,希少疾患,Q929833,acatalasia,無カタラーゼ症,Human disease,,D020642,E80.3,277.89,,C0268419
+Q3281284,rare disease,希少疾患,Q929833,Nasu-Hakola disease,,human disease,,C536329,,,,C1857316
+Q2896802,rare disease,希少疾患,Q929833,distal renal tubular acidosis,遠位尿細管性アシドーシス,medical condition,,,,,,C1704380
+Q3338681,rare disease,希少疾患,Q929833,Hereditary sensory and autonomic neuropathy type I,,medical condition,,,,,,
+Q2870197,rare disease,希少疾患,Q929833,atelosteogenesis type II,,medical condition,,C535395,,,,C1850554
+Q3358135,rare disease,希少疾患,Q929833,systemic primary carnitine deficiency,,"amino acid metabolic disorder that involves defective proteins called carnitine transporters, which bring carnitine into cells and prevent its escape from the body preventing the body cannot utilize fats for energy",,C536778,,,,C0342788
+Q3281380,rare disease,希少疾患,Q929833,X-linked lymphoproliferative disease,X連鎖リンパ増殖性疾患,lymphoproliferative disorder,,,D82.3,,,
+Q3281293,rare disease,希少疾患,Q929833,Roussy–Lévy syndrome,,human disease,,,G60.0,,,C0205713
+Q3347154,rare disease,希少疾患,Q929833,multiple endocrine neoplasia type 1,,"autosomal dominant disease that has material basis in a mutation in the MEN1 tumor suppressor gene and is characterized by over active endocrine glands frequently involving tumors of the parathyroid glands, the pituitary gland, and the pancreas",,D018761,,,,C0025267
+Q3278042,rare disease,希少疾患,Q929833,isovaleric acidemia,イソ吉草酸血症,organic acidemia disrupting or preventing normal metabolism of the branched-chain amino acid leucine,,C538167,,270.3,,C0268575
+Q3813599,rare disease,希少疾患,Q929833,oxycephaly,尖頭症,cephalic disorder where the top of the skull is pointed or conical due to premature closure of the coronal suture plus any other suture,,,Q75.0,756.0,,C0030044
+Q29033216,rare disease,希少疾患,Q929833,cerebro-costo-mandibular syndrome,,inborn error,,C562538,Q87.8,,,C0265342
+Q29982032,rare disease,希少疾患,Q929833,combined vitamin K-dependent clotting factors deficiency,,,,C564741,,,,C1848534
+Q3813663,rare disease,希少疾患,Q929833,early infantile epileptic encephalopathy 9,,infantile epileptic encephalopathy that has material basis in the gene encoding protocadherin-19 (PCDH19) on chromosome Xq22,,,,,,C1848137
+Q3441028,rare disease,希少疾患,Q929833,Norum disease,,disorder of lipoprotein metabolism,,D007863,,272.5,238091006,C0023195
+Q3804555,rare disease,希少疾患,Q929833,X-linked ichthyosis,,skin condition caused by the hereditary deficiency of the steroid sulfatase (STS) enzyme that affects 1 in 2000 to 1 in 6000 males,,D016114,,757.1,,C0079588
+Q3363624,rare disease,希少疾患,Q929833,infantile-onset ascending hereditary spastic paralysis,,"Infantile-onset ascending hereditary spastic paralysis (IAHSP) is a very rare motor neuron disease characterized by severe spasticity of the lower limbs in early life, progression of spasticity to the upper limbs in late childhood, and dysarthria",,C537217,G12.2,,,C1846588
+Q3801629,rare disease,希少疾患,Q929833,hypoprothrombinemia,低プロトロンビン血症,Human disease,,D007020,D68.2,776.3,,C0020640
+Q29014971,rare disease,希少疾患,Q929833,auriculo condylar syndrome,,,,C538270,,,,C1865295
+Q3501154,rare disease,希少疾患,Q929833,Larsen syndrome,,autosomal dominant disease that is characterized by large-joint dislocations and characteristic craniofacial abnormalities,,C580241,,,,C0175778
+Q29017155,rare disease,希少疾患,Q929833,autosomal dominant sensory ataxia,,inherited neurological movement disorder,,,,,,C1837015
+Q29017164,rare disease,希少疾患,Q929833,"alacrima, achalasia, and mental retardation syndrome",,"genetic disorder characterized by the presence of alacrima, achalasia, and mental retardation",,,,,,C3809738
+Q29017175,rare disease,希少疾患,Q929833,Hereditary sensory and autonomic neuropathy type 6,,genetic disporder,,,,,,C3539003
+Q28936239,rare disease,希少疾患,Q929833,Al-Raqad syndrome,,congenital autosomal recessive syndrome discovered by Jordanian physician Mohammad Al-Raqad,,,,,,C4085595
+Q29982025,rare disease,希少疾患,Q929833,Insulin-resistance syndrome type A,,,,,,,,C0342336
+Q3830645,rare disease,希少疾患,Q929833,Leontiasis ossea,,medical condition,,,,376.44,,
+Q29014920,rare disease,希少疾患,Q929833,IVIC Syndrome,,"IVIC syndrome is a very rare genetic malformation syndrome characterized by upper limb anomalies (radial ray defects, carpal bone fusion), extraocular motor disturbances, and congenital bilateral non-progressive mixed hearing loss",,C535544,,,,C1327918
+Q3843801,rare disease,希少疾患,Q929833,DeSanctis–Cacchione syndrome,,"rare autosomal recessive inherited syndrome. It is characterized by xeroderma pigmentosum, mental retardation, dwarfism, hypogonadism, and neurologic abnormalities",,C535992,,,,C0265201
+Q3458131,rare disease,希少疾患,Q929833,X-linked retinoschisis,,X-linked retinoschisis (XLRS) is a genetic ocular disease that is characterized by reduced visual acuity in males due to juvenile macular degeneration,,,Q14.1,,,C0271091
+Q3456637,rare disease,希少疾患,Q929833,X-linked myopathy with excessive autophagy,,Human disease,,C536522,G71.8,,,C1839615
+Q3801522,rare disease,希少疾患,Q929833,Caffey disease,,bone inflammation disease in infants,,D006958,,756.59,,C0020497
+Q3804556,rare disease,希少疾患,Q929833,lamellar ichthyosis,層状魚鱗癬,disease,,D017490,Q80.2,,,C4551630
+Q3843807,rare disease,希少疾患,Q929833,Salla disease,,autosomal recessive lysosomal storage disease,,,,,,C1096903
+Q3475952,rare disease,希少疾患,Q929833,juvenile amyotrophic lateral sclerosis,,,,,,,,C3468114
+Q3363626,rare disease,希少疾患,Q929833,hereditary spastic paraplegia 7,,"hereditary spastic paraplegia that is characterized by slowly progressive onset, usually between 18-60 years of age, and generally more severe spasticity and has material basis in mutation in the SPG7 gene on chromosome 16q24",,,,,,C1846564
+Q30989182,rare disease,希少疾患,Q929833,RIDDLE syndrome,,human disease,,C567453,,,,C2677792
+Q30989286,rare disease,希少疾患,Q929833,PCWH syndrome,,human disease,,C563789,,,,C1836727
+Q30988863,rare disease,希少疾患,Q929833,immunodeficiency-centromeric instability-facial anomalies syndrome 3,,human disease,,,,,,C4310799
+Q30989071,rare disease,希少疾患,Q929833,corticosteroid-binding globulin deficiency,,human disease,,,,,,C1852529
+Q30989223,rare disease,希少疾患,Q929833,myoclonic dystonia 26,,human disease,,,,,,C4225341
+Q30989332,rare disease,希少疾患,Q929833,immunodeficiency-centromeric instability-facial anomalies syndrome 2,,human disease,,,,,,C3279748
+Q30989362,rare disease,希少疾患,Q929833,immunodeficiency-centromeric instability-facial anomalies syndrome 4,,human disease,,,,,,C4310798
+Q30989381,rare disease,希少疾患,Q929833,giant axonal neuropathy 2,,human disease,,,,,,C1864695
+Q30988900,rare disease,希少疾患,Q929833,complex cortical dysplasia with other brain malformations 5,,complex cortical dysplasia with other brain malformations that has material basis in heterozygous mutation in the TUBB2A gene on chromosome 6p25,,,,,,C3810407
+Q30988764,rare disease,希少疾患,Q929833,split hand-foot malformation 1 with sensorineural hearing loss,,split-hand/foot malformation characterized by split-hand/foot malformation and sensorineural hearing impairment that has material basis in homozygous mutation in the DLX5 gene on chromosome 7q21,,,,,,C1857344
+Q30988946,rare disease,希少疾患,Q929833,hypogonadotropic hypogonadism 22 with or without anosmia,,hypogonadotropic hypogonadism that has_material_basis_in homozygous mutation in the FEZF1 gene on chromosome 7q31,,,,,,C4014988
+Q30989019,rare disease,希少疾患,Q929833,hypogonadotropic hypogonadism 17 with or without anosmia,,"hypogonadotropic hypogonadism that has material basis in heterozygous mutation in the SPRY4 gene on chromosome 5q31, sometimes in association with mutations in other genes",,,,,,C3808971
+Q30989076,rare disease,希少疾患,Q929833,hypogonadotropic hypogonadism 10 with or without anosmia,,hypogonadotropic hypogonadism that has material basis in homozygous mutation in the TAC3 gene on chromosome 12q13,,,,,,C3553843
+Q30989134,rare disease,希少疾患,Q929833,hypogonadotropic hypogonadism 7 with or without anosmia,,"hypogonadotropic hypogonadism that has material basis in homozygous or compound heterozygous mutation in the GNRHR gene on chromosome 4q13, sometimes in association with mutation in another gene. No patients with anosmia have been reported",,,,,,C0271623
+Q30989242,rare disease,希少疾患,Q929833,complex cortical dysplasia with other brain malformations 2,,complex cortical dysplasia with other brain malformations that has material basis in heterozygous mutation in the KIF5C gene on chromosome 2q23,,,,,,C3809013
+Q30989165,rare disease,希少疾患,Q929833,hypogonadotropic hypogonadism 20 with or without anosmia,,"hypogonadotropic hypogonadism that has material basis in heterozygous mutation in the FGF17 gene on chromosome 8p21, sometimes in association with mutations in other genes",,,,,,C3808983
+Q30989276,rare disease,希少疾患,Q929833,complex cortical dysplasia with other brain malformations 3,,complex cortical dysplasia with other brain malformations that has material basis in heterozygous mutation in the KIF2A gene on chromosome 5q12,,,,,,C3809414
+Q30989233,rare disease,希少疾患,Q929833,hypogonadotropic hypogonadism 18 with or without anosmia,,"hypogonadotropic hypogonadism that has material basis in heterozygous or homozygous mutation in the IL17RD gene on chromosome 3p14, sometimes in association with mutation in other genes",,,,,,C3808975
+Q30989316,rare disease,希少疾患,Q929833,complex cortical dysplasia with other brain malformations 1,,complex cortical dysplasia with other brain malformations that has material basis in heterozygous mutation in the TUBB3 gene on chromosome 16q24.3,,,,,,C3808397
+Q30989306,rare disease,希少疾患,Q929833,hypogonadotropic hypogonadism 21 with or without anosmia,,"hypogonadotropic hypogonadism that has material basis in heterozygous mutation in the FLRT3 gene on 20p11, sometimes in association with mutations in other genes",,,,,,C3808986
+Q30989431,rare disease,希少疾患,Q929833,hypogonadotropic hypogonadism 15 with or without anosmia,,"hypogonadotropic hypogonadism that has material basis in mutation in the HS6ST1 gene on chromosome 2q14, sometimes in association with mutations in other genes",,,,,,C3553977
+Q56014653,rare disease,希少疾患,Q929833,hyperparathyroidism 4,,human disease,,,,,,C4479229
+Q56013927,rare disease,希少疾患,Q929833,neural tube closure defect,,human disease,,,,,,
+Q56013917,rare disease,希少疾患,Q929833,familial multiple meningioma,,,,,,,,C4707361
+Q56014148,rare disease,希少疾患,Q929833,male infertility with azoospermia or oligozoospermia due to single gene mutation,,,,,,,,C5681165
+Q60195043,rare disease,希少疾患,Q929833,familial partial lipodystrophy type 4,,human disease,,,,,,C5191005
+Q60195074,rare disease,希少疾患,Q929833,intrahepatic cholestasis of pregnancy 1,,intrahepatic cholestasis of pregnancy characterized by autosomal dominant inheritance that has material basis in mutation in the ATP8B1 gene on chromosome 18q21,,,,,,
+Q60195040,rare disease,希少疾患,Q929833,familial partial lipodystrophy type 5,,familial partial lipodystrophy characterized by autosomal recessive inheritance that has material basis in mutation in the CIDEC gene on chromosome 3p25,,,,,,C3808940
+Q60195075,rare disease,希少疾患,Q929833,intrahepatic cholestasis of pregnancy 3,,intrahepatic cholestasis of pregnancy characterized by autosomal dominant inheritance that has material basis in mutation in the ABCB4 gene on chromosome 7q21,,,,,,C3554241
+Q60195038,rare disease,希少疾患,Q929833,Miyoshi muscular dystrophy 3,,Miyoshi muscular dystrophy that has material basis in mutation in the ANO5 gene on chromosome 11p14,,,,,,C2750076
+Q60195089,rare disease,希少疾患,Q929833,primary coenzyme Q10 deficiency 2,,primary coenzyme Q10 deficiency that has material basis in an autosomal recessive mutation of PDSS1 on chromosome 10p12.1,,,,,,C4706538
+Q5064109,rare disease,希少疾患,Q929833,cerebroretinal microangiopathy with calcifications and cysts,,medical condition,,C567401,Q87.8,759.89,711482008,
+Q5064098,rare disease,希少疾患,Q929833,CEDNIK syndrome,,human disease,,C537943,,,,C1836033
+Q5055067,rare disease,希少疾患,Q929833,Cavernous venous malformation,,medical condition,,,,,,
+Q5051865,rare disease,希少疾患,Q929833,Catel–Manzke syndrome,,"Catel-Manzke syndrome is a rare bone disease characterized by bilateral hyperphalangy and clinodactyly of the index finger typically in association with Pierre Robin sequence (see this term) comprising micrognathia, cleft palate and glossoptosis",,C535347,,,,C1844887
+Q5513690,rare disease,希少疾患,Q929833,gangliosidosis GM1,GM1ガングリオシドーシス,lysosomal storage disease,,D016537,,330.1,,C0085131
+Q5275412,rare disease,希少疾患,Q929833,diffuse epidermolytic palmoplantar keratoderma,,human disease,,D053546,,,,C1721006
+Q5160418,rare disease,希少疾患,Q929833,congenital disorder of glycosylation type IIc,,genetic disease,,,,,,C0398739
+Q5182157,rare disease,希少疾患,Q929833,cranio–lenticulo–sutural dysplasia,,"Craniolenticulosutural dysplasia (CLSD), also known as Boyadjiev-Jabs syndrome, is characterized by the specific association of large and late-closing fontanels, hypertelorism, early-onset cataract and mild generalized skeletal dysplasia",,C564332,,,,C1843042
+Q5194974,rare disease,希少疾患,Q929833,Currarino syndrome,,medical condition,,C536221,,,,C1415596
+Q5513688,rare disease,希少疾患,Q929833,Tay-Sachs disease AB variant,,"extremely rare, severe genetic disorder characterized by progressive neurological decline due to ganglioside activator deficiency",,D049290,,,,C0268275
+Q5512866,rare disease,希少疾患,Q929833,GAPO syndrome,,"GAPO syndrome is a multiple congenital anomalies (MCA) syndrome involving connective tissue characterized by Growth retardation, Alopecia, Pseudoanodontia and Ocular manifestations",,,,,,C0406723
+Q5203306,rare disease,希少疾患,Q929833,D-bifunctional protein deficiency,,human disease,,C536663,,,,C0342870
+Q5160405,rare disease,希少疾患,Q929833,congenital amegakaryocytic thrombocytopenia,先天性無巨核球性血小板減少症,thrombocytopenia characterized by a severe reduction in megakaryocyte and platelet numbers that has material basis in homozygous or compound heterozygous mutation in the MPL gene on chromosome 1p34,,C535982,,287.33,716336002,C1327915
+Q5262702,rare disease,希少疾患,Q929833,dermatopathia pigmentosa reticularis,,human disease,,C535374,Q82.4,,,C0406778
+Q5198214,rare disease,希少疾患,Q929833,cyclic hematopoiesis,周期性好中球減少症,Human disease,,C536227,,,,C0221023
+Q5150906,rare disease,希少疾患,Q929833,combined immunodeficiency,,"primary immunodeficiency disease that involves multiple components of the immune system, including both humoral immunity and cell-mediated immunity",,,D81,,,C0494261
+Q5432947,rare disease,希少疾患,Q929833,familial male-limited precocious puberty,精巣中毒症,rare disease,,C536961,,,,C0342549
+Q5532501,rare disease,希少疾患,Q929833,generalized pustular psoriasis,汎発性膿疱性乾癬,human disease,,,L40.1,,,C0343055
+Q5432945,rare disease,希少疾患,Q929833,familial partial lipodystrophy,家族性部分型リポジストロフィー,lipodystrophy characterized by abnormal subcutaneous adipose tissue distribution beginning in late childhood or early adult life,,D052496,,,,C0271694
+Q5532463,rare disease,希少疾患,Q929833,Generalized atrophic benign epidermolysis bullosa,,,,,,,,
+Q5160420,rare disease,希少疾患,Q929833,Congenital distal spinal muscular atrophy,,hereditary condition characterized by muscle wasting,,,G12.2,,,
+Q5463849,rare disease,希少疾患,Q929833,focal facial dermal dysplasia,,heterogenous group of genetic disorders characterized by scar-like atrophic lesions on the temple,,D000090303,,,,C1744559
+Q5259533,rare disease,希少疾患,Q929833,dentin dysplasia,,teeth hard tissue disease characterized by presence of normal enamel but atypical dentin with abnormal pulpal morphology,,D003805,,,,C0011430
+Q5136452,rare disease,希少疾患,Q929833,clubbed thumb,,genetic trait,,,,,,
+Q5264836,rare disease,希少疾患,Q929833,Desmosterolosis,,"Desmosterolosis is a very rare sterol biosynthesis disorder characterized by multiple congenital anomalies, failure to thrive, and intellectual disability, with elevated levels of desmosterol",,C566555,,,,C1865596
+Q5432946,rare disease,希少疾患,Q929833,familial progressive hyperpigmentation,,medical condition,,,L81.4,,,C1835039
+Q5064568,rare disease,希少疾患,Q929833,Cernunnos deﬁciency,,"Cernunnos-XLF deficiency is a rare form of combined immunodeficiency characterized by microcephaly, growth retardation, and T and B cell lymphopenia",,C566970,,,,C1969799
+Q5459852,rare disease,希少疾患,Q929833,Floating-Harbor syndrome,,"genetic developmental disorder characterized by facial dysmorphism, short stature with delayed bone age, and expressive language delay",,C537062,Q87.8,,312214005,C0729582
+Q5160422,rare disease,希少疾患,Q929833,congenital dyserythropoietic anemia,先天性赤血球異形成貧血,"congenital hemolytic anemia characterized by ineffective erythropoiesis, and resulting from a decrease in the number of red blood cells (RBCs) in the body and a less than normal quantity of hemoglobin in the blood",,D000742,,285.8,,C0002876
+Q5275419,rare disease,希少疾患,Q929833,nonepidermolytic palmoplantar keratoderma,,"palmoplantar keratosis characterized by a well-demarcated, symmetric keratoderma located in palms and located in soles",,D015776,,,,C0022584
+Q5104520,rare disease,希少疾患,Q929833,chondrodysplasia Blomstrand type,,Human disease,,C537914,,,,C1859148
+Q5441566,rare disease,希少疾患,Q929833,Feingold syndrome,,"autosomal dominant disease characterized by variable combinations of microcephaly, limb malformations, esophageal and duodenal atresias, and learning disability/mental retardation",,C537734,,,,C0796068
+Q5203266,rare disease,希少疾患,Q929833,D-glyceric acidemia,,genetic disease,,C535767,,,,C0342765
+Q5514398,rare disease,希少疾患,Q929833,GRACILE syndrome,GRACILE症候群,inherited metabolic disease,,C537934,,,,C1864002
+Q5517825,rare disease,希少疾患,Q929833,galactokinase deficiency,ガラクトキナーゼ欠損症,galactosemia that involves an accumulation of galactose and galactitol secondary to the decreased conversion of galactose to galactose-1-phosphate by galactokinase,,,,271.1,,C0268155
+Q5156400,rare disease,希少疾患,Q929833,complement 3 deficiency,,human disease,,C565169,,,,C1332655
+Q5280135,rare disease,希少疾患,Q929833,dipygus,,severe congenital deformity where the body axis forks left and right partway along the torso with the pelvis and legs duplicated,,C564315,,,,C0266688
+Q5463847,rare disease,希少疾患,Q929833,focal dermal hypoplasia,,form of ectodermal dysplasia,,D005489,Q82.8,759.89,,C0016395
+Q5156399,rare disease,希少疾患,Q929833,complement 2 deficiency,,human disease,,,,279.8,234599007,C3150275
+Q5473408,rare disease,希少疾患,Q929833,mucopolysaccharidosis IX,ムコ多糖症IV型,mucopolysaccharidosis characterized by a deficiency in hyaluronidase,,C563209,,,,C1291490
+Q5097618,rare disease,希少疾患,Q929833,Chilblain lupus,,Human disease,,C535924,,,,C0024145
+Q5135822,rare disease,希少疾患,Q929833,Clouston syndrome,,Human disease,,,,,,C0162361
+Q5276448,rare disease,希少疾患,Q929833,dihydropyrimidine dehydrogenase deficiency,DPD欠損症,"purine-pyrimidine metabolic disorder that is an autosomal recessive metabolic disorder in which there is absent or significantly decreased activity of dihydropyrimidine dehydrogenase, an enzyme involved in the metabolism of uracil and thymine",,D054067,,,,C0274576
+Q5492304,rare disease,希少疾患,Q929833,Frank–Ter Haar syndrome,,human disease,,C537274,,,,C1855305
+Q5220984,rare disease,希少疾患,Q929833,Danon disease,ダノン病,Human disease,,D052120,E74.0,,,C0878677
+Q5493754,rare disease,希少疾患,Q929833,Frasier syndrome,,Human disease,,D052159,,,,C0950122
+Q5160413,rare disease,希少疾患,Q929833,congenital secretory chloride diarrhea 1,,secretory diarrhea that has material basis in mutation in the SLC26A3 gene,,C536210,,,,C0267662
+Q5160453,rare disease,希少疾患,Q929833,congenital diarrhea 5 with tufting enteropathy,,Congenital Tufting Enteropathy is a rare congenital enteropathy presenting with early-onset severe and intractable diarrhea that leads to irreversible intestinal failure,,C567703,,,,C2750737
+Q5140809,rare disease,希少疾患,Q929833,coenzyme Q10 deficiency disease,,mitochondrial metabolism disease that is characterized by a deficiency of CoQ10 resulting from reduced biosynthesis,,C564403,,,,C1843920
+Q5189052,rare disease,希少疾患,Q929833,crouzonodermoskeletal syndrome,,"autosomal dominant disease characterized by Crouzon-like features, premature synostosis of cranial sutures, and acanthosis nigricans that has material basis in heterozygous missense mutation in the FGFR3 gene on chromosome 4p16",,C567382,,,702361006,C2677099
+Q2735907,rare disease,希少疾患,Q929833,cutis laxa,皮膚弛緩症,"skin disease characterized by skin that is loose, hanging, wrinkled and lacking in elasticity; it can also affect connective tissue in other parts of the body, including the heart, blood vessels, joints, intestines and lungs",,D003483,,756.83,,C0010495
+Q2823333,rare disease,希少疾患,Q929833,succinic semialdehyde dehydrogenase deficiency,,Rare disorder involving deficiency in GABA degradation,,C535803,,,,C0268631
+Q2791374,rare disease,希少疾患,Q929833,essential fructosuria,,medical condition,,C538068,E74.1,271.2,,C0268160
+Q4352925,rare disease,希少疾患,Q929833,Mal de Meleda,,human disease,,,,,,C0025221
+Q4365211,rare disease,希少疾患,Q929833,Cornea plana 2,,medical condition,,,Q13.4,,,
+Q4348144,rare disease,希少疾患,Q929833,Weaver syndrome,ウィーバー症候群,human disease,常染色体顕性型遺伝疾患,C536687,Q87.3,,63119004,C0220765
+Q4357083,rare disease,希少疾患,Q929833,Galloway-Mowat syndrome,,"autosomal recessive disease characterized by is a rare autosomal recessive disease, characterized by microcephaly with brain anomalies including CA in some cases, intellectual disability, and early-infantile-onset nephrotic syndrome",,C537548,,,,C0795949
+Q277452,rare disease,希少疾患,Q929833,Ebstein anomaly,エプシュタイン奇形,tricuspid valve disease that is a congenital heart defect in which the septal leaflet of the tricuspid valve is displaced towards the apex of the right ventricle of the heart,,D004437,,,,C0013481
+Q4357287,rare disease,希少疾患,Q929833,acrodysostosis,,dysostosis that results in shortening of interphalangeal joints located in hand or located in foot along with mental deficiency,,C538179,,,,C0220659
+Q4357091,rare disease,希少疾患,Q929833,PEHO syndrome,,"PEHO (Progressive encephalopathy with Edema, Hypsarrhythmia and Optic atrophy) syndrome is a rare neurodegenerative disorder belonging to the group of infantile progressive encephalopathies",,C536317,,,,C0796122
+Q3331459,rare disease,希少疾患,Q929833,tibial muscular dystrophy,,late-onset muscular dystrophy beginning in the anterior comparment of the legs,,C536815,,,,C1450052
+Q2757585,rare disease,希少疾患,Q929833,Mowat-Wilson syndrome,,rare genetic disorder,,C536990,,,,C1856113
+Q2758894,rare disease,希少疾患,Q929833,"48,XXXX syndrome",XXXX症候群,rare chromosomal disorder with 4 X chromosomes,,C536502,Q97.1,,,C0265496
+Q2823145,rare disease,希少疾患,Q929833,achondrogenesis,,human disease,,C579878,Q77.0,,,C0001079
+Q3331452,rare disease,希少疾患,Q929833,myofibrillar myopathy 1,,Human disease,,,,,,
+Q3304152,rare disease,希少疾患,Q929833,Jervell-Lange Nielsen syndrome,,Human disease,,D029593,,426.82,,C0022387
+Q3310134,rare disease,希少疾患,Q929833,Adrenomyeloneuropathy,,"Adrenomyeloneuropathy (AMN) is an adult form of the peroxisomal disease X-linked adrenoleukodystrophy (X-ALD, see this term), characterized by spastic paraparesia and often associated with peripheral adrenal insufficiency in males",,,E71.522,277.86,,C1527231
+Q611458,rare disease,希少疾患,Q929833,neuromyelitis optica,視神経脊髄炎,inflammatory demyelinating diseases of the central nervous system characterized mainly by attacks of uni- or bilateral optic neuritis and acute myelitis,,D009471,,,,C0027873
+Q4352832,rare disease,希少疾患,Q929833,urofacial syndrome,,autosomal recessive disease that is characterized by inverted facial expressions in association with a severe and early-onset form of dysfunctional urinary voiding,,C536480,,,,C0403555
+Q4354940,rare disease,希少疾患,Q929833,Jansky–Bielschowsky disease,,autosomal recessive genetic disorder,,,E75.4,330.1,,C0022340
+Q4293116,rare disease,希少疾患,Q929833,microvillus inclusion disease,,Human disease,,C537470,,,,C0341306
+Q4347774,rare disease,希少疾患,Q929833,autoimmune polyendocrine syndrome type 1,多腺性自己免疫症候群-I型,"autoimmune polyendocrine syndrome that is inherited in an autosomal recessive fashion, which is characterized by abnormal functioning of the immune system that causes auto-reactivity against endocrine organs",,,E31.0,258.1,,
+Q2756703,rare disease,希少疾患,Q929833,septo-optic dysplasia,,medical condition,,D025962,,742.2,,C0338503
+Q3338664,rare disease,希少疾患,Q929833,adult-onset basal ganglia disease,,Neuroferritinopathy is a late-onset type of neurodegeneration with brain iron accumulation (NBIA; see this term) characterized by progressive chorea or dystonia and subtle cognitive deficits,,C548080,,,699299001,C1853578
+Q4357262,rare disease,希少疾患,Q929833,Infantile neuronal ceroid lipofuscinosis,,form of neuronal ceroid lipofuscinosis,,C537948,,,,C0268281
+Q4286595,rare disease,希少疾患,Q929833,megalocornea,,corneal disease characterized by a bilaterally enlarged corneal diameter without an increase in intraocular pressure,,C562829,,,,C0344530
+Q4351777,rare disease,希少疾患,Q929833,Hereditary persistence of fetal hemoglobin,胎児ヘモグロビンの遺伝的残留,medical condition,,,D56.4,282.7,,
+Q2753372,rare disease,希少疾患,Q929833,Majewski's polydactyly syndrome,,Human disease,,,Q77.2,,,
+Q4354267,rare disease,希少疾患,Q929833,Senior-Loken syndrome,,"autosomal recessive genetic disease characterized by progressive wasting of the filtering unit of the kidney (nephronophthisis), with or without medullary cystic renal disease, and progressive eye disease",,C537580,,,,C0403553
+Q2823332,rare disease,希少疾患,Q929833,3-methylglutaconic aciduria type 3,,3-methylglutaconic aciduria that has material basis in mutation in the OPA3 gene,,C535311,,,,C0574084
+Q4385926,rare disease,希少疾患,Q929833,macular corneal dystrophy,,"corneal dystrophy that is characterized by corneal haze, severe photophobia at night ,gradual vision impairment ,bilateral loss of vision, eventually necessitating corneal transplantation resulting from progressive punctate opacities in the cornea",,,,,,C0024439
+Q4712685,rare disease,希少疾患,Q929833,Albright's hereditary osteodystrophy,オルブライト遺伝性骨異栄養症,"osteochondrodysplasia that has material basis in lack of responsiveness to parathyroid hormone which results in shortening and widening of long bones of the located in hand or located in foot along with short stature, obesity, and rounded face",,,E20.1,275.49,,C0033806
+Q4394144,rare disease,希少疾患,Q929833,lattice corneal dystrophy,,Human disease,,C537935,H18.5,371.54,,
+Q4675784,rare disease,希少疾患,Q929833,acrokeratosis verruciformis,,Human disease,,,Q82.8,,,C0265971
+Q4420129,rare disease,希少疾患,Q929833,Mauriac syndrome,,complication of type 1 diabetes,,,E34.8,,,C0221005
+Q4677929,rare disease,希少疾患,Q929833,acute fatty liver of pregnancy,急性妊娠脂肪肝,medical condition,,C537957,O26.6,646.7,,C1455728
+Q4684715,rare disease,希少疾患,Q929833,adrenal gland neoplasm,副腎腫瘍,neoplasm (disease) that involves the adrenal gland,副腎における腫瘍性病変,D000310,C74,,,C0001624
+Q4641554,rare disease,希少疾患,Q929833,BH4-deficient hyperphenylalaninemia A,,human disease,,C535325,,,,C0878676
+Q5034093,rare disease,希少疾患,Q929833,Cantú syndrome,,"osteochondrodysplasia characterized by congenital hypertrichosis, neonatal macrosomia, and cardiomegaly",,C535572,,,,C0795905
+Q4596783,rare disease,希少疾患,Q929833,"2,4 Dienoyl-CoA reductase deficiency",,medical condition,,C565624,,,,C1857252
+Q4552290,rare disease,希少疾患,Q929833,17-beta-hydroxysteroid dehydrogenase deficiency,,human disease,,C537805,,,,C0268296
+Q5044023,rare disease,希少疾患,Q929833,Carney's triad,,multiple neoplasia syndrome,,C565803,,,,C1858592
+Q4596905,rare disease,希少疾患,Q929833,2-methylbutyryl-CoA dehydrogenase deficiency,2-メチルブチリルCoAデヒドロゲナーゼ欠損症,gene (located on chromosome 10q25-26) have been reported in affected patients. Treatment includes carnitine supplementation and a low-protein diet.,,C566487,,,,C1864912
+Q5044061,rare disease,希少疾患,Q929833,carnitine-acylcarnitine translocase deficiency,,medical condition,,C562812,,,238003000,C0342791
+Q4420133,rare disease,希少疾患,Q929833,ROHHAD,ROHHAD症候群,medical condition,,,,,,C4053506
+Q4650574,rare disease,希少疾患,Q929833,ACDC,,"arterial calcification due to deficiency of CD73, rare genetic disorder that causes calcium buildup in the arteries and joints of the hands and feet, and other areas below the waist",,C565891,,,,C1859372
+Q4676182,rare disease,希少疾患,Q929833,acromicric dysplasia,,"Acromicric dysplasia is a rare bone dysplasia characterized by short stature, short hands and feet, mild facial dysmorphism, and characteristic X-ray abnormalities of the hands",,C535662,,,,C0265287
+Q5047506,rare disease,希少疾患,Q929833,Carvajal syndrome,,"autosomal recessive disease characterized by autosomal recessive inheritance of dilated cardiomyopathy, woolly hair, and keratoderma that has material basis in homozygous mutation in the DSP gene on chromosome 6p24",,,,,,C1854063
+Q4673593,rare disease,希少疾患,Q929833,acheiropody,,Human disease,,C536014,Q74.8,,,C0265559
+Q4553565,rare disease,希少疾患,Q929833,Koolen de Vries syndrome,,Human disease,,,,,,C1864871
+Q5037834,rare disease,希少疾患,Q929833,carbamoyl phosphate synthetase I deficiency disease,,amino acid metabolic disorder that involves accumulation of ammonia in the blood,,D020165,,270.6,,C0751753
+Q4669630,rare disease,希少疾患,Q929833,Abruzzo–Erickson syndrome,,human disease,,C535559,,,,C1844862
+Q5009803,rare disease,希少疾患,Q929833,CD25 deficiency,,human disease,,C565232,,,,C1853392
+Q4638276,rare disease,希少疾患,Q929833,"46, XX/XY",,human disease,,,Q99.0,,,C5679592
+Q4664694,rare disease,希少疾患,Q929833,hereditary spastic paraplegia 23,,hereditary spastic paraplegia that has material basis in variation in the chromosome region 1q24-q32,,C536859,,,,C0796019
+Q5028560,rare disease,希少疾患,Q929833,camptodactyly-arthropathy-coxa vara-pericarditis syndrome,,autosomal recessive genetic condition,,C537560,,,,C1859690
+Q4412533,rare disease,希少疾患,Q929833,aspartylglucosaminuria,,"disease that is characterized by a decline in mental functioning, accompanied by an increase in skin, bone and joint issues",,D054880,,,,C0268225
+Q4420121,rare disease,希少疾患,Q929833,Dent disease,デント病,congenital disorder of urinary system,,D057973,N39.8,,,C0878681
+Q4646476,rare disease,希少疾患,Q929833,Kleefstra syndrome,クリーフストラ症候群,Human disease,,C563043,Q93.5,,,C0795833
+Q4682223,rare disease,希少疾患,Q929833,adenine phosphoribosyltransferase deficiency,,"amino acid metabolic disorder characterized by the formation 2,8-dihydroxyadenine stones and renal failure secondary to intratubular crystalline precipitation. It has an autosomal recessive inheritance pattern",,C538228,E79,277.2,,C0268120
+Q4634172,rare disease,希少疾患,Q929833,3-methylcrotonyl-CoA carboxylase deficiency,,Human disease,,C535308,,,,C0268600
+Q5026799,rare disease,希少疾患,Q929833,Camisa disease,,medical condition,,C565826,,,,C1858805
+Q4675304,rare disease,希少疾患,Q929833,acrocallosal syndrome,,"syndrome that is an autosomal recessive disorder, which is characterized by corpus callosum agenesis, polydactyly, multiple dysmorphic features, motor and mental retardation",,D055673,Q04.0,,,C0796147
+Q4682317,rare disease,希少疾患,Q929833,adenylosuccinase lyase deficiency,,a rare autosomal recessive metabolic disorder,,C538235,E79.8,,,C0268126
+Q30988929,rare disease,希少疾患,Q929833,complex cortical dysplasia with other brain malformations 7,,complex cortical dysplasia with other brain malformations characterized by autosomal dominant inheritance of abnromalities in coritcal brain development that has material basis in heterozygous mutation in the TUBB2B gene on chromosome 6p25,,,,,,
+Q30988797,rare disease,希少疾患,Q929833,lethal congenital glycogen storage disease of heart,,"glycogen storage disease characterized by autosomal dominant inheritance of glycogenosis confined to the heart, hypoglycemia and cyanosis that has material basis in heterozygous mutation in the PRKAG2 gene on chromosome 7q36",,C564888,,,,C1849813
+Q30988959,rare disease,希少疾患,Q929833,autosomal recessive hypercholesterolemia,,familial hypercholesterolemia characterized by autosomal inheritance that has material basis in homozygous mutation in the LDLRAP1 gene on chromosome 1p36,,C566331,,,,C1863512
+Q30989218,rare disease,希少疾患,Q929833,split hand-foot malformation 4,,split-hand/foot malformation that has material basis in heterozygous mutation in the TP63 on chromosome 3q28,,C574275,,,,C0265554
+Q56694535,rare disease,希少疾患,Q929833,cytochrome P450 oxidoreductase deficiency,,disease and inborn error of metabolism caused by deficiency of cytochrome P450 oxidoreductase (POR),,,,,,C1860042
+Q4713937,rare disease,希少疾患,Q929833,Aldolase A deficiency,,medical condition,,C562718,E74.1,,,C0272066
+Q4780588,rare disease,希少疾患,Q929833,aposthia,先天性無包皮,congenital condition in humans where the foreskin is missing,,,,,,
+Q3508705,rare disease,希少疾患,Q929833,Timothy syndrome,ティモシー症候群,"autosomal dominant disease that is characterized by cardiac, hand/foot, facial, and neurodevelopmental features; the two forms are type 1 (classic) and type 2, a rare form that has material basis in mutations in a transcript variant of CACNA1C",,C536962,,,,C1832916
+Q3765145,rare disease,希少疾患,Q929833,ichthyosis vulgaris,,skin disorder,,D016112,,757.1,254157005,C0079584
+Q3508649,rare disease,希少疾患,Q929833,Greig cephalopolysyndactyly syndrome,,"acrocephalosyndactylia that has material basis in mutation in the GLI3 gene which results in abnormal development located in limb, located in head, located in face",,C537300,Q87.0,,32985001,C0265306
+Q4751018,rare disease,希少疾患,Q929833,Analbuminaemia,,Congenital analbuminemia (CAA) is characterized by the absence or dramatic reduction of circulating human serum albumin (HSA),,,,,129232009,C0878666
+Q3704730,rare disease,希少疾患,Q929833,adrenocorticotropic hormone deficiency,,hypopituitarrium that is characterized by a decreased or absent production of adrenocorticotropic hormone by the pituitary gland,,C535668,E23.0,253.2,,C0271583
+Q3508679,rare disease,希少疾患,Q929833,Muenke syndrome,,human disease,,C537369,,,,C1864436
+Q3705799,rare disease,希少疾患,Q929833,chronic mucocutaneous candidiasis,,human disease,,D002178,,,,C0006845
+Q3709312,rare disease,希少疾患,Q929833,dyskeratosis congenita,先天性角化異常症,rare progressive congenital disorder with a highly variable phenotype,,D019871,,,,C0265965
+Q3508673,rare disease,希少疾患,Q929833,Melnick–Needles syndrome,,congenital disorder that affects primarily bone development.,,,,,,C0025237
+Q4795506,rare disease,希少疾患,Q929833,Aromatase deficiency,アロマターゼ欠乏症,medical condition,,C537436,,,,
+Q3704732,rare disease,希少疾患,Q929833,antithrombin III deficiency,アンチトロンビン欠乏症,inherited blood coagulation disease characterized by the tendency to form clots in the veins,,D020152,,,,C0272375
+Q4795508,rare disease,希少疾患,Q929833,aromatase excess syndrome,アロマターゼ過剰症候群,human disease,,C000591739,,,,C1841762
+Q4731121,rare disease,希少疾患,Q929833,Allan-Herndon-Dudley syndrome,,congenital disorder of nervous system,,C537047,,,,C0795889
+Q923020,rare disease,希少疾患,Q929833,epidermolysis bullosa,表皮水疱症,human disease,,D004820,,757.39,,C0014527
+Q3508669,rare disease,希少疾患,Q929833,Loeys-Dietz syndrome,ロイス・ディエツ症候群,Human disease,,D055947,,,446263001,C1836635
+Q4737942,rare disease,希少疾患,Q929833,alveolar capillary dysplasia,,"rare lung disease, present at birth and treatable by lung transplants",,C536590,,,,C2677362
+Q3758798,rare disease,希少疾患,Q929833,autoimmune atrophic gastritis,,,,,K29.4,535.1,,
+Q3711812,rare disease,希少疾患,Q929833,Ullrich congenital muscular dystrophy,,"Ullrich congenital muscular dystrophy (UCMD) is characterized by early-onset, generalized and slowly progressive muscle weakness, multiple proximal joint contractures, marked hypermobility of the distal joints and normal intelligence",,,,,,C0410179
+Q3508639,rare disease,希少疾患,Q929833,Goldberg-Shprintzen syndrome,,"syndrome characterized by intellectual disability, specific facial gestalt and Hirschsprung's disease (HSCR). It has material basis in homozygous mutation in the KIAA1279 gene on chromosome 10q21.1",,C537279,,,,C1836123
+Q3508677,rare disease,希少疾患,Q929833,deafness dystonia syndrome,,"mitochondrial metabolism disease that is characterized by hearing loss that begins early in life, problems with movement, impaired vision, and behavior problems",,C535808,,,,C0796074
+Q3508640,rare disease,希少疾患,Q929833,Meckel syndrome type 7,,Meckel syndrome that has material basis in an autosomal recessive mutation of NPHP3 on chromosome 3q22.1,,C537756,,,,C2673885
+Q3710164,rare disease,希少疾患,Q929833,X-linked reticulate pigmentary disorder,,Rare X-linked genetic condition,,C564461,,,,C1845050
+Q3508686,rare disease,希少疾患,Q929833,Saethre-Chotzen syndrome,,acrocephalosyndactylia that has material basis in a genetic mutation in the TWIST1 gene which results in premature fusion located in skull,,,Q87.0,,,C0175699
+Q3710440,rare disease,希少疾患,Q929833,myoclonic dystonia,筋クローヌス性ジストニア,"dystonia characterized by myoclonic jerks affecting mostly proximal muscles and dystonia, usually torticollis or writer's cramp, that typically responds to alcohol and has onset in the first of second decade of life",,,,,439732004,
+Q3508674,rare disease,希少疾患,Q929833,McKusick–Kaufman syndrome,,"McKusick-Kaufman syndrome is a very rare, genetic developmental disorder presenting in the neonatal period characterized by genitourinary malformations, polydactyly, and more rarely, congenital heart disease or gastrointestinal malformations",,C538159,Q87.8,,,C0948368
+Q614750,rare disease,希少疾患,Q929833,bronchiolitis obliterans,閉塞性細気管支炎,medical condition,,D001989,,491.8,40100001,C0006272
+Q4734616,rare disease,希少疾患,Q929833,alopecia universalis,,human disease,,,L63.1,,,
+Q4817548,rare disease,希少疾患,Q929833,atrichia with papular lesions,,Human disease,,C565924,,,,C1859592
+Q959457,rare disease,希少疾患,Q929833,syndrome of Inappropriate antidiuretic hormone secretion,抗利尿ホルモン不適合分泌症候群,endocrine disease,症候群の一つ,D007177,E22.2,253.6,55004003,C0021141
+Q4797658,rare disease,希少疾患,Q929833,arthrogryposis–renal dysfunction–cholestasis syndrome,,human disease,,C535382,,,,C1859722
+Q403463,rare disease,希少疾患,Q929833,Aicardi syndrome,アイカルディ症候群,"syndrome that is characterized by absence or underdeveloped tissue connecting the left and right halves of the brain, infantile spasms and chorioretinal lacunae, which are defects in the light-sensitive tissue at the back of the eye",,D058540,,742.2,80651009,C0175713
+Q681160,rare disease,希少疾患,Q929833,dermatomyositis,皮膚筋炎,myositis that results in inflammation located in muscle or located in skin where a skin rash is often seen prior to the onset of muscle weakness,,D003882,M33.033.0-M33.133.1,710.3710.3,,C0011633
+Q3710209,rare disease,希少疾患,Q929833,craniometaphyseal dysplasia,頭蓋骨幹端骨異形成症,osteosclerosis that has material basis in mutations in the ANKH gene which results in progressive thickening located in skull and abnormally shaped ends of long bones in the limbs,,C565145,,,,C1852502
+Q4818237,rare disease,希少疾患,Q929833,Attenuated familial adenomatous polyposis,,Human disease,,C538265,,,,C1266024
+Q5556985,rare disease,希少疾患,Q929833,Ghosal hematodiaphyseal dysplasia,,Ghosal hematodiaphyseal dysplasia syndrome (GHDD) is a rare disorder characterized by increased bone density (predominantly diaphyseal) and aregenerative corticosteroid-sensitive anemia,,C565551,,,,C1856465
+Q5639341,rare disease,希少疾患,Q929833,Haim–Munk syndrome,,"Haim-Munk syndrome (HMS) is characterized by palmoplantar hyperkeratosis, severe early-onset periodontitis, onychogryposis, pes planus, arachnodactyly and acroosteolysis",,C537627,Q82.8,,,C1855627
+Q5560415,rare disease,希少疾患,Q929833,pulmonary alveolar microlithiasis,,human disease,,C562405,,,,C0155912
+Q4820036,rare disease,希少疾患,Q929833,auditory neuropathy,オーディトリー・ニューロパシー,"hearing disorder characterized by impaired transmission of signals through the auditory nerve, resulting in mild to severe hearing loss and poor speech perception",,C538268,,,,C1852271
+Q5685180,rare disease,希少疾患,Q929833,hawkinsinuria,,disease,,C535845,E72.1,,,C2931042
+Q5572341,rare disease,希少疾患,Q929833,glucose-galactose malabsorption,グルコース-ガラクトース吸収不良症,"Glucose-galactose malabsorption (GGM) is a very rare, potentially lethal, genetic metabolic disease characterized by impaired glucose-galactose absorption resulting in severe watery diarrhea and dehydration with onset inthe neonatal period",,C562602,E74.3,271.3,,C0268186
+Q5572606,rare disease,希少疾患,Q929833,Glycogen storage disease type 0,糖原病0型,human disease,,C566917,,,,C1855861
+Q5558010,rare disease,希少疾患,Q929833,Nicolaides–Baraitser syndrome,,medical condition,,C536116,,,,C1303073
+Q5692507,rare disease,希少疾患,Q929833,Heart valve dysplasia,,human disease,,C535576,,,,C0262436
+Q5552374,rare disease,希少疾患,Q929833,gerodermia osteodysplastica,,human disease,,C537799,Q82.9,710.9,,C0432255
+Q4821698,rare disease,希少疾患,Q929833,spondylocostal dysostosis,,"dysostosis that results in abnormal development located in vertebrae or located in ribs. The bones of the spine do not develop properly, which causes them to be misshapen and abnormally joined together",,,Q76,756.9,,C0265343
+Q5533246,rare disease,希少疾患,Q929833,Genitopatellar syndrome,,medical condition,,C565255,,,,C1853566
+Q5598273,rare disease,希少疾患,Q929833,gray platelet syndrome,灰色血小板症候群,rare congenital autosomal recessive bleeding disorder caused by a reduction or absence of alpha-granules in blood platelets,,D055652,D69.1,,,C0272302
+Q5572555,rare disease,希少疾患,Q929833,glycerol kinase deficiency,,Human disease,,,,,,C0574108
+Q5572316,rare disease,希少疾患,Q929833,Glucocorticoid deficiency 1,,human disease,,,,,,C1859974
+Q5714797,rare disease,希少疾患,Q929833,Hennekam syndrome,,human disease,,C537255,,,,C0340834
+Q5547625,rare disease,希少疾患,Q929833,Malouf syndrome,,This syndrome is characterized by the association of dilated cardiomyopathy and hypergonadotropic hypogonadism (DCM-HH),,,,,,C0796031
+Q5572613,rare disease,希少疾患,Q929833,Glycogen storage disease type XI,,"Fanconi-Bickel glycogenosis (FBG) is a rare glycogen storage disease characterized by hepatorenal glycogen accumulation, severe renal tubular dysfunction and impaired glucose and galactose metabolism",,,,,,C3495427
+Q5613758,rare disease,希少疾患,Q929833,guanidinoacetate methyltransferase deficiency,,Human disease,,C537622,E72.8,,,C0574080
+Q5737835,rare disease,希少疾患,Q929833,Hereditary diffuse leukoencephalopathy with spheroids,,medical condition,,C580150,,,,C1857300
+Q55785062,rare disease,希少疾患,Q929833,combined oxidative phosphorylation defect type 30,,human disease,,,,,,C4310773
+Q55785064,rare disease,希少疾患,Q929833,"epileptic encephalopathy, early infantile, 37; EIEE37",,human disease,,,,,,C4310770
+Q55785070,rare disease,希少疾患,Q929833,"epileptic encephalopathy, early infantile, 38; EIEE38",,human disease,,,,,,C4310762
+Q55784298,rare disease,希少疾患,Q929833,Wolfram-like syndrome,,medical condition,,,,,,C1857286
+Q55784300,rare disease,希少疾患,Q929833,EDICT syndrome,,,,,,,,C3280392
+Q55784285,rare disease,希少疾患,Q929833,platelet-activating factor acetylhydrolase deficiency,,human disease,,C566640,,,,C1866472
+Q8054567,rare disease,希少疾患,Q929833,Yokkaichi asthma,四日市ぜんそく,Epidemic of asthma caused by air pollution in Japan,1970年ごろに起こった日本の公害問題,,,,,
+Q707816,rare disease,希少疾患,Q929833,giant cell arteritis,巨細胞性動脈炎,human disease,,D013700,M31.5,,414341000,C0039483
+Q1112977,rare disease,希少疾患,Q929833,syringomyelia,脊髄空洞症,congenital disorder of nervous system,,D013595,G95.0,336.0,,C0039144
+Q1345792,rare disease,希少疾患,Q929833,Goodpasture syndrome,グッドパスチャー症候群,hypersensitivity reaction type II disease that is characterized by glomerulonephritis located in kidney and hemorrhaging located in lung,,D019867,,,,C0403529
+Q1161568,rare disease,希少疾患,Q929833,granulomatosis with polyangiitis,ウェゲナー肉芽腫症,wegner granulomatosis,,D014890,,,,C0043092
+Q1072420,rare disease,希少疾患,Q929833,primary biliary cholangitis,原発性胆汁性肝硬変,liver cirrhosis characterized by chronic and slow progressive destruction of intrahepatic bile ducts,,D008105,,,,C0008312
+Q1058608,rare disease,希少疾患,Q929833,primary sclerosing cholangitis,原発性硬化性胆管炎,"sclerosing cholangitis characterized by fibroobliterative inflammation of the biliary tract, leading to cirrhosis and portal hypertension",,C536419,,576.1,,C0566602
+Q847057,rare disease,希少疾患,Q929833,retinitis pigmentosa,網膜色素変性症,retinal degeneration characterized by the gradual deterioration of the photoreceptors or the retinal pigment epithelium of the retina leading to progressive sight loss,,D012174,,,,C0035334
+Q1187697,rare disease,希少疾患,Q929833,adult-onset Still's disease,成人スティル病,"rare from of inflammatory arthritis characterized by fevers, rash, and joint pain",16歳以上の成人に発症する全身型若年性特発性関節炎（Still病）に類似した病態を示す疾患,D016706,,714.2,,C0085253
+Q1343645,rare disease,希少疾患,Q929833,Hirschsprung's disease,ヒルシュスプルング病,congenital disorder of digestive system,,D006627,,,,C0019569
+Q1088030,rare disease,希少疾患,Q929833,chronic inflammatory demyelinating polyradiculoneuropathy,慢性炎症性脱髄性多発神経炎,acquired immune-mediated inflammatory disorder of the peripheral nervous system,,D020277,,,,C0393819
+Q911427,rare disease,希少疾患,Q929833,Behçet's disease,ベーチェット病,rare immune-mediated small-vessel systemic vasculitis in humans,再発・寛解を繰り返す原因不明の慢性疾患で、自己免疫疾患の一つ,D001528,,,,C0004943
+Q1403045,rare disease,希少疾患,Q929833,multiple acyl-CoA dehydrogenase deficiency,グルタル酸血症2型,medical condition,,D054069,,277.85,,C0268596
+Q899726,rare disease,希少疾患,Q929833,spinocerebellar ataxia,脊髄小脳変性症,"group of dominantly inherited, predominately late-onset, cerebellar ataxias. Neuro-developmental outcome and brain-derived neurotrophic factor level in relation to feeding practice in early infancy.",,D020754,G11.1,,,C0029534
+Q5432935,rare disease,希少疾患,Q929833,familial encephalopathy with neuroserpin inclusion bodies,,human disease,,C536841,,,,C1858680
+Q5360758,rare disease,希少疾患,Q929833,micromastia,貧乳,human condition,女性の乳房が小さいこと,,Q83.8,757.6,,C4014918
+Q5282845,rare disease,希少疾患,Q929833,autosomal recessive distal spinal muscular atrophy 1,,human disease,,C536880,,,,C1858517
+Q5811448,rare disease,希少疾患,Q929833,congenital merosin-deficient muscular dystrophy 1A,,"Congenital muscular dystrophy type 1A (MCD1A) belongs to a group of neuromuscular disorders with onset at birth or infancy characterized by hypotonia, muscle weakness and muscle wasting",,C537384,,,,C1263858
+Q5401847,rare disease,希少疾患,Q929833,Estrogen insensitivity syndrome,エストロゲン不応症候群,genetic variation in which the body does not respond to estrogen,,,,,,C0268301
+Q5322931,rare disease,希少疾患,Q929833,EEM syndrome,,medical condition,,C536190,Q82.4,757.31,720856002,C1857041
+Q5382848,rare disease,希少疾患,Q929833,epidermolysis bullosa simplex with mottled pigmentation,,"Epidermolysis bullosa simplex with mottled pigmentation (EBS-MP) is a basal subtype of epidermolysis bullosa simplex (EBS, see this term) characterized by generalized blistering with mottled or reticulate brown pigmentation",,C535959,,,,C0432316
+Q5432936,rare disease,希少疾患,Q929833,exudative vitreoretinopathy,家族性滲出性硝子体網膜症,retinal vascular disease characterized by the prevention of blood vessel formation at the edges of the retina and the hemorrhage of the blood vessels in the retina,,D000080345,,,,C0004608
+Q5322531,rare disease,希少疾患,Q929833,EAST syndrome,,"SeSAME syndrome is characterized by seizures, sensorineural deafness, ataxia, intellectual deficit, and electrolyte imbalance (hypokalemia, metabolic alkalosis, and hypomagnesemia)",,C557674,,,,C2748572
+Q5432934,rare disease,希少疾患,Q929833,familial dysalbuminemic hyperthyroxinemia,,medical condition,,D050010,,,,C0342185
+Q5737872,rare disease,希少疾患,Q929833,hereditary pyropoikilocytosis,,autosomal recessive inherited severe hemolytic anemia. It is a subtype of hereditary elliptocytosis and is characterized by partial spectrin deficiency,,C563004,,,,C0520739
+Q5432926,rare disease,希少疾患,Q929833,Familial British dementia,,medical condition,,C538208,,,,
+Q5319366,rare disease,希少疾患,Q929833,dyschromatosis symmetrica hereditaria,遺伝性対側性色素異常症,"pigmentation disease characterized by progressively pigmented and depigmented macules, often mixed in a reticulate pattern, concentrated on the dorsal extremities",,C535729,,,,C0406775
+Q5432932,rare disease,希少疾患,Q929833,familial atrial fibrillation,,atrial fibrillation that has material basis in autosomal dominant inheritance of the familial atrial fibrillation (ATFB) genes,,C563817,,,,C1837014
+Q5396477,rare disease,希少疾患,Q929833,spinocerebellar ataxia type 34,,Human disease,,C535514,,,,C1851481
+Q5289050,rare disease,希少疾患,Q929833,Dolichol kinase deficiency,,human disease,,,,,,C1835849
+Q5319369,rare disease,希少疾患,Q929833,dyschromatosis universalis hereditaria,,pigmentation disease characterized by reticulate hyper- and hypo-pigmentated macules in a generalized distribution,,C535730,,,,C1306229
+Q5315596,rare disease,希少疾患,Q929833,Dunnigan familial partial lipodystrophy,ダニガン型家族性部分性リポジストロフィー,medical condition,,,,,,
+Q5382847,rare disease,希少疾患,Q929833,epidermolysis bullosa simplex of Ogna,,Human disease,,C535962,,,,C0432317
+Q1586088,rare disease,希少疾患,Q929833,hypoparathyroidism,副甲状腺機能低下症,endocrine disease,,D007011,,,,C0020626
+Q1622407,rare disease,希少疾患,Q929833,mixed connective tissue disease,混合性結合組織病,"collagen disease that is considered an overlap of three diseases, systemic lupus erythematosus, scleroderma, and polymyositis with very high titers of circulating antinuclear antibody to a ribonucleoprotein antigen",,D008947,,710.8,,C0026272
+Q1584110,rare disease,希少疾患,Q929833,arteriovenous malformation,動静脈奇形,vascular anomaly,,D001165,,747.81,,C0003857
+Q1544884,rare disease,希少疾患,Q929833,Lennox-Gastaut sindrome,レノックス・ガストー症候群,rare but severe childhood-onset epilepsy,小児期に発症する難治性のてんかん,D065768,G40.4,345.0,,C0238111
+Q2787011,rare disease,希少疾患,Q929833,chronic recurrent multifocal osteomyelitis,,"osteomyelitis characterized by multiple foci of painful swelling of bones, mainly in the metaphyses of the long bones, in addition to the pelvis, the shoulder girdle and the spine",,C535456,,,,C0410422
+Q1483214,rare disease,希少疾患,Q929833,pemphigus,天疱瘡,blistering autoimmune disease,,D010392,L10,,,C0030807
+Q1585743,rare disease,希少疾患,Q929833,urea cycle disorder,尿素回路異常症,amino acid metabolic disorder that involves a deficiency of one of the enzymes in the urea cycle which is responsible for removing ammonia from the blood stream,,D056806,,,,C0154246
+Q2869826,rare disease,希少疾患,Q929833,pulmonary atresia,,type of congenital heart defect,,C562833,,,,C0344976
+Q2881413,rare disease,希少疾患,Q929833,lateral sclerosis,原発性側索硬化症,motor neuron disease characterized by painless but progressive weakness and stiffness of the muscles of the legs,,,,,,C0154682
+Q1478321,rare disease,希少疾患,Q929833,spinal stenosis,腰部脊柱管狭窄症,"bone deterioration disease that has material basis in bony spurs, disc degeneration, or thickened ligaments which results in narrowing located in spinal cord",,D013130,,,,C0037944
+Q5955105,rare disease,希少疾患,Q929833,hydrolethalus syndrome,,Human disease,,C536079,,,721232000,C2931104
+Q5986440,rare disease,希少疾患,Q929833,Ichthyosis follicularis with alopecia and photophobia syndrome,,"Ichthyosis follicularis - alopecia - photophobia (IFAP) is a rare genetic disorder characterized by the triad of ichthyosis follicularis, alopecia, and photophobia from birth",,C536085,Q80.3,,,C3275579
+Q5959167,rare disease,希少疾患,Q929833,hypoalphalipoproteinemia,,metabolic disorder characterized by deficiency of high density (alpha) lipoprotein in the blood,,D052456,E78.6,272.5,,C0151691
+Q5986438,rare disease,希少疾患,Q929833,ichthyosis bullosa of Siemens,,ia rare keratinopathic ichthyosis characterized by the presence of superficial blisters and erosions at birth,,D053560,,,,C1838440
+Q6029048,rare disease,希少疾患,Q929833,infantile myofibromatosis,,"connective tissue benign neoplasm that is characterized by the development of benign tumors in the skin, striated muscles, bones, and in exceptional cases, visceral organs",,D018224,,,,C0206648
+Q5962435,rare disease,希少疾患,Q929833,Hystrix-like ichthyosis–deafness syndrome,,medical condition,,,,,,
+Q5986451,rare disease,希少疾患,Q929833,Ichthyosis prematurity syndrome,,medical condition,,C536271,,,763401009,C1837610
+Q6155971,rare disease,希少疾患,Q929833,Janus kinase-3 deficiency,,human disease,,,,,,C5680151
+Q6152917,rare disease,希少疾患,Q929833,tritanomaly,3型3色覚,Human disease,,,,,,
+Q5986449,rare disease,希少疾患,Q929833,ichthyosis with confetti,,human disease,,C563781,,,,C1836681
+Q6056727,rare disease,希少疾患,Q929833,Intersection syndrome,,medical condition,,,,,,
+Q5957519,rare disease,希少疾患,Q929833,CD40 deficiency,,Human disease,,,D80.5,279.05,,C1720957
+Q5961451,rare disease,希少疾患,Q929833,hypotrichosis–lymphedema–telangiectasia syndrome,,human disease,,C564327,,,,C1843004
+Q5883713,rare disease,希少疾患,Q929833,familial juvenile gout,,"kidney disease that is characterized by hyperuricemia with renal uric acid under-excretion, gout and chronic kidney disease",,C537696,,,,C0268113
+Q5996465,rare disease,希少疾患,Q929833,Il-1R–Associated kinase 4 deficiency,,Interleukin-1 receptor-associated kinase-4 (IRAK-4) deficiency is an immunodeficiency associated with increased susceptibility to invasive infections caused by pyogenic bacteria,,C564352,,,,C1843256
+Q5986448,rare disease,希少疾患,Q929833,Ichthyosis hystrix,,group of rare skin disorders in the ichthyosis family of skin,,C536087,Q80.8,,,C0432311
+Q6085879,rare disease,希少疾患,Q929833,"isolated 17,20-lyase deficiency",,medical condition,,C567076,,,,C3277849
+Q6126829,rare disease,希少疾患,Q929833,Jalili syndrome,,genetic disorder affecting the eyes and teeth,,C000596385,,,,C1857588
+Q6085391,rare disease,希少疾患,Q929833,Isobutyryl-coenzyme A dehydrogenase deficiency,,gene (11q25),,C535541,,,,C1969809
+Q5922406,rare disease,希少疾患,Q929833,inflammatory breast cancer,炎症性乳癌,aggressive types of breast cancer,,D058922,,,,
+Q6029036,rare disease,希少疾患,Q929833,Infantile convulsions and choreoathetosis,,medical condition,,C535522,,,,C1865926
+Q6029067,rare disease,希少疾患,Q929833,Infantile systemic hyalinosis,,medical condition,,D057770,,,,C2745948
+Q5958530,rare disease,希少疾患,Q929833,Hyperproinsulinemia,,human disease,,C562776,,,,C0342283
+Q5957516,rare disease,希少疾患,Q929833,hyper-IgM syndrome type 2,,human disease,,,,,,C1720956
+Q5957527,rare disease,希少疾患,Q929833,hyper-IgM syndrome type 5,,human disease,,,,,,C1720958
+Q5883885,rare disease,希少疾患,Q929833,holocarboxylase synthetase deficiency,,human disease,,D028922,,,,C0268581
+Q5898279,rare disease,希少疾患,Q929833,hyperphenylalaninemia,,medical condition,,,E70.1,270.1,,C0751435
+Q5921848,rare disease,希少疾患,Q929833,Howel–Evans syndrome,,Tylosis with oesophageal cancer,,C536164,,,,C1835664
+Q6029060,rare disease,希少疾患,Q929833,Infantile neuroaxonal dystrophy,乳児神経軸索ジストロフィー,describes several similar diseases,,C536071,,,,C0270724
+Q5958740,rare disease,希少疾患,Q929833,hyperthyroxinemia,,thyroid disease,,D006981,,,,C0020551
+Q7248853,rare disease,希少疾患,Q929833,progressive myoclonus epilepsy,,Human disease,,D020191,,,,C0751778
+Q7249599,rare disease,希少疾患,Q929833,prolidase deficiency,,medical condition,,D056732,,,,C0268532
+Q7248854,rare disease,希少疾患,Q929833,progressive osseous heteroplasia,,"gene (20q13.2-q13.3), coding for guanine nucleotide-binding proteins. POH can, however, be distinguished clinically by the deep and progressive nature of the heterotopic bone formation.",,C562735,,,,C0334041
+Q7259524,rare disease,希少疾患,Q929833,pulmonary capillary hemangiomatosis,,human disease,,C535861,,,,C0340548
+Q7243137,rare disease,希少疾患,Q929833,primary hyperoxaluria,原発性高シュウ酸尿症,human disease,,D006960,,,,C0020500
+Q7202845,rare disease,希少疾患,Q929833,"platyspondylic lethal skeletal dysplasia, Torrance type",,"although generally lethal, survival to adulthood has been reported in two families",,C563627,,,,C1835437
+Q7243682,rare disease,希少疾患,Q929833,Primrose syndrome,,medical condition,,C536420,,,,C0796121
+Q7254411,rare disease,希少疾患,Q929833,pseudo-Hurler polydystrophy,,Human disease,,,E77.0,272.7,,C0033788
+Q7250189,rare disease,希少疾患,Q929833,properdin deficiency,,human disease,,C537241,,,,C0398762
+Q7250337,rare disease,希少疾患,Q929833,propionic acidemia,,organic acidemia that involes a nonfunctional propionyl CoA carboxylase affecting conversion of aminio acids and fats into sugar for energy,,D056693,,270.3,,C0268579
+Q7284803,rare disease,希少疾患,Q929833,Raine syndrome,,"Lethal osteosclerotic bone dysplasia is defined by generalized osteosclerosis with periosteal bone formation, characteristic facial dysmorphism, brain abnormalities including intracerebral calcifications, and neonatal lethal course",,C535282,,,,C1850106
+Q7263794,rare disease,希少疾患,Q929833,pyruvate carboxylase deficiency disease,ピルビン酸カルボキシラーゼ欠損症,Human disease,,D015324,,271.8,,C0034341
+Q7263801,rare disease,希少疾患,Q929833,pyruvate decarboxylase deficiency,ピルビン酸デヒドロゲナーゼ欠損症,carbohydrate metabolic disorder characterized by the buildup of lactic acid in the body and a variety of neurological problems and caused by a deficiency of one of the three enzymes in the pyruvate dehydrogenase complex,,D015325,,,,C0034345
+Q7260026,rare disease,希少疾患,Q929833,punctate palmoplantar keratoderma,,"palmoplantar keratosis characterized by keratoses with a ""raindrop"" pattern on the palmoplantar surface, skin lesions which may involve the whole of the palmoplantar surface, or may be more restricted in their distribution",,,Q82.8,,,C1274216
+Q7263591,rare disease,希少疾患,Q929833,pyridoxine-dependent epilepsy,,extremely rare disorder,,C536254,,,,C1291560
+Q7294342,rare disease,希少疾患,Q929833,Rapp-Hodgkin syndrome,,"autosomal dominant disease characterized by abnormal development of ectodermal tissues including the skin, hair, nails, teeth and sweat glands and anhidrotic ectodermal dysplasia with cleft lip/palate",,C535289,,,,
+Q7269853,rare disease,希少疾患,Q929833,Quebec platelet disorder,,"Quebec platelet syndrome (QPS) is a platelet granule disorder characterized by moderate to severe bleeding after trauma, surgery or obstetric interventions, frequent ecchymoses, mucocutaneous bleeding and muscle and joint bleeds",,C536260,,,,C1866423
+Q7261148,rare disease,希少疾患,Q929833,pure hair-nail type ectodermal dysplasia,,human disease,,C566592,,,,C1865951
+Q7313459,rare disease,希少疾患,Q929833,Renpenning syndrome,レンペニング症候群,"intellectual disability that is characterized by small head size (microcephaly), long narrow face, short stature, small testes, and intellectual deficit which follows X-linked inheritance and presents most often in males",,C537761,,,,C0796135
+Q7429841,rare disease,希少疾患,Q929833,scalp–ear–nipple syndrome,,human disease,,C536623,,,,C1867020
+Q7316718,rare disease,希少疾患,Q929833,reticular dysgenesis,細網異形成症,Human disease,,C538361,D81.0,,,C0272167
+Q7316329,rare disease,希少疾患,Q929833,restrictive dermopathy,拘束性皮膚障害,human disease,,C536920,,,,C0406585
+Q3043160,rare disease,希少疾患,Q929833,primary immunodeficiency disease,原発性免疫不全症候群,immune system disease that results when one or more essential parts of the immune system is missing or not working properly at birth due to a genetic mutation,,D000081207,,,,C0021051
+Q1958249,rare disease,希少疾患,Q929833,Chronic Thromboembolic Pulmonary Hypertension,慢性血栓塞栓性肺高血圧症,medical condition,,,,,,C2363973
+Q1538277,rare disease,希少疾患,Q929833,Gorham's disease,ゴーハム病,syndrome that is characterized by bone loss (osteolysis) which is often associated with swelling or abnormal blood vessel growth (angiomatous proliferation). Bone loss can occur in just one bone or spread to soft tissue and adjacent bones,原因は不明で血管の異常が関与しているとされている骨が消失する疾患のこと,D010015,,733.99,1515008,C0029436
+Q1146454,rare disease,希少疾患,Q929833,IgA glomerulonephritis,IgA腎症,disease of the kidney,,D005922,,,,C0017661
+Q2553422,rare disease,希少疾患,Q929833,POEMS syndrome,クロウ・深瀬症候群,paraneoplastic syndrome,,D016878,D47.7,273.8,,C0085404
+Q1774750,rare disease,希少疾患,Q929833,Klippel–Trénaunay–Weber syndrome,クリッペル・トレノネー症候群,syndrome that is characterized by large cutaneous hemangiomata with hypertrophy of the related bones and soft tissues,,D007715,,,,C0022739
+Q1671412,rare disease,希少疾患,Q929833,interstitial cystitis,間質性膀胱炎,type of medical condition,,D018856,,,,C0282488
+Q1538213,rare disease,希少疾患,Q929833,lipodystrophy,リポジストロフィー,group of genetic or acquired disorders in which the body is unable to produce and maintain healthy fat tissue,,D008060,,,,C0023787
+Q1316942,rare disease,希少疾患,Q929833,focal cortical dysplasia,,human disease,,D000092222,Q04.6,742.4,,C1846385
+Q1935832,rare disease,希少疾患,Q929833,neurofibromatosis type II,神経線維腫症2型,type of neurofibromatosis disease,,D016518,D33,237.72,,C0027832
+Q1788314,rare disease,希少疾患,Q929833,periodic paralysis,周期性四肢麻痺,human disease,,D010245,,359.3,198030008,C0030443
+Q1509367,rare disease,希少疾患,Q929833,rapidly progressive glomerulonephritis,急速進行性糸球体腎炎,human disease,,,,,,C0221239
+Q1934069,rare disease,希少疾患,Q929833,microscopic polyangiitis,顕微鏡的多発血管炎,"inflammatory, necrotizing, systemic vasculitis that affects predominantly small vessels in multiple organs",,D055953,M31.7,446.0,,C0343192
+Q3010837,rare disease,希少疾患,Q929833,univentricular heart,,,,D000080039,Q20.4,,,C0152424
+Q3153671,rare disease,希少疾患,Q929833,lysinuric protein intolerance,,Human disease,,C562687,,,367410007,C0268647
+Q2057356,rare disease,希少疾患,Q929833,eosinophilic esophagitis,好酸球性食道炎,esophagitis characterized by inflammation involving eosinophils located in esophagus,,D057765,,,,C0341106
+Q1878682,rare disease,希少疾患,Q929833,toxic epidermal necrolysis,中毒性表皮壊死症,Severe skin reaction,全身の皮膚表皮が真皮と分離して重篤な感染症を招く皮膚障害。スティーブンス・ジョンソン症候群(SJS)と連続した概念。,,L51.2,695.15,,C0014518
+Q2966733,rare disease,希少疾患,Q929833,Ring chromosome 20 syndrome,,medical condition,,C535369,,,,C0265482
+Q1137767,rare disease,希少疾患,Q929833,muscular dystrophy,筋ジストロフィー,diseases that weaken the body's muscles,肉の筋線維の壊死と難再生を原因とした進行性の筋力低下を特徴とする遺伝性疾患に対する総称,D009136,,,,C0026850
+Q1141499,rare disease,希少疾患,Q929833,Ehlers-Danlos syndrome,エーラス・ダンロス症候群,group of genetic connective tissue disorders,コラーゲン線維形成機構の異常を原因とする症候群,D004535,,,,C0013720
+Q1331116,rare disease,希少疾患,Q929833,Alport syndrome,アルポート症候群,"monogenic disease characterized by glomerulonephritis, endstage kidney disease, and hearing loss",,D009394,Q87.8,759.89,,C0027706
+Q3055156,rare disease,希少疾患,Q929833,persistent truncus arteriosus,総動脈幹症,congenital heart defect in humans,,D014339,Q20.0,745.0,,C0041207
+Q3281322,rare disease,希少疾患,Q929833,peroxisomal disease,,inherited metabolic disorder that involves peroxisome malfunction,,D018901,,,,C0282528
+Q1790424,rare disease,希少疾患,Q929833,idiopathic interstitial pneumonia,,pneumonia located in the lung parenchyma of unknown cause,,D054988,,,700249006,C0085786
+Q1771331,rare disease,希少疾患,Q929833,cryopyrin-associated periodic syndrome,クリオピリン関連周期熱症候群,group of rare autosomal dominant diseases,,D056587,,,430079001,C2316212
+Q3053945,rare disease,希少疾患,Q929833,glycine encephalopathy,,amino acid metabolic disorder that involves abnormally high levels of the amino acid glycine in bodily fluids and tissues,,D020158,,,,C0268560
+Q1541975,rare disease,希少疾患,Q929833,multiple system atrophy,多系統萎縮症,"neurodegenerative disorder characterized by autonomic failure, parkinsonism, cerebellar impairment and corticospinal signs, with a median survival of 6-9 years",,D019578,G232,333.0,,C0020651
+Q1251847,rare disease,希少疾患,Q929833,phosphofructokinase deficiency,,Human disease,,D006014,,271.0,,C0017926
+Q18553453,rare disease,希少疾患,Q929833,spinocerebellar ataxia with axonal neuropathy type 2,,Human disease,,,,,,
+Q18966121,rare disease,希少疾患,Q929833,mast syndrome,,hereditary spastic paraplegia associated with dementia,,C565409,,,,C1855346
+Q19297696,rare disease,希少疾患,Q929833,orofaciodigital syndrome IV,,Human disease,,C537133,,,,C0406727
+Q21505523,rare disease,希少疾患,Q929833,myofibrillar myopathy 5,,Human disease,,C537932,,,,C1836050
+Q21505521,rare disease,希少疾患,Q929833,myofibrillar myopathy 2,,Human disease,,C563848,,,,C1837317
+Q21505518,rare disease,希少疾患,Q929833,reducing body myopathy,,Human disease,,C567469,,,,C2678027
+Q22443082,rare disease,希少疾患,Q929833,spinocerebellar ataxia type 2,脊髄小脳変性症2型,"Spinocerebellar ataxia type 2 (SCA2) is a subtype of type I autosomal dominant cerebellar ataxia (ADCA type I; see this term) characterized by truncal ataxia, dysarthria, slowed saccades and less commonly ophthalmoparesis and chorea",,,,,,C0752121
+Q22132220,rare disease,希少疾患,Q929833,hypotrichosis with juvenile macular dystrophy,,a hypotrichosis that has material basis in a autosomal recessive mutation of CDH3 on chromosome 16q22.1.,,C537698,,,,C1832162
+Q21694563,rare disease,希少疾患,Q929833,episodic ataxia type 1,,episodic ataxia characterized by attacks of ataxia lasting seconds/minutes induced by emotion/stress with myokymia during/between attacks; onset during childhood/adolescence; caused by mutation of KCNA1 encoding voltage-gated potassium channel KV1.1,,,,,,C0242287
+Q22251836,rare disease,希少疾患,Q929833,Perry syndrome,,Human disease,,C566822,,,,C1868594
+Q22443782,rare disease,希少疾患,Q929833,autosomal dominant Parkinson disease 8,,Parkinson's disease that has material basis in heterozygous mutation in the dardarin encoding gene (LRRK2) on chromosome 12q12,,,,,,C1846862
+Q21694578,rare disease,希少疾患,Q929833,familial erythrocytosis 2,,human disease,,C563918,,,,C1837915
+Q22443706,rare disease,希少疾患,Q929833,spinocerebellar ataxia type 7,,Human disease,,,,,,C0752125
+Q22030615,rare disease,希少疾患,Q929833,MEDNIK syndrome,,"syndrome characterized by mental retardation, enteropathy, deafness, peripheral neuropathy, ichthyosis, and keratoderma. It is cause by homozygous mutation in the AP1S1 gene on chromosome 7q22",,C563739,,,,C1836330
+Q22030614,rare disease,希少疾患,Q929833,oculoauricular syndrome,,"syndrome characterized by microcornea, microphthalmia, anterior-segment dysgenesis, cataract, coloboma of various parts of the eye, abnormalities of the retinal pigment epithelium, and rod-cone dystrophy and a particular cleft ear lobule",,C567416,,,,C2677500
+Q22938882,rare disease,希少疾患,Q929833,microcephaly and chorioretinopathy 2,,"syndrome that is characterized by delayed psychomotor development, visual impairment, and short stature and has material basis in homozygous mutation in the PLK4 gene",,,,,,C4015388
+Q22938883,rare disease,希少疾患,Q929833,microcephaly and chorioretinopathy 3,,syndrome that is characterized by congenital microcephaly and chorioretinal dysplasia associated with poor vision and nystagmus and has material basis in compound heterozygous mutation in the TUBGCP4 gene,,,,,,C4225362
+Q22965397,rare disease,希少疾患,Q929833,absence of fingerprints-congenital milia syndrome,,human disease,,C537659,,,,C0406707
+Q22443995,rare disease,希少疾患,Q929833,spinocerebellar ataxia type 31,脊髄小脳変性症31型,Human disease,,C566146,,,,C1861736
+Q22672486,rare disease,希少疾患,Q929833,Diaphanospondylodysostosis,,Human disease,,C564305,Q78.8,,,C1842691
+Q32136745,rare disease,希少疾患,Q929833,renal hypomagnesemia 2,,hypomagnesemia characterized by autosomal dominant inheritance of hypomagnesemia due to renal magnesium loss that has material basis in heterozygous mutation in the FXYD2 gene on chromosome 11q23,,C537152,,,,C1835171
+Q22938868,rare disease,希少疾患,Q929833,Schimke immuno-osseous dysplasia,,Human disease,,C536629,,,,C0877024
+Q21505525,rare disease,希少疾患,Q929833,myofibrillar myopathy 7,,Human disease,,,,,,C4310711
+Q21694572,rare disease,希少疾患,Q929833,autosomal recessive early-onset Parkinson disease 7,,Parkinson's disease that has material basis in homozygous or compound heterozygous mutation in the DJ1 gene on chromosome 1p36,,C565238,,,,C1853445
+Q21505528,rare disease,希少疾患,Q929833,Compton-North congenital myopathy,,Human disease,,C567261,,,,C2675527
+Q21505526,rare disease,希少疾患,Q929833,"myopathy, lactic acidosis, and sideroblastic anemia",,Human disease,,C536101,,,,C1838103
+Q21505524,rare disease,希少疾患,Q929833,myofibrillar myopathy 6,,Human disease,,C567843,,,,C2751831
+Q32136733,rare disease,希少疾患,Q929833,renal hypomagnesemia 6,,human disease,,,,,,C3151295
+Q18554801,rare disease,希少疾患,Q929833,multiple intestinal atresia,,Human disease,,C562441,,,,C0220744
+Q18555220,rare disease,希少疾患,Q929833,congenital nonspherocytic hemolytic anemia,,Human disease,,D000746,,,,C0002882
+Q18553930,rare disease,希少疾患,Q929833,primary polycythemia,,human disease,,C536842,,,,C0152264
+Q18554312,rare disease,希少疾患,Q929833,juvenile spinal muscular atrophy,,Human disease,,D014897,G12.1,,,C0152109
+Q18553753,rare disease,希少疾患,Q929833,"acromesomelic dysplasia, Maroteaux type",,"acromesomelic dysplasia that has material basis in mutation in NPR-B receptor which results in severe dwarfism, abnormalities of the located in vertebral column and shortening of middle and distal segments in the located in limb",,C535661,,,,C1864356
+Q18553754,rare disease,希少疾患,Q929833,"acromesomelic dysplasia, Hunter-Thompson type",,acromesomelic dysplasia that has material basis in mutation in AMDH gene which results in normal axial skeleton but fused bones in the located in hand or located in foot,,,,,,C2930970
+Q18553747,rare disease,希少疾患,Q929833,"spondyloepimetaphyseal dysplasia, Missouri type",,"spondyloepimetaphyseal dysplasia that has material basis in mutations in the MMP13 gene which results in a pear-shaped vertebrae, abnormal metaphyseal changes, and genu varum deformities",,,,,,C1865832
+Q18554351,rare disease,希少疾患,Q929833,22q11 deletion syndrome,,chromosomal disease that has material basis in deletion polymorphisms at chromosome location 22q11 and is characterized by variable developmental problems and schizoid features,,D058165,,,,C0220704
+Q18554794,rare disease,希少疾患,Q929833,primary pulmonary hypertension,,"chronic pulmonary heart disease characterized by an increase of blood pressure in the pulmonary artery, pulmonary vein, or pulmonary capillaries, among others, has symptoms shortness of breath, dizziness, fainting, leg swelling",,D065627,,,,C0152171
+Q18554140,rare disease,希少疾患,Q929833,tritanopia,3型2色覚,"human disease, blue color blindness",,,,,,C0155017
+Q18553484,rare disease,希少疾患,Q929833,Ehlers-Danlos syndrome progeroid type,,Human disease,,C536201,,,,C1869122
+Q18553705,rare disease,希少疾患,Q929833,GABA aminotransferase deficiency,,Human disease,,C535407,,,,C0342708
+Q18553629,rare disease,希少疾患,Q929833,pyridoxine-refractory autosomal recessive sideroblastic anemia,,Human disease,,C567145,,,,C2673914
+Q18554151,rare disease,希少疾患,Q929833,hyperlipoproteinemia type V,,Human disease,,D006954,,,,C0020481
+Q18553731,rare disease,希少疾患,Q929833,FTDALS2,,amyotrophic lateral sclerosis that has material basis in mutation in the CHCHD10 gene on chromosome 22. It is characterized by adult onset of either frontotemporal dementia and/or amyotrophic lateral sclerosis,,,,,,C4014648
+Q18553715,rare disease,希少疾患,Q929833,amyotrophic lateral sclerosis type 4,,human disease,,C566550,,,,C1865409
+Q18554819,rare disease,希少疾患,Q929833,"blepharophimosis, ptosis, and epicanthus inversus syndrome",,Human disease,,C562419,,,,C0220663
+Q18553593,rare disease,希少疾患,Q929833,CD45 deficiency,,Human disease,,,,,,C1837028
+Q18553596,rare disease,希少疾患,Q929833,CD3gamma deficiency,,Human disease,,,,,,C2025557
+Q18553730,rare disease,希少疾患,Q929833,FTDALS1,,amyotrophic lateral sclerosis that has material basis in mutation in the C9ORF72 gene on chromosome 9. It is characterized by adult onset of either frontotemporal dementia and/or amyotrophic lateral sclerosis,,,,,,
+Q18553537,rare disease,希少疾患,Q929833,non-syndromic intellectual disability,,intellectual disability that is characterized by the absence of associated medical and behavioral signs and symptoms,,,,,,
+Q18966123,rare disease,希少疾患,Q929833,Smith-McCort dysplasia,,osteochondrodysplasia characterized by short limbs and a short trunk with a barrel-shaped chest and has material basis in homozygous or compound heterozygous mutation in the DYM gene on chromosome 18q,,C564589,,,,C1846431
+Q18966134,rare disease,希少疾患,Q929833,rippling muscle disease,,"muscle tissue disease characterized by muscles unusually sensitive to movement or pressure; the proximal muscles are most affected, especially the thighs",,C535686,,,,C1853698
+Q18558233,rare disease,希少疾患,Q929833,partial central choroid dystrophy,,human disease,,,,,,C0339427
+Q18966097,rare disease,希少疾患,Q929833,3MC syndrome,,Human disease,,,,,,C0796279
+Q18966102,rare disease,希少疾患,Q929833,Baraitser-Winter syndrome,,Human disease,,,,,,C1853623
+Q18966146,rare disease,希少疾患,Q929833,pontocerebellar hypoplasia type 1B,,human disease,,,,,,C3553449
+Q18966144,rare disease,希少疾患,Q929833,pontocerebellar hypoplasia type 1A,,human disease,,,,,,C1843504
+Q18629322,rare disease,希少疾患,Q929833,Mueller Weiss syndrome,,osteonecrotic disease of the foot,,,,,,C4761149
+Q18556069,rare disease,希少疾患,Q929833,cytochrome-c oxidase deficiency disease,,Human disease,,D030401,,,,C0268237
+Q18965508,rare disease,希少疾患,Q929833,non-syndromic X-linked intellectual disability,,non-syndromic intellectual disability characterized by a X-linked inheritance pattern,,,,,,C0796229
+Q18631413,rare disease,希少疾患,Q929833,Human Disorganization Syndrome,,,,,,,,
+Q18816398,rare disease,希少疾患,Q929833,alcoholic cerebellar degeneration,,,,,,,,
+Q18808725,rare disease,希少疾患,Q929833,lysosomal acid phosphatase deficiency,,Lysosomal storage disease,,C562645,,,,C0268410
+Q18966114,rare disease,希少疾患,Q929833,Van Maldergem syndrome,,Human disease,,C536530,,,,C1832390
+Q18966154,rare disease,希少疾患,Q929833,pontocerebellar hypoplasia type 3,,Human disease,,C548072,,,,C1842687
+Q18966155,rare disease,希少疾患,Q929833,pontocerebellar hypoplasia type 4,,Human disease,,C536716,,,,C1856974
+Q18556319,rare disease,希少疾患,Q929833,sea-blue histiocyte syndrome,,Human disease,,D012618,,,,C0036489
+Q18558184,rare disease,希少疾患,Q929833,congenital nystagmus,,"pathologic nystagmus, present at birth, characterized by involuntary, rhythmic eye movements; oscillations are usually horizontal in direction",,D020417,,,,C0700501
+Q18966081,rare disease,希少疾患,Q929833,amyotrophic lateral sclerosis type 5,,human disease,,C566576,,,,C1865864
+Q18966150,rare disease,希少疾患,Q929833,pontocerebellar hypoplasia type 2C,,human disease,,C567324,,,,C2676465
+Q18966149,rare disease,希少疾患,Q929833,pontocerebellar hypoplasia type 2B,,human disease,,C567325,,,,C2676466
+Q18589315,rare disease,希少疾患,Q929833,Cataract-microcornea syndrome,,Cataract-microcornea syndrome is characterized by the association of congenital cataract and microcornea without any other systemic anomaly or dysmorphism,,C538287,,,,C1861829
+Q18616565,rare disease,希少疾患,Q929833,Barber-Say syndrome,,rare genetic disorder,,C537908,,,,C1319466
+Q18966109,rare disease,希少疾患,Q929833,branchiootic syndrome,,"syndrome characterized by malformations of the outer, middle and inner ear and branchial and renal malformations. Mutations of the EYA1, SIX1 and SIX5 genes are associated with the syndrome",,C565171,,,,C1852718
+Q19121042,rare disease,希少疾患,Q929833,type I complement component 8 deficiency,,Human disease,,,,,,
+Q19121043,rare disease,希少疾患,Q929833,type II complement component 8 deficiency,,Human disease,,,,,,
+Q18966152,rare disease,希少疾患,Q929833,pontocerebellar hypoplasia type 2D,,human disease,,,,,,C3151140
+Q18966153,rare disease,希少疾患,Q929833,pontocerebellar hypoplasia type 2E,,human disease,,,,,,C4014488
+Q18966162,rare disease,希少疾患,Q929833,pontocerebellar hypoplasia type 9,,human disease,,,,,,C4014354
+Q18966164,rare disease,希少疾患,Q929833,pontocerebellar hypoplasia type 10,,human disease,,,,,,C4014347
+Q19587381,rare disease,希少疾患,Q929833,Meier-Gorlin syndrome,,"autosomal recessive disorder characterized by severe intrauterine and postnatal growth retardation, microcephaly, bilateral microtia and hypoplastic patellae",,C538012,,,,C1868684
+Q19587393,rare disease,希少疾患,Q929833,mitochondrial complex V (ATP synthase) deficiency nuclear type 2,,mitochondrial metabolism disease that has material basis in mutation in the TMEM70 gene on chromosome 8q21,,C567528,,,,C3279699
+Q19309810,rare disease,希少疾患,Q929833,bipartite talus,,,,,Q66.8,,,
+Q18966161,rare disease,希少疾患,Q929833,pontocerebellar hypoplasia type 8,,gene. MRI demonstrates a pontocerebellar hypoplasia with vermis and hemispheres equally affected and mild to severely reduced cerebral white matter volume with a fully formed very thin corpus callosum.,,,,,,C3554209
+Q18966156,rare disease,希少疾患,Q929833,pontocerebellar hypoplasia type 5,,Human disease,,C537745,,,,C1857762
+Q18987134,rare disease,希少疾患,Q929833,combined oxidative phosphorylation deficiency,,Human disease,,,,,,C4700505
+Q19587382,rare disease,希少疾患,Q929833,autosomal dominant non-syndromic intellectual disability,,non-syndromic intellectual disability characterized by an autosomal dominant inheritance pattern,,,,,,
+Q19001032,rare disease,希少疾患,Q929833,autoimmune lymphoproliferative syndrome type 3,,Human disease,,,,,,C1519711
+Q18966158,rare disease,希少疾患,Q929833,pontocerebellar hypoplasia type 6,,human disease,,C548074,,,,C1969084
+Q19587384,rare disease,希少疾患,Q929833,autosomal recessive non-syndromic intellectual disability,,human disease,,C565406,,,,C1855304
+Q19587394,rare disease,希少疾患,Q929833,mitochondrial complex V (ATP synthase) deficiency nuclear type 3,,mitochondrial metabolism disease that has material basis in mutation in the ATP5E gene on chromosome 20q13,,,,,,C3279708
+Q19587395,rare disease,希少疾患,Q929833,mitochondrial complex V (ATP synthase) deficiency nuclear type 4,,mitochondrial metabolism disease that has material basis in mutation in the ATP5A1 gene on chromosome 18q,,,,,,C3808899
+Q21014372,rare disease,希少疾患,Q929833,microhydranencephaly,,severe abnormality of brain development characterized by both microcephaly and hydranencephaly,,C537555,,,,C1857977
+Q19833018,rare disease,希少疾患,Q929833,autosomal dominant sideroblastic anemia,,sideroblastic anemia characterized by an autosomal dominant inheritance pattern,,C567160,,,,C2674249
+Q18987129,rare disease,希少疾患,Q929833,primary pigmented nodular adrenocortical disease,,adrenal cortex disease characterized by small to normal sized adrenal glands containing multiple small cortical pigmented nodules,,C566469,,,,C1864846
+Q20828711,rare disease,希少疾患,Q929833,spondylocarpotarsal synostosis syndrome,,human disease,,C535780,,,,C1848934
+Q19121036,rare disease,希少疾患,Q929833,complement component 4b deficiency,,Human disease,,,,,,C3280641
+Q19121035,rare disease,希少疾患,Q929833,complement component 4a deficiency,,Human disease,,C565167,,,,C1852692
+Q19121044,rare disease,希少疾患,Q929833,complement component 9 deficiency,,Human disease,,C565165,,,,C0398765
+Q18987133,rare disease,希少疾患,Q929833,parietal foramina,,Human disease,,C566826,,,,C0222706
+Q21124512,rare disease,希少疾患,Q929833,hypoparathyroidism-retardation-dysmorphism syndrome,,Human disease,,C537157,,,,C1855840
+Q21154075,rare disease,希少疾患,Q929833,chromosome 2q32-q33 deletion syndrome,,Human disease,,C567350,,,,C2676739
+Q21154084,rare disease,希少疾患,Q929833,granular corneal dystrophy type II,,Human disease,,C535474,,,,C1275685
+Q21154045,rare disease,希少疾患,Q929833,orofaciodigital syndrome V,,Human disease,,C557819,,,,C1868118
+Q21505505,rare disease,希少疾患,Q929833,Neu-Laxova syndrome 1,,Human disease,,,,,,
+Q21505517,rare disease,希少疾患,Q929833,tubular aggregate myopathy,,Human disease,,,,,,
+Q21154059,rare disease,希少疾患,Q929833,chromosome 15q24 deletion syndrome,,human disease,,C579849,,,,C3150674
+Q21505494,rare disease,希少疾患,Q929833,salt and pepper syndrome,,"autosomal recessive disease characterized by severe intellectual disability, epilepsy, scoliosis, choreoathetosis, dysmorphic facial features and altered dermal pigmentation",,,,,,
+Q21154042,rare disease,希少疾患,Q929833,autosomal recessive early-onset Parkinson disease 6,,Parkinson's disease that has material basis in mutations in the PINK1 gene on chromosome 1p36.12,,C565276,,,,C1853833
+Q21505503,rare disease,希少疾患,Q929833,Neu-Laxova syndrome 2,,Human disease,,,,,,C4015019
+Q21505516,rare disease,希少疾患,Q929833,nonsyndromic congenital nail disorder 10,,Human disease,,,,,,C3279974
+Q21505506,rare disease,希少疾患,Q929833,hypophosphatemic nephrolithiasis/osteoporosis 1,,Human disease,,C567363,,,,C2676786
+Q21505507,rare disease,希少疾患,Q929833,hypophosphatemic nephrolithiasis/osteoporosis 2,,Human disease,,C567362,,,,C2676782
+Q21505510,rare disease,希少疾患,Q929833,nonsyndromic congenital nail disorder 3,,Human disease,,C537289,,,,C0263532
+Q21505514,rare disease,希少疾患,Q929833,nonsyndromic congenital nail disorder 8,,Human disease,,C564384,,,,C1843761

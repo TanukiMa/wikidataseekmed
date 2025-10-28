@@ -1,0 +1,7 @@
+﻿qid,category_en,category_ja,category_qid,en_label,ja_label,en_description,ja_description,mesh_id,icd10,icd9,snomed_id,umls_id
+Q1313510,symptom,症状,Q169872,hypophosphatasia,,"rare, and sometimes fatal, metabolic bone disease",,D007014,,275.3,,C0020630
+Q4420119,symptom,症状,Q169872,Geschwind syndrome,,potential personality changes over time associated with temporal lobe epilepsy,,,,,,
+Q1144618,symptom,症状,Q169872,familial Mediterranean fever,家族性地中海熱,Human disease,,D010505,,,,C0031069
+Q124850662,symptom,症状,Q169872,apagender,,,,,,,,
+Q16673158,symptom,症状,Q169872,magiphrenic syndrome,,mental disorder,,,,,,
+Q1153641,symptom,症状,Q169872,Wolfram syndrome,ウォルフラム症候群,"rare disease in which a human simultaneously has diabetes insipidus, diabetes, optic nerve atrophy and deafness syndrome",,D014929,E13.8,249.90,,C0043207

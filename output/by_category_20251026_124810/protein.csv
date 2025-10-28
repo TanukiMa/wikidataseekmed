@@ -1,0 +1,11 @@
+﻿qid,category_en,category_ja,category_qid,en_label,ja_label,en_description,ja_description,mesh_id,icd10,icd9,snomed_id,umls_id
+Q50250875,protein,タンパク質,Q8054,Cyclin E:p-T160-CDK2:p-RB1,,Macromolecular complex,,,,,,
+Q50250941,protein,タンパク質,Q8054,Cyclin A:Cdk2:substrate complex,,Macromolecular complex,,,,,,
+Q50250945,protein,タンパク質,Q8054,Cyclin A:Cdk2:phosphorylated substrate complex,,Macromolecular complex,,,,,,
+Q50250952,protein,タンパク質,Q8054,ubiquitinated Orc1,,Macromolecular complex,,,,,,
+Q50250953,protein,タンパク質,Q8054,ubiquitinated Orc1 [cytosol],,Macromolecular complex,,,,,,
+Q50250857,protein,タンパク質,Q8054,26S proteasome [nucleoplasm],,instance of macromolecular complex in Homo sapiens with Reactome ID (R-HSA-177750),,,,,,
+Q50250926,protein,タンパク質,Q8054,Aborted replication complex [nucleoplasm],,instance of macromolecular complex in Homo sapiens with Reactome ID (R-HSA-113648),,,,,,
+Q50250999,protein,タンパク質,Q8054,Ac-Cohesin:PDS5:WAPAL:Chromosomal Arm [nucleoplasm],,instance of macromolecular complex in Homo sapiens with Reactome ID (R-HSA-2473153),,,,,,
+Q50251002,protein,タンパク質,Q8054,Ac-Cohesin Complex [nucleoplasm],,instance of macromolecular complex in Homo sapiens with Reactome ID (R-HSA-2468048),,,,,,
+Q50250847,protein,タンパク質,Q8054,"Cyclin E/A:p-T160-CDK2:CDKN1A,CDKN1B [nucleoplasm]",,instance of macromolecular complex in Homo sapiens with Reactome ID (R-HSA-187516),,,,,,

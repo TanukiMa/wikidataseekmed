@@ -1,0 +1,6 @@
+﻿qid,category_en,category_ja,category_qid,en_label,ja_label,en_description,ja_description,mesh_id,icd10,icd9,snomed_id,umls_id
+Q1313510,symptom,症状,Q169872,hypophosphatasia,,"rare, and sometimes fatal, metabolic bone disease",,D007014,,275.3,,C0020630
+Q3043160,symptom,症状,Q169872,primary immunodeficiency disease,原発性免疫不全症候群,immune system disease that results when one or more essential parts of the immune system is missing or not working properly at birth due to a genetic mutation,,D000081207,,,,C0021051
+Q2553422,symptom,症状,Q169872,POEMS syndrome,クロウ・深瀬症候群,paraneoplastic syndrome,,D016878,D47.7,273.8,,C0085404
+Q649340,symptom,症状,Q169872,Alice in Wonderland syndrome,不思議の国のアリス症候群,neuropsychological condition,ものの大きさに関する様々な主観的イメージの変容を引き起こす症候群,D062026,,,,C0854348
+Q1053948,symptom,症状,Q169872,Stevens–Johnson syndrome,スティーブンス・ジョンソン症候群,skin disease,皮膚や粘膜の過敏症,D013262,,,73442001,C0014518

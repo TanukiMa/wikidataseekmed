@@ -1,0 +1,66 @@
+﻿qid,category_en,category_ja,category_qid,en_label,ja_label,en_description,ja_description,mesh_id,icd10,icd9,snomed_id,umls_id
+Q65501350,symptom,症状,Q169872,Peroxisomal disease (except Adrenoleukodystrophy),ペルオキシソーム病,,ヒトの疾患,,,,,
+Q65213680,symptom,症状,Q169872,vascular sling,,,,,,,,C1856123
+Q65213795,symptom,症状,Q169872,LMX1B-associated nephropathy,,,,,,,,
+Q65214073,symptom,症状,Q169872,Trifunctional protein deficiency,,,,,,,,
+Q65214555,symptom,症状,Q169872,Anterior segment dysgenesis,,,,,,,,
+Q65214410,symptom,症状,Q169872,Inherited glycosylphosphatidylinositol deficiency,,,,,,,,
+Q65214459,symptom,症状,Q169872,Hereditary autoinflammatory syndrome,,,,,,,,
+Q65214498,symptom,症状,Q169872,Idiopathic thrombosis,,,,,,,,
+Q109910786,symptom,症状,Q169872,Idiopathic portal hypertension,,,,,,,,
+Q1153641,symptom,症状,Q169872,Wolfram syndrome,ウォルフラム症候群,"rare disease in which a human simultaneously has diabetes insipidus, diabetes, optic nerve atrophy and deafness syndrome",,D014929,E13.8,249.90,,C0043207
+Q1154619,symptom,症状,Q169872,Werner syndrome,ウェルナー症候群,Lethal autosomal recessive disorder,,D014898,,,,C0043119
+Q1146454,symptom,症状,Q169872,IgA glomerulonephritis,IgA腎症,disease of the kidney,,D005922,,,,C0017661
+Q2553422,symptom,症状,Q169872,POEMS syndrome,クロウ・深瀬症候群,paraneoplastic syndrome,,D016878,D47.7,273.8,,C0085404
+Q56014002,symptom,症状,Q169872,chronic intestinal pseudoobstruction,,medical condition,,,,,,C0238062
+Q649340,symptom,症状,Q169872,Alice in Wonderland syndrome,不思議の国のアリス症候群,neuropsychological condition,ものの大きさに関する様々な主観的イメージの変容を引き起こす症候群,D062026,,,,C0854348
+Q1053948,symptom,症状,Q169872,Stevens–Johnson syndrome,スティーブンス・ジョンソン症候群,skin disease,皮膚や粘膜の過敏症,D013262,,,73442001,C0014518
+Q2602467,symptom,症状,Q169872,cerebrotendinous xanthomatosis,脳腱黄色腫症,autosomal recessive form of xanthomatosis.,,D019294,E75.5,272.7,,C0238052
+Q1052391,symptom,症状,Q169872,inherited pseudoxanthoma elasticum,弾力繊維性仮性黄色腫,Human disease,,D011561,,,,C0033847
+Q8277,symptom,症状,Q169872,multiple sclerosis,多発性硬化症,disease that damages the myelin sheaths around nerve axons,中枢性脱髄疾患の一つ,D009103,,,,C0026769
+Q65122499,symptom,症状,Q169872,Hepatic glycogenosis,,,,,,,,C0268145
+Q65122739,symptom,症状,Q169872,Primary hyperchylomicronemia,,,,,,,,C1535978
+Q1072420,symptom,症状,Q169872,primary biliary cholangitis,原発性胆汁性肝硬変,liver cirrhosis characterized by chronic and slow progressive destruction of intrahepatic bile ducts,,D008105,,,,C0008312
+Q65213321,symptom,症状,Q169872,Eosinophilic sinusitis,,,,,,,,C3203546
+Q2613277,symptom,症状,Q169872,Alpha-thalassemia mental retardation syndrome,ATR-X症候群,alpha thalassemia that has material basis in mutation in the ATRX gene on Xq21,,C538258,,,,C1845055
+Q1058608,symptom,症状,Q169872,primary sclerosing cholangitis,原発性硬化性胆管炎,"sclerosing cholangitis characterized by fibroobliterative inflammation of the biliary tract, leading to cirrhosis and portal hypertension",,C536419,,576.1,,C0566602
+Q56014262,symptom,症状,Q169872,continuous spikes and waves during sleep,,,,,,,,C5552731
+Q55788887,symptom,症状,Q169872,congenital tricuspid stenosis,,human disease,,,,,,C0265836
+Q55789331,symptom,症状,Q169872,congenital mitral stenosis,,human disease,,,,,,C0158618
+Q55789414,symptom,症状,Q169872,mesial temporal lobe epilepsy with hippocampal sclerosis,,human disease,,,,,,C4749367
+Q8285,symptom,症状,Q169872,myasthenia gravis,重症筋無力症,human disease,アセチルコリンなどの抗体により神経・筋伝達が阻害されるために筋肉の易疲労性や脱力が起こる自己免疫疾患,D009157,,,,C0751340
+Q8282,symptom,症状,Q169872,Addison's disease,慢性原発性副腎皮質機能低下症,adrenal cortical hypofunction that is characterized by insufficient steroid hormone production by the adrenal glands,,D000224,,,,C0405580
+Q2610084,symptom,症状,Q169872,sideroblastic anaemia P,鉄芽球性貧血,aplastic anemia where the bone marrow produces ringed sideroblasts rather than healthy red blood cells (erythrocytes),,D000756,,,,C0002896
+Q2711291,symptom,症状,Q169872,familial hypercholesterolemia,家族性高コレステロール血症,familial hyperlipidemia characterized by very high levels of low-density lipoprotein (LDL) and early cardiovascular disease,,D006938,,,,C0020445
+Q65122439,symptom,症状,Q169872,Skeletal muscle glycogenosis,,,,,,,,
+Q1052687,symptom,症状,Q169872,Charcot–Marie–Tooth disease,シャルコー・マリー・トゥース病,"neuromuscular disease that is characterized by a slowly progressive degeneration of the muscles of the foot, lower leg, hand and forearm",,D002607,,,,C0007959
+Q112412,symptom,症状,Q169872,congenital myopathy,先天性ミオパチー,human disease,フロッピーインファント症状を引き起こす疾患群,,G71.2,359.0,,C0027127
+Q1477,symptom,症状,Q169872,ulcerative colitis,潰瘍性大腸炎,inflammatory bowel disease that causes ulcers in the colon,大腸の粘膜に潰瘍や糜爛を生じる炎症性疾患,D003093,,,,C0009324
+Q63871268,symptom,症状,Q169872,Extensive spinal canal stenosis,,,,,,,,
+Q64425127,symptom,症状,Q169872,Alveolar hypoventilation syndrome,,,,C536281,,,,C3489730
+Q32811,symptom,症状,Q169872,Churg-Strauss syndrome,アレルギー性肉芽腫性血管炎,"a systemic vasculitis realized as blood vessel inflammation, with symptoms asthma along with hay fever, rash and gastrointestinal bleeding",,D015267,,447.6,,C0008728
+Q622901,symptom,症状,Q169872,Korsakoff's syndrome,コルサコフ症候群,mental illness caused by a lack of thiamine in the brain,健忘症・明示的記憶の障害・作話などの特徴を持つ中枢神経系障害,D020915,F04,294.0,,C0349464
+Q1088030,symptom,症状,Q169872,chronic inflammatory demyelinating polyradiculoneuropathy,慢性炎症性脱髄性多発神経炎,acquired immune-mediated inflammatory disorder of the peripheral nervous system,,D020277,,,,C0393819
+Q52849,symptom,症状,Q169872,ankylosing spondylitis,強直性脊椎炎,type of arthritis in which there is long term inflammation of the joints of the spine,,D013167,,720.0,,C0038013
+Q63871310,symptom,症状,Q169872,Pituitary ADH secretion disorder,,,,,,,,
+Q63878253,symptom,症状,Q169872,Idiopathic dilated cardiomyopathy,,,,,,,,
+Q63992093,symptom,症状,Q169872,Asplenia syndrome,,,,,,,,
+Q63992084,symptom,症状,Q169872,Polysplenia syndrome,,,,,,,,
+Q64075897,symptom,症状,Q169872,Primary nephrotic syndrome,,,,,,,,
+Q64075953,symptom,症状,Q169872,Primary membranoproliferative glomerulonephritis,,,,,,,,
+Q64076010,symptom,症状,Q169872,Purpura nephritis,,,,,,,,
+Q63874868,symptom,症状,Q169872,Autophagic vacuolar myopathy,,,,C536522,,,,
+Q64556062,symptom,症状,Q169872,ACTH unresponsiveness,,,,,,,,
+Q64556363,symptom,症状,Q169872,Vitamin D-dependent ricket,,,,,,,,
+Q65122992,symptom,症状,Q169872,Congenital scoliosis with rib anomaly,,,,,,,,
+Q65129785,symptom,症状,Q169872,Huge lymphatic malformation,,,,,,,,
+Q65130205,symptom,症状,Q169872,Huge venous malformation,,,,,,,,
+Q65130309,symptom,症状,Q169872,Huge arteriovenous malformation,,,,,,,,
+Q65210003,symptom,症状,Q169872,Acquired pure red cell aplasia,,,,,,,,
+Q65211128,symptom,症状,Q169872,Nonspecific multiple ulcers in the small intestine,,,,,,,,
+Q65211701,symptom,症状,Q169872,"Hirschsprung disease, entire colon type",,,,,,,,
+Q65212710,symptom,症状,Q169872,Infant huge hepatic hemangioma,,,,,,,,
+Q65213259,symptom,症状,Q169872,Delayed endolymphatic hydrops,,,,,,,,
+Q65213208,symptom,症状,Q169872,Juvenile-onset bilateral sensorineural hearing loss,,,,,,,,
+Q65213532,symptom,症状,Q169872,Congenital anomalies syndrome,,,,,,,,
+Q65213418,symptom,症状,Q169872,Progressive leukoencephalopathy,,,,,,,,

@@ -1,0 +1,11 @@
+﻿qid,category_en,category_ja,category_qid,en_label,ja_label,en_description,ja_description,mesh_id,icd10,icd9,snomed_id,umls_id
+Q5137664,gene,遺伝子,Q7187,F13A1,,protein-coding gene in the species Homo sapiens,,,,,,C1414500
+Q5145895,gene,遺伝子,Q7187,COL12A1,,protein-coding gene in the species Homo sapiens,,,,,,C1413572
+Q218706,gene,遺伝子,Q7187,erythropoietin,エリスロポエチン,mammalian protein found in Homo sapiens,,,,,,
+Q4650050,gene,遺伝子,Q7187,ABCA3,,protein-coding gene in the species Homo sapiens,,,,,,C1412062
+Q5023908,gene,遺伝子,Q7187,CAST,,protein-coding gene in the species Homo sapiens,,,,,,C1413137
+Q4032933,gene,遺伝子,Q7187,ALDH3A1,,protein-coding gene in the species Homo sapiens,,,,,,C1412336
+Q4033031,gene,遺伝子,Q7187,ANK2,,protein-coding gene in the species Homo sapiens,,,,,,C1412403
+Q5145886,gene,遺伝子,Q7187,COL4A1,,protein-coding gene in the species Homo sapiens,,,,,,C1413582
+Q30555,gene,遺伝子,Q7187,proto-oncogene,,gene that can become an oncogene,,D011519,,,,C0033713
+Q5635486,gene,遺伝子,Q7187,HOTHEAD,,Arabidopsis thaliana gene,,,,,,

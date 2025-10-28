@@ -1,0 +1,6 @@
+﻿qid,category_en,category_ja,category_qid,en_label,ja_label,en_description,ja_description,mesh_id,icd10,icd9,snomed_id,umls_id
+Q403453,disease,病気,Q12136,Aicardi-Goutieres syndrome,エカルディ・グティエール症候群,a rare genetic neurodevelopmental disorder,,C535607,,,,C0393591
+Q170990,disease,病気,Q12136,arthritis,関節炎,"any of several joint disorders, some autoimmune, some infectious",,D001168,,712,372091005,C0003864
+Q390211,disease,病気,Q12136,atrioventricular septal defect,心内膜床欠損症,Human disease,,D004694,,,,C0014116
+Q493103,disease,病気,Q12136,paramyotonia congenita,先天性パラミオトニア,human disease,,C538616,G71.1,359.2,,C0221055
+Q511372,disease,病気,Q12136,Krabbe disease,クラッベ病,congenital disorder of the nervous system,,D007965,,330.0,,C0023521

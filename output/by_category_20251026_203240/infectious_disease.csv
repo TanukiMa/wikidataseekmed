@@ -1,0 +1,373 @@
+﻿qid,category_en,category_ja,category_qid,en_label,ja_label,en_description,ja_description,mesh_id,icd10,icd9,snomed_id,umls_id
+Q1734637,infectious disease,感染症,Q18123741,Common scab,そうか病,Plant disease affecting potatoes and other crops,,,,,,
+Q11775289,infectious disease,感染症,Q18123741,Peach scab,,fungal disease of stone fruits,,,,,,
+Q5788570,infectious disease,感染症,Q18123741,infectious coryza,伝染性コリーザ,disease of poultry,,,,,,
+Q1104126,infectious disease,感染症,Q18123741,classic autism,,"former developmental disorder, since DSM-V replaced by Autism Spectrum Condition, type 2-3, with, or without, intellectual development disorder",,,F84.0,,,
+Q8502088,infectious disease,感染症,Q18123741,apricot leaf scorch,,plant disease,,,,,,
+Q97317440,infectious disease,感染症,Q18123741,Thysaniezia infection,,,,,,,,
+Q11176055,infectious disease,感染症,Q18123741,red band needle blight,,,,,,,,
+Q2400155,infectious disease,感染症,Q18123741,tar spot,,plant disease,,,,,,
+Q110488017,infectious disease,感染症,Q18123741,Deltacron,デルタクロン株,Cross of SARS-CoV-2 variant Delta and SARS-CoV-2 variant Omikron discovered in Cyprus.,,,,,,
+Q11722813,infectious disease,感染症,Q18123741,Cenangium canker,,,,,,,,
+Q11730777,infectious disease,感染症,Q18123741,Sphaeropsis blight,,,,,,,,
+Q11775023,infectious disease,感染症,Q18123741,black spot of elm,,,,,,,,
+Q11775070,infectious disease,感染症,Q18123741,Cyclaneusma minus needle cast,,,,,,,,
+Q11775029,infectious disease,感染症,Q18123741,Leaf and shoot blight of aspen,,,,,,,,
+Q11775031,infectious disease,感染症,Q18123741,Mycosphaerella needle blight,,,,,,,,
+Q11775011,infectious disease,感染症,Q18123741,powdery mildew of grape,,,,,,,,
+Q12048208,infectious disease,感染症,Q18123741,brown felt blight,,,,,,,,
+Q12201175,infectious disease,感染症,Q18123741,Tracheomycosis,,,,,,,,
+Q12427214,infectious disease,感染症,Q18123741,canker stain of plane,,,,,,,,
+Q12535488,infectious disease,感染症,Q18123741,Biohelminthiasis,,,,,,,,
+Q12856885,infectious disease,感染症,Q18123741,gray mold spot,,,,,,,,
+Q12856836,infectious disease,感染症,Q18123741,Sirococcus Shoot Blight,,,,,,,,
+Q337715,infectious disease,感染症,Q18123741,fish acanthocephalosis,,,,,,,,
+Q2853014,infectious disease,感染症,Q18123741,Anthracnose Leaf Blight,,,,,,,,
+Q3055119,infectious disease,感染症,Q18123741,Entomosporium leaf spot,,,,,,,,
+Q84263196,infectious disease,感染症,Q18123741,COVID-19,新型コロナウイルス感染症 (2019年),contagious disease caused by SARS-CoV-2,SARSコロナウイルス2 (SARS-CoV-2) によって引き起こされる人獣共通感染症,D000086382,U07.1,,840539006,C5203670
+Q110244250,infectious disease,感染症,Q18123741,SARS-CoV-2 Delmicron variant,,coinfection of SARS-CoV-2 Delta and Omicron variants,,,,,,
+Q7861356,infectious disease,感染症,Q18123741,Typhula blight,,fungal disease of plants,,,,,,
+Q3382633,infectious disease,感染症,Q18123741,black wood-vessel disease,,,,,,,,
+Q111329346,infectious disease,感染症,Q18123741,Spinal cord abscess,,Infectious abscess of the central nervous system,,,,,16300007,C0391986
+Q2385610,infectious disease,感染症,Q18123741,armillaria root rot,,cryptogamic disease,,,,,,
+Q7580044,infectious disease,感染症,Q18123741,Spot blotch,,disease of barley caused by Cochliobolus sativus,,,,,,
+Q11542703,infectious disease,感染症,Q18123741,metagonimiasis,横川吸虫症,parasitic helminthiasis infectious disease that involves parasitic infection of the intestine by Metagonimus yokogawai. The symptoms are diarrhea and colicky abdominal pain. The heart and brain can also be infected,,,,,,C0025530
+Q221547,infectious disease,感染症,Q18123741,Coenurosis,,Helminthiasis,,,B71.8,,,
+Q500536,infectious disease,感染症,Q18123741,Verticillium wilt,,plant wilt disease,,,,,,
+Q2043695,infectious disease,感染症,Q18123741,PANDAS,,hypothesis that there exists a subset of children with rapid onset of obsessive-compulsive disorder or tic disorders and these symptoms are caused by group A beta-hemolytic streptococcal infections,,C537163,D89.89,,,C2931429
+Q3429534,infectious disease,感染症,Q18123741,violet root rot,,plant disease,,,,,,
+Q3498760,infectious disease,感染症,Q18123741,red heart rot,,plant disease,,,,,,
+Q4312883,infectious disease,感染症,Q18123741,Nanophyetiasis,,,,,B66.8,,,C1404708
+Q5153518,infectious disease,感染症,Q18123741,common bunt,,fungal disease of wheat,,,,,,
+Q107028193,infectious disease,感染症,Q18123741,Wuhan pneumonia,武漢肺炎,"name of COVID-19 began with an outbreak in Wuhan city, China",COVID-19の呼称の一つ,,,,,
+Q7429699,infectious disease,感染症,Q18123741,Scald,,fungal disease of barley,,,,,,
+Q3400651,infectious disease,感染症,Q18123741,Fusarium dry rot,,common potato disease,,,,,,
+Q3771039,infectious disease,感染症,Q18123741,Fusarium ear blight,赤かび病,fungal disease of cereals,,,,,,
+Q1639227,infectious disease,感染症,Q18123741,scab,,plant disease due to fungal infestation,,,,,,
+Q7243132,infectious disease,感染症,Q18123741,Primary gonococcal dermatitis,,medical condition,,,,,,C0151175
+Q1109351,infectious disease,感染症,Q18123741,black dot,,disease of the potato plant,,,,,,
+Q11775122,infectious disease,感染症,Q18123741,cedar leaf blight,,plant disease,,,,,,
+Q2168931,infectious disease,感染症,Q18123741,Red Thread,,plant disease,,,,,,
+Q128829701,infectious disease,感染症,Q18123741,Blackleg (potatoes),,bacterial disease of potato plants,,,,,,
+Q5635621,infectious disease,感染症,Q18123741,HPV-positive oropharyngeal cancer,HPV陽性口腔咽頭癌,cancer of the throat,,,C09.0,,,
+Q1024563,infectious disease,感染症,Q18123741,CVBD,,,,,,,,
+Q3624451,infectious disease,感染症,Q18123741,Gonococcal arthritis,,,,,M01.3,098.50,,C0153216
+Q128210089,infectious disease,感染症,Q18123741,Tetramerosis,,,,,,,,
+Q666481,infectious disease,感染症,Q18123741,Syphilitic aortitis,,inflammation of the aorta,,D013589,,093.1,,
+Q99395308,infectious disease,感染症,Q18123741,root rot of beet,,,,,,,,
+Q1883030,infectious disease,感染症,Q18123741,Macrorhabdus ornithogaster infection,,,,,,,,
+Q2112692,infectious disease,感染症,Q18123741,fish proliferative kidney disease,,,,,,,,
+Q2217862,infectious disease,感染症,Q18123741,Velvet,,fish disease,,,,,,
+Q178275,infectious disease,感染症,Q18123741,1918-1920 flu pandemic,スペインかぜ,1918–1920 global influenza pandemic caused by the H1N1 influenza A virus,1918～1919年に世界的に流行したインフルエンザ,D064149,,,,C3658260
+Q4135168,infectious disease,感染症,Q18123741,Haemonchosis,,,,,,,,
+Q1977562,infectious disease,感染症,Q18123741,neon tetra disease,,fish disease,,,,,,
+Q1779250,infectious disease,感染症,Q18123741,canine transmissible venereal tumor,可移植性性器腫瘍,"tumors most commonly seen on or near the animal's genitalia, most likely transmitted through transplantation of cells by contact",,D014685,,,,C0042465
+Q763460,infectious disease,感染症,Q18123741,Scaly leg,,,,,,,,
+Q117394,infectious disease,感染症,Q18123741,white spot disease,,ectoparasite caused freshwater fish disease,,,,,,
+Q7808080,infectious disease,感染症,Q18123741,tinea incognito,,fungal skin infection caused by the presence of a topical immunosuppressive agent,,,,,,
+Q153356,infectious disease,感染症,Q18123741,chlamydia infection,性器クラミジア感染症,sexually transmitted infection caused by the bacterium Chlamydia trachomatis,クラミジア・トラコマチスが性交や性交類似行為によって、感染部位の粘膜との接触・分泌物との接触にで感染する性病,D002690,A56.8,099.41,,C0008149
+Q5248740,infectious disease,感染症,Q18123741,chronic bacterial prostatitis,慢性細菌性前立腺炎,bacterial infection of the prostate gland,,,N41.1,601.1,,C1720797
+Q5248726,infectious disease,感染症,Q18123741,acute prostatitis,急性前立腺炎,serious bacterial infection of the prostate gland,,,N41.0,601.0,,C1720795
+Q389123,infectious disease,感染症,Q18123741,Duck plague,あひるウイルス性腸炎,viral infection in ducks,,,,,,
+Q3237100,infectious disease,感染症,Q18123741,leucosis,,leukemia-like malignant viral disease,,,,,,
+Q136094924,infectious disease,感染症,Q18123741,Malarial coma,,,,,,085.5,,
+Q379054,infectious disease,感染症,Q18123741,adult T-cell leukemia/lymphoma,成人T細胞白血病,human disease,末梢性T細胞腫瘍,D015459,,208.9,,C0023493
+Q4157639,infectious disease,感染症,Q18123741,canine demodicosis,,common parasitic skin disease in dogs,,,,,,
+Q821711,infectious disease,感染症,Q18123741,Plague of Justinian,ユスティニアヌスのペスト,"541–549 AD pandemic in the Byzantine Empire, later northern Europe",540年代にヨーロッパで流行したペスト,,,,,
+Q749342,infectious disease,感染症,Q18123741,noble rot,貴腐,"beneficial form of a grey fungus, Botrytis cinerea, affecting wine grapes",白ワイン用のブドウにおける現象,,,,,
+Q4116466,infectious disease,感染症,Q18123741,genital ulcer,陰部潰瘍,ulcer located on the genital area,,,,,,
+Q5062121,infectious disease,感染症,Q18123741,central nervous system viral disease,中枢神経系ウイルス性疾患,"viral infection of the brain, spinal cord, meninges, or perimeningeal spaces",,D020805,,,,C0348165
+Q3508725,infectious disease,感染症,Q18123741,severe fever with thrombocytopenia syndrome,重症熱性血小板減少症候群,medical condition,マダニが媒介するウイルス性出血熱,D000085142,A93.8,065.9,,C4284413
+Q136101876,infectious disease,感染症,Q18123741,cerebral malaria,,,,,,085.0,,
+Q12192,infectious disease,感染症,Q18123741,pneumonia,肺炎,inflammation of the alveoli of the lungs,肺の病気,D011014,J18.9,483,233604007,C0032285
+Q2394735,infectious disease,感染症,Q18123741,anaplasmosis,アナプラズマ病,"disease, mostly animal (cattle) also in humans, caused by bacteria of the genus Anaplasma",,D000712,A79.8,,,C0002797
+Q12856939,infectious disease,感染症,Q18123741,periwinkle rust,,,,,,,,
+Q12857334,infectious disease,感染症,Q18123741,horse chestnut leaf blotch,,,,,,,,
+Q12981943,infectious disease,感染症,Q18123741,Spruce needle rust,,,,,,,,
+Q14541745,infectious disease,感染症,Q18123741,pear leaf spot,,,,,,,,
+Q14541792,infectious disease,感染症,Q18123741,leaf rust on plum,,,,,,,,
+Q14565220,infectious disease,感染症,Q18123741,Antirrhinum rust,,,,,,,,
+Q14565216,infectious disease,感染症,Q18123741,daisy rust,,,,,,,,
+Q56342797,infectious disease,感染症,Q18123741,oat and barley crown rust,,plant disease,,,,,,
+Q15951731,infectious disease,感染症,Q18123741,pineapple disease of sugarcane,,,,,,,,
+Q15975063,infectious disease,感染症,Q18123741,avian syngamosis,,,,,,,,
+Q16039082,infectious disease,感染症,Q18123741,bean anthracnose,,,,,,,,
+Q16326620,infectious disease,感染症,Q18123741,silver scurf,,,,,,,,
+Q16984500,infectious disease,感染症,Q18123741,Leucostoma canker,,plant fungal disease,,,,,,
+Q30314237,infectious disease,感染症,Q18123741,Halzoun,,parasitic disease,,,,,,
+Q17086443,infectious disease,感染症,Q18123741,rats in New York City,,rodent infestation,,,,,,
+Q7888578,infectious disease,感染症,Q18123741,neurosyphilis,神経梅毒,infection of the central nervous system in a patient with syphilis,梅毒の中枢神経系への感染,D009494,A52.1,094.1,,C0205858
+Q17162726,infectious disease,感染症,Q18123741,soil-transmitted helminthiasis,,class of diseases,,,,,,
+Q25377037,infectious disease,感染症,Q18123741,gangrene of potato,,,,,,,,
+Q25111181,infectious disease,感染症,Q18123741,Cyclaneusma needle cast,,fungal plant disease,,,,,,
+Q30913569,infectious disease,感染症,Q18123741,nectria canker,,,,,,,,
+Q84504375,infectious disease,感染症,Q18123741,Rapid ʻŌhiʻa Death,,fungal disease,,,,,,
+Q30912517,infectious disease,感染症,Q18123741,pine twist rust,,plant disease,,,,,,
+Q30912994,infectious disease,感染症,Q18123741,gooseberry and currant  anthracnose,,fungal disease of plants,,,,,,
+Q17640135,infectious disease,感染症,Q18123741,Coffee Wilt Disease,,Coffee three disease,,,,,,
+Q25381340,infectious disease,感染症,Q18123741,Phytophthora root rot,,disease of avocado,,,,,,
+Q56343377,infectious disease,感染症,Q18123741,rust of peas,,,,,,,,
+Q56344343,infectious disease,感染症,Q18123741,Chrysomyxa ledi rust of spruce,,,,,,,,
+Q2360849,infectious disease,感染症,Q18123741,strongyloidiasis,桿虫症,Human helminthiasis,,D013322,,,,C0038463
+Q18355701,infectious disease,感染症,Q18123741,Foamy bark canker,,fungal plant disease,,,,,,
+Q2447562,infectious disease,感染症,Q18123741,balantidiasis,バランチジウム症,parasitic disease,,D001447,,,,C0004692
+Q60764733,infectious disease,感染症,Q18123741,Cypress canker,,Disease of Cypress trees,,,,,,
+Q33402524,infectious disease,感染症,Q18123741,Cassava brown streak virus disease,キャッサバ褐色条斑病,viral disease of cassava plants,,,,,,
+Q127417752,infectious disease,感染症,Q18123741,perennial canker,,,,,,,,
+Q128617603,infectious disease,感染症,Q18123741,Fusarium wilt of flax,,,,,,,,
+Q130389494,infectious disease,感染症,Q18123741,common potato rust,,,,,,,,
+Q106422328,infectious disease,感染症,Q18123741,leaf spot of tomato,,fungal plant disease,,,,,,
+Q112701660,infectious disease,感染症,Q18123741,American powdery mildew of gooseberry,,fungal disease of plants,,,,,,
+Q94300555,infectious disease,感染症,Q18123741,cercospora leaf spot,,,,,,,,
+Q106621188,infectious disease,感染症,Q18123741,leaf spot of tomato,,fungal disease of plants,,,,,,
+Q97341632,infectious disease,感染症,Q18123741,leaf spot of apple tree,,,,,,,,
+Q97572400,infectious disease,感染症,Q18123741,black bread mold,,,,,,,,
+Q100552717,infectious disease,感染症,Q18123741,Stem rust,,plant disease,,,,,,
+Q125955073,infectious disease,感染症,Q18123741,Southern corn leaf blight,,fungal disease of maize,,,,,,
+Q110427428,infectious disease,感染症,Q18123741,flax rust,,plant disease,,,,,,
+Q100708812,infectious disease,感染症,Q18123741,clover rust,,plant disease,,,,,,
+Q25576175,infectious disease,感染症,Q18123741,helminthic zoonosis,,,,,,,,
+Q25583544,infectious disease,感染症,Q18123741,muelleriosis,,,,,,,,
+Q135688677,infectious disease,感染症,Q18123741,corn rust,,,,,,,,
+Q136160422,infectious disease,感染症,Q18123741,scab of cherry,,,,,,,,
+Q136222485,infectious disease,感染症,Q18123741,powdery mildew of potato,,,,,,,,
+Q101095067,infectious disease,感染症,Q18123741,Clubroot,根こぶ病,Common fungal disease of plants of the family Brassicaceae,,,,,,
+Q31451729,infectious disease,感染症,Q18123741,Chabertiosis,,,,,,,,
+Q55790495,infectious disease,感染症,Q18123741,acute viral respiratory tract infection,,acute respiratory tract infection caused by a virus,,,,,,C0877203
+Q100683084,infectious disease,感染症,Q18123741,Puccinia triticina,コムギ赤さび病,"fungal disease, of wheat, most prevalent",,,,,,
+Q111191700,infectious disease,感染症,Q18123741,Phomopsis dieback,,fungal plant disease,,,,,,
+Q97728780,infectious disease,感染症,Q18123741,Sphaeropsis blight,,fungal disease of conifers,,,,,,
+Q131176481,infectious disease,感染症,Q18123741,white mold,,group of plant diseases,,,,,,
+Q97572182,infectious disease,感染症,Q18123741,Fusarium yellows,,plant disease,,,,,,
+Q100534202,infectious disease,感染症,Q18123741,citrus green and blue mold,,,,,,,,
+Q124460787,infectious disease,感染症,Q18123741,Rabbitpox,,viral disease in rabbits,,,,,,
+Q93431365,infectious disease,感染症,Q18123741,pear trellis rust,,fungal disease which attacks pear and juniper trees,,,,,,
+Q105045485,infectious disease,感染症,Q18123741,Mycotoxic lupinosis,,,,,,,,
+Q64212020,infectious disease,感染症,Q18123741,sooty bark disease,,,,,,,,
+Q106621352,infectious disease,感染症,Q18123741,blotch disease of cucurbits,,,,,,,,
+Q310454,infectious disease,感染症,Q18123741,Escherichia coli O104:H4,O104,strain,,,,,,
+Q107264214,infectious disease,感染症,Q18123741,red stele,,,,,,,,
+Q109018301,infectious disease,感染症,Q18123741,Eutypella canker,,,,,,,,
+Q109018302,infectious disease,感染症,Q18123741,poplar canker,,,,,,,,
+Q109046916,infectious disease,感染症,Q18123741,rust of beet,,,,,,,,
+Q112842529,infectious disease,感染症,Q18123741,yellow leaf blister of poplar,,,,,,,,
+Q112961460,infectious disease,感染症,Q18123741,gummosis of cucumber,,,,,,,,
+Q112963807,infectious disease,感染症,Q18123741,black spot of peach,,,,,,,,
+Q117803738,infectious disease,感染症,Q18123741,Staggering disease,,,,,,,,
+Q126947136,infectious disease,感染症,Q18123741,parafasciolopsos,,,,,,,,
+Q126947315,infectious disease,感染症,Q18123741,summer bleeding,,,,,,,,
+Q108872557,infectious disease,感染症,Q18123741,two feet-one hand syndrome,,fungal condition,,,,,,
+Q106575725,infectious disease,感染症,Q18123741,classical scabies,,disease,,,,,,
+Q12822251,infectious disease,感染症,Q18123741,heteracidosis,,,,,,,,
+Q18975234,infectious disease,感染症,Q18123741,human herpesvirus 8 infectious disease,,Human disease,,,,,,C0154053
+Q25486717,infectious disease,感染症,Q18123741,ligulosis,,fish disease,,,,,,
+Q25221973,infectious disease,感染症,Q18123741,Black spot disease,,fish disease,,,,,,
+Q106575314,infectious disease,感染症,Q18123741,schistosomal pneumonitis,,disease,,,,,,C0036334
+Q108641440,infectious disease,感染症,Q18123741,Laryngeal myiasis,,,,,,,,C2833788
+Q5507378,infectious disease,感染症,Q18123741,Fujian flu,,strains of influenza,,,,,,
+Q3067401,infectious disease,感染症,Q18123741,Venezuelan hemorrhagic fever,ベネズエラ出血熱,Human disease,,,A96.1,078.7,,C0042470
+Q12040884,infectious disease,感染症,Q18123741,sheep and goat pox,,,,,,,,
+Q5973989,infectious disease,感染症,Q18123741,equine leukoencephalomalacia,,horse disease,,,,,,
+Q12425220,infectious disease,感染症,Q18123741,Prunus Necrotic Ringspot disease,,,,,,,,
+Q12046613,infectious disease,感染症,Q18123741,saprolegniasis,,fish disease,,,,,,
+Q11876216,infectious disease,感染症,Q18123741,Tahyna virus encephalitis,,Human disease,,,,,,C0276381
+Q5448436,infectious disease,感染症,Q18123741,filicollosis,,,,,,,,
+Q3073142,infectious disease,感染症,Q18123741,Pontiac fever,,"legionellosis that involves a milder respiratory illness without pneumonia. Symptoms include fever, headache and muscle aches which last for 2 to 5 days",,,A48.2,,,C0343528
+Q3008595,infectious disease,感染症,Q18123741,cyclosporiasis,サイクロスポラ症,infection caused by Cyclospora cayetanensis,,D021866,,,240372001,C0343398
+Q3030745,infectious disease,感染症,Q18123741,distomatosis,,group of parasitoses,ウィキメディアの曖昧さ回避ページ,D014201,,121.9,,C0040820
+Q3053951,infectious disease,感染症,Q18123741,viral encephalitis,ウイルス性脳炎,encephalitis that involves inflammation of the brain caused by viral infection,,D018792,,064,,C0014055
+Q10714833,infectious disease,感染症,Q18123741,swim bladder inflammation,,fish disease,,,,,,
+Q7193348,infectious disease,感染症,Q18123741,pigeon pox,,infectious disease of pigeons,,,,,,
+Q7353480,infectious disease,感染症,Q18123741,Robovirus,,zoonotic Virus,,,,,,
+Q11775187,infectious disease,感染症,Q18123741,apple mosaic disease,,plant disease,,,,,,
+Q11903425,infectious disease,感染症,Q18123741,virulent Newcastle disease,ニューキャッスル病,bird disease,鳥類のパラミクソウイルス感染症,D009521,,,,C0027983
+Q782898,infectious disease,感染症,Q18123741,Murray Valley encephalitis,,Human disease,,,,,,C0153066
+Q646664,infectious disease,感染症,Q18123741,rickettsiosis,リケッチア症,Human disease,,D012282,A79,080,,C0035585
+Q797668,infectious disease,感染症,Q18123741,Babesiosis,バベシア症,"malaria-like parasitic disease caused by infection with Babesia and nalga, a genus of Apicomplexa",,D001404,,,,C0004576
+Q842428,infectious disease,感染症,Q18123741,ascariasis,回虫症,disease caused by the parasitic roundworm Ascaris lumbricoides,,D001196,,,,C0003950
+Q627368,infectious disease,感染症,Q18123741,blastomycosis,ブラストミセス症,"primary systemic mycosis that results in a systemic fungal infection, and has material basis in Blastomyces dermatitidis",,D001759,,,,C0005716
+Q2845432,infectious disease,感染症,Q18123741,ehrlichiosis,エールリヒア症,human disease,,D016873,,,,C0085399
+Q2859732,infectious disease,感染症,Q18123741,arbovirosis,,any viral disease transmitted by arthropod vectors,,D001102,A94,,,C0003723
+Q842169,infectious disease,感染症,Q18123741,sparganosis,孤虫症,Helminthiasis,,D013031,,,,C0037753
+Q2700304,infectious disease,感染症,Q18123741,Bolivian hemorrhagic fever,マチュポウイルス,hemorrhagic fever and zoonotic infectious disease originating in Bolivia after infection by Machupo virus,,,A96.1,078.7,,C0282192
+Q2744442,infectious disease,感染症,Q18123741,Ross River fever,,Human disease,,D000096745,B33.1,066.3,,
+Q840143,infectious disease,感染症,Q18123741,streptococcal pharyngitis,レンサ球菌咽頭炎,infection of the back of the throat including the tonsils caused by group A streptococcus,,,J02.0,034.0,,
+Q2886899,infectious disease,感染症,Q18123741,oral candidiasis,口腔カンジダ症,fungal infection of the mucous membrane of the mouth by Candida species,常在菌であるカンジダが口腔内で過剰増殖したことで起きる炎症,D002180,,,,C0006849
+Q639776,infectious disease,感染症,Q18123741,cat-scratch disease,猫ひっかき病,human disease,猫から感染する人獣共通感染症の一つ,D002372,A28.1,078.3,,C0007361
+Q2669284,infectious disease,感染症,Q18123741,arachnoiditis,クモ膜炎,Human disease,,D001100,,320,,C0003708
+Q127328972,infectious disease,感染症,Q18123741,Rhabditidosis,,,,,,,,
+Q127385138,infectious disease,感染症,Q18123741,Raillietinosis,,,,,,,,
+Q128035488,infectious disease,感染症,Q18123741,Triaenophorosis,,,,,,,,
+Q55785371,infectious disease,感染症,Q18123741,infectious epithelial keratitis,,human disease,,,,,,
+Q133257606,infectious disease,感染症,Q18123741,globocephalosis,,,,,,,,
+Q135266148,infectious disease,感染症,Q18123741,Black mat syndrome,,,,,,,,
+Q7248868,infectious disease,感染症,Q18123741,progressive rubella panencephalitis,,human disease,,,,,,C0238099
+Q55782051,infectious disease,感染症,Q18123741,Lymphokine deficiency,,human disease,,C565428,,,,C1855471
+Q55782116,infectious disease,感染症,Q18123741,monocyte chemotactic disorder,,human disease,,C565371,,,,C1854982
+Q5113995,infectious disease,感染症,Q18123741,Chronic recurrent erysipelas,,,,,,,,
+Q55779965,infectious disease,感染症,Q18123741,infectious colitis,,viral or bacterial infectious process affecting the large intestine,,,,,,C0277524
+Q55782293,infectious disease,感染症,Q18123741,rheumatic fever-related antigen,,human disease,,,,,,C1849383
+Q55785372,infectious disease,感染症,Q18123741,stromal keratitis,,,,,,,,C1318020
+Q55783643,infectious disease,感染症,Q18123741,"malaria, mild, susceptibility to",,human disease,,,,,,C1836721
+Q55783814,infectious disease,感染症,Q18123741,Plasmodium falciparum fever episodes quantitative trait locus 1,,human disease,,,,,,C1969647
+Q55783742,infectious disease,感染症,Q18123741,"West nile virus, susceptibility to",,human disease,,,,,,C1835867
+Q55784380,infectious disease,感染症,Q18123741,"pulmonary fibrosis and/or bone marrow failure, Telomere-related, 1",,human disease,,,,,,C3553617
+Q55784390,infectious disease,感染症,Q18123741,susceptibility to human herpesvirus 8,,human disease,,,,,,C3553840
+Q55784898,infectious disease,感染症,Q18123741,"pulmonary fibrosis and/or bone marrow failure, Telomere-related, 3",,human disease,,,,,,C4225346
+Q55784897,infectious disease,感染症,Q18123741,"pulmonary fibrosis and/or bone marrow failure, Telomere-related, 4",,human disease,,,,,,C4225347
+Q55785603,infectious disease,感染症,Q18123741,wound myiasis,,human disease,,,,,,C0344061
+Q135687987,infectious disease,感染症,Q18123741,Bunostomosis,,,,,,,,
+Q135983864,infectious disease,感染症,Q18123741,Lethargic crab disease,,,,,,,,
+Q55783380,infectious disease,感染症,Q18123741,"human herpesvirus type 6, Integrated",,human disease,,C565771,,,,C1858340
+Q55785577,infectious disease,感染症,Q18123741,limbic encephalitis with LGI1 antibodies,,,,,,,,
+Q4678337,infectious disease,感染症,Q18123741,scrofula,瘰癧,human medical condition,,D014388,,017.2,,C0036467
+Q20736850,infectious disease,感染症,Q18123741,Baggio–Yoshinari Syndrome,,Brazilian tick-borne disease,,,,,,
+Q4236559,infectious disease,感染症,Q18123741,screw worm infectious disease,,Human disease,,D012610,,,,C0036465
+Q128759157,infectious disease,感染症,Q18123741,Haplorchiasis,,infection with trematodes of the genus Haplorchis,,,,,,
+Q3301664,infectious disease,感染症,Q18123741,viral meningitis,ウイルス性髄膜炎,human disease,ウイルス感染によって生じる髄膜の炎症,D008587,,,,C0025297
+Q1346139,infectious disease,感染症,Q18123741,Streptococcus suis meningitis,,,,,,,,
+Q3854687,infectious disease,感染症,Q18123741,tuberculous meningitis,結核性髄膜炎,human disease,,D014390,G01,013.0,,C0041318
+Q4118581,infectious disease,感染症,Q18123741,necatoriasis,,Human disease,,D009332,,126.9,,C0027528
+Q1452495,infectious disease,感染症,Q18123741,Stadtaffe,,album,ペーター・フォックスのアルバム,,,,,
+Q3091959,infectious disease,感染症,Q18123741,anisakiasis,アニサキス症,helminthiasis,,D017129,,,,C0162576
+Q3907637,infectious disease,感染症,Q18123741,nonspecific interstitial pneumonia,,human disease,,,,,,C1290344
+Q4137692,infectious disease,感染症,Q18123741,heterophyiasis,,human disease,,,,,,C0152071
+Q134649,infectious disease,感染症,Q18123741,diphtheria,ジフテリア,infectious disease,ジフテリア毒素によって起こる上気道の粘膜感染症,D004165,A36,032,,C0010153
+Q3134326,infectious disease,感染症,Q18123741,neonatal herpes simplex,,Medical condition,,,P35.2,771.2,,C0276225
+Q2849596,infectious disease,感染症,Q18123741,Herpes esophagitis,,Human disease,,,B00.9,054.79,,
+Q4199106,infectious disease,感染症,Q18123741,tick infestation,ダニの蔓延,disease,,D013984,B88.8,,,C0040196
+Q4065009,infectious disease,感染症,Q18123741,anaerobic infection,,human disease,,,,,,C0854328
+Q3854685,infectious disease,感染症,Q18123741,pneumococcal meningitis,,human disease,,D008586,G00.1,320.1,,C0025295
+Q4226389,infectious disease,感染症,Q18123741,dermal myiasis,,human disease,,,B87.0,,,C0027031
+Q4143044,infectious disease,感染症,Q18123741,gongylonematosis,,helminthiase,,,,,,
+Q4223496,infectious disease,感染症,Q18123741,tick paralysis,,tick-borne disease that is not caused by an infectious organism,,D013985,T63.4,989.5,74225001,C0040197
+Q3718816,infectious disease,感染症,Q18123741,eczema herpeticum,カポジ水痘様発疹症,Human disease,,D007617,,,186535001,C0153037
+Q3540280,infectious disease,感染症,Q18123741,trombiculiasis,,mite infestation that involves rash caused by Leptotrombidium deliense,,D014323,B88.0,133.8,,C0041170
+Q5090486,infectious disease,感染症,Q18123741,chemical pneumonitis,,inflammation of the lung caused by aspirating or inhaling irritants,,,J68.0,,,C0041881
+Q5160454,infectious disease,感染症,Q18123741,congenital syphilis,先天性梅毒,syphilis that results in a multisystem infection in the fetus via the placenta,,D013590,,,35742006,C0039131
+Q4845643,infectious disease,感染症,Q18123741,rhinosporidiosis,,Human disease,,D012227,,,,C0035469
+Q3832899,infectious disease,感染症,Q18123741,primary effusion lymphoma,原発性滲出性リンパ腫,"Primary effusion lymphoma (PEL) is a large B-cell lymphoma located in the body cavities, characterized by pleural, peritoneal, and pericardial fluid lymphomatous effusions and that is always associated with human herpes virus-8 (HHV-8)",,D054685,C83.8,,713516007,C1292753
+Q4838947,infectious disease,感染症,Q18123741,Bacillary peliosis,,bacterial disease of the liver,,,,,,C0343770
+Q3706830,infectious disease,感染症,Q18123741,neonatal diarrhea,,infectious disease,,,P78.3,777.8,,
+Q4745550,infectious disease,感染症,Q18123741,American tick bite fever,,species of bacterium,,,A77.8,,,
+Q4958908,infectious disease,感染症,Q18123741,Brazilian purpuric fever,,illness in children,,,A48.4,,,C0275703
+Q101896,infectious disease,感染症,Q18123741,gonorrhea,淋病,sexually transmitted infection,淋菌への感染により起こる感染症,D006069,,,,C0018081
+Q5150910,infectious disease,感染症,Q18123741,Combined pulmonary fibrosis and emphysema,,medical condition,,,,,,C3872815
+Q160653,infectious disease,感染症,Q18123741,listeriosis,リステリア症,bacterial infection,,D008088,,,,C0023860
+Q154874,infectious disease,感染症,Q18123741,yellow fever,黄熱,viral disease,カが媒介するウイルス性出血熱,D015004,,,154345006,C0043395
+Q4958833,infectious disease,感染症,Q18123741,Brazilian hemorrhagic fever,,Human disease,,,,,,C0343633
+Q162262,infectious disease,感染症,Q18123741,bluetongue disease,ブルータング,type of disease that afflicts ruminants,,D001819,,,,C0005866
+Q4997014,infectious disease,感染症,Q18123741,Bullous impetigo,,bacterial skin infection,,,,,,C0021100
+Q3798547,infectious disease,感染症,Q18123741,Haverhill fever,,Human disease,,,,,,C0152063
+Q4944687,infectious disease,感染症,Q18123741,borderline leprosy,,leprosy that results in small numerous red irregularly shaped plaques,,D015439,,,,C0023346
+Q5160416,infectious disease,感染症,Q18123741,congenital cytomegalovirus infection,先天性サイトメガロウイルス感染症,mother-to-child transmission of cytomegalovirus occurring in the prenatal period,,,P35.1,771.1,,C0158945
+Q3678510,infectious disease,感染症,Q18123741,bacterial meningitis,細菌性髄膜炎,inflammation of the membranes surrounding the brain and spinal cord due to a bacterial infection,,D016920,,,,C0085437
+Q3776920,infectious disease,感染症,Q18123741,bacterial pneumonia,細菌性肺炎,pneumonia involving inflammation of the lungs caused by bacteria,,D018410,,,,C0004626
+Q3643111,infectious disease,感染症,Q18123741,infant botulism,,Human disease,,,,,,C0238027
+Q3824458,infectious disease,感染症,Q18123741,lipid pneumonia,,Human disease,,D011017,,516.8,,C0032298
+Q3724806,infectious disease,感染症,Q18123741,subdural empyema,,form of empyema in the subdural space,,D013354,,,,C0038539
+Q4463309,infectious disease,感染症,Q18123741,trichostrongyloidosis,,parasitic helminthiasis infectious disease that involves parasitic infection of animals and humans by nematodes of the superfamily Trichostrongyloidea,,D014252,,,,C0040947
+Q10267832,infectious disease,感染症,Q18123741,pandemic disease,,"infectious disease that spreads widely among populations across different countries or continents, affecting numerous people",,,,,,
+Q10293456,infectious disease,感染症,Q18123741,HSMI,,infectious disease,,,,,,
+Q10266065,infectious disease,感染症,Q18123741,chronic diarrhea,,infectious disease,,,,,,C0401151
+Q7053975,infectious disease,感染症,Q18123741,Siberian tick typhus,,Human disease,,,,,,C0549160
+Q4316437,infectious disease,感染症,Q18123741,infection of the central nervous system,中枢神経系の感染,disease,,D002494,,,,C0007684
+Q4420034,infectious disease,感染症,Q18123741,syngamosis,,,,,,,,
+Q156050,infectious disease,感染症,Q18123741,brucellosis,ブルセラ症,Human and animal disease,ブルセラ属の細菌への感染で発症する人獣共通感染症,D002006,,,,C0006309
+Q10336461,infectious disease,感染症,Q18123741,infectious disease of the nervous system,神経系感染症,infectious disease that involves the nervous system,,,,,,C0597039
+Q4366062,infectious disease,感染症,Q18123741,pneumococcal infection,,infections with bacteria of the species streptococcus pneumoniae,,D011008,,,,C0032269
+Q4364722,infectious disease,感染症,Q18123741,Pediculus humanus corporis infestation,,"lice infestation that is a cutaneous condition caused by parasitic infestation of body lice Pediculus humanus corporis, which feed on the human blood. Body lice can spread epidemic typhus, trench fever, and louse-borne relapsing fever",,,,,,C0030758
+Q4280605,infectious disease,感染症,Q18123741,mansonelliasis,,parasitic infection by nematodes transmitted by insects,,D008368,,,,C0024759
+Q11491562,infectious disease,感染症,Q18123741,acute hemorrhagic conjunctivitis,急性出血性結膜炎,Human disease,,D003232,B30.3,,,C0009765
+Q3355380,infectious disease,感染症,Q18123741,epididymo-orchitis,,Human disease,ウィキメディアの曖昧さ回避ページ,,,,,C0149881
+Q9430213,infectious disease,感染症,Q18123741,Borna disease,ボルナ病,horse disease,,D001890,,062.9,,C0006023
+Q6527832,infectious disease,感染症,Q18123741,lepromatous leprosy,,Human disease,,D015440,,,,C0023348
+Q3392410,infectious disease,感染症,Q18123741,pleural tuberculosis,,respiratory disease,,D014396,,,,C0041326
+Q9333895,infectious disease,感染症,Q18123741,sarcocystosis,サルコシスチス症,human disease,,D012523,,,,C0036231
+Q9002005,infectious disease,感染症,Q18123741,hemorrhagic fever with renal syndrome,腎症候性出血熱,Group of clinically similar illnesses caused by species of hantaviruses,ハンタウイルスを病原体とするウイルス性出血熱,D006480,,,,C0019101
+Q4459615,infectious disease,感染症,Q18123741,toxascariasis,,"parasitic helminthiasis infectious disease that involves parasitic infection of dogs, cats and foxes with Toxascaris leonina causing damage to the lining of the intestine. The symptoms include diarrhea, vomiting and loss of appetite",,D017227,,,,C0040522
+Q4346007,infectious disease,感染症,Q18123741,Pogosta disease,ポゴスタ病,medical condition,,,A92.8,,,
+Q201989,infectious disease,感染症,Q18123741,Lyme disease,ライム病,"infectious disease caused by Borrelia bacteria, spread through the bite of blacklegged ticks",一種のスピロヘータの感染で引き起こされる人獣共通感染症の一つ,D008193,A69.2,,23502006,C0024198
+Q11549084,infectious disease,感染症,Q18123741,vesicular stomatitis,水疱性口内炎,,,D054243,,,,C0266999
+Q3508622,infectious disease,感染症,Q18123741,Bickerstaff's encephalitis,,rare inflammatory brain disease,,,G04.8,323.62,,C1960543
+Q4676975,infectious disease,感染症,Q18123741,actinomycetoma,,bacterial infection of the skin,ウィキメディアの曖昧さ回避ページ,,B47.1,,,C1261283
+Q6587253,infectious disease,感染症,Q18123741,Queensland tick typhus,,Human disease,,,A77.3,082.3,,
+Q6972442,infectious disease,感染症,Q18123741,fasciolosis,肝蛭症,parasitic worm infection caused by the common liver fluke Fasciola hepatica as well as by Fasciola gigantica,,D005211,,,,C0015652
+Q157661,infectious disease,感染症,Q18123741,hepatitis A,A型肝炎,acute infectious disease of the liver,食品が媒介するウイルス性肝炎,D006506,B15,070.0,40468003,C0019159
+Q4243298,infectious disease,感染症,Q18123741,xanthogranulomatous pyelonephritis,,Human disease,,D011705,,,,C0034188
+Q6946984,infectious disease,感染症,Q18123741,Mycobacterium avium-intracellulare infection,非定型抗酸菌複合体,Human disease,,D015270,A31.0,031.0,,C0026916
+Q18554739,infectious disease,感染症,Q18123741,tuberculous empyema,,human disease,,D004654,,,,C0014014
+Q18554412,infectious disease,感染症,Q18123741,Plasmodium vivax malaria,,"malaria that is caused by the protozoan parasite Plasmodium vivax, which induces paroxysms at 48-hour intervals",,D016780,,,,C0024537
+Q18554338,infectious disease,感染症,Q18123741,trichostrongylosis,,"trichostrongyloidiasis that involves infection of the small intestine with Trichostrongylus colubriformis or Trichostrongylus axei, which results in abdominal pain, diarrhea, anorexia, headache, fatigue, anemia and eosinophilia",,D014253,,,,C0040948
+Q18554548,infectious disease,感染症,Q18123741,neuroaspergillosis,,"aspergillosis that involves fungal infection of the central nervous system in immunocompromised patients caused by Aspergillus, presenting as a space-occupying lesion",,D020953,,,,C0752341
+Q18554672,infectious disease,感染症,Q18123741,Plasmodiu malaria,,"malaria described as a severe form of the disease caused by a parasite Plasmodium falciparum, which is marked by irrregular recurrence of paroxysms and prolonged or continuous fever",,D016778,,,,C0024535
+Q18554637,infectious disease,感染症,Q18123741,urinary schistosomiasis,,"schistosomiasis that involves parasitic infection of the urinary tract caused by a digenetic trematode Schistosoma haematobium causing cystitis, ureteritis, fibrosis of the bladder and haematuria, which can progress to bladder cancer",,D012553,,,,C0276926
+Q18554606,infectious disease,感染症,Q18123741,inclusion conjunctivitis,,Human disease,,D003235,,,,C0009770
+Q18554757,infectious disease,感染症,Q18123741,dipetalonemiasis,,Human disease,,D004154,,,,C0012517
+Q18554585,infectious disease,感染症,Q18123741,neuroschistosomiasis,,Human disease,,D020818,,,,C0752191
+Q18554418,infectious disease,感染症,Q18123741,louse-borne relapsing fever,,Human disease,,,,,,C0152061
+Q18554419,infectious disease,感染症,Q18123741,tick-borne relapsing fever,,Human disease,,,,,,C0035022
+Q5458307,infectious disease,感染症,Q18123741,Flea-borne spotted fever,,medical condition,,,A77.8,,,
+Q422268,infectious disease,感染症,Q18123741,actinomycosis,放線菌症,Human disease,人間の病気,D000196,,,,C0001261
+Q182155,infectious disease,感染症,Q18123741,herpes zoster,帯状疱疹,viral disease caused by the Varicella zoster virus,水疱瘡の感染歴のある人が発症する、神経に潜んでいた水痘・帯状疱疹ウイルスが引き起こす皮膚疾患,D006562,B02,053,,C0019360
+Q5609817,infectious disease,感染症,Q18123741,tinea pedis,足白癬,foot disease,,D014008,,,,C0040259
+Q5509169,infectious disease,感染症,Q18123741,fungal meningitis,真菌性髄膜炎,meningitis that has material basis in a fungal infection,,D016921,,,,C0085438
+Q5265029,infectious disease,感染症,Q18123741,desquamative interstitial pneumonia,,idiopathic interstitial pneumonia that is characterized by the accumulation of bronchiolocentric alveolar macrophages in alveolar spaces and interstitial inflammation and involves mild bronchiolar fibrosis and chronic inflammation,,C562470,,,,C0238378
+Q393477,infectious disease,感染症,Q18123741,trench fever,塹壕熱,human disease,グラム陰性細菌の一種であるバルトネラ・クインタナを原因菌とし、コロモジラミが媒介する感染症。第一次世界大戦中、塹壕内の兵士の間で流行した。約5日の間隔で発熱や悪寒を繰り返すことから、「五日熱」の異名を持つ,D014205,A79.079.0,083.1083.1,,C0040830
+Q5743696,infectious disease,感染症,Q18123741,herpetic whitlow,,painful blister of the periungual skin that is caused by herpes simplex virus type 1 or 2,,,B00.8,,,C0153042
+Q5274956,infectious disease,感染症,Q18123741,dientamoebiasis,,parasitic protozoa infectious disease of the large intestine caused by Dientamoeba fragilis,,D004030,,007,,C0012147
+Q7255050,infectious disease,感染症,Q18123741,Pseudomonas hot-foot syndrome,,medical condition,,,,,,
+Q246068,infectious disease,感染症,Q18123741,cysticercosis,嚢虫症,Human helminthiasis,,D003551,B69,,,C0010678
+Q164655,infectious disease,感染症,Q18123741,abscess,膿瘍,localized collection of pus that has built up within the tissue of the body,,D000038,L02,324.1,,C0000833
+Q5532924,infectious disease,感染症,Q18123741,genetic resistance to malaria,マラリアへの遺伝学的抵抗性,human disease,,,,,,C1970028
+Q5428701,infectious disease,感染症,Q18123741,Factitious diarrhea,,infectious disease,,,,,,
+Q154878,infectious disease,感染症,Q18123741,toxoplasmosis,トキソプラズマ症,parasitic disease,,D014123,B58,130,,C0040558
+Q7108870,infectious disease,感染症,Q18123741,otitis interna,,inner ear disease which involves inflammation of the inner ear,,,H83.0,386.3,,C1168225
+Q7235947,infectious disease,感染症,Q18123741,Powassan encephalitis,,Human disease,,,A84.8,,,
+Q5348632,infectious disease,感染症,Q18123741,Ehrlichiosis ewingii infection,,Human disease,,,,082.4,,
+Q5696358,infectious disease,感染症,Q18123741,focal epithelial hyperplasia,,"viral infectious disease that results in infection located in mouth, has material basis in human papillomavirus (types 13 or 32)",,D017573,,,,C0206067
+Q5376431,infectious disease,感染症,Q18123741,Endotheliitis,,inflammatory disease involving a pathogenic inflammatory response in the endothelium,,,,,,
+Q5548621,infectious disease,感染症,Q18123741,geotrichosis,,"opportunistic mycosis that has material basis in Galactomyces geotrichum, results in systemic infection in immunocompromised people",,D005847,,117.9,,C0017455
+Q5656856,infectious disease,感染症,Q18123741,Nairobi disease,ナイロビ羊病,"arbovirus infection of sheep and goats transmitted by ticks, characterized by high fever and hemorrhagic gastroenteritis",,D009265,,,,C0027345
+Q11830340,infectious disease,感染症,Q18123741,postinfectious encephalitis,,human disease,,,,,,C0393459
+Q7850856,infectious disease,感染症,Q18123741,pericardial tuberculosis,,"extrapulmonary tuberculosis that is located in pericardium resulting in acute pericarditis, chronic pericardial effusion, cardiac tamponade or pericardial constriction",,D010495,,,,C0031049
+Q7850839,infectious disease,感染症,Q18123741,tuberculoid leprosy,,leprosy that results in one erythematous large plaque with well-defined borders that are elevated and that slope down into an atrophic center,,D015441,,,,C0023351
+Q7440546,infectious disease,感染症,Q18123741,seal finger,,zoonotic infection contracted from seals,,,,,,C2939450
+Q11950665,infectious disease,感染症,Q18123741,streptococcal toxic shock-like syndrome,,,,,,,,C0343532
+Q7370337,infectious disease,感染症,Q18123741,Rotaviral gastroenteritis,,human disease,,D012400,A08.0,008.61,,C0035869
+Q11864371,infectious disease,感染症,Q18123741,bacterial skin disease,,skin disease caused by bacteria,,D017192,,,,C0162627
+Q8027735,infectious disease,感染症,Q18123741,Wissler's syndrome,,"syndrome that is characterized by four typical symptoms: polymorphous exanthemas, recurrent high fever, leucocytosis and arthralgia",,D014924,,,68190001,C0043195
+Q7933588,infectious disease,感染症,Q18123741,trichodysplasia spinulosa,トリコディスプレジア・スピヌローザ,"skin disease found in immunocompromised patients, caused by TSPyV",,,,,,C3267126
+Q11996271,infectious disease,感染症,Q18123741,fascioloidiasis,,parasitic helminthiasis infectious disease that involves parasitic infection of the liver of a variety of wild and domestic ruminants by Fascioloides magna,,D005213,,,,C0015655
+Q12167939,infectious disease,感染症,Q18123741,chronic rhinitis,,human disease,,,,,,
+Q12211059,infectious disease,感染症,Q18123741,ascaridiasis,,"parasitic helminthiasis infectious disease, infection of the intestine of humans and birds with nematodes of the genus Ascaridia",,D001198,,,,C0003952
+Q7476596,infectious disease,感染症,Q18123741,genital herpes,性器ヘルペス,infection by herpes simplex virus (HSV) of the genitals,単純ヘルペスウイルス1・2型によって、感染後に宿主の不調の度に再発を繰り返す性感染症,D006558,A60,,,C0019342
+Q7315909,infectious disease,感染症,Q18123741,Respiratory bronchiolitis interstitial lung disease,,medical condition,,,,,,C1276236
+Q7255052,infectious disease,感染症,Q18123741,Pseudomonas infection,,infections with bacteria of the genus pseudomonas,,D011552,B96.5,482.1,,
+Q8071861,infectious disease,感染症,Q18123741,Zika fever,ジカ熱,infectious arboviral disease,カが媒介するウイルス感染症,,U06,,,C0276289
+Q131212477,infectious disease,感染症,Q18123741,turnip yellows,,,,,,,,
+Q56237190,infectious disease,感染症,Q18123741,abalone viral ganglioneuritis,,contagious disease of abalone species,,,,,,
+Q113549221,infectious disease,感染症,Q18123741,plum pox,,,,,,,,
+Q108640652,infectious disease,感染症,Q18123741,measles complicated by meningitis,,disease,,,B05.1,,,C0348980
+Q108734004,infectious disease,感染症,Q18123741,Salmonid alphavirus infection,,fish disease,,,,,,
+Q122227904,infectious disease,感染症,Q18123741,Herpesviral haematopoietic necrosis,,,,,,,,
+Q21774070,infectious disease,感染症,Q18123741,Human Herpesvirus 7 Infection,,Human disease,,,,,,
+Q21774074,infectious disease,感染症,Q18123741,Human herpesvirus 6 Infection,,human viral disease,,,,,,
+Q19000393,infectious disease,感染症,Q18123741,feline acquired immunodeficiency syndrome,,cat disease,,D016181,,,,C0079335
+Q18558221,infectious disease,感染症,Q18123741,bulbar polio,,Human disease,,D011052,,,,C0032372
+Q18558260,infectious disease,感染症,Q18123741,chronic canaliculitis,,Human disease,,,,,,C0155240
+Q18967922,infectious disease,感染症,Q18123741,Cytomegalovirus pneumonia,,Human disease,,,B25.0,484.1,,C0276253
+Q247096,infectious disease,感染症,Q18123741,paracoccidioidomycosis,,"primary systemic mycosis that results in systemic fungal infection located in mucosa, located in lymph nodes, located in bone, located in skin or located in lungs, has material basis in Paracoccidioides brasiliensis",,D010229,,,,C0030409
+Q18967247,infectious disease,感染症,Q18123741,Chagas cardiomyopathy,,Human disease,,D002598,,086.0,,C0007930
+Q18967339,infectious disease,感染症,Q18123741,classic Kaposi's sarcoma,,Human disease,,,,,,C0279084
+Q18967422,infectious disease,感染症,Q18123741,trichomonas balanoposthitis,,Human disease,,,,,,C0341769
+Q5763722,infectious disease,感染症,Q18123741,rhinoscleroma,,Human disease,,D012226,A48.8,,,C0035468
+Q265420,infectious disease,感染症,Q18123741,blackwater fever,,human disease,,D001742,B50,,,C0005681
+Q18558249,infectious disease,感染症,Q18123741,cardiovascular syphilis,,tertiary syphilis manifested as aneurysm formation in the ascending aorta,,,,,,C0029751
+Q18967690,infectious disease,感染症,Q18123741,bovine trypanosomiasis,,cattle disease,,D014354,,,,C0041230
+Q18966970,infectious disease,感染症,Q18123741,Trichomonas prostatitis,,Human disease,,,,131.03,,C0153315
+Q221668,infectious disease,感染症,Q18123741,urinary tract infection,尿路感染症,infection that affects part of the urinary tract,尿路に病原体が生着して起こる感染症,D014552,,,,C0149523
+Q18558227,infectious disease,感染症,Q18123741,tuberculous peritonitis,,human disease,,D014395,K67.3,,,C0041325
+Q18967342,infectious disease,感染症,Q18123741,endemic African Kaposi's sarcoma,,Kaposi's sarcoma that is located in black Africans,,,C46.0,176.0,,C1275231
+Q18928476,infectious disease,感染症,Q18123741,fusariosis,,Human disease,,D060585,,,,C0276758
+Q18924547,infectious disease,感染症,Q18123741,Rocio virus encephalitis,,Human disease,,,,,,

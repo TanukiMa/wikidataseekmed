@@ -1,0 +1,11 @@
+﻿qid,category_en,category_ja,category_qid,en_label,ja_label,en_description,ja_description,mesh_id,icd10,icd9,snomed_id,umls_id
+Q1734637,infectious disease,感染症,Q18123741,Common scab,そうか病,Plant disease affecting potatoes and other crops,,,,,,
+Q11775289,infectious disease,感染症,Q18123741,Peach scab,,fungal disease of stone fruits,,,,,,
+Q125333650,infectious disease,感染症,Q18123741,cholera infantum,,disease state in infants,,,,,,
+Q5788570,infectious disease,感染症,Q18123741,infectious coryza,伝染性コリーザ,disease of poultry,,,,,,
+Q1104126,infectious disease,感染症,Q18123741,classic autism,,"former developmental disorder, since DSM-V replaced by Autism Spectrum Condition, type 2-3, with, or without, intellectual development disorder",,,F84.0,,,
+Q8502088,infectious disease,感染症,Q18123741,apricot leaf scorch,,plant disease,,,,,,
+Q97317440,infectious disease,感染症,Q18123741,Thysaniezia infection,,,,,,,,
+Q11176055,infectious disease,感染症,Q18123741,red band needle blight,,,,,,,,
+Q2400155,infectious disease,感染症,Q18123741,tar spot,,plant disease,,,,,,
+Q110488017,infectious disease,感染症,Q18123741,Deltacron,デルタクロン株,Cross of SARS-CoV-2 variant Delta and SARS-CoV-2 variant Omikron discovered in Cyprus.,,,,,,

@@ -1,0 +1,825 @@
+﻿qid,category_en,category_ja,category_qid,en_label,ja_label,en_description,ja_description,mesh_id,icd10,icd9,snomed_id,umls_id
+Q3137609,medical sign,医学的徴候,Q1441305,pseudoaneurysm,,collection of blood and connective tissue outside the wall of a blood vessel or the heart,,D017541,,,,C1510412
+Q86008198,medical sign,医学的徴候,Q1441305,The Three Bridge - Kiryat Gat,,,,,,,,
+Q1328215,medical sign,医学的徴候,Q1441305,hypocapnia,低炭酸ガス血症,state of reduced carbon dioxide in the blood,,D016857,,,,C0085383
+Q2253484,medical sign,医学的徴候,Q1441305,homosexual panic,,panic due to the pressure of perceived sexual cravings from another person of the same sex,,,,,,
+Q4375,medical sign,医学的徴候,Q1441305,bronchoconstriction,気管支収縮,constriction of the airways in the lungs,,D016084,,,,C0079043
+Q755630,medical sign,医学的徴候,Q1441305,relative energy deficiency in sport,,syndrome caused by chronic low energy availability in athletes,,D053716,,,,
+Q114754301,medical sign,医学的徴候,Q1441305,hemorrhagic stroke,,stroke caused by the rupture of a weakened blood vessel in the brain,,D000083302,,,,
+Q478613,medical sign,医学的徴候,Q1441305,unhappy triad,,"injury to the anterior cruciate ligament, medial collateral ligament, and meniscus",,,S83.7,,,
+Q181923,medical sign,医学的徴候,Q1441305,attention deficit hyperactivity disorder,注意欠陥・多動性障害,neurodevelopmental disorder,神経発達症の一種,D001289,F90.0,,35253001,C4230171
+Q396013,medical sign,医学的徴候,Q1441305,agranulocytosis,無顆粒球症,"acute, severe lowered white blood cell count",末梢血中において好中球が極端に減少すること,D000380,,288.0,165508008,C0001824
+Q275419,medical sign,医学的徴候,Q1441305,hypotension,低血圧,abnormally low blood pressure,,D007022,I95,458,,C0020649
+Q1137870,medical sign,医学的徴候,Q1441305,Courvoisier's law,クールボアジェ徴候,clinical sign pertaining to the gallbladder,無痛性の胆嚢腫大,,,,,C0278021
+Q1132653,medical sign,医学的徴候,Q1441305,hypernatremia,高ナトリウム血症,high concentration of sodium ions in the blood,,D006955,E87.0,276.0,,C0020488
+Q185089,medical sign,医学的徴候,Q1441305,acidosis,アシドーシス,a process causing increased acidity in the blood and other body tissues,生体の血液の平衡を酸性側にしようとする状態をアシドーシス、塩基性側にしようとする状態をアルカローシスと言う,D000138,E87.2,276.2,,C0001122
+Q1142879,medical sign,医学的徴候,Q1441305,gag reflex,咽頭反射,reflex at the back of the throat,,D005683,,,,C0016927
+Q81938,medical sign,医学的徴候,Q1441305,pain,疼痛,type of unpleasant feeling,不快な感覚の一種,D010146,R52.9,338,,C0030193
+Q120157832,medical sign,医学的徴候,Q1441305,Birthday Trees project,,improve on nutrition and make schools livable places.,,,,,,
+Q1146902,medical sign,医学的徴候,Q1441305,underweight,低体重,classification of human body weight,BMI18.5未満の状態。月経不順・不妊・脱毛・骨粗鬆症・精神不安・摂食障害など肉体的又は精神的リスクのみある体重。,D013851,R63.6,,,C0039870
+Q1063093,medical sign,医学的徴候,Q1441305,Charcot's cholangitis triad,,for ascending cholangitis,,,,,,
+Q56226095,medical sign,医学的徴候,Q1441305,death and legacy of Tom Thomson,,The death and legacy of Canadian artist Tom Thomson,,,,,,
+Q1137032,medical sign,医学的徴候,Q1441305,Councilman body,,acidophilic globule of cells that represents a dying hepatocyte,,,,,,C0333745
+Q379476,medical sign,医学的徴候,Q1441305,epidermoid cyst,粉瘤腫,human disease,,D004814,L72.0,706.2,,C0014511
+Q120898050,medical sign,医学的徴候,Q1441305,death of Anthony Donelson Jr.,,Death of an African American person killed due to interaction with a California Law Enforcement Agency,,,,,,
+Q120898195,medical sign,医学的徴候,Q1441305,death of Calvin Whittington,,Death of an African American person killed due to interaction with a California Law Enforcement Agency,,,,,,
+Q120898374,medical sign,医学的徴候,Q1441305,death of Darryl Brice Cunningham,,Death of an African American person killed due to interaction with a California Law Enforcement Agency,,,,,,
+Q120898934,medical sign,医学的徴候,Q1441305,death of Jonathan Hann,,Death of an African American person killed due to interaction with a California Law Enforcement Agency,,,,,,
+Q120899034,medical sign,医学的徴候,Q1441305,death of Kenyon Michael Thomas,,Death of an African American person killed due to interaction with a California Law Enforcement Agency,,,,,,
+Q120899327,medical sign,医学的徴候,Q1441305,death of Ocola Vaughn III,,Death of an African American person killed due to interaction with a California Law Enforcement Agency,,,,,,
+Q1266051,medical sign,医学的徴候,Q1441305,dark triad,ダークトライアド,"three antisocial personality traits: narcissism, Machiavellianism, and psychopathy",,,,,,
+Q794086,medical sign,医学的徴候,Q1441305,hypokalemia,低カリウム血症,Health condition with insufficient potassium in blood,,D007008,E87.6,276.8,,C0020621
+Q1298973,medical sign,医学的徴候,Q1441305,small for gestational age,低出生体重児,babies whose birth weight lies below the 10th percentile for that gestational age,,D007236,P05,765,,
+Q202758,medical sign,医学的徴候,Q1441305,hypoglycemia,低血糖症,low blood sugar,血糖値が低くなっている状態,D007003,E16.2,,,C0020615
+Q18767,medical sign,医学的徴候,Q1441305,primary progressive aphasia,原発性進行性失語,progressive language and speech disorder,,D018888,,,,C0282513
+Q625506,medical sign,医学的徴候,Q1441305,preterm birth,早産,birth at a gestational age less than 37 weeks,,D047928,O60.1,765,,C0151526
+Q132356290,medical sign,医学的徴候,Q1441305,Starvation of the Obleukhov company,,1856 incident of starvation during the Russian colonization of Amur,,,,,,
+Q1093872,medical sign,医学的徴候,Q1441305,Sister Mary Joseph nodule,シスター・ジョセフの小結節,palpable nodule bulging into the umbilicus,,D058288,,,,C0878585
+Q3622301,medical sign,医学的徴候,Q1441305,Beck's triad,,triad of signs and symptoms associated with cardiac tamponade,,,,,,
+Q1448753,medical sign,医学的徴候,Q1441305,Saint's triad,,medical condition,,,,,,
+Q1123968,medical sign,医学的徴候,Q1441305,Möbius sign,,medical condition,,,,,,
+Q1102038,medical sign,医学的徴候,Q1441305,clivus edge syndrome,,,,,,,,
+Q16859780,medical sign,医学的徴候,Q1441305,Rarefying osteitis,,medical condition,,,,,,
+Q7514888,medical sign,医学的徴候,Q1441305,Silhouette sign,,radiologic sign,,,,,,CL459038
+Q1445812,medical sign,医学的徴候,Q1441305,Kussmaul's sign,,Kussmaul sign is a paradoxical rise in jugular venous pressure (JVP) on inspiration,,,,,,
+Q3150728,medical sign,医学的徴候,Q1441305,ground glass opacity,,"for some diseases or changes in the lungs, examination shows uniform-looking, lighter areas in the lungs",,,,,,C3827002
+Q890226,medical sign,医学的徴候,Q1441305,trauma triad of death,外傷死の3徴,"the combination of hypothermia, acidosis and coagulopathy often seen in severe trauma cases",,,,,,
+Q7572960,medical sign,医学的徴候,Q1441305,Spalding's sign,,,,,,,,CL459055
+Q1282114,medical sign,医学的徴候,Q1441305,speech disorder,発話障害,type of communication disorder in which normal speech is disrupted,,D013064,F98.6,307.0,,C0037822
+Q1269330,medical sign,医学的徴候,Q1441305,dysproteinemia,タンパク異常血症,,,,E88.09,,,C0259744
+Q1128283,medical sign,医学的徴候,Q1441305,mydriasis,散瞳,increase in size of the pupil's diameter and dilation,疾患や薬物、外傷によって瞳孔が過度に拡大する現象,D015878,H57.0,379.43,,C0026961
+Q7833120,medical sign,医学的徴候,Q1441305,Tram track,,radiologic sign,,,,,,
+Q2926052,medical sign,医学的徴候,Q1441305,air-bronchogram,,,,,,,,
+Q16908589,medical sign,医学的徴候,Q1441305,osteoporosis circumscripta,,decalcified lesion found in Paget's disease,,,,,,
+Q1250498,medical sign,医学的徴候,Q1441305,fetal nuchal edema,,ultrasound sign,,,,,,C1850292
+Q1036403,medical sign,医学的徴候,Q1441305,hypoproteinemia,低タンパク血症,abnormally low level of protein in the blood,,D007019,E77.8,273.8,,C0020639
+Q1149382,medical sign,医学的徴候,Q1441305,Janeway lesion,,medical condition,,,A41.8,,,C1532713
+Q1036696,medical sign,医学的徴候,Q1441305,hypothermia,低体温症,condition caused when the human body gets too cold,体温が35℃未満に下がった状態,D007035,T68,991.6,,C0020672
+Q1188913,medical sign,医学的徴候,Q1441305,Dennie–Morgan fold,,fold or line in the skin below the lower eyelid,,,,,,C1328339
+Q1270758,medical sign,医学的徴候,Q1441305,deviation conjugée,,"medical sign indicating brain damage (e.g. a stroke in the middle cerebral artery), wherein the pupils of the eye tend to move toward the side of the body where the lesion is located;the symptom was described by Swiss neurologist Jean-Louis Prévost",,,,,,
+Q16919133,medical sign,医学的徴候,Q1441305,osteopathia striata,,radiologic sign,,,,,,C0265513
+Q7623995,medical sign,医学的徴候,Q1441305,String sign,,medical term used in diagnosing hypertrophy pyloric stenosis,,,,,,CL459082
+Q1122344,medical sign,医学的徴候,Q1441305,Kussmaul breathing,クスマウル呼吸,hyperventilation associated with metabolic acidosis,,,,,,C0541813
+Q3771629,medical sign,医学的徴候,Q1441305,hypomagnesemia,マグネシウム欠乏症,condition of low level of magnesium in the body,,,E83.4,275.2,,
+Q7987424,medical sign,医学的徴候,Q1441305,Westermark sign,,radiologic sign,,,,,,
+Q926415,medical sign,医学的徴候,Q1441305,Cushing's triad,,,,,,,,
+Q7062535,medical sign,医学的徴候,Q1441305,Notching of the ribs,,radiologic sign,,,,,,
+Q7090075,medical sign,医学的徴候,Q1441305,Omental cake,,radiologic sign,,,,,,
+Q7400156,medical sign,医学的徴候,Q1441305,Sail sign of the chest,,radiologic sign,,,,,,CL459005
+Q1063091,medical sign,医学的徴候,Q1441305,Charcot's neurologic triad,,triad of clinical signs associated with multiple sclerosis,,,,,,
+Q1090174,medical sign,医学的徴候,Q1441305,Chvostek sign,クボステーク徴候,clinical sign of existing nerve hyperexcitability,,,,,,C0234180
+Q1459899,medical sign,医学的徴候,Q1441305,Prehn's sign,プレーン徴候,medical sign for testicular pain,,,,,,
+Q1166878,medical sign,医学的徴候,Q1441305,Grey Turner's sign,,physical sign observed in acute pancreatitis,,,,,,C0232799
+Q1207349,medical sign,医学的徴候,Q1441305,decerebration,,elimination of cerebral brain function,,D003655,,,,C0231521
+Q194290,medical sign,医学的徴候,Q1441305,dehydration,脱水,deficit of total body water,体内の水分不足,D003681,E86,276.5,,C0011175
+Q1270992,medical sign,医学的徴候,Q1441305,Döhle bodies,デーレ小体,basophilic leukocyte inclusions located in the peripheral cytoplasm of neutrophils,好中球の細胞質にみられる淡青色の封入体,,,,,
+Q3304850,medical sign,医学的徴候,Q1441305,Golden S sign,,radiologic sign,,,,,,
+Q4158814,medical sign,医学的徴候,Q1441305,Tree-in-bud sign,,radiologic sign,,,,,,
+Q16929803,medical sign,医学的徴候,Q1441305,Wimberger's sign,,clinical sign for congenital syphilis,,,,,,
+Q2363109,medical sign,医学的徴候,Q1441305,boiling frog,茹でガエル,metaphor for the inability of people to react to significant changes that occur gradually,,,,,,
+Q1424702,medical sign,医学的徴候,Q1441305,Hutchinson's teeth,ハッチンソンの歯,clinical sign of congenital syphilis,先天性梅毒の臨床徴候,,,,,C0020186
+Q1424895,medical sign,医学的徴候,Q1441305,clonus,クローヌス,medical sign,,,,,,
+Q7798834,medical sign,医学的徴候,Q1441305,Thumbprint sign,,radiologic sign,,,,,,CL459126
+Q7334672,medical sign,医学的徴候,Q1441305,Ring-enhancing lesion,,radiologic sign,,,,,,
+Q12099023,medical sign,医学的徴候,Q1441305,"attention deficit hyperactivity disorder, predominantly hyperactive-impulsive",,,,,F90.1,314.01,,
+Q20707026,medical sign,医学的徴候,Q1441305,Klemm's sign,,radiologic sign,,,,,,
+Q1214063,medical sign,医学的徴候,Q1441305,blood in stool,下血,symptom,,,,578.1,,
+Q1469832,medical sign,医学的徴候,Q1441305,Froment's sign,フローマン徴候,neurological sign of ulnar nerve damage,,,,,,C1290999
+Q133244,medical sign,医学的徴候,Q1441305,jaundice,黄疸,human disease,,D007565,R17,782.4,18165001,C0022346
+Q1429154,medical sign,医学的徴候,Q1441305,hyperreflexia,反射亢進,symptom,,,,,,
+Q4419857,medical sign,医学的徴候,Q1441305,Halo sign,,radiologic sign,,,,,,
+Q7127685,medical sign,医学的徴候,Q1441305,Palla's sign,,clinical sign of a pulmonary embolism on chest x-ray,,,,,,
+Q3321079,medical sign,医学的徴候,Q1441305,Charcot's triad,,triad of clinical signs,,,,,,
+Q7168376,medical sign,医学的徴候,Q1441305,peribronchial cuffing,,radiologic sign which occurs when excess fluid or mucus buildup in the small airway passages of the lung causes localized patches of atelectasis,,,,,,
+Q961326,medical sign,医学的徴候,Q1441305,oliguria,乏尿,low output of urine,,D009846,R34,788.5,,C0028961
+Q127724,medical sign,医学的徴候,Q1441305,cataract,白内障,"clouding of the lens inside the eye, which leads to low vision",,D002386,,,128306009,C0086543
+Q7562159,medical sign,医学的徴候,Q1441305,Sonographic Murphy sign,,radiologic sign,,,,,,
+Q1103561,medical sign,医学的徴候,Q1441305,Clutton's joints,,term describing the finding of symmetrical joint swelling seen in patients with congenital syphilis,,,M03.1,,,
+Q7254794,medical sign,医学的徴候,Q1441305,Pseudofracture,,,,,,,,C0240820
+Q1479485,medical sign,医学的徴候,Q1441305,hypoxemia,低酸素血症,abnormally low level of oxygen in the blood,,,,799.02,,C0700292
+Q131191,medical sign,医学的徴候,Q1441305,body mass index,ボディマス指数,measure of relative weight based on an individual's mass and height,ヒトの肥満度を表す体格指数,D015992,,,,C1305855
+Q123562711,medical sign,医学的徴候,Q1441305,increased systemic arterial blood pressure,,punctual raise in blood pressure,,,,,,
+Q131418280,medical sign,医学的徴候,Q1441305,Anteater nose sign,,Pattern seen in radiologic examinations,,,,,,
+Q131418293,medical sign,医学的徴候,Q1441305,Absent bowtie sign,,Pattern seen in radiologic examinations,,,,,,
+Q131418338,medical sign,医学的徴候,Q1441305,Aortic nipple sign,,Pattern seen in radiologic examinations,,,,,,
+Q120833521,medical sign,医学的徴候,Q1441305,Strauss Syndrom,,Neurodevelopmental disorder,,,,,,
+Q123221108,medical sign,医学的徴候,Q1441305,skin lesion,,,,,,,,
+Q120298401,medical sign,医学的徴候,Q1441305,Babinski sign,,reflex found in normal infants consisting of dorsiflexion of the hallux and abduction of the other toes in response to cutaneous stimulation of the plantar surface of the foot,,D001405,,,,
+Q48972081,medical sign,医学的徴候,Q1441305,Wilkinson's syndrome,,medical condition,,,,,,
+Q45462238,medical sign,医学的徴候,Q1441305,alcohol amnestic disorder,,"alcoholic psychosis with a combination of polyneuritis with memory span, including striking loss of recent memory, disordered time appreciation and confabulations",,D000425,,291.11,,
+Q2204646,medical sign,医学的徴候,Q1441305,Bekhterev–Mendel reflex,,clinical sign found in patients with pyramidal tract lesions,,,,,,
+Q2888709,medical sign,医学的徴候,Q1441305,claudication,,"impairment in walking, or pain, discomfort or tiredness in the legs that occurs during walking and is relieved by rest",,,I73.9,443.9,,
+Q1021723,medical sign,医学的徴候,Q1441305,hair-on-end sign,,,,,,,,CL458770
+Q2868706,medical sign,医学的徴候,Q1441305,asynergy,,clinical sign,,,,,,
+Q1923089,medical sign,医学的徴候,Q1441305,Rossolimo's sign,ロッソリモ反射,medical condition,,,,,,
+Q2357737,medical sign,医学的徴候,Q1441305,Strümpell's sign,,medical condition,,,,,,
+Q2001556,medical sign,医学的徴候,Q1441305,Risus sardonicus,痙笑,spasm of the facial muscles,,,,,,C0343494
+Q2248747,medical sign,医学的徴候,Q1441305,relieving posture,,,,,,,,C0231482
+Q2340398,medical sign,医学的徴候,Q1441305,Hoffmann's sign,ホフマン反射,reflex test,,,,,,
+Q2841504,medical sign,医学的徴候,Q1441305,Alacrima,,abnormality in tear production,,C562827,,,253215004,C0344505
+Q2550477,medical sign,医学的徴候,Q1441305,pulsus paradoxus,奇脈,is an abnormally large decrease in systolic blood pressure and pulse wave amplitude during inspiration.,,,,,,C0232118
+Q30150660,medical sign,医学的徴候,Q1441305,Dense metaphyseal bands,,Human phenotype,,,,,,C4020919
+Q2722991,medical sign,医学的徴候,Q1441305,bubo,,inflammation of the lymph nodes,,,,,,
+Q2859076,medical sign,医学的徴候,Q1441305,apyrexy,,"(in pathology) normal interval or period of intermission in a fever. Also, the absence of a fever",,,,,,
+Q338802,medical sign,医学的徴候,Q1441305,clinically isolated syndrome,,initial neurological episode related to nerve tissue,,,,,,
+Q1822605,medical sign,医学的徴候,Q1441305,porphyrinuria,,presence of porphyrins in the urine,,,,,,
+Q6813809,medical sign,医学的徴候,Q1441305,Meltzer's triad,,medical condition,,,,,,
+Q1938321,medical sign,医学的徴候,Q1441305,decorticate rigidity,,,,,,,,
+Q1953811,medical sign,医学的徴候,Q1441305,Murphy's sign,マーフィー徴候,maneuver during a physical examination as part of the abdominal examination,,,,,,C0277977
+Q2849606,medical sign,医学的徴候,Q1441305,vasospasm,血管痙攣,condition in which an arterial spasm leads to vasoconstriction,,,,443.9,,
+Q2297551,medical sign,医学的徴候,Q1441305,soft marker,,,,,,,,
+Q5420062,medical sign,医学的徴候,Q1441305,exercise intolerance,,medical condition,,,,,,C0424551
+Q2824385,medical sign,医学的徴候,Q1441305,adiastole,,,,,,,,
+Q2342365,medical sign,医学的徴候,Q1441305,Stellwag's sign,,medical sign in the eyes,,,,,,
+Q2336398,medical sign,医学的徴候,Q1441305,pallor,,pale skin,,D010167,R23.1,782.61,,C0030232
+Q2902456,medical sign,医学的徴候,Q1441305,pulsus bigeminus,二段脈,,,,,,,C0235477
+Q28458413,medical sign,医学的徴候,Q1441305,Hot nose sign,,radiologic sign,,,,,,CL458799
+Q2868964,medical sign,医学的徴候,Q1441305,athalamia,,flat anterior chamber of eye,,,,,,C2881110
+Q2359404,medical sign,医学的徴候,Q1441305,falls in older adults,,"involuntary loss of postural stability, resulting in impacts against the ground or other objects, related to aging, audiological changes, and balance disorders",,,,,,
+Q4867827,medical sign,医学的徴候,Q1441305,Basopenia,好塩基球減少,medical condition,,,D72.8,288.59,,C0477318
+Q913667,medical sign,医学的徴候,Q1441305,pulmonary consolidation,,radiologic sign,,,,,,C0521530
+Q24963566,medical sign,医学的徴候,Q1441305,Klein's line,,medical condition,,,,,,
+Q143115,medical sign,医学的徴候,Q1441305,Chaddock reflex,チャドック反射,diagnostic reflex similar to the Babinski reflex,,,,,,C1531651
+Q757681,medical sign,医学的徴候,Q1441305,canine atopic dermatitis,,,,,,,,
+Q30314400,medical sign,医学的徴候,Q1441305,White cerebellum sign,,radiologic sign,,,,,,
+Q24962830,medical sign,医学的徴候,Q1441305,Bohler's angle,,,,,,,,
+Q5870068,medical sign,医学的徴候,Q1441305,1945 Laroya fires,,1945 spontaneous combustions,,,,,,
+Q7993737,medical sign,医学的徴候,Q1441305,Whipple's triad,,medical condition,,,,,,
+Q1956682,medical sign,医学的徴候,Q1441305,myoglobinuria,,myopathy that is characterized by an increased urinary excretion of myoglobin,,D009212,R82.1,791.3,48165008,C0027080
+Q22009275,medical sign,医学的徴候,Q1441305,hypoferritinemia,,,,,,,,CL1379231
+Q1267017,medical sign,医学的徴候,Q1441305,brief reactive psychosis,,psychosis,,,F239,298.8,,C0033958
+Q12248844,medical sign,医学的徴候,Q1441305,hypocalciuria,,lack of calcium in the urine,,,,,,C0020599
+Q1566762,medical sign,医学的徴候,Q1441305,steeple sign,,radiologic sign,,,,,,
+Q2510343,medical sign,医学的徴候,Q1441305,Asboe-Hansen sign,アスボー・ハンセン徴候,extension of a blister to adjacent unblistered skin when pressure is put on the top of the bulla,,,,,,
+Q2099990,medical sign,医学的徴候,Q1441305,pneumatosis intestinalis,,"pneumatosis of an intestine, that is, gas cysts in the bowel wall",,,R93.3,569.89,,C1112565
+Q1392898,medical sign,医学的徴候,Q1441305,cardio-thoracic ratio,心胸郭比,,,,,,,C2363738
+Q2850131,medical sign,医学的徴候,Q1441305,anisokaryosis,,presence of cell nuclei of different sizes,,,,,,C0333905
+Q2513166,medical sign,医学的徴候,Q1441305,venous hypertension,,,,,I87.3,,,
+Q24963567,medical sign,医学的徴候,Q1441305,Trethowan's sign,,Diagnostic aid in radiographs of the pelvis,,,,,,
+Q407922,medical sign,医学的徴候,Q1441305,air trapping,,abnormal retention of air in the lungs where it is difficult to exhale completely,,,,,,C0231819
+Q255605,medical sign,医学的徴候,Q1441305,Blumberg's sign,ブルンベルグ徴候,clinical sign indicative of peritonitis,,,,,,
+Q22907918,medical sign,医学的徴候,Q1441305,double bubble,,radiologic sign,,,,,,
+Q22908325,medical sign,医学的徴候,Q1441305,Rigler's triad,,radiologic sign,,,,,,
+Q22908899,medical sign,医学的徴候,Q1441305,Hilum overlay sign,,radiologic sign,,,,,,
+Q22908967,medical sign,医学的徴候,Q1441305,Hot quadrate sign,,radiologic sign,,,,,,
+Q2228992,medical sign,医学的徴候,Q1441305,winged scapula,翼状肩甲,skeletal muscle condition around the shoulder blade,,,,736.89,,C0240953
+Q245639,medical sign,医学的徴候,Q1441305,urinary cast,尿円柱,Abnormal protein precipitations in urine in certain disease states,,,,,,
+Q2559613,medical sign,医学的徴候,Q1441305,inappropriate social behavior,,,,,,,,C2220010
+Q1812920,medical sign,医学的徴候,Q1441305,adult attention deficit hyperactivity disorder,大人のADHD,the neurobiological condition of attention deficit hyperactivity disorder (ADHD) in adults,多動性のみ幼少期よりも改善した状態のADHD,,,,,
+Q1409281,medical sign,医学的徴候,Q1441305,Fat pad sign,,radiologic sign,,,,,,CL458721
+Q2584991,medical sign,医学的徴候,Q1441305,Winterbottom's sign,,"swelling of lymph nodes (lymphadenopathy) along the back of the neck, in the posterior cervical chain of lymph nodes",,,,,,
+Q2586069,medical sign,医学的徴候,Q1441305,Wischnewski spots,,Sign of death by hypothermia - erosions in gastric mucosa,,,,,,
+Q16831900,medical sign,医学的徴候,Q1441305,intracranial hypotension,頭蓋内低血圧,human disease,,D019585,,,,C0524812
+Q1914737,medical sign,医学的徴候,Q1441305,battered child syndrome,,the collection of injuries sustained by a child as a result of repeated mistreatment or beating,,D001497,T74.1,,,C0004842
+Q246147,medical sign,医学的徴候,Q1441305,cytopenia,血球減少,medical condition,,D000095542,,,,C0010828
+Q20707404,medical sign,医学的徴候,Q1441305,Cupola sign,,radiologic sign,,,,,,
+Q418527,medical sign,医学的徴候,Q1441305,akinesia,無動症,inability to initiate movement,,,,,,
+Q378580,medical sign,医学的徴候,Q1441305,Adson's sign,,loss of the radial pulse in the arm by rotating head to the ipsilateral side with extended neck following deep inspiration,,,,,,
+Q2568913,medical sign,医学的徴候,Q1441305,blue baby syndrome,青色児症候群,two situations that lead to cyanosis in infants,,,,,,C1367053
+Q371226,medical sign,医学的徴候,Q1441305,pimple,,localised skin elevation,,,,,,
+Q152234,medical sign,医学的徴候,Q1441305,edema,浮腫,abnormal accumulation of fluid in the interstitium,,D004487,R60.9,782.3,,C0013604
+Q5554678,medical sign,医学的徴候,Q1441305,Getting the wind knocked out of you,,Idiom,,,,,,
+Q244913,medical sign,医学的徴候,Q1441305,vaginal bleeding,不正出血,bleeding through the vagina,,,N93.8,,,C0151706
+Q1981783,medical sign,医学的徴候,Q1441305,pathognomonic,特徴的症状,characteristic for a particular disease,,,,,,
+Q2742923,medical sign,医学的徴候,Q1441305,de Musset's sign,,condition in which there is rhythmic bobbing of the head in synchrony with the beating of the heart,,,,,,
+Q339054,medical sign,医学的徴候,Q1441305,Seidel test,,medical diagnostic method,,,,,,
+Q380203,medical sign,医学的徴候,Q1441305,adynamia,,Pathological lack of strength,,,,,,
+Q1398980,medical sign,医学的徴候,Q1441305,Kerley lines,,radiologic sign,,,,,,
+Q2536390,medical sign,医学的徴候,Q1441305,abdominal distention,腹部膨満,physical symptom,,,,,,C0000731
+Q10295810,medical sign,医学的徴候,Q1441305,hypocholesterolemia,,decreased concentration of cholesterol in the blood,,,,,,C0151718
+Q10295815,medical sign,医学的徴候,Q1441305,Hypofibrinogenemia,,Decreased concentration of fibrinogen in the blood.,,,,,,C0553681
+Q1586180,medical sign,医学的徴候,Q1441305,Harris lines,発育阻止線,medical condition,,,,,,
+Q21045226,medical sign,医学的徴候,Q1441305,Cheerio sign,,pulmonary nodules with a central lucent cavity,,,,,,
+Q119715389,medical sign,医学的徴候,Q1441305,Acorn cyst sign,,radiologic sign,,,,,,
+Q115743908,medical sign,医学的徴候,Q1441305,radicular arm pain,,medical sign or symptom,,,,,,
+Q115801702,medical sign,医学的徴候,Q1441305,Whirlpool sign,,radiologic sign where bowel rotates around mesentery,,,,,,
+Q116776708,medical sign,医学的徴候,Q1441305,skin turgor,,elasticity of skin,,,,,,
+Q115743250,medical sign,医学的徴候,Q1441305,downward displacement of the brain,,clinical sign,,,,,,
+Q115743869,medical sign,医学的徴候,Q1441305,cranial nerve dysfunction,,clinical sign,,,,,,
+Q1638131,medical sign,医学的徴候,Q1441305,hyperesthesia,知覚過敏,exaggerated sensations of tactile stimuli,,D006941,R20.3,782.0,,C0020453
+Q1326943,medical sign,医学的徴候,Q1441305,electrolyte imbalance,電解質の不均衡,abnormalities in the levels of electrolytes which are medically significant,,D014883,E86,276,,C0043065
+Q573000,medical sign,医学的徴候,Q1441305,Hamman's sign,,"crunching, rasping sound, synchronous with the heartbeat",,,,,,C1532085
+Q1503754,medical sign,医学的徴候,Q1441305,Gordon's sign,ゴードン反射,Clinical sign,,,,,,C4021048
+Q115740344,medical sign,医学的徴候,Q1441305,elevated tumor necrosis factor,,clinical sign indicating abnormally high tumor necrosis factor,,,,,,
+Q115740361,medical sign,医学的徴候,Q1441305,elevated interleukin-2,,clinical sign indicating abnormally high interleukin-2,,,,,,
+Q115740368,medical sign,医学的徴候,Q1441305,elevated interleukin-4,,clinical sign indicating abnormally high levels of interleukin-4,,,,,,
+Q115740380,medical sign,医学的徴候,Q1441305,elevated transforming growth factor-β,,clinical sign indicating abnormally high transforming growth factor-β,,,,,,
+Q115740400,medical sign,医学的徴候,Q1441305,elevated c-reactive protein,,clinical sign indicating abnormally high levels of c-reactive protein,,,,,,
+Q110916993,medical sign,医学的徴候,Q1441305,thin ribs,,,,,,,249697003,C4013116
+Q110917364,medical sign,医学的徴候,Q1441305,narrow chest,,,,,,,249671009,C4014295
+Q110917493,medical sign,医学的徴候,Q1441305,abnormal calcium-phosphate regulating hormone level,,any deviation from the normal concentration in the blood circulation of a hormone that is involved in the regulation of phosphate and calcium,,,,,,CL1365226
+Q110917535,medical sign,医学的徴候,Q1441305,abnormality of the metaphysis,,"abnormality of one or more metaphysis, i.e., of the somewhat wider portion of a long bone that is adjacent to the epiphyseal growth plate and grows during childhood",,,,,,C4025814
+Q3427755,medical sign,医学的徴候,Q1441305,diaphragmatic paradox,,abnormal medical sign observed during respiration,,,,,,C0231852
+Q110917449,medical sign,医学的徴候,Q1441305,short ribs,,reduced rib length,,,,,,C3550697
+Q3280552,medical sign,医学的徴候,Q1441305,fetor hepaticus,,medical condition,,,,,,C0239571
+Q109019403,medical sign,医学的徴候,Q1441305,Laennec's pearls,,sputum produced by asthmatics,,,,,,
+Q109045664,medical sign,医学的徴候,Q1441305,narrow pulse pressure,,,,,,,,C0240840
+Q1641305,medical sign,医学的徴候,Q1441305,hypochromia,,under-colored red blood cells,,,,,,C0333912
+Q1641429,medical sign,医学的徴候,Q1441305,hyposthenuria,,inability of the kidney to concentrate the urine normally,,,,,,C1968620
+Q110917167,medical sign,医学的徴候,Q1441305,femoral bowing,,clinical sign,,,,,,C1859461
+Q1337595,medical sign,医学的徴候,Q1441305,Saegesser's sign,,,,,,,,
+Q110128370,medical sign,医学的徴候,Q1441305,dolichonychia,,medical condition,,,,,,
+Q596899,medical sign,医学的徴候,Q1441305,miosis,縮瞳,excessive constriction of the pupil,,D015877,H57.0,379.42,,C0026205
+Q109256553,medical sign,医学的徴候,Q1441305,Bat wing appearance,,radiologic sign,,,,,,
+Q605259,medical sign,医学的徴候,Q1441305,hyperkalemia,高カリウム血症,elevated level of potassium (K+) in the blood serum.,,D006947,E87.5,276.7,,C0020461
+Q1688768,medical sign,医学的徴候,Q1441305,Madonna fingers,,,,,,,,
+Q1686841,medical sign,医学的徴候,Q1441305,Jendrassik maneuver,ジェンドラシック手技,medical maneuver to test reflexes,膝蓋腱反射の検査で使用される手法,,,,,
+Q2944236,medical sign,医学的徴候,Q1441305,photosensitivity,,light sensitivity in homo sapiens,,D010787,,,,
+Q3144191,medical sign,医学的徴候,Q1441305,hyperproteinemia,高タンパク血症,increased concentration of proteins in the blood,,,,,,C0267988
+Q1723395,medical sign,医学的徴候,Q1441305,Camptocormia,,"symptom, also called ""bent spine syndrome""",,,,,,
+Q109042896,medical sign,医学的徴候,Q1441305,menstruation in transgender people,,,,,,,,
+Q1340669,medical sign,医学的徴候,Q1441305,nail clubbing,ばち指,deformity found in nails,,,R68.3,,,
+Q1477817,medical sign,医学的徴候,Q1441305,pupillary rigidity,,lack of a reaction of the pupil to a light stimulus,,,,,,
+Q3042160,medical sign,医学的徴候,Q1441305,dystonic movements,,,,,,,,
+Q1497481,medical sign,医学的徴候,Q1441305,failure to thrive,成長障害,condition of children whose current weight or rate of weight gain is much lower than expected,,D005183,,,,C0015544
+Q1484330,medical sign,医学的徴候,Q1441305,Hirschberg test,,screening test for strabismus,,,,,,
+Q3306095,medical sign,医学的徴候,Q1441305,mentism,,unstoppable flow of thought,,,,,,C0554977
+Q602709,medical sign,医学的徴候,Q1441305,Crowe sign,,medical sign that is used in the diagnosis of neurofibromatosis,,,,,,
+Q109537800,medical sign,医学的徴候,Q1441305,Celery stalking,,Pattern seen in radiologic examinations,,,,,,
+Q3066331,medical sign,医学的徴候,Q1441305,Bitot's spots,,buildup of keratin located superficially in the conjunctiva,,,E50.1,264.1,,
+Q109536139,medical sign,医学的徴候,Q1441305,Blade of grass sign,,radiologic sign,,,,,,
+Q110930448,medical sign,医学的徴候,Q1441305,thin skin,,"reduction in thickness of the skin, generally associated with a loss of suppleness and elasticity of the skin",,,,,,
+Q110489954,medical sign,医学的徴候,Q1441305,mass formation psychosis,,proposed phenomenon,,,,,,
+Q3025277,medical sign,医学的徴候,Q1441305,abdominojugular test,,physical examination test useful in diagnosing right ventricle dysfunction,,,,,,
+Q1975054,medical sign,医学的徴候,Q1441305,Virchow's triad,,three factors thought to contribute to thrombosis,,,,,,
+Q1641384,medical sign,医学的徴候,Q1441305,hypophosphatemia,低リン血症,electrolyte disorder in which there is a low level of phosphate in the blood,,D017674,E83.3,275.3,,C0085682
+Q1503727,medical sign,医学的徴候,Q1441305,Oppenheim's sign,オッペンハイム反射,medical condition,,,,,,
+Q110929264,medical sign,医学的徴候,Q1441305,abnormality of lipoprotein cholesterol concentration,,abnormal increase or decrease in the level of lipoprotein cholesterol in the blood,,,,,,
+Q110929303,medical sign,医学的徴候,Q1441305,hippocampal atrophy,,partial or complete wasting (loss) of hippocampus tissue that was once present,,,,,,
+Q110930434,medical sign,医学的徴候,Q1441305,arterial rupture,,sudden breakage of an artery leading to leakage of blood from the circulation,,,,,,
+Q110930483,medical sign,医学的徴候,Q1441305,arterial dissection,,separation (dissection) of the layers of an artery,,,,,,
+Q110930516,medical sign,医学的徴候,Q1441305,cigarette-paper scars,,thin (atrophic) and wide scars,,,,,,
+Q110930564,medical sign,医学的徴候,Q1441305,colon perforation,,hole (perforation) in the wall of the colon,,,,,,
+Q3483662,medical sign,医学的徴候,Q1441305,Frank's sign,フランク徴候,diagonal crease in the ear lobe extending from the tragus across the lobule to the rear edge of the auricle,,,,,,
+Q3483666,medical sign,医学的徴候,Q1441305,Homans sign,,possible clinical sign of deep vein thrombosis,,,,,,C0231781
+Q2923519,medical sign,医学的徴候,Q1441305,bradyphrenia,,slow mental activity,,,,,,C0554976
+Q605709,medical sign,医学的徴候,Q1441305,fibrosis,線維化,formation of excess fibrous connective tissue in an organ or tissue in a reparative or reactive process,,D005355,,,263756000,C0016059
+Q584691,medical sign,医学的徴候,Q1441305,diuresis,,increase in urine production,,D004231,,,,C0012797
+Q1640780,medical sign,医学的徴候,Q1441305,hypoalbuminemia,低アルブミン血症,medical sign in which the level of albumin in the blood is abnormally low,,D034141,E88.0,273.8,,C0239981
+Q3357696,medical sign,医学的徴候,Q1441305,otorrhagia,,bleeding from ear,,,H92.2,,,C0271412
+Q110917143,medical sign,医学的徴候,Q1441305,feeding difficulties,,,,,R63.3,783.3,,C4227393
+Q1503965,medical sign,医学的徴候,Q1441305,Hypomimia,仮面様顔貌,reduced degree of facial expression,,,,,,
+Q3287582,medical sign,医学的徴候,Q1441305,Codman triangle,コッドマンの三角,triangular area of new subperiosteal bone that is created when a lesion raises the periosteum away from the bone,,,,,,
+Q594660,medical sign,医学的徴候,Q1441305,aortic dissection,大動脈解離,injury to the innermost layer of the aorta,大動脈の層構造が剥がれていく疾患,D000784,I71.0,441.0,,C0340643
+Q3360135,medical sign,医学的徴候,Q1441305,pachyderma,,thickening of the skin,,,,701.8,,C0334008
+Q111681631,medical sign,医学的徴候,Q1441305,Lipaemia retinalis,,Retinal disease caused by high amounts of triglycerides in the blood,,,,,,
+Q3324066,medical sign,医学的徴候,Q1441305,moria,,childish euphoria,,,,,,
+Q110222715,medical sign,医学的徴候,Q1441305,sense of impending doom,,medical symptom : feeling that something bad is about to occur,,,,,712759008,C2958630
+Q1661695,medical sign,医学的徴候,Q1441305,indifference to pain,,,,,,,,C0234241
+Q2669388,medical sign,医学的徴候,Q1441305,Macdonald triad,マクドナルドの3兆候,set of behavioral characteristics thought to be associated with later violent tendencies,,,,,,
+Q3382122,medical sign,医学的徴候,Q1441305,Gallavardin phenomenon,,clinical sign found in patients with aortic stenosis,,,,,,
+Q1623043,medical sign,医学的徴候,Q1441305,Tinel sign,チネル徴候,medical condition,,,G56.0,354.0,,
+Q3381914,medical sign,医学的徴候,Q1441305,periorbital puffiness,涙袋,appearance of swelling in the tissues around the eyes,,,,,,C0151205
+Q110917350,medical sign,医学的徴候,Q1441305,motor delay,,,,,,,,
+Q110930661,medical sign,医学的徴候,Q1441305,bilateral talipes equinovarus,,,,,,,,
+Q3144243,medical sign,医学的徴候,Q1441305,hypoalgesia,,medical conditon,,,,,,C0085625
+Q2979311,medical sign,医学的徴候,Q1441305,clinophilia,,sleep disorder,,,,,,C4049223
+Q1507044,medical sign,医学的徴候,Q1441305,Leser–Trélat sign,レーザー・トレラ徴候,explosive onset of multiple seborrheic keratoses,,,,,,
+Q108541783,medical sign,医学的徴候,Q1441305,Scottie dog sign,,radiological sign,,,,,,
+Q3403879,medical sign,医学的徴候,Q1441305,weight gain,体重増加,increase in a person's total body mass,,D015430,,,,C0043094
+Q108619293,medical sign,医学的徴候,Q1441305,Sandwich vertebra,,Pattern seen in radiologic examinations,,,,,,
+Q115743195,medical sign,医学的徴候,Q1441305,weakness of the spinal meninges,,clinical sign,,,,,,
+Q115743238,medical sign,医学的徴候,Q1441305,subdural fluid collections,,clinical sign,,,,,,
+Q130236369,medical sign,医学的徴候,Q1441305,dystextia,,garbled text messaging as a symptom of aphasia,,,,,,
+Q130236378,medical sign,医学的徴候,Q1441305,dystypia,,garbled typing as a symptom of aphasia,,,,,,
+Q123563197,medical sign,医学的徴候,Q1441305,shortened atrioventricular conduction time,,sign,,,,,,
+Q123563684,medical sign,医学的徴候,Q1441305,short coagulation time,,clinical sign,,,,,,
+Q135488659,medical sign,医学的徴候,Q1441305,symptoms of monkeypox,,,,,,,,
+Q131726971,medical sign,医学的徴候,Q1441305,desiderosmia,,craving of certain smells,,,,,,
+Q124881304,medical sign,医学的徴候,Q1441305,Jackstone calculus,,type of urinary tract stone,,,,,,
+Q5032332,medical sign,医学的徴候,Q1441305,Canga's bead symptom,,radiologic sign,,,,,,
+Q4979462,medical sign,医学的徴候,Q1441305,Bruns nystagmus,Bruns眼振,type of bilateral nystagmus most commonly occurring in patients with cerebellopontine angle tumours,,,,,,
+Q4996388,medical sign,医学的徴候,Q1441305,bulging flanks,,,,,,,,
+Q4962669,medical sign,医学的徴候,Q1441305,Brewer infarcts,,histological finding found in renal disease,,,N28.0,,,
+Q4953360,medical sign,医学的徴候,Q1441305,Bracht–Wachter bodies,,yellow-white miliary spots in the myocardium,,,,,,
+Q4968712,medical sign,医学的徴候,Q1441305,Brissaud's reflex,,clinical sign in which stroking the sole of the foot elicits contraction of tensor fasciae latae,,,,,,
+Q4972044,medical sign,医学的徴候,Q1441305,Broadbent inverted sign,,visible pulsationon the postero-lateral wall of the left side of the chest in time with cardiac systole,,,,,,
+Q5002909,medical sign,医学的徴候,Q1441305,butterflies in the stomach,胸キュン,English expression,,,,,,
+Q4972046,medical sign,医学的徴候,Q1441305,Broadbent sign,ブロードベント・サイン,clinical sign in which the 11th and 12th ribs are indrawn,,,,,,
+Q1737873,medical sign,医学的徴候,Q1441305,Ott test,,functional test of the flexibility of the thoracic spine,,,,,,
+Q1535387,medical sign,医学的徴候,Q1441305,lipemia,,,,,,,,C1553189
+Q3773761,medical sign,医学的徴候,Q1441305,functional murmur,機能性雑音,systolic ejection murmur without any organic dysfunction,,,,,,C0232255
+Q281289,medical sign,医学的徴候,Q1441305,photophobia,羞明,medical condition,,D020795,H53.1,368.13,,C0085636
+Q1822504,medical sign,医学的徴候,Q1441305,Lhermitte's sign,,clinical sign,,,,,,
+Q1516325,medical sign,医学的徴候,Q1441305,Osler's node,,medical condition,,,,,,C0240608
+Q4763248,medical sign,医学的徴候,Q1441305,anginal equivalent,,medical condition,,,,,,C0741034
+Q4778762,medical sign,医学的徴候,Q1441305,Aortic unfolding,,radiologic sign,,,,,,
+Q4851424,medical sign,医学的徴候,Q1441305,Ballance's sign,,medical diagnostic method,,,,,,
+Q568378,medical sign,医学的徴候,Q1441305,emaciation,羸痩,extreme weight loss and unnatural thinness due to a loss of subcutaneous fat,体重や体脂肪率の著しい減少で肋骨など骨の形が皮膚の上に浮き上がる痩せ過ぎ状態、またBMI17.6未満という標準体重より20％以上体重が少ない病態,D004614,,,,C0013911
+Q517183,medical sign,医学的徴候,Q1441305,dysmetria,ディスメトリア,type of ataxia characterized by the inability to carry out movements with the correct range and motion across the plane of more than one joint related to incorrect estimation of the distances required for targeted movements,,,R27,781.3,32566006,
+Q1753547,medical sign,医学的徴候,Q1441305,hypotonia,ヒポトニア,"abnormally low muscle tone, lack of resistance to passive movement",,D009123,P94.2,358,,C0026827
+Q285115,medical sign,医学的徴候,Q1441305,organomegaly,臓器肥大,medical condition in which organs are larger than normal,,,,,,C4054315
+Q470427,medical sign,医学的徴候,Q1441305,refractive error,屈折異常,cause of vision problems,,D012030,,367.2,,C0034951
+Q2003715,medical sign,医学的徴候,Q1441305,Rovsing's sign,ロブシング徴候,medical condition,,,,,,
+Q1557686,medical sign,医学的徴候,Q1441305,muscle atrophy,筋萎縮,"process that is characterized by a decrease in protein content, fiber diameter, force production and fatigue resistance.",,,M62.5,728.2,,
+Q1765265,medical sign,医学的徴候,Q1441305,Leichtenstern sign,,,,,,,,
+Q1781526,medical sign,医学的徴候,Q1441305,conglomerate tumor,,,,,,,,
+Q4927805,medical sign,医学的徴候,Q1441305,blood hammer,,clinical sign,,,,,,
+Q2051432,medical sign,医学的徴候,Q1441305,Atmung,,,,,,,,
+Q2707302,medical sign,医学的徴候,Q1441305,Koplik's spots,コプリック斑,prodromic viral enanthem of measles manifesting two to three days before the measles rash itself,,,,,,C0221200
+Q2717222,medical sign,医学的徴候,Q1441305,Stemmer sign,,,,,,,,
+Q474914,medical sign,医学的徴候,Q1441305,strangury,,"symptom characterized by painful, frequent urination of small volumes",,,,,,C0232858
+Q4927059,medical sign,医学的徴候,Q1441305,bloating,膨満感,"abnormal general swelling, or increase in diameter of the abdominal area",,,R14.0,,,C1291077
+Q445036,medical sign,医学的徴候,Q1441305,periodic limb movement,,,,,,,,
+Q3909404,medical sign,医学的徴候,Q1441305,Thorburn's position,,,,,,,,
+Q1622541,medical sign,医学的徴候,Q1441305,tall stature,,form of stature,,,,,248328003,C3279055
+Q4820287,medical sign,医学的徴候,Q1441305,Auenbrugger's sign,,bulging of the epigastrium seen in cases of severe pericardial effusion,,,,,,
+Q1554700,medical sign,医学的徴候,Q1441305,arteriovenous nicking,,clinical sign,,,,,,
+Q4851900,medical sign,医学的徴候,Q1441305,ballottement,,medical sign which indicates increased fluid in the suprapatellar pouch over the patella at the knee joint,,,,,,
+Q4854147,medical sign,医学的徴候,Q1441305,Bancroft's sign,,clinical sign found in patients with deep vein thrombosis of the lower leg involving the posterior tibial veins,,,,,,
+Q4868288,medical sign,医学的徴候,Q1441305,Bastian–Bruns sign,,loss of tone and deep tendon reflexes in the lower limbs in the presence of complete transection of the spinal cord above the level of the lumbar enlargement,,,,,,
+Q4746440,medical sign,医学的徴候,Q1441305,aminoaciduria,アミノ酸尿,medical condition,,,,,35912001,C0238621
+Q4878587,medical sign,医学的徴候,Q1441305,Beck's cognitive triad,,The three key elements of Depression.,,,,,,
+Q4878653,medical sign,医学的徴候,Q1441305,Becker's sign,,presence of visible pulsation of retinal arteries,,,,,,
+Q4880222,medical sign,医学的徴候,Q1441305,beeturia,,betacyanin-colored urine,,,,,,
+Q4881608,medical sign,医学的徴候,Q1441305,Bekhterev–Jacobsohn reflex,,clinical sign found in patients with pyramidal tract lesions of the upper limb,,,,,,
+Q1540520,medical sign,医学的徴候,Q1441305,Gowers' sign,ガワーズ徴候,medical sign that indicates weakness of the proximal muscles,,,,,,
+Q4914105,medical sign,医学的徴候,Q1441305,Bing's sign,,clinical sign in which pricking the dorsum of the foot or toe with a pin causes extension of the great toe,,,,,,
+Q4419859,medical sign,医学的徴候,Q1441305,Air crescent sign,,radiologic sign,,,,,,CL458535
+Q4931471,medical sign,医学的徴候,Q1441305,Boas' point,,area of tenderness to palpation to the left of the 12th thoracic vertebra,,,,,,
+Q1546517,medical sign,医学的徴候,Q1441305,Griesinger sign,,edema of the mastoid process,,,,,,
+Q4937608,medical sign,医学的徴候,Q1441305,boggy uterus,,condition,,,,,,C0426257
+Q4947690,medical sign,医学的徴候,Q1441305,Boston's sign,,spasmodic lowering of the upper eyelid on downward rotation of the eye,,,,,,
+Q3803575,medical sign,医学的徴候,Q1441305,sea-blue histiocytosis,,medical condition,,,D76.3,,,C0333836
+Q2027232,medical sign,医学的徴候,Q1441305,opsoclonus,,medical condition,,,H57,379.59,194177006,
+Q3776711,medical sign,医学的徴候,Q1441305,Douglas cry,,pain when the examiner finger reach the Douglas pouch,,,,,,
+Q1552457,medical sign,医学的徴候,Q1441305,sopor,,condition of abnormally deep sleep or a stupor from which it is difficult to rouse,,,,,,
+Q4922732,medical sign,医学的徴候,Q1441305,tenderness,圧痛,clinical sign; pain or discomfort when an affected area is touched,,,,,,C0234233
+Q814156,medical sign,医学的徴候,Q1441305,Beevor's sign,,medical condition,,,,,,C0231616
+Q475918,medical sign,医学的徴候,Q1441305,Watson's water hammer pulse,バウンディングパルス,"pulse that is bounding and forceful, rapidly increasing and subsequently collapsing",,,,,,C0232123
+Q2042809,medical sign,医学的徴候,Q1441305,psoas sign,,medical sign,,,,,,
+Q514823,medical sign,医学的徴候,Q1441305,Cushing reflex,クッシング反射,physiological nervous system response to increased intracranial pressure,,,,,,C3662815
+Q3844852,medical sign,医学的徴候,Q1441305,costovertebral angle tenderness,,medical sign of renal infection or renal stone,,,,,,
+Q833507,medical sign,医学的徴候,Q1441305,Cullen's sign,,superficial edema and bruising in the subcutaneous fatty tissue around the umbilicus,,,,,,
+Q810978,medical sign,医学的徴候,Q1441305,Battle's sign,バトル徴候,indication of fracture of middle cranial fossa of the skull,,,,,,
+Q2601394,medical sign,医学的徴候,Q1441305,abnormal posturing,異常肢位,strange posture from brain injury,,,R29.3,781.92,,C0231471
+Q289306,medical sign,医学的徴候,Q1441305,B symptoms,,symptoms associated with lymphoma,,,,,,
+Q1729978,medical sign,医学的徴候,Q1441305,straight leg raise,ラセーグ徴候,test to determine whether a patient has a herniated disc,,,,,,
+Q738538,medical sign,医学的徴候,Q1441305,tic,チック,"repetitive, nonrhythmic motor movement or vocalization involving discrete muscle groups",,D020323,,,,C0751900
+Q2065404,medical sign,医学的徴候,Q1441305,Payr sign,,"pain occurs when pressure is applied to the sole of the foot, unspecific sign for a deep lower limb thrombosis",,,,,,
+Q3749492,medical sign,医学的徴候,Q1441305,sterility,,"physiological inability to effect sexual reproduction in a living thing, members of whose kind have been produced sexually",,,,,,C0678108
+Q277606,medical sign,医学的徴候,Q1441305,Lisch nodule,,pigmented hamartomatous nodular aggregate of dendritic melanocytes affecting the iris,,,,,,C1860334
+Q3916681,medical sign,医学的徴候,Q1441305,sundowning,,"neurological phenomenon, associated with dementia, in which patients exhibit confusion, agitation, fatigue and/or restlessness after sundown",,,,,,C1142436
+Q1784680,medical sign,医学的徴候,Q1441305,Korotkoff sounds,コロトコフ音,sounds listened for when taking blood pressure,,,,,,C0277892
+Q2637419,medical sign,医学的徴候,Q1441305,Chadwick's sign,,"bluish discoloration of the cervix, vagina, and labia resulting from increased blood flow",,,,,,
+Q2086658,medical sign,医学的徴候,Q1441305,Ghon's complex,,lung lesion caused by tuberculosis,,,A16.7,010.0,,C0152524
+Q3774744,medical sign,医学的徴候,Q1441305,respiratory arrest,呼吸停止,condition that exists at any point a patient stops breathing or is ineffectively breathing,,,,,,
+Q1546135,medical sign,医学的徴候,Q1441305,Kehr's sign,,clinical sign,,,,,,C0277834
+Q4443108,medical sign,医学的徴候,Q1441305,Sentinel loop,,radiologic sign,,,,,,
+Q4927820,medical sign,医学的徴候,Q1441305,Blood lipid,血中脂質,"lipids in the blood, either free or bound to other molecules",,,,,,
+Q304660,medical sign,医学的徴候,Q1441305,Abadie's sign of tabes dorsalis,,medical sign of tabes dorsalis,,,,,,
+Q304669,medical sign,医学的徴候,Q1441305,Abadie's sign of exophthalmic goiter,,medical sign characterized by spasm of the levator palpebrae superioris muscle with retraction of the upper lid,,,,,,
+Q2036597,medical sign,医学的徴候,Q1441305,Oscillopsia,,visual disturbance,,,,,,C0422980
+Q1782619,medical sign,医学的徴候,Q1441305,lucid interval,,clinical sign,,,,,,
+Q2094620,medical sign,医学的徴候,Q1441305,Darier's sign,ダリエー徴候,skin sign,,,,,,
+Q336216,medical sign,医学的徴候,Q1441305,abdominal guarding,,"in medicine, the tensing of the abdominal wall muscles to guard inflamed organs",,,,,,C0238547
+Q3773831,medical sign,医学的徴候,Q1441305,Duroziez's sign,,sign of aortic insufficiency,,,,,,C0240405
+Q111181917,medical sign,医学的徴候,Q1441305,Light triad,ライトトライアド,"In psychology the light triad scale quantifies empathy, compassion and altruism",,,,,,
+Q6784032,medical sign,医学的徴候,Q1441305,mass effect,圧迫所見,pressure and/or displacement of adjacent tissues that results from the growth of a mass,,,,,,C4086564
+Q5893790,medical sign,医学的徴候,Q1441305,honeycombing,蜂巣肺,lung disorder,,,,,,
+Q30150991,medical sign,医学的徴候,Q1441305,Decreased CSF albumin,,Human phenotype,,,,,,C1168004
+Q30151275,medical sign,医学的徴候,Q1441305,Decreased CSF total protein,,Human phenotype,,,,,,C0853072
+Q5039180,medical sign,医学的徴候,Q1441305,Carey Coombs murmur,Carey Coombs雑音,clinical sign which occurs in patients with mitral valvulitis due to acute rheumatic fever,,,,,,
+Q5066886,medical sign,医学的徴候,Q1441305,chagoma,,symptom,,,,,,C0343801
+Q5032749,medical sign,医学的徴候,Q1441305,cannon A waves,,clinical sign,,,,,,
+Q5466440,medical sign,医学的徴候,Q1441305,Football sign,,,,,,,,
+Q110503884,medical sign,医学的徴候,Q1441305,early term birth,早期正期産,birth at a gestational age between 37 and 39 weeks,,,,,,
+Q6935473,medical sign,医学的徴候,Q1441305,Mumoli's sign,,radiologic sign,,,,,,
+Q53327254,medical sign,医学的徴候,Q1441305,QT interval shortened,QT間隔短縮,,,,,,,C0151879
+Q30150985,medical sign,医学的徴候,Q1441305,Decreased CSF/serum albumin ratio,,Human phenotype,,,,,,
+Q5184441,medical sign,医学的徴候,Q1441305,Crescent sign,,radiologic sign,,,,,,
+Q5427595,medical sign,医学的徴候,Q1441305,Fabella sign,,radiologic sign,,,,,,CL458714
+Q6842571,medical sign,医学的徴候,Q1441305,Midline shift,,Sideways shift of the brain,,,,,,
+Q5250407,medical sign,医学的徴候,Q1441305,Deep lateral femoral notch sign,,radiologic sign,,,,,,
+Q5250443,medical sign,医学的徴候,Q1441305,Deep sulcus sign,,radiologic sign,,,,,,
+Q6889328,medical sign,医学的徴候,Q1441305,Modic changes,,pathological changes in the vertebrae,,,,,,
+Q5259298,medical sign,医学的徴候,Q1441305,Dense artery sign,,radiologic sign,,,,,,
+Q30314578,medical sign,医学的徴候,Q1441305,Murphy's triad,,three medical signs associated with acute appendicitis,,,,,,
+Q5047996,medical sign,医学的徴候,Q1441305,Casal collar,,clinical sign in which there is an erythematous pigmented skin rash in the distribution of a broad collar,,,,,,
+Q5523398,medical sign,医学的徴候,Q1441305,Garland's triad,,medical condition,,,,,,CL458909
+Q5376326,medical sign,医学的徴候,Q1441305,Endoexoenteric,,radiologic sign,,,,,,
+Q25339420,medical sign,医学的徴候,Q1441305,hypoprolactinemia,,human disease,,C562708,,,,C0271586
+Q5044018,medical sign,医学的徴候,Q1441305,Carnett's sign,,medical condition,,,,,,CL556660
+Q102187013,medical sign,医学的徴候,Q1441305,contracted pupil,,symptom,,,,,,
+Q120898072,medical sign,医学的徴候,Q1441305,death of Anthony Vontoure,,Death of an African American person killed due to interaction with a California Law Enforcement Agency,,,,,,
+Q120898126,medical sign,医学的徴候,Q1441305,death of Bertrand Martin,,Death of an African American person killed due to interaction with a California Law Enforcement Agency,,,,,,
+Q120898170,medical sign,医学的徴候,Q1441305,death of Brian Powell,,Death of an African American person killed due to interaction with a California Law Enforcement Agency,,,,,,
+Q120898277,medical sign,医学的徴候,Q1441305,death of Christopher Eisinger,,Death of an African American person killed due to interaction with a California Law Enforcement Agency,,,,,,
+Q120898545,medical sign,医学的徴候,Q1441305,death of Dynami McCree,,Death of an African American person killed due to interaction with a California Law Enforcement Agency,,,,,,
+Q120898551,medical sign,医学的徴候,Q1441305,death of Earl McNeil,,Death of an African American person killed due to interaction with a California Law Enforcement Agency,,,,,,
+Q120898706,medical sign,医学的徴候,Q1441305,death of Glenn Fullard,,Death of an African American person killed due to interaction with a California Law Enforcement Agency,,,,,,
+Q120898723,medical sign,医学的徴候,Q1441305,death of Gregory Lewis,,Death of an African American person killed due to interaction with a California Law Enforcement Agency,,,,,,
+Q120898726,medical sign,医学的徴候,Q1441305,death of Guanda Denise Turner,,Death of an African American person killed due to interaction with a California Law Enforcement Agency,,,,,,
+Q120898753,medical sign,医学的徴候,Q1441305,death of Herbert Tyrone Watt,,Death of an African American person killed due to interaction with a California Law Enforcement Agency,,,,,,
+Q120898759,medical sign,医学的徴候,Q1441305,death of Husie Outing III,,Death of an African American person killed due to interaction with a California Law Enforcement Agency,,,,,,
+Q120898986,medical sign,医学的徴候,Q1441305,death of Kayla Moore,,Death of an African American person killed due to interaction with a California Law Enforcement Agency,,,,,,
+Q120899079,medical sign,医学的徴候,Q1441305,death of LaMont Robinson,,Death of an African American person killed due to interaction with a California Law Enforcement Agency,,,,,,
+Q120899334,medical sign,医学的徴候,Q1441305,death of Oral W. Nunis,,Death of an African American person killed due to interaction with a California Law Enforcement Agency,,,,,,
+Q120899350,medical sign,医学的徴候,Q1441305,death of Patrick Gaston,,Death of an African American person killed due to interaction with a California Law Enforcement Agency,,,,,,
+Q120899348,medical sign,医学的徴候,Q1441305,death of Parrish Madison Batchan,,Death of an African American person killed due to interaction with a California Law Enforcement Agency,,,,,,
+Q120899392,medical sign,医学的徴候,Q1441305,death of Ramel Lemeul Henderson,,Death of an African American person killed due to interaction with a California Law Enforcement Agency,,,,,,
+Q120899410,medical sign,医学的徴候,Q1441305,death of Raymond Lee Mitchell,,Death of an African American person killed due to interaction with a California Law Enforcement Agency,,,,,,
+Q120899437,medical sign,医学的徴候,Q1441305,death of Richard Linyard,,Death of an African American person killed due to interaction with a California Law Enforcement Agency,,,,,,
+Q120899525,medical sign,医学的徴候,Q1441305,death of Roy Nelson,,Death of an African American person killed due to interaction with a California Law Enforcement Agency,,,,,,
+Q120899568,medical sign,医学的徴候,Q1441305,death of Shaheed Jamal Daniels,,Death of an African American person killed due to interaction with a California Law Enforcement Agency,,,,,,
+Q120899655,medical sign,医学的徴候,Q1441305,death of Terry Wayne Jackson,,Death of an African American person killed due to interaction with a California Law Enforcement Agency,,,,,,
+Q120899676,medical sign,医学的徴候,Q1441305,death of Timothy Short,,Death of an African American person killed due to interaction with a California Law Enforcement Agency,,,,,,
+Q120899724,medical sign,医学的徴候,Q1441305,death of Vachel Howard Sr.,,Death of an African American person killed due to interaction with a California Law Enforcement Agency,,,,,,
+Q120899749,medical sign,医学的徴候,Q1441305,death of Wendell Jerrold Celestine Jr.,,Death of an African American person killed due to interaction with a California Law Enforcement Agency,,,,,,
+Q120899766,medical sign,医学的徴候,Q1441305,death of Willie Crawford Jr.,,Death of an African American person killed due to interaction with a California Law Enforcement Agency,,,,,,
+Q121096942,medical sign,医学的徴候,Q1441305,Death of Andre Deshon Henry,,Death of an African American person killed due to interaction with a California Law Enforcement Agency,,,,,,
+Q5202953,medical sign,医学的徴候,Q1441305,Cœur en sabot,,radiologic sign,,,R93.1,793.2,,
+Q6635943,medical sign,医学的徴候,Q1441305,list of radiographic findings associated with cutaneous conditions,,radiologic sign,ウィキメディアの一覧記事,,,,,
+Q5646128,medical sign,医学的徴候,Q1441305,Hampton's line,,radiologic sign,,,,,,
+Q5646341,medical sign,医学的徴候,Q1441305,Hampton hump,,radiologic sign,,,,,,
+Q5184196,medical sign,医学的徴候,Q1441305,creola bodies,,symptom indicative of asthma,,,,,,
+Q5175762,medical sign,医学的徴候,Q1441305,cotton wool spots,,fluffy white patches on the retina found via funduscopic exams,,,,,,C0271053
+Q5104989,medical sign,医学的徴候,Q1441305,chorditis,,medical condition,,,J38.2,478.5,,C0264314
+Q4732123,medical sign,医学的徴候,Q1441305,allergic salute,,upward rubbing of the nose to relieve itching,,,,,,
+Q4686715,medical sign,医学的徴候,Q1441305,adverse food reaction,,adverse response by the body to food or a specific type of food,,,,,,C1299938
+Q5165495,medical sign,医学的徴候,Q1441305,continuous murmur,連続性雑音,,,,,,,C0232266
+Q4692699,medical sign,医学的徴候,Q1441305,agitation in dementia,興奮 (認知症),symptom of dementia,,,,,,
+Q5130069,medical sign,医学的徴候,Q1441305,Claybrook sign,,clinical sign in which heart sounds and breath sounds can be heard transmitted through the abdominal wall on auscultation,,,,,,
+Q4675039,medical sign,医学的徴候,Q1441305,Acral necrosis,,medical condition,,,,,,C1443859
+Q5150993,medical sign,医学的徴候,Q1441305,Comby sign,,clinical sign of early measles,,,,,,
+Q5161173,medical sign,医学的徴候,Q1441305,Conjunctival suffusion,,conjunctivitis without exudate,,,,,,
+Q5171488,medical sign,医学的徴候,Q1441305,Cornell's sign,,clinical sign in which scratching along the inner side of the extensor hallucis longus tendon elicits an extensor plantar reflex,,,,,,
+Q1378430,medical sign,医学的徴候,Q1441305,Hegar's sign,,clinical sign indicative of pregnancy,,,,,,
+Q4419855,medical sign,医学的徴候,Q1441305,collar of Stokes,,,,,,,,C0265073
+Q1424050,medical sign,医学的徴候,Q1441305,sclerodactyly,,medical condition,,,L94.3,,,C0150988
+Q1419356,medical sign,医学的徴候,Q1441305,hyporeflexia,,phenotype,,,,,,C0700078
+Q890049,medical sign,医学的徴候,Q1441305,Body Condition Score,ボディコンディションスコア,semi-subjective numerical score for livestock fat deposition,,,,,,
+Q3731285,medical sign,医学的徴候,Q1441305,euthyroid,,clinical sign,,,,,,C0117002
+Q946041,medical sign,医学的徴候,Q1441305,hemiballismus,,"Rare, extreme form of the movement disorder chorea",,,G25.5,333.5,,C0221169
+Q767485,medical sign,医学的徴候,Q1441305,respiratory failure,呼吸不全,inadequate gas exchange by the respiratory system,,D012131,,,409622000,C0035229
+Q901433,medical sign,医学的徴候,Q1441305,uterine rupture,子宮破裂,"disruption of uterine wall, beyond 28 weeks of pregnancy",,D014597,O71.0,665.1,,C0042143
+Q847583,medical sign,医学的徴候,Q1441305,cardiomyopathy,心筋症,heart disease and a myopathy that is characterised by deterioration of the function of the heart muscle,,D009202,I42.042.0,425.4425.4,,C0033141
+Q1350459,medical sign,医学的徴候,Q1441305,Hitselberger's sign,,,,,,,,
+Q1384532,medical sign,医学的徴候,Q1441305,double malleoli sign,,,,,,,,
+Q1418383,medical sign,医学的徴候,Q1441305,Lanz point,,,,,,,,
+Q3491504,medical sign,医学的徴候,Q1441305,bruit,血管雑音,abnormal sound generated by turbulent flow of blood in an artery,,,R01.1,785.9,70466008,C0006318
+Q3591816,medical sign,医学的徴候,Q1441305,twilight state,朦朧状態,,,,,,,C0152124
+Q749881,medical sign,医学的徴候,Q1441305,pleocytosis,髄液細胞増加症,increased white blood cell count in cerebrospinal fluid,,,,,,C0151857
+Q4661777,medical sign,医学的徴候,Q1441305,Aaron's sign,,Referred pain in the epigastrium indicative of appendicitis,,,,,,
+Q2145982,medical sign,医学的徴候,Q1441305,residual urine,,,,,,,,
+Q4665122,medical sign,医学的徴候,Q1441305,abdominal mass,,medical condition,,,R19.0,789.3,,C0000734
+Q4348568,medical sign,医学的徴候,Q1441305,Peau d'orange,,anatomy with the texture of an orange peel,,,,,,
+Q953131,medical sign,医学的徴候,Q1441305,graphomania,,obsessive impulse to write,,,,,,
+Q3519053,medical sign,医学的徴候,Q1441305,Noble's test,,,,,,,,
+Q3538100,medical sign,医学的徴候,Q1441305,Traube's sign,,,,,,,,
+Q3542293,medical sign,医学的徴候,Q1441305,jugular venous distention,,,,,,,,
+Q3542219,medical sign,医学的徴候,Q1441305,typhoid state,,,,,,,,
+Q3563063,medical sign,医学的徴候,Q1441305,vomica,,,,,,,,
+Q3508657,medical sign,医学的徴候,Q1441305,König's syndrome,,"abdominal pain in relation to meals, constipation alternated with diarrhea, meteorism, gurgling sounds on auscultation, and abdominal distension",,,,,,C0267540
+Q4178170,medical sign,医学的徴候,Q1441305,feeling hot,,,,,,,,
+Q4393816,medical sign,医学的徴候,Q1441305,Zhukovsky-Kornilov reflex,,,,,,,,
+Q4419852,medical sign,医学的徴候,Q1441305,Spasokukotsky's sign,,,,,,,,
+Q4420115,medical sign,医学的徴候,Q1441305,Bumke pupil,,,,,,,,
+Q718113,medical sign,医学的徴候,Q1441305,weight loss,体重減少,reduction of the total body mass,,D015431,R63.4,783.21,,C1262477
+Q622427,medical sign,医学的徴候,Q1441305,ptosis,眼瞼下垂,eye disease characterized by the drooping or falling of the upper eyelid,,D001763,,,11934000,C0005745
+Q1391634,medical sign,医学的徴候,Q1441305,leonine facies,,dermatological symptom,,,,,,C0332603
+Q845971,medical sign,医学的徴候,Q1441305,Dalrymple's sign,,medical condition,,,,,,
+Q3954328,medical sign,医学的徴候,Q1441305,Higouménakis' sign,,medical condition,,,,,,
+Q3954329,medical sign,医学的徴候,Q1441305,Simmonds' test,,medical test,,,,,,
+Q913912,medical sign,医学的徴候,Q1441305,Von Graefe's sign,,medical condition,,,,,,
+Q4088082,medical sign,医学的徴候,Q1441305,blennorrhea,,clinical sign,,,,,,
+Q618708,medical sign,医学的徴候,Q1441305,Apley grind test,,test to evaluate the meniscus of the knee,,,,,,
+Q4117823,medical sign,医学的徴候,Q1441305,Pemberton's sign,,medical condition,,,,,,
+Q684277,medical sign,医学的徴候,Q1441305,Tullio phenomenon,,sound-induced vertigo,,,,,,C0349686
+Q4138757,medical sign,医学的徴候,Q1441305,skin hyperelasticity,,,ウィキメディアの曖昧さ回避ページ,,,,,C0241074
+Q2107924,medical sign,医学的徴候,Q1441305,Pratt's sign,,medical condition,,,,,,
+Q3508658,medical sign,医学的徴候,Q1441305,pregnancy related pelvic girdle pain,,medical condition,,D059388,,,,C0240682
+Q615759,medical sign,医学的徴候,Q1441305,hypercapnia,高炭酸ガス血症,abnormally high tissue carbon dioxide levels,,D006935,R06.8,786.09,,C0020440
+Q3954319,medical sign,医学的徴候,Q1441305,godet sign,,,,,,,,C0333243
+Q4406766,medical sign,医学的徴候,Q1441305,iridodonesis,,vibration or agitated motion of the iris,,,,,,
+Q3961948,medical sign,医学的徴候,Q1441305,Cardarelli's sign,,abnormal pulsation of the trachea,,,,,,
+Q3558534,medical sign,医学的徴候,Q1441305,lipiduria,,presence of lipids in the urine,,,,,,C0392178
+Q2142191,medical sign,医学的徴候,Q1441305,saddle anesthesia,,clinical sign,,,,,,
+Q3483673,medical sign,医学的徴候,Q1441305,Russell's sign,吐きだこ,abrasion on the knuckles or back of the hand due to repeated self-induced vomiting over long periods of time,,,,,,CL516054
+Q4383468,medical sign,医学的徴候,Q1441305,Lépine's sign,,medical condition,,,,,,
+Q3502587,medical sign,医学的徴候,Q1441305,subluxation of the hip,,Human phenotype,,,,,,C0434785
+Q4099570,medical sign,医学的徴候,Q1441305,Forchheimer spots,,symptom of rubella,,,,,,
+Q3734963,medical sign,医学的徴候,Q1441305,saltiness,塩味,basic taste,基本味のひとつ,,,,,
+Q4117925,medical sign,医学的徴候,Q1441305,Carvallo's sign,,clinical sign found in patients with tricuspid regurgitation,,,,,,
+Q4117788,medical sign,医学的徴候,Q1441305,lines of Zahn,,features on a thrombus,,,,,,
+Q4117832,medical sign,医学的徴候,Q1441305,Harrison's groove,,horizontal groove along the lower border of the thorax corresponding to the costal insertion of the diaphragm,,,,,,
+Q766632,medical sign,医学的徴候,Q1441305,Macewen's sign,,clinical sign indicative of hydrocephalus and brain abscesses,,,,,,
+Q3954320,medical sign,医学的徴候,Q1441305,Abrahams' sign,,tuberculosis diagnostic,,,,,,
+Q4241244,medical sign,医学的徴候,Q1441305,Charcot–Leyden crystals,,microscopic crystals composed of eosinophil protein galectin-10,,,,,,
+Q897134,medical sign,医学的徴候,Q1441305,bradykinesia,,clinical sign; slow movements,,,R25.8,781.0,,
+Q3498706,medical sign,医学的徴候,Q1441305,steppage gait,,type of gait abnormality where a foot which cannot be dorsiflexed normally is lifted higher than normal to avoid toe contact with the ground in swing phase,,,,,,
+Q3501949,medical sign,医学的徴候,Q1441305,tachypsychia,,a neurological condition that alters the perception of time,,,,,,
+Q3504821,medical sign,医学的徴候,Q1441305,Auspitz's sign,,appearance of punctate bleeding spots when psoriasis scales are scraped off,,,,,,
+Q3740640,medical sign,医学的徴候,Q1441305,fecaluria,糞尿症,clinical sign,尿中に便が混じること,,,,,C1167754
+Q1385528,medical sign,医学的徴候,Q1441305,Kocher's sign,,eyelid phenomenon in hyperthyroidism and Basedow's disease,,,,,,C0278218
+Q684383,medical sign,医学的徴候,Q1441305,exophthalmos,眼球突出,human disease,,D005094,,,,C0015300
+Q4243302,medical sign,医学的徴候,Q1441305,xanthochromia,キサントクロミー,medical condition,,,,,,C0863146
+Q3534628,medical sign,医学的徴候,Q1441305,Arneth count,,determination of the frequency of multi-lobed neutrophils,,,,,,
+Q631556,medical sign,医学的徴候,Q1441305,Kernig's sign,ケルニッヒ徴候,medical condition,,,,,,C0234178
+Q2184949,medical sign,医学的徴候,Q1441305,Bonnet's sign,,painful adduction,,,,,,
+Q3557657,medical sign,医学的徴候,Q1441305,social anxiety,,discomfort or a fear when a person is in social interactions,,,,,,
+Q649122,medical sign,医学的徴候,Q1441305,jugular venous pressure,頚静脈怒張,blood pressure in a vein of the neck,,,,,,
+Q2197023,medical sign,医学的徴候,Q1441305,graphesthesia,,precise cutaneous sensibility in the hand explored using a stylus,,,,,,
+Q7621668,medical sign,医学的徴候,Q1441305,Stransky's sign,ストランスキー反射,medical condition,,,,,,
+Q16909611,medical sign,医学的徴候,Q1441305,Fothergill's sign,,clinical sign indicative of a rectus sheath hematoma,,,,,,CL556661
+Q7433168,medical sign,医学的徴候,Q1441305,Schwartz sign,,diagnostic indicator for otosclerosis,,,,,,
+Q7632738,medical sign,医学的徴候,Q1441305,succussion splash,,medical sign,,,,,,
+Q5761726,medical sign,医学的徴候,Q1441305,Hildreth's sign,,medical condition,,,,,,
+Q7496277,medical sign,医学的徴候,Q1441305,shifting dullness,,medical sign,,,,,,C0277979
+Q6048048,medical sign,医学的徴候,Q1441305,obnubilation,意識混濁,impairment in the clarity of consciousness,,,,,,
+Q5311066,medical sign,医学的徴候,Q1441305,Du Bois sign,,shortened fifth finger in congenital syphilis,,,,,,C1842878
+Q5883601,medical sign,医学的徴候,Q1441305,Holmes rebound phenomenon,,reflex,,,,,,
+Q16884939,medical sign,医学的徴候,Q1441305,Stimson line,,medical condition,,,,,,
+Q7242107,medical sign,医学的徴候,Q1441305,late diastolic murmur,拡張後期雑音,Type of heart murmur,,,,,,C0232265
+Q16889765,medical sign,医学的徴候,Q1441305,Wimberger's ring sign,,medical condition,,,,,,
+Q16934951,medical sign,医学的徴候,Q1441305,shoulder pad sign,,medical condition,,,,,,
+Q7577100,medical sign,医学的徴候,Q1441305,Spiegelberg criteria,,diagnostic tool in gynocology,,,,,,
+Q12538660,medical sign,医学的徴候,Q1441305,gargoylism,,,,,,,,
+Q7579180,medical sign,医学的徴候,Q1441305,spooning,,clinical sign,,,,,,
+Q7487276,medical sign,医学的徴候,Q1441305,shallow breathing,胸式呼吸,"the drawing of minimal breath into the lungs, usually by drawing air into the chest area using the intercostal muscles rather than throughout the lungs via the diaphragm; can result in or be symptomatic of rapid breathing and hypoventilation",,,,,,C0221161
+Q7564092,medical sign,医学的徴候,Q1441305,souffle,,medical term,,,,,,
+Q16949811,medical sign,医学的徴候,Q1441305,cold sensitivity,冷え性,sensitivity to cold,,,,,,C0009269
+Q16844895,medical sign,医学的徴候,Q1441305,Borsari's sign,,dermatologic sign present in scarlet fever,,,,,,
+Q6044758,medical sign,医学的徴候,Q1441305,inter-ictal spiking,,clinical sign,,,,,,
+Q5194402,medical sign,医学的徴候,Q1441305,cup-to-disc ratio,,"ratio comparing the diameter of the ""cup"" portion of the optic disc with the disc's total diameter",,,,,,C3805911
+Q16256979,medical sign,医学的徴候,Q1441305,hot aches,,,,,,,,
+Q16948689,medical sign,医学的徴候,Q1441305,tumor budding,,,,,,,,C4049272
+Q16832342,medical sign,医学的徴候,Q1441305,scaphoid abdomen,,,,,,,,C0238532
+Q5272107,medical sign,医学的徴候,Q1441305,diastolic heart murmur,拡張期心雑音,aspect of heart function,,,,,,C0232262
+Q5883653,medical sign,医学的徴候,Q1441305,Holmes tremor,,,,,,,,
+Q6029017,medical sign,医学的徴候,Q1441305,pseudohematuria,,,,,,,,
+Q7370380,medical sign,医学的徴候,Q1441305,Roth's spot,ロート斑,medical condition,,,,,,C0240916
+Q7143005,medical sign,医学的徴候,Q1441305,Pastia's lines,パスティア線,medical condition,臨床徴候,,,,,
+Q7333828,medical sign,医学的徴候,Q1441305,Rigler's sign,,,,,,,,
+Q7451145,medical sign,医学的徴候,Q1441305,sensory trick,,,,,,,,
+Q12207256,medical sign,医学的徴候,Q1441305,Hutchinson's pupil,,clinical sign in which the pupil on the side of an intracranial mass lesion is dilated and unreactive to light,,,,,,
+Q7087362,medical sign,医学的徴候,Q1441305,Oliver's sign,,medical condition,,,,,,
+Q5922594,medical sign,医学的徴候,Q1441305,Howship–Romberg sign,,clinical sign indicative of obturator hernia,,,,,,
+Q16946165,medical sign,医学的徴候,Q1441305,Von Braun-Fernwald's sign,,clinical sign indicating pregnancy,,,,,,C0233186
+Q5958528,medical sign,医学的徴候,Q1441305,hyperprosexia,,abnormal state of attention,,,,,,
+Q7157210,medical sign,医学的徴候,Q1441305,Peabody's sign,,medical condition,,,,,,
+Q5208858,medical sign,医学的徴候,Q1441305,Dahl's sign,,medical condition,,,,,,
+Q7226212,medical sign,医学的徴候,Q1441305,polychromasia,,medical condition,,,,,,
+Q16961972,medical sign,医学的徴候,Q1441305,Arlt's line,アルルト線,medical condition,,,,,,
+Q7238779,medical sign,医学的徴候,Q1441305,Pratt Test,,medical diagnostic method,,,,,,
+Q5803863,medical sign,医学的徴候,Q1441305,penile discharge,,medical condition,,,R36,,,C0232861
+Q7260020,medical sign,医学的徴候,Q1441305,punctate epithelial erosions,,medical condition,,,,,,
+Q5282788,medical sign,医学的徴候,Q1441305,dissociated sensory loss,,medical condition,,,,,,
+Q5288581,medical sign,医学的徴候,Q1441305,Doi's sign,,medical condition,,,,,,
+Q7198355,medical sign,医学的徴候,Q1441305,Piskacek's sign,,indication of pregnancy,,,,,,C0233195
+Q7368701,medical sign,医学的徴候,Q1441305,rosette,,general symptoms and signs in medicine,,,,,,C0035863
+Q7303131,medical sign,医学的徴候,Q1441305,rectal discharge,,intermittent or continuous expression of liquid from the anus,,,R19.9,787.99,,C0221780
+Q16679262,medical sign,医学的徴候,Q1441305,human body temperature,人間の体温,typical temperature range found in humans,,D001832,,,,C0005904
+Q16946733,medical sign,医学的徴候,Q1441305,phacodonesis,,medical condition of the eyes,,,,,,
+Q7333163,medical sign,医学的徴候,Q1441305,Riesman's sign,,medical condition,,,,,,
+Q7367602,medical sign,医学的徴候,Q1441305,Rose's sign,,medical condition,,,,,,
+Q7622511,medical sign,医学的徴候,Q1441305,strawberry cervix,,medical sign,,,,,,C0238957
+Q7258310,medical sign,医学的徴候,Q1441305,puddle sign,,clinical sign,,,,,,C0426679
+Q7406307,medical sign,医学的徴候,Q1441305,Salus's sign,,medical condition,,,,,,
+Q5957960,medical sign,医学的徴候,Q1441305,hyperdynamic precordium,,medical condition,,,,,,C1142035
+Q7261489,medical sign,医学的徴候,Q1441305,purple urine bag syndrome,紫色採尿バッグ症候群,medical sign,,,,,,CL519275
+Q7259712,medical sign,医学的徴候,Q1441305,pulsus alternans,交互脈,medical condition,,,,,,C0232121
+Q7433358,medical sign,医学的徴候,Q1441305,Schüffner's dots,,clinical sign,,,,,,
+Q7495325,medical sign,医学的徴候,Q1441305,Sherren's triangle,,medical condition,,,,,,
+Q7502090,medical sign,医学的徴候,Q1441305,short stature,低身長,height of a human being which is below typical,,,E34.3,783.43,,C0349588
+Q7510747,medical sign,医学的徴候,Q1441305,Siegrist streaks,,medical condition,,,,,,
+Q5184921,medical sign,医学的徴候,Q1441305,Crichton-Browne sign,,clinical sign in which there is twitching of the outer margins of the eyes and mouth,,,,,,
+Q5190288,medical sign,医学的徴候,Q1441305,Cruveilhier–Baumgarten bruit,,clinical sign which can be found in Cruveilhier-Baumgarten disease,,,,,,
+Q5195243,medical sign,医学的徴候,Q1441305,Curschmann's spirals,,microscopic finding in the sputum of asthmatics,,,,,,
+Q7251508,medical sign,医学的徴候,Q1441305,protein toxicity,タンパク質毒性,buildup of metabolic waste due to kidney dysfunction,,,,,,
+Q7368603,medical sign,医学的徴候,Q1441305,Rosenstein's sign,ローゼンシュタイン徴候,medical condition,,,,,,
+Q5214983,medical sign,医学的徴候,Q1441305,Dance's sign,,clinical sign indicating intussusception,,,,,,
+Q7536963,medical sign,医学的徴候,Q1441305,skull bossing,,"protrusion of the bones of the skull, typically the forehead",,,,,,C0221354
+Q15840325,medical sign,医学的徴候,Q1441305,crown-to-root ratio,歯冠歯根比,"important consideration in the diagnosis, treatment planning and restoration of teeth",,,,,,
+Q7136025,medical sign,医学的徴候,Q1441305,parasternal heave,,impulse felt on physical examination of the heart and lower chest area,,,,,,
+Q7139836,medical sign,医学的徴候,Q1441305,Parrot's sign,,meningitis indicator,,,,,,
+Q5242624,medical sign,医学的徴候,Q1441305,Dawson's fingers,,diseases of the brain and spinal cord,,,,,,
+Q5277781,medical sign,医学的徴候,Q1441305,dimple sign,,dermatological sign,,,,,,
+Q7491270,medical sign,医学的徴候,Q1441305,shawl scrotum,,medical condition,,,,,,C1858539
+Q7545938,medical sign,医学的徴候,Q1441305,smoker's face,スモーカーズ・フェイス,clinical sign,,,,,,
+Q5315647,medical sign,医学的徴候,Q1441305,Dunphy's sign,,"abdominal pain upon coughing, indicative of appendicitis",,,,,,
+Q5359683,medical sign,医学的徴候,Q1441305,elevated alpha-fetoprotein,,state where Alpha-fetoprotein levels are outside of the reference range in the blood or amniotic fluid,,,R77.2,V28.1,,C4229245
+Q5608858,medical sign,医学的徴候,Q1441305,Griffith's sign,,medical condition,,,,,,
+Q5603561,medical sign,医学的徴候,Q1441305,green nails,,clinical sign,,,,,,
+Q14513217,medical sign,医学的徴候,Q1441305,hypouricemia,,medical condition,,,,,,C0221333
+Q5265303,medical sign,医学的徴候,Q1441305,Destot's sign,,clinical sign in which a superficial haematoma is seen above the inguinal ligament,,,,,,C2711608
+Q7319620,medical sign,医学的徴候,Q1441305,Reynolds' pentad,,collection of signs and symptoms suggesting the diagnosis obstructive ascending cholangitis,,,,,,
+Q5649195,medical sign,医学的徴候,Q1441305,Hannington-Kiff sign,,medical condition,,,,,,
+Q5681058,medical sign,医学的徴候,Q1441305,Hatchcock's sign,,clinical sign,,,,,,
+Q8038154,medical sign,医学的徴候,Q1441305,Wright's maneuver,,medical condition,,,,,,
+Q8036919,medical sign,医学的徴候,Q1441305,Woronoff's ring,,medical condition,,,,,,
+Q8029767,medical sign,医学的徴候,Q1441305,Wolf's isotopic response,,dermatological sign,,,,,,
+Q7918366,medical sign,医学的徴候,Q1441305,vegetation,,abnormal growth in medicine,,,,,264340003,C1285498
+Q7798325,medical sign,医学的徴候,Q1441305,Throckmorton's reflex,,medical condition,,,,,,
+Q7911552,medical sign,医学的徴候,Q1441305,valgus stress test,,medical diagnostic method,,,,,,
+Q7958962,medical sign,医学的徴候,Q1441305,Waddell's signs,,medical condition,,,,,,
+Q7903697,medical sign,医学的徴候,Q1441305,uveoparotitis,,medical condition,,,,,,C0042171
+Q7995623,medical sign,医学的徴候,Q1441305,white hand sign,,medical condition,,,,,,
+Q7705857,medical sign,医学的徴候,Q1441305,testicular nubbin,,,,,,,,
+Q7798315,medical sign,医学的徴候,Q1441305,throat irritation,喉の炎症,medical symptom,,,,,,C0700184
+Q7922940,medical sign,医学的徴候,Q1441305,vertiginous epilepsy,,infrequent seizure precursor,,,,,,C0422855
+Q7998674,medical sign,医学的徴候,Q1441305,widened mediastinum,,,,,,519.3,,
+Q7884476,medical sign,医学的徴候,Q1441305,palmar grasp reflex,,primitive and involuntary reflex,,,,,,
+Q7883430,medical sign,医学的徴候,Q1441305,underactive bladder,,bladder syndrome,,D000077295,,,,C0403644
+Q962069,medical sign,医学的徴候,Q1441305,Hoover's sign,,clinical sign indicative of COPD,,,,,,
+Q5445966,medical sign,医学的徴候,Q1441305,fetor,,unpleasant smell (in medical context),,,,,,C0683113
+Q5520794,medical sign,医学的徴候,Q1441305,Gandy–Gamna nodules,,,,,,,,C0333630
+Q5581422,medical sign,医学的徴候,Q1441305,Gonda's sign,ゴンダ反射,medical condition,,,,,,
+Q1077823,medical sign,医学的徴候,Q1441305,somnolence,睡眠欲,"state of strong desire for sleep, or sleeping for unusually long periods",睡眠に対する欲求,D000077260,R40.0,780.09,,C0013144
+Q6483778,medical sign,医学的徴候,Q1441305,Lancisi's sign,,clinical sign in which a large venous wave is visible in the jugular vein,,,,,,
+Q6489810,medical sign,医学的徴候,Q1441305,Larrey's sign,,clinical sign of sacroiliitis,,,,,,
+Q5580342,medical sign,医学的徴候,Q1441305,Goldstein's toe sign,,medical condition,,,,,,C1840069
+Q5586606,medical sign,医学的徴候,Q1441305,Gorlin sign,,ability to touch the tip of the nose with the tongue and touch the elbow with the tongue,,,,,,
+Q6797450,medical sign,医学的徴候,Q1441305,Mayne's sign,,medical condition,,,,,,
+Q6531780,medical sign,医学的徴候,Q1441305,leukocyturia,,,,,,,,C0555120
+Q6535650,medical sign,医学的徴候,Q1441305,Levine's sign,,clinical sign of ischemic chest pain,,,,,,
+Q5379401,medical sign,医学的徴候,Q1441305,enophthalmia,,eye that is more deeply recessed into the plane of the face than is typical,,,,,,C0423224
+Q6900535,medical sign,医学的徴候,Q1441305,Moniz sign,,medical condition,,,,,,
+Q5583341,medical sign,医学的徴候,Q1441305,Goodell's sign,,clinical sign indicating pregnancy,,,,,,C0233189
+Q7636091,medical sign,医学的徴候,Q1441305,Sulcus sign,,,,,,,,CL459090
+Q6995177,medical sign,医学的徴候,Q1441305,nephromegaly,,abnormally enlarged kidneys,,,,,,C0542518
+Q6857966,medical sign,医学的徴候,Q1441305,milk-rejection sign,,medical sign,,,,,,
+Q6936890,medical sign,医学的徴候,Q1441305,Munson's sign,,medical condition,,,,,,
+Q6933857,medical sign,医学的徴候,Q1441305,Mulder's sign,,clinical sign,,,,,,
+Q962598,medical sign,医学的徴候,Q1441305,Brushfield spots,,"small, white or grayish/brown spots on the periphery of the iris in the human eye",,,,,,
+Q6662235,medical sign,医学的徴候,Q1441305,Lloyd's sign,,,,,,,,
+Q6742929,medical sign,医学的徴候,Q1441305,male menstruation,,,,,,,,
+Q6884891,medical sign,医学的徴候,Q1441305,Mizuo–Nakamura phenomenon,,,,,,,,
+Q7029177,medical sign,医学的徴候,Q1441305,Nicoladoni sign,,,,,,,,
+Q6689880,medical sign,医学的徴候,Q1441305,Louvel's sign,,clinical sign found in patients with deep vein thrombosis,,,,,,
+Q6693283,medical sign,医学的徴候,Q1441305,Lowenberg's sign,,clinical sign found in patients with deep vein thrombosis of the lower leg,,,,,,
+Q6214648,medical sign,医学的徴候,Q1441305,Joffroy's sign,,medical condition,,,,,,
+Q6756952,medical sign,医学的徴候,Q1441305,marche à petit pas,,type of gait disorder,,,,,,
+Q780829,medical sign,医学的徴候,Q1441305,Austin Flint murmur,Austin Flint雑音,"low-pitched rumbling heart murmur which is best heard at the cardiac apex. It can be a mid-diastolic or presystolic murmur, associated with severe aortic regurgitation",,,,,,C0277912
+Q6806164,medical sign,医学的徴候,Q1441305,mediastinal lymphadenopathy,,medical condition involving enlarged lymph nodes,,,,,,
+Q6869195,medical sign,医学的徴候,Q1441305,minor physical anomaly,,type of congenital abnormality,,,,,,
+Q6902050,medical sign,医学的徴候,Q1441305,monotropism,,cognitive strategy in autism,,,,,,
+Q6940317,medical sign,医学的徴候,Q1441305,muscle fatigue,,loss of ability of a muscle to generate force,,D018763,,,,C0242979
+Q5438018,medical sign,医学的徴候,Q1441305,fatty streak,,visible lesion indicating atherosclerosis,,,,,,C0333484
+Q6648765,medical sign,医学的徴候,Q1441305,Litten's sign,,clinical sign of cotton wool spots indicative of infective endocarditis,,,,,,
+Q1060911,medical sign,医学的徴候,Q1441305,heart murmur,心雑音,heart sound produced when blood flows across one of the heart valves that are loud enough to be heard with a stethoscope,,D006337,,,,C0018808
+Q6469585,medical sign,医学的徴候,Q1441305,Ladin's sign,,clinical sign of pregnancy,,,,,,C0233192
+Q6118038,medical sign,医学的徴候,Q1441305,loss of motor control,,signs that usually precedes syncope during too long apnea,,,,,,
+Q6947902,medical sign,医学的徴候,Q1441305,myocardial disarray,,,,,,,,C3809297
+Q6950499,medical sign,医学的徴候,Q1441305,Müller's sign,,pulsation of the uvula during systole,,,,,,
+Q5442933,medical sign,医学的徴候,Q1441305,Femoral nerve stretch test,,medical diagnostic method,,,,,,
+Q6385898,medical sign,医学的徴候,Q1441305,Kelly's sign,,clinical sign,,,,,,
+Q6393625,medical sign,医学的徴候,Q1441305,keratinizing metaplasia,,medical condition,,,,,,
+Q6394299,medical sign,医学的徴候,Q1441305,Kerr's sign,,medical condition,,,,,,
+Q5593279,medical sign,医学的徴候,Q1441305,Graham Steell murmur,グレアム・スティール雑音,heart murmur typically associated with pulmonary regurgitation,典型的には肺逆流に関連する心雑音,,,,,C0277913
+Q6401972,medical sign,医学的徴候,Q1441305,Khodadoust line,,medical condition,,,,,,
+Q5503705,medical sign,医学的徴候,Q1441305,Friedreich's sign,,medical condition,,,,,,
+Q7074721,medical sign,医学的徴候,Q1441305,Ober's test,,Physical method to identify tightness of the iliotibial band,,,,,,
+Q7075571,medical sign,医学的徴候,Q1441305,Obturator sign,,indicator of irritation to the obturator internus muscle,,,,,,
+Q6545848,medical sign,医学的徴候,Q1441305,ligamentous laxity,,medical condition,,,M24.2,728.4,,C0158359
+Q6819872,medical sign,医学的徴候,Q1441305,mermaiding,マーメイディング,swimming  wearing a mermaid costume,,,,,,
+Q992274,medical sign,医学的徴候,Q1441305,Brudziński's sign,ブルジンスキー徴候,simple neurological reaction that can be used to test patients for meningitis,,,,,,C0234179
+Q1036662,medical sign,医学的徴候,Q1441305,hypokinesia,,movement disorder,,D018476,,,,C0233565
+Q783955,medical sign,医学的徴候,Q1441305,orthopnea,起坐呼吸,medical condition,,,R06.0,,,C0085619
+Q5279800,medical sign,医学的徴候,Q1441305,diplacusis,,hearing disorder whereby a single auditory stimulus is perceived as different pitches between ears,,,,,,
+Q5367474,medical sign,医学的徴候,Q1441305,Elschnig spots,,spots on the retina indicative of advanced hypertensive retinopathy,,,,,,
+Q6549082,medical sign,医学的徴候,Q1441305,Limbus sign,,clinical sign,,,,,,
+Q6360773,medical sign,医学的徴候,Q1441305,Kanavel's sign,,medical condition,,,,,,C0231673
+Q6558948,medical sign,医学的徴候,Q1441305,Lisker's sign,,medical condition,,,,,,
+Q5508760,medical sign,医学的徴候,Q1441305,functio laesa,,loss of function or disturbance of function,,,,,,C0231209
+Q5418927,medical sign,医学的徴候,Q1441305,Ewart's sign,,collection of clinical signs indicating pericardial effusion,,,,,,
+Q6425618,medical sign,医学的徴候,Q1441305,Koeppe's nodules,,nodules seen at the inner margin of the iris in patients with granulomatous anterior uveitis,,,,,,C0424840
+Q5476501,medical sign,医学的徴候,Q1441305,Fox's sign,,clinical sign in which bruising is seen over the inguinal ligament,,,,,,
+Q6759035,medical sign,医学的徴候,Q1441305,marfanoid,,human disease,,,,,,C0424617
+Q3813334,medical sign,医学的徴候,Q1441305,unilateral hearing loss,,hearing impairment,,D046088,H90.1,,,C0521785
+Q7663898,medical sign,医学的徴候,Q1441305,systolic heart murmur,収縮期心雑音,medical condition,,D054160,,,,C0232257
+Q136524911,medical sign,医学的徴候,Q1441305,Pizza palate,,A colloquial term for a thermal burn of the palatal mucosa caused by eating very hot pizza.,,,,,,
+Q55607658,medical sign,医学的徴候,Q1441305,cingulate island sign,,medical condition,,,,,,
+Q55634974,medical sign,医学的徴候,Q1441305,Terry Thomas sign,,medical condition,,,,,,
+Q29647501,medical sign,医学的徴候,Q1441305,joint hypermobility,,ability of a joint to move beyond its normal range of motion,,,,,,C3805543
+Q30066258,medical sign,医学的徴候,Q1441305,systolic ejection murmur,収縮期駆出性雑音,,,,,,,C0277910
+Q30066263,medical sign,医学的徴候,Q1441305,systolic regurgitant murmur,収縮期逆流性雑音,,,,,,,C0232258
+Q61679550,medical sign,医学的徴候,Q1441305,Steinberg sign,,clinical sign of Marfan disease,,,,,,
+Q30150541,medical sign,医学的徴候,Q1441305,flexion contracture of finger,,human phenotype,,,,,,C1857304
+Q97663637,medical sign,医学的徴候,Q1441305,cat's purr,,,,,,,,
+Q65051170,medical sign,医学的徴候,Q1441305,Jordans' anomaly,ジョルダンス異常,persistent vacuolation of white blood cells,,,,,,C0865268
+Q56153939,medical sign,医学的徴候,Q1441305,Guillain sign,,medical symptom,,,,,,
+Q30077039,medical sign,医学的徴候,Q1441305,early diastolic murmur,拡張早期雑音,,,,,,,C0232263
+Q30633204,medical sign,医学的徴候,Q1441305,gait deviations,,any variation of standard human gait,,,,,,C1096245
+Q104180249,medical sign,医学的徴候,Q1441305,Christchurch mutation,,APOE mutation that protects against Alzheimer's disease,,,,,,
+Q104180419,medical sign,医学的徴候,Q1441305,Medellín mutation,,mutation causing early-onset Alzheimer's disease,,,,,,
+Q54911543,medical sign,医学的徴候,Q1441305,hypertriglyceridemic waist,,screening phenotype,,D064250,,,,C3658248
+Q106975880,medical sign,医学的徴候,Q1441305,salivary gland swelling,,clinical sign,,,,,,
+Q94388233,medical sign,医学的徴候,Q1441305,convergence retraction nystagmus,,a type of nystagmus (reflex occular movements),,,,,,C2939429
+Q29643939,medical sign,医学的徴候,Q1441305,abnormality of retinal pigmentation,,human phenotype,,,,,,
+Q55224527,medical sign,医学的徴候,Q1441305,neuromuscular manifestations,,"signs and symptoms associated with diseases of the muscle, neuromuscular junction, or peripheral nerves",,D020879,,,,
+Q47461965,medical sign,医学的徴候,Q1441305,acromicria,,,,,,,,
+Q107215484,medical sign,医学的徴候,Q1441305,rocket sign,,clinical sign,,,,,,
+Q55834490,medical sign,医学的徴候,Q1441305,Stimson's triad,,symptoms of measles,,,,,,
+Q65083605,medical sign,医学的徴候,Q1441305,truncal ataxia,,"wide-based ""drunken sailor"" gait symptom",,,,,,C0427190
+Q107255477,medical sign,医学的徴候,Q1441305,applause sign,,clinical sign,,,,,,
+Q45816462,medical sign,医学的徴候,Q1441305,d'Espine sign,,Medical sign,,,,,,
+Q60791486,medical sign,医学的徴候,Q1441305,chronic cough,,long-term coughing,,D000096822,,,,C0010201
+Q107364124,medical sign,医学的徴候,Q1441305,Cowper’s sign,,clinical sign,,,,,,
+Q104868536,medical sign,医学的徴候,Q1441305,Zaki Biam Massacre,,Massacre,,,,,,
+Q30016719,medical sign,医学的徴候,Q1441305,behavioral abnormality,,"abnormality of mental functioning including various affective, behavioural, cognitive and perceptual abnormalities",,,,,,
+Q30016781,medical sign,医学的徴候,Q1441305,functional respiratory abnormality,,,,,,,,C4025677
+Q30077040,medical sign,医学的徴候,Q1441305,mid-diastolic murmur,拡張中期雑音,form of heart murmur,,,,,,C0232264
+Q104972132,medical sign,医学的徴候,Q1441305,Meyer sign,,"compressing the calf causes pain, unspecific sign for a deep lower limb thrombosis",,,,,,
+Q56245607,medical sign,医学的徴候,Q1441305,raspberry jelly stool,,symptom of diseases,,,,,,
+Q30077326,medical sign,医学的徴候,Q1441305,to-and-fro murmur,往復性雑音,concurrence of systolic and diastolic murmur,,,,,,C0277917
+Q55072861,medical sign,医学的徴候,Q1441305,pulsus celer,速脈,quickly rising and quickly falling pulse,,,,,,C1963948
+Q55223313,medical sign,医学的徴候,Q1441305,arthrogryposis,,persistent flexure or contracture of a joint,,D001176,,,,C0003886
+Q55072892,medical sign,医学的徴候,Q1441305,pulsus tardus,遅脈,slowly rising and slowly falling pulse,,,,,,C1963949
+Q60791118,medical sign,医学的徴候,Q1441305,allergic shiner,,dark discoloration below the eye that is associated with allergic rhinitis,,,,,,C1504524
+Q56635009,medical sign,医学的徴候,Q1441305,hydrophobia (sign),,medical symptom of rabies,,,,,,C1609481
+Q57823162,medical sign,医学的徴候,Q1441305,lightheadedness,立ちくらみ,common and typically unpleasant sensation of dizziness,,,R42,,,C0220870
+Q56281208,medical sign,医学的徴候,Q1441305,silk-glove sign,,,,,,,,
+Q96392254,medical sign,医学的徴候,Q1441305,Mathe's sign,,medical sign for perinephric abscess,,,,,,
+Q56343002,medical sign,医学的徴候,Q1441305,sandwich vertebrae,,,,,,,,
+Q55072830,medical sign,医学的徴候,Q1441305,pulsus magnus,大脈,,,,,,,C0425574
+Q54971930,medical sign,医学的徴候,Q1441305,motor tic,運動チック,,,,,,,C0751900
+Q54972184,medical sign,医学的徴候,Q1441305,complex tic,複雑チック,,,,,,,C3899516
+Q54971932,medical sign,医学的徴候,Q1441305,vocal tic,音声チック,,,,,,,C0751901
+Q54972182,medical sign,医学的徴候,Q1441305,simple tic,単純チック,,,,,,,C0278076
+Q60965113,medical sign,医学的徴候,Q1441305,hidrorrhea,,,,,,,,
+Q60982788,medical sign,医学的徴候,Q1441305,subepithelial corneal infiltrate,,,,,,,,
+Q30916949,medical sign,医学的徴候,Q1441305,Dittrich's plugs,,"foul-smelling masses of bacteria, granular debris and fatty acid crystals found in the sputum in fetid bronchitis and pulmonary gangrene",,,,,,
+Q30196917,medical sign,医学的徴候,Q1441305,abnormal pulse,異常脈拍,,,,,,,C0235472
+Q54973585,medical sign,医学的徴候,Q1441305,anatomical pathological condition,解剖学的病的状態,"abnormal structural condition of the human body, usually macroscopic, found in different diseases",,D020763,,,,C0752135
+Q55083281,medical sign,医学的徴候,Q1441305,multiple fracture,,injury involving the breaking of either several bones or one bone in two or more place,,D000069076,T02,,,C0016655
+Q65004135,medical sign,医学的徴候,Q1441305,Babinski-like response,,,,,,,,
+Q66650077,medical sign,医学的徴候,Q1441305,abnormal medical finding,,,,,R70-R99,,,
+Q50592854,medical sign,医学的徴候,Q1441305,absence of pain sensation,,,,,,,,C0344307
+Q55190262,medical sign,医学的徴候,Q1441305,echogenic bowel,,prenatal ultrasonography finding of excessively dense fetal bowel due to meconium buildup,,D058535,,,,C2936423
+Q60790715,medical sign,医学的徴候,Q1441305,Mickey Mouse sign,,Medical sign,,,,,,
+Q47248915,medical sign,医学的徴候,Q1441305,low cardiac output,,state of subnormal or depressed cardiac output at rest or during stress,,D002303,,,,C0007166
+Q85758082,medical sign,医学的徴候,Q1441305,Dysglycemia,,abnormality in blood glucose levels,,,,,,
+Q54926770,medical sign,医学的徴候,Q1441305,skin manifestation,,dermatologic disorder attendant upon non-dermatologic disease or injury,,D012877,,,,C0037285
+Q29642988,medical sign,医学的徴候,Q1441305,anteverted nares,,anteriorly-facing nostrils viewed with the head in the Frankfurt horizontal and the eyes of the observer level with the eyes of the subject. This gives the appearance of an upturned nose (upturned nasal tip),,,,,,C1840077
+Q29019862,medical sign,医学的徴候,Q1441305,small hand,,,,,,,,C0575802
+Q29188985,medical sign,医学的徴候,Q1441305,Lesage's symptom,,diagnostic sign in meningism,,,,,,
+Q29642619,medical sign,医学的徴候,Q1441305,decreased body weight,,reduction in existing body weight,,,,,,
+Q29019704,medical sign,医学的徴候,Q1441305,abnormal facial shape,,abnormal morphology (form) of the face or its components,,,,,,C4072832
+Q29019719,medical sign,医学的徴候,Q1441305,broad-based gait,,"abnormal gait pattern in which persons stand and walk with their feet spaced widely apart, often a component of cerebellar ataxia",,,,,,C0235000
+Q29019894,medical sign,医学的徴候,Q1441305,reduced tendon reflexes,,"diminution of tendon reflexes, which is an invariable sign of peripheral nerve disease",,,,,,C1866934
+Q29642554,medical sign,医学的徴候,Q1441305,facial hypotonia,,Reduced muscle tone of a muscle that is innervated by the facial nerve (the seventh cranial nerve).,,,,,,C1845251
+Q29642692,medical sign,医学的徴候,Q1441305,narrow face,,"bizygomatic (upper face) and bigonial (lower face) width are both more than 2 standard deviations below the mean (objective); or, an apparent reduction in the width of the upper and lower face (subjective)",,,,,,C1837463
+Q17120641,medical sign,医学的徴候,Q1441305,heat intolerance,熱不耐性,symptom characterized by feeling overheated in warm environments,周囲の温度上昇に適応できない症例,,,,,C0231274
+Q18395101,medical sign,医学的徴候,Q1441305,uremic frost,,crystallized urea deposits on skin,,,,,,C0333569
+Q21117411,medical sign,医学的徴候,Q1441305,liver change,肝臓の変化,,,,,,,
+Q21117395,medical sign,医学的徴候,Q1441305,thyroid changes,,,,,,,,C0421265
+Q21117549,medical sign,医学的徴候,Q1441305,smoky urine,,,,,,,,C0278034
+Q21119779,medical sign,医学的徴候,Q1441305,tongue discoloration,,,,,,,,C0151596
+Q28966602,medical sign,医学的徴候,Q1441305,Godelier's symptom,,diagnostic law in typhus,,,,,,
+Q28401932,medical sign,医学的徴候,Q1441305,right heart strain,,deformation of the right ventricle of the heart,,,,,,
+Q29017229,medical sign,医学的徴候,Q1441305,aberrant neuronal branching,,disordered pathophysiological process,,,,,,
+Q16989722,medical sign,医学的徴候,Q1441305,hyperspermia,精液過剰症,condition in which a male has an abnormally large ejaculate volume,,,,,,
+Q21128838,medical sign,医学的徴候,Q1441305,body weight change,体重変化,change (gain or loss) of human body weight,,D001836,,,,C0005911
+Q11832448,medical sign,医学的徴候,Q1441305,navel cancer,,"one of the so-called intrusion symptoms, suggesting cancer of the breast",,,,,,
+Q10509856,medical sign,医学的徴候,Q1441305,nuchal translucency,,,,,,,,
+Q21119945,medical sign,医学的徴候,Q1441305,pulsus parvus,小脈,,,,,,,C0232132
+Q4572480,medical sign,医学的徴候,Q1441305,1966 anti-Igbo pogrom,,series of massacres of Igbo people in Nigeria,,,,,,
+Q17046154,medical sign,医学的徴候,Q1441305,Corona phlebectatica,,medical condition,,,,,,
+Q11794722,medical sign,医学的徴候,Q1441305,Amoss' sign,,,,,,,,
+Q11794738,medical sign,医学的徴候,Q1441305,Gradenigo's sign,,,,,,,,
+Q11794741,medical sign,医学的徴候,Q1441305,Hill's sign,,,,,,,,
+Q11794790,medical sign,医学的徴候,Q1441305,fistula sign,,,,,,,,
+Q11794760,medical sign,医学的徴候,Q1441305,Neri's sign,,,,,,,,
+Q11796294,medical sign,医学的徴候,Q1441305,Trömner's reflex,,,,,,,,
+Q11297791,medical sign,医学的徴候,Q1441305,rage attack,キレる,fit of sudden anger,,,,,,
+Q10377933,medical sign,医学的徴候,Q1441305,heel pain,,,,,,,,C0231780
+Q28401087,medical sign,医学的徴候,Q1441305,carpopedal spasm,,spasm of the hands and feets,,,,,,C0231785
+Q21117528,medical sign,医学的徴候,Q1441305,spleen changes,,,,,,,,
+Q21118213,medical sign,医学的徴候,Q1441305,pulmonary secretions,,,,,,,,
+Q21118296,medical sign,医学的徴候,Q1441305,reduced pancreatic function,,,,,,,,
+Q21234788,medical sign,医学的徴候,Q1441305,enzymuria,,,,,,,,
+Q21112298,medical sign,医学的徴候,Q1441305,kidney changes,,medical sign,,,,,,CL968384
+Q28448428,medical sign,医学的徴候,Q1441305,non-blanching rash,,type of skin rash,,,,,,C1303033
+Q25101010,medical sign,医学的徴候,Q1441305,Canards sign,,,,,,,,
+Q25339425,medical sign,医学的徴候,Q1441305,Litten's sign,,,,,,,,
+Q25405829,medical sign,医学的徴候,Q1441305,Carman meniscus sign,,,,,,,,
+Q29019700,medical sign,医学的徴候,Q1441305,short foot,,foot that is unusually short,,,,,,C1848673
+Q25105126,medical sign,医学的徴候,Q1441305,Nixon's sign,,medical diagnostic method,,,,,,
+Q28136704,medical sign,医学的徴候,Q1441305,Uterine souffle,,,,,,,,
+Q25098595,medical sign,医学的徴候,Q1441305,lid lag,眼瞼遅滞,condition of the human eye,,,,,,C0234664
+Q19843207,medical sign,医学的徴候,Q1441305,Zaria Quds Massacres,,Attack on a Quds Day parade by the Nigerian military,,,,,,
+Q25339969,medical sign,医学的徴候,Q1441305,high frequency QRS,,medical diagnostic method,,,,,,
+Q25401977,medical sign,医学的徴候,Q1441305,Hutchinson's sign,,Vesicles on the tip of the nose,,,,,,
+Q25098742,medical sign,医学的徴候,Q1441305,Tobey–Ayer Test,,Medical test,,,,,,
+Q24068245,medical sign,医学的徴候,Q1441305,Rosenbach's sign,,topics referred to by the same term,,,,,,C0278225
+Q18968158,medical sign,医学的徴候,Q1441305,hyperemesis,,frequent vomiting,,,O21.0,643.0,,
+Q25104465,medical sign,医学的徴候,Q1441305,black stomach,,endoscopic finding of extensive black discolouration of the gastric mucosa,,,,,,
+Q28453824,medical sign,医学的徴候,Q1441305,Woltman sign,,medical condition,,,,,,
+Q28455492,medical sign,医学的徴候,Q1441305,Lincoln sign,,medical condition,,,,,,
+Q28456266,medical sign,医学的徴候,Q1441305,Procerus sign,,medical condition,,,,,,
+Q28468393,medical sign,医学的徴候,Q1441305,Padalka's symptom,,clinical symptom,,,,,,
+Q20707087,medical sign,医学的徴候,Q1441305,Coopernail sign,,medical condition,,,,,,
+Q20707244,medical sign,医学的徴候,Q1441305,Mallet-Guy's sign,,medical condition,,,,,,
+Q20707423,medical sign,医学的徴候,Q1441305,Alder's sign,,medical condition,,,,,,
+Q20707772,medical sign,医学的徴候,Q1441305,Aure-Rozanova's sign,,medical condition,,,,,,
+Q20707924,medical sign,医学的徴候,Q1441305,Bartomier-Michelson's sign,,medical condition,,,,,,
+Q20708204,medical sign,医学的徴候,Q1441305,Lockwood's sign,,medical condition,,,,,,
+Q20708024,medical sign,医学的徴候,Q1441305,heel tap sign,,clinical sign,,,,,,
+Q25409716,medical sign,医学的徴候,Q1441305,Popeye sign,,,,,,,,C0231654
+Q25433318,medical sign,医学的徴候,Q1441305,Krachmer's spots,,subepithelial infiltrates caused by  corneal graft rejection,,,,,,
+Q28130170,medical sign,医学的徴候,Q1441305,Pseudo-goitre,,apparent fullness of the front of the neck,,,,,,
+Q20706838,medical sign,医学的徴候,Q1441305,face of the giant panda sign,,characteristic medical sign in MRI images of patients with Wilson's disease,,,,,,
+Q25104108,medical sign,医学的徴候,Q1441305,Sampaolesi line,,clinical sign in eye examinations,,,,,,
+Q28540776,medical sign,医学的徴候,Q1441305,Chiari symptom,,medical clinical symptom in epidemic typhus,,,,,,
+Q23443038,medical sign,医学的徴候,Q1441305,Jellinek's sign,,,,,,,,C1274644

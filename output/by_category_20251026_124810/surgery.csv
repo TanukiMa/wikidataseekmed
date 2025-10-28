@@ -1,0 +1,11 @@
+﻿qid,category_en,category_ja,category_qid,en_label,ja_label,en_description,ja_description,mesh_id,icd10,icd9,snomed_id,umls_id
+Q576379,surgery,外科手術,Q796194,oxidase test,,microbiological and biochemical method for identification,,,,,,
+Q81476,surgery,外科手術,Q796194,endarterectomy,,surgical removal of the atheromatous plaque in an artery,,D004691,,,,
+Q1228381,surgery,外科手術,Q796194,Dische test,,chemical test,,,,,,
+Q615857,surgery,外科手術,Q796194,stapedectomy,アブミ骨切除術,surgical procedure of the middle ear performed to improve hearing,,D013201,,,,
+Q1116726,surgery,外科手術,Q796194,Drehmann sign,,orthopedicclinical test for hip joint,,,,,,
+Q818326,surgery,外科手術,Q796194,Benton Visual Retention Test,,medical diagnostic method,,,,,,
+Q196775,surgery,外科手術,Q796194,Zervikalabstrich,,German term: a medical procedure in the context of the gynecological examination,,,,,,
+Q32566,surgery,外科手術,Q796194,computed tomography,コンピュータ断層撮影,medical imaging procedure using X-rays to produce cross-sectional images,放射線を用いて、物体の内部をスライス画像化して観察できるようにする技術,D014057,,,,
+Q1036063,surgery,外科手術,Q796194,tone decay test,,"auditory nerve function assessment by measuring the ability to sustain hearing a continuous tone, aiding in detecting retrocochlear disorders",,,,,,
+Q897939,surgery,外科手術,Q796194,Myers-Briggs Type Indicator,MBTI,model of personality types,アメリカで提唱された、類型論に基づくパーソナリティ検査(性格検査）,,,,,

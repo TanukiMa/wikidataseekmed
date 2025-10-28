@@ -1,0 +1,11 @@
+﻿qid,category_en,category_ja,category_qid,en_label,ja_label,en_description,ja_description,mesh_id,icd10,icd9,snomed_id,umls_id
+Q200774,protein,タンパク質,Q8054,human follitropin,卵胞刺激ホルモン,gonadotropin that regulates the development of reproductive processes,性腺刺激ホルモンの一つ,D043373,,,,
+Q179145,protein,タンパク質,Q8054,chlorocruorin,クロロクルオリン,,呼吸色素のひとつ,,,,,
+Q83586,protein,タンパク質,Q8054,cholera toxin,コレラ毒素,protein complex secreted by the bacterium Vibrio cholerae,コレラ菌から分泌される毒素,D002772,,,,
+Q50250574,protein,タンパク質,Q8054,"p-S1387,S1423,S1524,S1547-BRCA1:p-T714,T734-BARD1 [nucleoplasm]",,instance of macromolecular complex in Homo sapiens with Reactome ID (R-HSA-5659852),,,,,,
+Q409796,protein,タンパク質,Q8054,Erythrocruorin,エリスロクルオリン,chemical compound,呼吸色素のひとつ,,,,,
+Q50177791,protein,タンパク質,Q8054,COLEC11 Oligomer [extracellular region],,instance of macromolecular complex in Homo sapiens with Reactome ID (R-HSA-2203470),,,,,,
+Q50177795,protein,タンパク質,Q8054,COLEC11:Ligand [extracellular region],,instance of macromolecular complex in Homo sapiens with Reactome ID (R-HSA-2203468),,,,,,
+Q50177792,protein,タンパク質,Q8054,COLEC11 Trimer [extracellular region],,instance of macromolecular complex in Homo sapiens with Reactome ID (R-HSA-2203476),,,,,,
+Q50177810,protein,タンパク質,Q8054,LDL [extracellular region],,instance of macromolecular complex in Homo sapiens with Reactome ID (R-HSA-171131),,,,,,
+Q50177802,protein,タンパク質,Q8054,Platelet glycoprotein IV:Ligand [plasma membrane],,instance of macromolecular complex in Homo sapiens with Reactome ID (R-HSA-2187250),,,,,,

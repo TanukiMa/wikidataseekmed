@@ -1,0 +1,11 @@
+﻿qid,category_en,category_ja,category_qid,en_label,ja_label,en_description,ja_description,mesh_id,icd10,icd9,snomed_id,umls_id
+Q3221044,medication,医薬品,Q12140,pharmaceutical preparation of nitroglycerin,ニトログリセリン,drug,,,,,,
+Q136222810,medication,医薬品,Q12140,Amarasate,,extract for appetite control,,,,,,
+Q106522112,medication,医薬品,Q12140,West China Hospital COVID-19 vaccine,,vaccine candidate against COVID-19,,,,,,
+Q27275212,medication,医薬品,Q12140,luseogliflozin,ルセオグリフロジン,chemical compound,,,,,,
+Q27277423,medication,医薬品,Q12140,bexagliflozin,,chemical compound,,,,,,
+Q27294103,medication,医薬品,Q12140,atigliflozin,,chemical compound,,,,,,
+Q27283562,medication,医薬品,Q12140,ipragliflozin L-proline,,chemical compound,,,,,,
+Q3772854,medication,医薬品,Q12140,Mercromina,,topical merbromin solution used as an antiseptic agent,,,,,,
+Q27279888,medication,医薬品,Q12140,lotilaner,,chemical compound,,,,,,
+Q1752431,medication,医薬品,Q12140,Dental dam (oral sex),,,,,,,,

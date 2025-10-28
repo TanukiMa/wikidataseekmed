@@ -1,0 +1,11 @@
+﻿qid,category_en,category_ja,category_qid,en_label,ja_label,en_description,ja_description,mesh_id,icd10,icd9,snomed_id,umls_id
+Q120022287,gene,遺伝子,Q7187,CDS:PFLU_0084-0,,Coding DNA sequence found in Pseudomonas fluorescens SBW25,,,,,,
+Q120022285,gene,遺伝子,Q7187,CDS:PFLU_0083-0,,Coding DNA sequence found in Pseudomonas fluorescens SBW25,,,,,,
+Q120022290,gene,遺伝子,Q7187,CDS:PFLU_0086-0,,Coding DNA sequence found in Pseudomonas fluorescens SBW25,,,,,,
+Q120022291,gene,遺伝子,Q7187,CDS:PFLU_0087-0,,Coding DNA sequence found in Pseudomonas fluorescens SBW25,,,,,,
+Q120022288,gene,遺伝子,Q7187,CDS:PFLU_0085-0,,Coding DNA sequence found in Pseudomonas fluorescens SBW25,,,,,,
+Q120022294,gene,遺伝子,Q7187,CDS:PFLU_0090-0,,Coding DNA sequence found in Pseudomonas fluorescens SBW25,,,,,,
+Q120022295,gene,遺伝子,Q7187,CDS:PFLU_0091-0,,Coding DNA sequence found in Pseudomonas fluorescens SBW25,,,,,,
+Q120022292,gene,遺伝子,Q7187,CDS:PFLU_0088-0,,Coding DNA sequence found in Pseudomonas fluorescens SBW25,,,,,,
+Q120022293,gene,遺伝子,Q7187,CDS:PFLU_0089-0,,Coding DNA sequence found in Pseudomonas fluorescens SBW25,,,,,,
+Q120022296,gene,遺伝子,Q7187,CDS:PFLU_0093-0,,Coding DNA sequence found in Pseudomonas fluorescens SBW25,,,,,,
