@@ -2,21 +2,14 @@ name: Build Wikidata Parquet (minimal fields)
 
 on:
   workflow_dispatch:
-    inputs:
-      mode:
-        description: "Download mode (stream recommended on Actions)"
-        required: false
-        default: "stream"
-        type: choice
-        options: [stream, aria2c]
 
 jobs:
   build-parquet:
-    name: Build Parquet (${{ inputs.mode }})
+    name: Build Parquet (python streaming)
     runs-on: ubuntu-24.04-arm
     timeout-minutes: 360
     concurrency:
-      group: wikidata-parquet-${{ github.ref }}-${{ inputs.mode }}
+      group: wikidata-parquet-${{ github.ref }}
       cancel-in-progress: false
 
     steps:
@@ -32,7 +25,7 @@ jobs:
       - name: Install system packages
         run: |
           sudo apt-get update -y
-          sudo apt-get install -y jq aria2 bzip2
+          sudo apt-get install -y bzip2
 
       - name: Install Python deps
         run: |
@@ -42,17 +35,11 @@ jobs:
 
       - name: Prepare directories
         run: |
-          mkdir -p v2/raw v2/work v2/parquet v2/logs
+          mkdir -p v2/parquet v2/logs
 
-      - name: Run streaming pipeline (curl+bzip2+jq)
-        if: inputs.mode == 'stream'
+      - name: Run python streaming pipeline
         run: |
           bash v2/setup_and_run.sh
-
-      - name: Run aria2c pipeline (multi-connection)
-        if: inputs.mode == 'aria2c'
-        run: |
-          bash v2/setup_and_run_aria2c.sh
 
       - name: Upload Parquet artifact
         uses: actions/upload-artifact@v4
