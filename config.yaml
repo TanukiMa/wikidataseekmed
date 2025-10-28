@@ -1,0 +1,187 @@
+# Wikidata Medical Terms Extractor Configuration
+# Query and rate limit configuration
+query:
+  timeout_sec: 60  # SPARQL endpoint times out around 60s
+rate_limit:
+  # WDQS guideline: be nice — stay at or below 1 QPS per client
+  min_interval_sec: 1.0  # minimum time between queries (default: 1 QPS)
+
+# Identify your tool per WDQS policy (include contact URL or email)
+user_agent:
+  name: "WikidataCategoryFinder/1.0"
+  contact: "mailto:you@example.com"  # or project URL
+
+
+# API Settings
+api:
+  endpoint: "https://query.wikidata.org/sparql"
+  user_agent: "MedicalTermsExtractor/1.0"
+  timeout: 600  # seconds (10 minutes)
+
+# Query Settings
+query:
+  batch_size: 100
+  max_retries: 5
+  max_empty_batches: 3
+  
+  # Wait times (seconds)
+  wait_between_categories: 2
+  wait_between_batches: 1
+  
+  # Retry backoff settings
+  retry_wait_base: 5
+  retry_wait_504_base: 10
+  retry_wait_network_base: 5
+  retry_wait_max: 600
+
+# Category Definitions (QID: English Name)
+categories:
+  small:
+    Q12136: "disease"
+    Q12140: "medication"
+    Q169872: "symptom"
+    Q796194: "surgery"
+    Q1059392: "medical test"
+  
+  medium:
+    Q12136: "disease"
+    Q12140: "medication"
+    Q169872: "symptom"
+    Q796194: "surgery"
+    Q1059392: "medical test"
+    Q8054: "protein"
+    Q7187: "gene"
+    Q4936952: "anatomical structure"
+    Q18123741: "infectious disease"
+    Q11173: "chemical compound"
+    Q2095549: "medical procedure"
+    Q10876: "bacteria"
+    Q808: "virus"
+    Q179661: "therapeutic agent"
+    Q12139612: "medical device"
+  
+  large:
+    Q12136: "disease"
+    Q18123741: "infectious disease"
+    Q929833: "rare disease"
+    Q18965518: "mental disorder"
+    Q18556609: "neurological disorder"
+    Q4936952: "anatomical structure"
+    Q24060765: "organ"
+    Q28845870: "tissue"
+    Q7644128: "cell type"
+    Q12140: "medication"
+    Q179661: "therapeutic agent"
+    Q128581: "antibiotic"
+    Q206159: "vaccine"
+    Q169872: "symptom"
+    Q1441305: "medical sign"
+    Q7187: "gene"
+    Q8054: "protein"
+    Q417841: "protein family"
+    Q11173: "chemical compound"
+    Q59199015: "enzyme"
+    Q178593: "hormone"
+    Q1059392: "medical test"
+    Q55788567: "medical imaging"
+    Q11190: "biomarker"
+    Q796194: "surgery"
+    Q2095549: "medical procedure"
+    Q10876: "bacteria"
+    Q808: "virus"
+    Q764: "fungus"
+    Q37763: "parasite"
+    Q12139612: "medical device"
+
+# Japanese translations
+category_names_ja:
+  disease: "病気"
+  medication: "医薬品"
+  symptom: "症状"
+  surgery: "外科手術"
+  medical test: "医学検査"
+  protein: "タンパク質"
+  gene: "遺伝子"
+  anatomical structure: "解剖学的構造"
+  infectious disease: "感染症"
+  chemical compound: "化学化合物"
+  medical procedure: "医療処置"
+  bacteria: "細菌"
+  virus: "ウイルス"
+  therapeutic agent: "治療薬"
+  medical device: "医療機器"
+  rare disease: "希少疾患"
+  mental disorder: "精神疾患"
+  neurological disorder: "神経疾患"
+  organ: "臓器"
+  tissue: "組織"
+  cell type: "細胞型"
+  antibiotic: "抗生物質"
+  vaccine: "ワクチン"
+  medical sign: "医学的徴候"
+  protein family: "タンパク質ファミリー"
+  enzyme: "酵素"
+  hormone: "ホルモン"
+  medical imaging: "画像診断"
+  biomarker: "バイオマーカー"
+  fungus: "真菌"
+  parasite: "寄生虫"
+
+# Medical keywords for category discovery
+medical_keywords:
+  - medical
+  - medicine
+  - health
+  - healthcare
+  - disease
+  - diseases
+  - drug
+  - medication
+  - pharmaceutical
+  - clinical
+  - hospital
+  - therapy
+  - treatment
+  - diagnosis
+  - diagnostic
+  - patient
+  - symptom
+  - syndrome
+  - pathology
+  - anatomy
+  - physiology
+  - surgery
+  - surgical
+  - procedure
+  - test
+  - screening
+  - gene
+  - genetic
+  - protein
+  - enzyme
+  - hormone
+  - bacteria
+  - bacterial
+  - virus
+  - viral
+  - infection
+  - infectious
+  - cancer
+  - tumor
+  - carcinoma
+  - disorder
+  - condition
+
+# Discovery Settings
+discovery:
+  default_limit: 100
+  max_limit: 500
+
+# Output Settings
+output:
+  directory: "output"
+  save_full_csv: true
+  save_bilingual_csv: true
+  save_category_csvs: true
+  save_json: true
+  save_report: true

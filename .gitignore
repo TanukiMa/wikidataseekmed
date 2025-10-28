@@ -1,0 +1,6 @@
+v2/raw/
+v2/work/
+v2/parquet/
+logs/
+*.parquet
+

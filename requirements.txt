@@ -1,0 +1,6 @@
+pandas
+SPARQLWrapper
+pyyaml
+wikidataintegrator
+pywikibot
+qwikidata
