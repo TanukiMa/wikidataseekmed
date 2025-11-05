@@ -150,31 +150,32 @@ class SPARQLQueryBuilder:
         offset = int(offset)
         
         query = f"""
-        SELECT DISTINCT ?item ?enLabel ?jaLabel ?enDescription ?jaDescription 
-               ?meshId ?icd10 ?icd9 ?snomedId ?umlsId
+        SELECT DISTINCT ?item ?enLabel ?jaLabel ?enDescription ?jaDescription
+               ?meshId ?icd10 ?icd11 ?icd9 ?snomedId ?umlsId
         WHERE {{
           ?item wdt:P31/wdt:P279* wd:{category_qid} .
-          
+
           ?item rdfs:label ?enLabel .
           FILTER(LANG(?enLabel) = "en")
-          
+
           OPTIONAL {{
             ?item rdfs:label ?jaLabel .
             FILTER(LANG(?jaLabel) = "ja")
           }}
-          
+
           OPTIONAL {{
             ?item schema:description ?enDescription .
             FILTER(LANG(?enDescription) = "en")
           }}
-          
+
           OPTIONAL {{
             ?item schema:description ?jaDescription .
             FILTER(LANG(?jaDescription) = "ja")
           }}
-          
+
           OPTIONAL {{ ?item wdt:P486 ?meshId }}
           OPTIONAL {{ ?item wdt:P494 ?icd10 }}
+          OPTIONAL {{ ?item wdt:P7807 ?icd11 }}
           OPTIONAL {{ ?item wdt:P493 ?icd9 }}
           OPTIONAL {{ ?item wdt:P5806 ?snomedId }}
           OPTIONAL {{ ?item wdt:P2892 ?umlsId }}
@@ -646,6 +647,7 @@ class MedicalTermsExtractor:
                         'ja_description': result.get('jaDescription', {}).get('value', ''),
                         'mesh_id': result.get('meshId', {}).get('value', ''),
                         'icd10': result.get('icd10', {}).get('value', ''),
+                        'icd11': result.get('icd11', {}).get('value', ''),
                         'icd9': result.get('icd9', {}).get('value', ''),
                         'snomed_id': result.get('snomedId', {}).get('value', ''),
                         'umls_id': result.get('umlsId', {}).get('value', ''),
@@ -840,6 +842,7 @@ class MedicalTermsExtractor:
         external_ids = [
             ('mesh_id', 'MeSH'),
             ('icd10', 'ICD-10'),
+            ('icd11', 'ICD-11'),
             ('icd9', 'ICD-9'),
             ('snomed_id', 'SNOMED CT'),
             ('umls_id', 'UMLS')
@@ -992,6 +995,7 @@ class MedicalTermsExtractor:
             external_ids = [
                 ('mesh_id', 'MeSH'),
                 ('icd10', 'ICD-10'),
+                ('icd11', 'ICD-11'),
                 ('snomed_id', 'SNOMED CT'),
                 ('umls_id', 'UMLS')
             ]
