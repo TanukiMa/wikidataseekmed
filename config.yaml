@@ -40,8 +40,13 @@ categories:
     Q12136: "disease"
     Q12140: "medication"
     Q169872: "symptom"
-    Q796194: "surgery"
-    Q1059392: "medical test"
+#    Q796194: "surgery"
+#    Q1059392: "medical test"
+    Q179630: "syndrome"
+    Q930752: "medical specialty"
+    Q16024164: "medical journal"
+    Q18123741: "infectious disease"
+    Q133805: "Epidemiology"
   
   medium:
     Q12136: "disease"
