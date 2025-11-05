@@ -816,8 +816,9 @@ class MedicalTermsExtractor:
         bilingual_df = df[(df['en_label'] != '') & (df['ja_label'] != '')].copy()
         if self.config.save_bilingual_csv and len(bilingual_df) > 0:
             bilingual_csv = output_dir / f"{prefix}_en_ja_pairs_api_{timestamp}.csv"
-            cols = ['en_label', 'ja_label', 'category_en', 'category_ja',
-                   'en_description', 'ja_description', 'qid']
+            cols = ['qid', 'en_label', 'ja_label', 'category_en', 'category_ja',
+                   'en_description', 'ja_description',
+                   'mesh_id', 'icd10', 'icd11', 'icd9', 'snomed_id', 'umls_id']
             bilingual_df[cols].to_csv(bilingual_csv, index=False, encoding='utf-8-sig')
             print(f"   EN-JA pairs: {bilingual_csv} ({len(bilingual_df)} pairs)")
             saved_files['bilingual_csv'] = bilingual_csv
@@ -856,8 +857,30 @@ class MedicalTermsExtractor:
             f.write(f"  SPARQL reduction: ~{self.stats.sparql_reduction_rate()}%\n\n")
 
             f.write("Language coverage:\n")
+            has_en = (df['en_label'].notna() & (df['en_label'] != '')).sum()
             has_ja = (df['ja_label'].notna() & (df['ja_label'] != '')).sum()
+            f.write(f"  English labels: {has_en} ({has_en/len(df)*100:.1f}%)\n")
             f.write(f"  Japanese labels: {has_ja} ({has_ja/len(df)*100:.1f}%)\n")
+            bilingual = len(df[(df['en_label'] != '') & (df['ja_label'] != '')])
+            f.write(f"  Bilingual pairs: {bilingual} ({bilingual/len(df)*100:.1f}%)\n\n")
+
+            f.write("External ID coverage:\n")
+            external_ids = [
+                ('mesh_id', 'MeSH'),
+                ('icd10', 'ICD-10'),
+                ('icd11', 'ICD-11'),
+                ('icd9', 'ICD-9'),
+                ('snomed_id', 'SNOMED CT'),
+                ('umls_id', 'UMLS')
+            ]
+            for col, name in external_ids:
+                count = (df[col].notna() & (df[col] != '')).sum()
+                pct = count / len(df) * 100 if len(df) > 0 else 0
+                f.write(f"  {name}: {count} ({pct:.1f}%)\n")
+
+            f.write("\nCategory breakdown:\n")
+            for category, count in df['category_en'].value_counts().items():
+                f.write(f"  {category}: {count} items\n")
 
 
 def parse_arguments() -> argparse.Namespace:
