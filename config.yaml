@@ -23,11 +23,12 @@ query:
   batch_size: 100
   max_retries: 5
   max_empty_batches: 3
-  
+
   # Wait times (seconds)
   wait_between_categories: 2
   wait_between_batches: 1
-  
+  wait_between_api_calls: 0.5  # Wait between Action API calls (be nice to server)
+
   # Retry backoff settings
   retry_wait_base: 5
   retry_wait_504_base: 10
@@ -181,6 +182,10 @@ medical_keywords:
 discovery:
   default_limit: 100
   max_limit: 500
+
+# Wikidata Action API Settings
+wikidata_api_url: "https://www.wikidata.org/w/api.php"
+api_batch_size: 50  # Max entities per API request (Wikidata limit)
 
 # Output Settings
 output:
