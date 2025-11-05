@@ -908,8 +908,9 @@ class MedicalTermsExtractor:
         bilingual_df = df[(df['en_label'] != '') & (df['ja_label'] != '')].copy()
         if self.config.save_bilingual_csv and len(bilingual_df) > 0:
             bilingual_csv = output_dir / f"{prefix}_en_ja_pairs_{timestamp}.csv"
-            cols_to_save = ['en_label', 'ja_label', 'category_en', 'category_ja', 
-                          'en_description', 'ja_description', 'qid']
+            cols_to_save = ['qid', 'en_label', 'ja_label', 'category_en', 'category_ja',
+                          'en_description', 'ja_description',
+                          'mesh_id', 'icd10', 'icd11', 'icd9', 'snomed_id', 'umls_id']
             bilingual_df[cols_to_save].to_csv(bilingual_csv, index=False, encoding='utf-8-sig')
             file_size_mb = bilingual_csv.stat().st_size / (1024 * 1024)
             print(f"   EN-JA pairs CSV: {bilingual_csv} ({len(bilingual_df)} pairs, {file_size_mb:.2f} MB)")
@@ -987,15 +988,19 @@ class MedicalTermsExtractor:
                 f.write(f"  {category} ({cat_ja}): {count}\n")
             
             f.write("\nLanguage coverage:\n")
+            has_en = (df['en_label'].notna() & (df['en_label'] != '')).sum()
             has_ja = (df['ja_label'].notna() & (df['ja_label'] != '')).sum()
+            en_pct = has_en / len(df) * 100 if len(df) > 0 else 0
             ja_pct = has_ja / len(df) * 100 if len(df) > 0 else 0
+            f.write(f"  English labels: {has_en} ({en_pct:.1f}%)\n")
             f.write(f"  Japanese labels: {has_ja} ({ja_pct:.1f}%)\n")
-            
+
             f.write("\nExternal ID coverage:\n")
             external_ids = [
                 ('mesh_id', 'MeSH'),
                 ('icd10', 'ICD-10'),
                 ('icd11', 'ICD-11'),
+                ('icd9', 'ICD-9'),
                 ('snomed_id', 'SNOMED CT'),
                 ('umls_id', 'UMLS')
             ]
