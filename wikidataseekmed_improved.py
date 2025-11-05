@@ -185,6 +185,26 @@ class SPARQLQueryBuilder:
         return query
     
     @staticmethod
+    def build_label_count_query(category_qid: str) -> str:
+        """Build a query that counts total items and those with EN/JA labels in the category tree"""
+        if not SPARQLQueryBuilder._is_valid_qid(category_qid):
+            raise ValueError(f"Invalid QID format: {category_qid}")
+        
+        query = f"""
+        SELECT (COUNT(*) AS ?total)
+               (SUM(IF(BOUND(?enLabel),1,0)) AS ?enCount)
+               (SUM(IF(BOUND(?jaLabel),1,0)) AS ?jaCount)
+        WHERE {{
+          SELECT ?item (SAMPLE(?en) AS ?enLabel) (SAMPLE(?ja) AS ?jaLabel) WHERE {{
+            ?item wdt:P31/wdt:P279* wd:{category_qid} .
+            OPTIONAL {{ ?item rdfs:label ?en FILTER(LANG(?en) = "en") }}
+            OPTIONAL {{ ?item rdfs:label ?ja FILTER(LANG(?ja) = "ja") }}
+          }} GROUP BY ?item
+        }}
+        """
+        return query
+    
+    @staticmethod
     def _sanitize_keyword(keyword: str) -> str:
         """Sanitize keyword to prevent SPARQL injection"""
         # Remove quotes and special characters
@@ -550,9 +570,23 @@ class MedicalTermsExtractor:
         query = SPARQLQueryBuilder.build_batch_query(category_qid, batch_size, offset)
         results = self.execute_sparql_with_retry(query, category_name, offset, batch_size)
         return results["results"]["bindings"]
+
+    def get_label_counts(self, category_qid: str) -> Tuple[int, int, int]:
+        """Return (total, en, ja) counts for items in the category graph"""
+        query = SPARQLQueryBuilder.build_label_count_query(category_qid)
+        results = self.execute_sparql_with_retry(query, category_qid, 0, 0)
+        b = results["results"]["bindings"]
+        if not b:
+            return (0, 0, 0)
+        total = int(b[0]["total"]["value"])
+        en = int(b[0]["enCount"]["value"])
+        ja = int(b[0]["jaCount"]["value"])
+        return (total, en, ja)
     
     def fetch_terms_by_category(self, category_qid: str, category_name_en: str, 
-                               limit: Optional[int] = None) -> List[Dict[str, str]]:
+                               limit: Optional[int] = None,
+                               target_lang: Optional[str] = None,
+                               target_min: Optional[int] = None) -> List[Dict[str, str]]:
         """Fetch medical terms from specified category with pagination"""
         category_name_ja = self.config.category_names_ja.get(category_name_en, category_name_en)
         
@@ -573,6 +607,8 @@ class MedicalTermsExtractor:
         effective_limit = limit if limit is not None else 1000000
         
         self.logger.info(f"Limit: {effective_limit}")
+        count_target = 0
+
         self.logger.info(f"Batch Size: {self.config.batch_size}")
         
         while offset < effective_limit:
@@ -615,6 +651,16 @@ class MedicalTermsExtractor:
                         'umls_id': result.get('umlsId', {}).get('value', ''),
                     }
                     all_terms.append(term)
+
+                    if target_lang == 'ja' and term['ja_label']:
+                        count_target += 1
+                    elif target_lang == 'en' and term['en_label']:
+                        count_target += 1
+
+                if target_lang and target_min and count_target >= target_min:
+                    print("\n  Target language threshold reached.")
+                    self.logger.info(f"Target language '{target_lang}' count reached: {count_target}")
+                    break
                 
                 if len(bindings) < current_batch_size:
                     print("\n  Last batch received.")
@@ -641,7 +687,9 @@ class MedicalTermsExtractor:
         return all_terms
     
     def extract_all(self, categories: Dict[str, str], 
-                   limit_per_category: Optional[int] = None) -> pd.DataFrame:
+                   limit_per_category: Optional[int] = None,
+                   target_lang: Optional[str] = None,
+                   target_min: Optional[int] = None) -> pd.DataFrame:
         """Extract medical terms from all categories"""
         all_terms = []
         
@@ -652,6 +700,16 @@ class MedicalTermsExtractor:
         else:
             print(f"Per category max: {limit_per_category} items")
         print(f"Batch size: {self.config.batch_size} items")
+        print("=" * 60)
+
+        # Show label counts per category first
+        print("\nLabel coverage per category (pre-check):")
+        for qid, name_en in categories.items():
+            try:
+                total, en, ja = self.get_label_counts(qid)
+                print(f"  - {name_en} ({qid}): total={total}, en={en}, ja={ja}")
+            except Exception as _:
+                print(f"  - {name_en} ({qid}): count failed")
         print("=" * 60)
         
         self.logger.info("")
@@ -667,7 +725,7 @@ class MedicalTermsExtractor:
             name_ja = self.config.category_names_ja.get(name_en, name_en)
             print(f"\n[{idx}/{len(categories)}] {name_en} ({name_ja})")
             
-            terms = self.fetch_terms_by_category(qid, name_en, limit_per_category)
+            terms = self.fetch_terms_by_category(qid, name_en, limit_per_category, target_lang=target_lang, target_min=target_min)
             all_terms.extend(terms)
             
             if idx < len(categories):
@@ -984,6 +1042,11 @@ Examples:
     parser.add_argument('--discover-limit', type=int, default=None,
                        help='Maximum categories to discover (default: from config)')
     
+    parser.add_argument('--count-only', action='store_true',
+                       help='Only show per-category label coverage counts and exit')
+    parser.add_argument('--target-lang', choices=['en','ja'], help='Stop when this language label count reaches --target-count')
+    parser.add_argument('--target-count', type=int, default=None, help='Threshold count to stop per category when --target-lang is set')
+
     return parser.parse_args()
 
 
@@ -1116,9 +1179,22 @@ def main() -> None:
     # Get categories to use
     categories = get_category_selection(args, config, discovered)
     
+    # Count-only mode: show per-category counts then exit
+    if args.count_only:
+        print("\nLabel coverage per category (count-only):")
+        for qid, name_en in categories.items():
+            try:
+                total, en, ja = extractor.get_label_counts(qid)
+                print(f"  - {name_en} ({qid}): total={total}, en={en}, ja={ja}")
+            except Exception as e:
+                print(f"  - {name_en} ({qid}): count failed ({e})")
+        print("=" * 60)
+        print("Count-only mode: done.")
+        return
+
     # Extract terms
     limit = None if args.limit == 0 else args.limit
-    df = extractor.extract_all(categories, limit_per_category=limit)
+    df = extractor.extract_all(categories, limit_per_category=limit, target_lang=args.target_lang, target_min=args.target_count)
     
     # Analyze quality
     bilingual_df = extractor.analyze_data_quality(df)
