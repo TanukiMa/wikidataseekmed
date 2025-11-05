@@ -218,6 +218,7 @@ class WikidataAPIClient:
             'ja_description': '',
             'mesh_id': '',
             'icd10': '',
+            'icd11': '',
             'icd9': '',
             'snomed_id': '',
             'umls_id': '',
@@ -248,6 +249,10 @@ class WikidataAPIClient:
             # ICD-10 (P494)
             if 'P494' in claims:
                 result['icd10'] = self._extract_claim_value(claims['P494'])
+
+            # ICD-11 (P7807)
+            if 'P7807' in claims:
+                result['icd11'] = self._extract_claim_value(claims['P7807'])
 
             # ICD-9 (P493)
             if 'P493' in claims:
@@ -772,6 +777,7 @@ class MedicalTermsExtractor:
         external_ids = [
             ('mesh_id', 'MeSH'),
             ('icd10', 'ICD-10'),
+            ('icd11', 'ICD-11'),
             ('icd9', 'ICD-9'),
             ('snomed_id', 'SNOMED CT'),
             ('umls_id', 'UMLS')
