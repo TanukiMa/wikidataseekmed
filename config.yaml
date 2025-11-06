@@ -102,13 +102,18 @@ categories:
 # Exclusion lists (optional) - exclude specific sub-categories from results
 # Format: category_qid: [list_of_qids_to_exclude]
 # Example: Exclude non-human diseases from infectious disease category
+# NOTE: Use actual Wikidata class QIDs, NOT Wikimedia category pages
+#       Q9578807 is a category page (P31: Q4167836) and won't work
+#       Use Q9190427 (animal disease) and Q4740894 (fish disease) instead
 exclude_qids:
   Q18123741:  # infectious disease
-#    - Q18965518  # mental disorder (if needed)
-    - Q9578807
+    - Q9190427  # animal disease (non-human animals) - replaces Q9578807
+    - Q4740894  # fish disease (excludes 奄美クドア症 etc.)
+    # - Q18965518  # mental disorder (if needed)
     # Add more QIDs to exclude from infectious disease
-  # Q12136:  # disease
-  #   - Q5  # human (example - exclude items that are instances of human)
+  Q12136:  # disease
+    - Q9190427  # animal disease (non-human animals)
+    - Q4740894  # fish disease
   # Add more category-specific exclusions as needed
 
 # Japanese translations
