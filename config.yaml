@@ -99,6 +99,17 @@ categories:
     Q37763: "parasite"
     Q12139612: "medical device"
 
+# Exclusion lists (optional) - exclude specific sub-categories from results
+# Format: category_qid: [list_of_qids_to_exclude]
+# Example: Exclude non-human diseases from infectious disease category
+exclude_qids:
+  Q18123741:  # infectious disease
+    - Q18965518  # mental disorder (if needed)
+    # Add more QIDs to exclude from infectious disease
+  # Q12136:  # disease
+  #   - Q5  # human (example - exclude items that are instances of human)
+  # Add more category-specific exclusions as needed
+
 # Japanese translations
 category_names_ja:
   disease: "病気"
