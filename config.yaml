@@ -105,6 +105,7 @@ categories:
 exclude_qids:
   Q18123741:  # infectious disease
     - Q18965518  # mental disorder (if needed)
+    - Q9578807
     # Add more QIDs to exclude from infectious disease
   # Q12136:  # disease
   #   - Q5  # human (example - exclude items that are instances of human)
