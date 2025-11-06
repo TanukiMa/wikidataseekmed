@@ -1,0 +1,125 @@
+name: Generate Japanese Labels with LLMs
+
+on:
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: 'Maximum number of terms to translate (leave empty for all)'
+        required: false
+        type: string
+      models:
+        description: 'LLM models to use (space-separated)'
+        required: false
+        default: 'meta-llama/Meta-Llama-3-8B-Instruct mistralai/Mistral-7B-Instruct-v0.3 google/gemma-2-9b-it'
+        type: string
+      apply_strategy:
+        description: 'Strategy for applying translations'
+        required: true
+        default: 'voting'
+        type: choice
+        options:
+          - voting
+          - consensus
+          - confidence
+      min_consensus:
+        description: 'Minimum models that must agree (for consensus strategy)'
+        required: false
+        default: '2'
+        type: string
+      dry_run:
+        description: 'Dry run (generate but do not apply)'
+        required: false
+        default: false
+        type: boolean
+
+jobs:
+  generate-labels:
+    name: Generate Japanese Labels
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          pip install huggingface_hub
+
+      - name: Generate translations with LLMs
+        run: |
+          LIMIT="${{ github.event.inputs.limit }}"
+          MODELS="${{ github.event.inputs.models }}"
+
+          echo "Generating Japanese translations..."
+          echo "Models: $MODELS"
+          if [ -n "$LIMIT" ]; then
+            echo "Limit: $LIMIT terms"
+            python generate_ja_labels_with_llm.py --limit $LIMIT --models $MODELS
+          else
+            echo "Processing all terms without Japanese labels"
+            python generate_ja_labels_with_llm.py --models $MODELS
+          fi
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
+          PYTHONUNBUFFERED: 1
+
+      - name: Apply translations to medical_terms
+        if: ${{ github.event.inputs.dry_run != 'true' }}
+        run: |
+          STRATEGY="${{ github.event.inputs.apply_strategy }}"
+          MIN_CONSENSUS="${{ github.event.inputs.min_consensus || '2' }}"
+          LIMIT="${{ github.event.inputs.limit }}"
+
+          echo "Applying translations with strategy: $STRATEGY"
+
+          if [ -n "$LIMIT" ]; then
+            python apply_llm_translations.py \
+              --strategy $STRATEGY \
+              --min-consensus $MIN_CONSENSUS \
+              --limit $LIMIT
+          else
+            python apply_llm_translations.py \
+              --strategy $STRATEGY \
+              --min-consensus $MIN_CONSENSUS
+          fi
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
+          PYTHONUNBUFFERED: 1
+
+      - name: Dry run report
+        if: ${{ github.event.inputs.dry_run == 'true' }}
+        run: |
+          STRATEGY="${{ github.event.inputs.apply_strategy }}"
+          MIN_CONSENSUS="${{ github.event.inputs.min_consensus || '2' }}"
+          LIMIT="${{ github.event.inputs.limit }}"
+
+          echo "DRY RUN: Showing what would be applied..."
+
+          if [ -n "$LIMIT" ]; then
+            python apply_llm_translations.py \
+              --strategy $STRATEGY \
+              --min-consensus $MIN_CONSENSUS \
+              --limit $LIMIT \
+              --dry-run
+          else
+            python apply_llm_translations.py \
+              --strategy $STRATEGY \
+              --min-consensus $MIN_CONSENSUS \
+              --dry-run
+          fi
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
+          PYTHONUNBUFFERED: 1
