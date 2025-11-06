@@ -313,6 +313,8 @@ class SPARQLQueryBuilder:
         """
         Build query to get QID list only (no labels/descriptions)
         This is much faster than fetching all data via SPARQL
+
+        Note: Requires English label to ensure consistency with original version
         """
         if not SPARQLQueryBuilder._is_valid_qid(category_qid):
             raise ValueError(f"Invalid QID format: {category_qid}")
@@ -320,6 +322,8 @@ class SPARQLQueryBuilder:
         query = f"""
         SELECT DISTINCT ?item WHERE {{
           ?item wdt:P31/wdt:P279* wd:{category_qid} .
+          ?item rdfs:label ?enLabel .
+          FILTER(LANG(?enLabel) = "en")
         }}
         LIMIT {int(batch_size)}
         OFFSET {int(offset)}
@@ -766,11 +770,25 @@ class MedicalTermsExtractor:
         print(f"   English labels: {has_en} ({en_pct:.1f}%)")
         print(f"   Japanese labels: {has_ja} ({ja_pct:.1f}%)")
 
+        # Detailed breakdown
+        en_only = len(df[(df['en_label'] != '') & (df['ja_label'] == '')])
+        ja_only = len(df[(df['en_label'] == '') & (df['ja_label'] != '')])
+        both = len(df[(df['en_label'] != '') & (df['ja_label'] != '')])
+        neither = len(df[(df['en_label'] == '') & (df['ja_label'] == '')])
+
+        print("\n3. Label Pattern Breakdown:")
+        print(f"   English only: {en_only} ({en_only/len(df)*100:.1f}%)")
+        print(f"   Japanese only: {ja_only} ({ja_only/len(df)*100:.1f}%)")
+        print(f"   Both (bilingual): {both} ({both/len(df)*100:.1f}%)")
+        print(f"   Neither: {neither} ({neither/len(df)*100:.1f}%)")
+
+        if ja_only > 0:
+            print(f"\n   ⚠️  Warning: {ja_only} items have Japanese label but no English label")
+        if neither > 0:
+            print(f"   ⚠️  Warning: {neither} items have no labels at all")
+
         # Bilingual pairs
-        print("\n3. Bilingual Pairs:")
         bilingual = df[(df['en_label'] != '') & (df['ja_label'] != '')]
-        bi_pct = len(bilingual) / len(df) * 100
-        print(f"   EN-JA pairs: {len(bilingual)} ({bi_pct:.1f}%)")
 
         # External IDs
         print("\n4. External ID Coverage:")

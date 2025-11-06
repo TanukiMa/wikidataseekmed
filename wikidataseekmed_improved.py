@@ -819,26 +819,45 @@ class MedicalTermsExtractor:
         print("\n2. Language Coverage:")
         has_en = (df['en_label'].notna() & (df['en_label'] != '')).sum()
         has_ja = (df['ja_label'].notna() & (df['ja_label'] != '')).sum()
-        
+
         en_pct = has_en / len(df) * 100
         ja_pct = has_ja / len(df) * 100
-        
+
         print(f"   English labels: {has_en} ({en_pct:.1f}%)")
         print(f"   Japanese labels: {has_ja} ({ja_pct:.1f}%)")
-        
+
         self.logger.info(f"English Labels: {has_en} ({en_pct:.1f}%)")
         self.logger.info(f"Japanese Labels: {has_ja} ({ja_pct:.1f}%)")
+
+        # Detailed breakdown
+        en_only = len(df[(df['en_label'] != '') & (df['ja_label'] == '')])
+        ja_only = len(df[(df['en_label'] == '') & (df['ja_label'] != '')])
+        both = len(df[(df['en_label'] != '') & (df['ja_label'] != '')])
+        neither = len(df[(df['en_label'] == '') & (df['ja_label'] == '')])
+
+        print("\n3. Label Pattern Breakdown:")
+        print(f"   English only: {en_only} ({en_only/len(df)*100:.1f}%)")
+        print(f"   Japanese only: {ja_only} ({ja_only/len(df)*100:.1f}%)")
+        print(f"   Both (bilingual): {both} ({both/len(df)*100:.1f}%)")
+        print(f"   Neither: {neither} ({neither/len(df)*100:.1f}%)")
+
+        if ja_only > 0:
+            print(f"\n   ⚠️  Warning: {ja_only} items have Japanese label but no English label")
+            print(f"      This should not happen with SPARQL version (EN label is required)")
+        if neither > 0:
+            print(f"   ⚠️  Warning: {neither} items have no labels at all")
+            print(f"      This should not happen with SPARQL version (EN label is required)")
         
         # Description coverage
-        print("\n3. Description Coverage:")
+        print("\n4. Description Coverage:")
         has_en_desc = (df['en_description'].notna() & (df['en_description'] != '')).sum()
         has_ja_desc = (df['ja_description'].notna() & (df['ja_description'] != '')).sum()
-        
+
         print(f"   English descriptions: {has_en_desc} ({has_en_desc/len(df)*100:.1f}%)")
         print(f"   Japanese descriptions: {has_ja_desc} ({has_ja_desc/len(df)*100:.1f}%)")
-        
+
         # External ID coverage
-        print("\n4. External ID Coverage:")
+        print("\n5. External ID Coverage:")
         external_ids = [
             ('mesh_id', 'MeSH'),
             ('icd10', 'ICD-10'),
@@ -847,15 +866,15 @@ class MedicalTermsExtractor:
             ('snomed_id', 'SNOMED CT'),
             ('umls_id', 'UMLS')
         ]
-        
+
         for col, name in external_ids:
             count = (df[col].notna() & (df[col] != '')).sum()
             pct = count / len(df) * 100
             print(f"   {name}: {count} ({pct:.1f}%)")
             self.logger.info(f"{name}: {count} ({pct:.1f}%)")
-        
+
         # Category breakdown
-        print("\n5. Items by Category:")
+        print("\n6. Items by Category:")
         self.logger.info("")
         self.logger.info("Category Breakdown:")
         category_counts = df['category_en'].value_counts().sort_values(ascending=False)
@@ -865,14 +884,9 @@ class MedicalTermsExtractor:
             print(f"   {category} ({cat_ja}): {count}")
             self.logger.info(f"  {category}: {count}")
         
-        # Bilingual pairs
-        print("\n6. English-Japanese Pairs:")
+        # Bilingual pairs (already shown in section 3)
         bilingual = df[(df['en_label'] != '') & (df['ja_label'] != '')]
-        bi_pct = len(bilingual) / len(df) * 100
-        
-        print(f"   Bilingual pairs: {len(bilingual)} ({bi_pct:.1f}%)")
-        self.logger.info(f"Bilingual Pairs: {len(bilingual)} ({bi_pct:.1f}%)")
-        
+
         print("\n" + "=" * 60 + "\n")
         self.logger.info("=" * 60)
         
