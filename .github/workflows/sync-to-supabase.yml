@@ -1,0 +1,116 @@
+name: Sync Medical Terms to Supabase
+
+on:
+  workflow_dispatch:
+    inputs:
+      size:
+        description: 'Dataset size'
+        required: true
+        default: 'small'
+        type: choice
+        options:
+          - small
+          - medium
+          - large
+      limit:
+        description: 'Limit number of terms (optional, leave empty for all)'
+        required: false
+        type: string
+  schedule:
+    # Run weekly on Sunday at 00:00 UTC
+    - cron: '0 0 * * 0'
+
+jobs:
+  sync-to-supabase:
+    name: Fetch and Upload to Supabase
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          pip install supabase
+
+      - name: Create output directory
+        run: mkdir -p output
+
+      - name: Fetch medical terms from Wikidata
+        run: |
+          SIZE="${{ github.event.inputs.size || 'small' }}"
+          LIMIT="${{ github.event.inputs.limit }}"
+
+          echo "Fetching medical terms (size: $SIZE)"
+
+          if [ -n "$LIMIT" ]; then
+            python wikidataseekmed_api_optimized.py --$SIZE --limit $LIMIT
+          else
+            python wikidataseekmed_api_optimized.py --$SIZE
+          fi
+        env:
+          PYTHONUNBUFFERED: 1
+
+      - name: List generated files
+        run: |
+          echo "Generated files:"
+          ls -lh output/
+
+      - name: Find latest CSV file
+        id: find_csv
+        run: |
+          # Find the most recent bilingual CSV file
+          LATEST_CSV=$(ls -t output/*_en_ja_pairs_*.csv 2>/dev/null | head -1)
+
+          if [ -z "$LATEST_CSV" ]; then
+            echo "No bilingual CSV file found, trying full CSV..."
+            LATEST_CSV=$(ls -t output/*_full_*.csv 2>/dev/null | head -1)
+          fi
+
+          if [ -z "$LATEST_CSV" ]; then
+            echo "Error: No CSV file found in output directory"
+            exit 1
+          fi
+
+          echo "csv_file=$LATEST_CSV" >> $GITHUB_OUTPUT
+          echo "Using CSV file: $LATEST_CSV"
+
+      - name: Upload to Supabase
+        run: |
+          CSV_FILE="${{ steps.find_csv.outputs.csv_file }}"
+          echo "Uploading $CSV_FILE to Supabase..."
+
+          python upsert_to_supabase.py "$CSV_FILE" \
+            --batch-size 100 \
+            --table-name medical_terms
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}
+
+      - name: Upload CSV artifact (for debugging)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: medical-terms-csv-${{ github.run_id }}
+          path: output/*.csv
+          retention-days: 7
+
+      - name: Upload logs artifact (for debugging)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: sync-logs-${{ github.run_id }}
+          path: |
+            output/*.txt
+            output/*.log
+          retention-days: 7
+          if-no-files-found: ignore

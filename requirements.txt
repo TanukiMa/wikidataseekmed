@@ -4,3 +4,4 @@ PyYAML
 Requests
 SPARQLWrapper
 urllib3
+supabase>=2.0.0
