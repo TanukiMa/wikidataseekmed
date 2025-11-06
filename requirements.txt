@@ -5,3 +5,4 @@ Requests
 SPARQLWrapper
 urllib3
 supabase>=2.0.0
+huggingface_hub>=0.20.0
