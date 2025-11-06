@@ -87,11 +87,13 @@ jobs:
       - name: Upload to Supabase
         run: |
           CSV_FILE="${{ steps.find_csv.outputs.csv_file }}"
+          SIZE="${{ github.event.inputs.size || 'small' }}"
           echo "Uploading $CSV_FILE to Supabase..."
 
           python upsert_to_supabase.py "$CSV_FILE" \
             --batch-size 100 \
-            --table-name medical_terms
+            --table-name medical_terms \
+            --dataset-size "$SIZE"
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_KEY: ${{ secrets.SUPABASE_KEY }}

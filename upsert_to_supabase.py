@@ -42,6 +42,8 @@ class SupabaseUploader:
 
         self.client: Client = create_client(supabase_url, supabase_key)
         self.table_name = "medical_terms"
+        self.sync_history_table = "sync_history"
+        self.current_sync_id: Optional[int] = None
         logger.info(f"Connected to Supabase: {supabase_url}")
 
     def load_data_from_json(self, json_path: str) -> List[Dict[str, Any]]:
@@ -217,6 +219,84 @@ class SupabaseUploader:
             logger.error(f"Could not fetch table info: {e}")
             return None
 
+    def create_sync_record(self, source_file: str, dataset_size: Optional[str] = None) -> Optional[int]:
+        """
+        Create a new sync_history record
+
+        Args:
+            source_file: Path to source CSV/JSON file
+            dataset_size: Dataset size (small, medium, large)
+
+        Returns:
+            sync_history ID or None if failed
+        """
+        try:
+            sync_data = {
+                'status': 'running',
+                'source_file': Path(source_file).name,
+                'dataset_size': dataset_size,
+                'execution_environment': os.getenv('GITHUB_ACTIONS') == 'true' and 'github_actions' or 'local',
+                'github_run_id': os.getenv('GITHUB_RUN_ID'),
+                'github_actor': os.getenv('GITHUB_ACTOR'),
+            }
+
+            response = self.client.table(self.sync_history_table).insert(sync_data).execute()
+
+            if response.data and len(response.data) > 0:
+                sync_id = response.data[0]['id']
+                self.current_sync_id = sync_id
+                logger.info(f"Created sync_history record: ID={sync_id}")
+                return sync_id
+            else:
+                logger.warning("Failed to create sync_history record")
+                return None
+
+        except Exception as e:
+            logger.error(f"Could not create sync_history record: {e}")
+            return None
+
+    def update_sync_record(
+        self,
+        sync_id: int,
+        status: str,
+        total_records: int,
+        records_inserted: int = 0,
+        records_updated: int = 0,
+        records_failed: int = 0,
+        error_message: Optional[str] = None
+    ):
+        """
+        Update sync_history record with completion status
+
+        Args:
+            sync_id: sync_history record ID
+            status: Final status (completed, failed)
+            total_records: Total number of records processed
+            records_inserted: Number of records inserted
+            records_updated: Number of records updated
+            records_failed: Number of records that failed
+            error_message: Error message if failed
+        """
+        try:
+            update_data = {
+                'status': status,
+                'sync_completed_at': 'now()',
+                'total_records': total_records,
+                'records_inserted': records_inserted,
+                'records_updated': records_updated,
+                'records_failed': records_failed,
+            }
+
+            if error_message:
+                update_data['error_message'] = error_message
+
+            self.client.table(self.sync_history_table).update(update_data).eq('id', sync_id).execute()
+
+            logger.info(f"Updated sync_history record: ID={sync_id}, status={status}")
+
+        except Exception as e:
+            logger.error(f"Could not update sync_history record: {e}")
+
 
 def main():
     """Main function"""
@@ -242,6 +322,11 @@ def main():
         '--dry-run',
         action='store_true',
         help='Load and validate data without uploading'
+    )
+    parser.add_argument(
+        '--dataset-size',
+        choices=['small', 'medium', 'large'],
+        help='Dataset size for tracking in sync_history'
     )
 
     args = parser.parse_args()
@@ -301,24 +386,58 @@ def main():
             logger.info(f"Would upload {len(records)} records")
             sys.exit(0)
 
-        # Upsert data
-        result = uploader.upsert_batch(records, batch_size=args.batch_size)
+        # Create sync history record
+        sync_id = uploader.create_sync_record(
+            source_file=args.input_file,
+            dataset_size=args.dataset_size
+        )
 
-        # Print summary
-        logger.info("=" * 60)
-        logger.info("UPLOAD SUMMARY")
-        logger.info("=" * 60)
-        logger.info(f"Total records: {result['total']}")
-        logger.info(f"Successfully upserted: {result['success']}")
-        logger.info(f"Errors: {result['error']}")
-        logger.info("=" * 60)
+        try:
+            # Upsert data
+            result = uploader.upsert_batch(records, batch_size=args.batch_size)
 
-        if result['error'] > 0:
-            logger.warning(f"{result['error']} records failed to upload")
-            sys.exit(1)
-        else:
-            logger.info("All records uploaded successfully!")
-            sys.exit(0)
+            # Update sync history with results
+            if sync_id:
+                # Note: We don't differentiate between INSERT/UPDATE in current implementation
+                # All successful upserts are counted together
+                uploader.update_sync_record(
+                    sync_id=sync_id,
+                    status='completed',
+                    total_records=result['total'],
+                    records_inserted=result['success'],  # This includes both inserts and updates
+                    records_updated=0,  # Could be enhanced to track separately
+                    records_failed=result['error']
+                )
+
+            # Print summary
+            logger.info("=" * 60)
+            logger.info("UPLOAD SUMMARY")
+            logger.info("=" * 60)
+            logger.info(f"Total records: {result['total']}")
+            logger.info(f"Successfully upserted: {result['success']}")
+            logger.info(f"Errors: {result['error']}")
+            if sync_id:
+                logger.info(f"Sync history ID: {sync_id}")
+            logger.info("=" * 60)
+
+            if result['error'] > 0:
+                logger.warning(f"{result['error']} records failed to upload")
+                sys.exit(1)
+            else:
+                logger.info("All records uploaded successfully!")
+                sys.exit(0)
+
+        except Exception as upload_error:
+            # Update sync history with failure
+            if sync_id:
+                uploader.update_sync_record(
+                    sync_id=sync_id,
+                    status='failed',
+                    total_records=len(records),
+                    records_failed=len(records),
+                    error_message=str(upload_error)
+                )
+            raise
 
     except Exception as e:
         logger.error(f"Upload failed: {e}", exc_info=True)
