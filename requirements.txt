@@ -1,6 +1,6 @@
 pandas
+pyarrow
+PyYAML
+Requests
 SPARQLWrapper
-pyyaml
-wikidataintegrator
-pywikibot
-qwikidata
+urllib3
