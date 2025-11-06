@@ -155,8 +155,10 @@ class SPARQLQueryBuilder:
         WHERE {{
           ?item wdt:P31/wdt:P279* wd:{category_qid} .
 
-          ?item rdfs:label ?enLabel .
-          FILTER(LANG(?enLabel) = "en")
+          OPTIONAL {{
+            ?item rdfs:label ?enLabel .
+            FILTER(LANG(?enLabel) = "en")
+          }}
 
           OPTIONAL {{
             ?item rdfs:label ?jaLabel .

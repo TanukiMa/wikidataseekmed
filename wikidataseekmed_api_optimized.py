@@ -314,7 +314,8 @@ class SPARQLQueryBuilder:
         Build query to get QID list only (no labels/descriptions)
         This is much faster than fetching all data via SPARQL
 
-        Note: Requires English label to ensure consistency with original version
+        Note: Does NOT require labels - includes all items
+              Missing labels can be filled later using LLM
         """
         if not SPARQLQueryBuilder._is_valid_qid(category_qid):
             raise ValueError(f"Invalid QID format: {category_qid}")
@@ -322,8 +323,6 @@ class SPARQLQueryBuilder:
         query = f"""
         SELECT DISTINCT ?item WHERE {{
           ?item wdt:P31/wdt:P279* wd:{category_qid} .
-          ?item rdfs:label ?enLabel .
-          FILTER(LANG(?enLabel) = "en")
         }}
         LIMIT {int(batch_size)}
         OFFSET {int(offset)}
