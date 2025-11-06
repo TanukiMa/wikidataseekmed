@@ -104,7 +104,7 @@ categories:
 # Example: Exclude non-human diseases from infectious disease category
 exclude_qids:
   Q18123741:  # infectious disease
-    - Q18965518  # mental disorder (if needed)
+#    - Q18965518  # mental disorder (if needed)
     - Q9578807
     # Add more QIDs to exclude from infectious disease
   # Q12136:  # disease
