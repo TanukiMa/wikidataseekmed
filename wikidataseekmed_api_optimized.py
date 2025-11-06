@@ -82,6 +82,7 @@ class Config:
     retry_wait_max: int
     categories: Dict[str, Dict[str, str]]
     category_names_ja: Dict[str, str]
+    exclude_qids: Dict[str, List[str]]  # Category-specific exclusions
     medical_keywords: List[str]
     discovery_default_limit: int
     discovery_max_limit: int
@@ -120,6 +121,7 @@ class Config:
             retry_wait_max=data['query']['retry_wait_max'],
             categories=data['categories'],
             category_names_ja=data['category_names_ja'],
+            exclude_qids=data.get('exclude_qids', {}),
             medical_keywords=data['medical_keywords'],
             discovery_default_limit=data['discovery']['default_limit'],
             discovery_max_limit=data['discovery']['max_limit'],
@@ -309,23 +311,61 @@ class SPARQLQueryBuilder:
         return query
 
     @staticmethod
-    def build_qid_list_query(category_qid: str, batch_size: int, offset: int) -> str:
+    def build_qid_list_query(category_qid: str, batch_size: int, offset: int,
+                            exclude_qids: Optional[List[str]] = None) -> str:
         """
         Build query to get QID list only (no labels/descriptions)
         This is much faster than fetching all data via SPARQL
 
         Note: Does NOT require labels - includes all items
               Missing labels can be filled later using LLM
+
+        Args:
+            category_qid: Category QID to query
+            batch_size: Number of items per batch
+            offset: Offset for pagination
+            exclude_qids: List of QIDs to exclude (e.g., non-human diseases)
         """
         if not SPARQLQueryBuilder._is_valid_qid(category_qid):
             raise ValueError(f"Invalid QID format: {category_qid}")
 
+        # Build exclusion filters
+        exclusion_filters = ""
+        if exclude_qids:
+            for exclude_qid in exclude_qids:
+                if SPARQLQueryBuilder._is_valid_qid(exclude_qid):
+                    exclusion_filters += f"""
+          FILTER NOT EXISTS {{
+            ?item wdt:P31/wdt:P279* wd:{exclude_qid} .
+          }}"""
+
         query = f"""
         SELECT DISTINCT ?item WHERE {{
-          ?item wdt:P31/wdt:P279* wd:{category_qid} .
+          ?item wdt:P31/wdt:P279* wd:{category_qid} .{exclusion_filters}
         }}
         LIMIT {int(batch_size)}
         OFFSET {int(offset)}
+        """
+        return query
+
+    @staticmethod
+    def build_category_validation_query(qid: str) -> str:
+        """
+        Build query to validate if QID is a valid Wikidata category
+
+        Args:
+            qid: QID to validate
+
+        Returns:
+            SPARQL query to check if QID is a category
+        """
+        if not SPARQLQueryBuilder._is_valid_qid(qid):
+            raise ValueError(f"Invalid QID format: {qid}")
+
+        query = f"""
+        ASK {{
+          wd:{qid} wdt:P31 wd:Q4167836 .
+        }}
         """
         return query
 
@@ -439,12 +479,41 @@ class MedicalTermsExtractor:
 
             raise
 
-    def get_category_qids(self, category_qid: str, limit: Optional[int] = None) -> List[str]:
+    def validate_category_qid(self, qid: str) -> bool:
+        """
+        Validate if QID is a valid Wikidata category
+
+        Args:
+            qid: QID to validate
+
+        Returns:
+            True if valid category, False otherwise
+        """
+        try:
+            query = SPARQLQueryBuilder.build_category_validation_query(qid)
+            results = self.execute_sparql_with_retry(query, f"Validate {qid}")
+
+            # ASK query returns boolean
+            return results.get('boolean', False)
+
+        except Exception as e:
+            self.logger.error(f"Failed to validate category {qid}: {e}")
+            return False
+
+    def get_category_qids(self, category_qid: str, limit: Optional[int] = None,
+                         exclude_qids: Optional[List[str]] = None) -> List[str]:
         """
         Get list of QIDs in a category using SPARQL
         This is the main (and minimal) SPARQL usage
+
+        Args:
+            category_qid: Category QID to query
+            limit: Maximum number of items to fetch
+            exclude_qids: List of QIDs to exclude from results
         """
         self.logger.info(f"Fetching QID list for category {category_qid}")
+        if exclude_qids:
+            self.logger.info(f"Excluding {len(exclude_qids)} QIDs: {exclude_qids}")
 
         all_qids = []
         offset = 0
@@ -458,7 +527,7 @@ class MedicalTermsExtractor:
                 current_batch_size = min(batch_size, remaining)
 
                 query = SPARQLQueryBuilder.build_qid_list_query(
-                    category_qid, current_batch_size, offset
+                    category_qid, current_batch_size, offset, exclude_qids
                 )
 
                 results = self.execute_sparql_with_retry(
@@ -598,20 +667,27 @@ class MedicalTermsExtractor:
         """Fetch medical terms from category - optimized version"""
         category_name_ja = self.config.category_names_ja.get(category_name_en, category_name_en)
 
+        # Get exclusion list for this category
+        exclude_qids = self.config.exclude_qids.get(category_qid, [])
+
         self.logger.info("=" * 60)
         self.logger.info(f"Category: {category_name_en} ({category_qid})")
         self.logger.info(f"Japanese: {category_name_ja}")
+        if exclude_qids:
+            self.logger.info(f"Excluding {len(exclude_qids)} sub-categories")
         if target_lang and target_min:
             self.logger.info(f"Target: {target_lang} labels >= {target_min}")
         self.logger.info("=" * 60)
 
         print("\n" + "=" * 60)
         print(f"Category: {category_name_en} ({category_name_ja})")
+        if exclude_qids:
+            print(f"  Excluding: {len(exclude_qids)} sub-categories")
         print("=" * 60)
 
         # Step 1: Get QID list via SPARQL (minimal usage)
         print(f"  Phase 1: Discovering QIDs via SPARQL...")
-        qids = self.get_category_qids(category_qid, limit)
+        qids = self.get_category_qids(category_qid, limit, exclude_qids)
         print(f"  Found {len(qids)} QIDs")
 
         if not qids:
