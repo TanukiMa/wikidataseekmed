@@ -394,16 +394,7 @@ def main():
                 print(finder.format_for_config(actual_categories))
 
             if non_categories:
-                print(f"\n✗ Found {len(non_categories)} non-category items:")
-                print("-" * 80)
-
-                for item in non_categories[:5]:  # Show first 5
-                    print(f"  {item['qid']}: {item['label']}")
-                    print(f"      Instance of: {item['instance_of']}")
-                    print()
-
-                if len(non_categories) > 5:
-                    print(f"  ... and {len(non_categories) - 5} more")
+                print(f"\n(Note: {len(non_categories)} non-category items were found but not shown)")
 
             print("\n" + "=" * 80)
             print("USAGE:")
