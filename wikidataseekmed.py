@@ -547,10 +547,24 @@ class MedicalTermsExtractor:
         consecutive_empty = 0
         effective_limit = limit if limit else 1000000
 
+        # Show limit mode
+        if limit is None:
+            print(f"    (Unlimited mode - will fetch all available QIDs)")
+        elif limit > 1000:
+            print(f"    (Target: {limit} QIDs)")
+
         while offset < effective_limit:
             try:
                 remaining = effective_limit - offset
                 current_batch_size = min(batch_size, remaining)
+
+                # Show progress for every batch
+                if offset > 0:
+                    if limit is None:
+                        print(f"    Batch {offset//batch_size + 1}: {len(all_qids)} QIDs collected...", end='\r')
+                    else:
+                        progress_pct = min(100, int(len(all_qids) / limit * 100))
+                        print(f"    Progress: {len(all_qids)}/{limit} QIDs ({progress_pct}%)...", end='\r')
 
                 query = SPARQLQueryBuilder.build_qid_list_query(
                     category_qid, current_batch_size, offset, exclude_qids
@@ -584,6 +598,10 @@ class MedicalTermsExtractor:
             except Exception as e:
                 self.logger.error(f"Failed to fetch QID batch at offset {offset}: {e}")
                 break
+
+        # Clear progress line
+        if offset > 0:
+            print()
 
         self.logger.info(f"Total QIDs found: {len(all_qids)}")
         return all_qids
@@ -764,7 +782,9 @@ class MedicalTermsExtractor:
         print("\n" + "=" * 60)
         print(f"Medical Terms Extraction: {len(categories)} categories")
         print(f"Method: SPARQL (QID discovery) + Action API (data retrieval)")
-        if limit_per_category:
+        if limit_per_category is None:
+            print(f"Limit per category: Unlimited (all available items)")
+        elif limit_per_category:
             print(f"Limit per category: {limit_per_category} items")
         if target_lang and target_min:
             print(f"Target: Stop when {target_lang} labels >= {target_min}")
