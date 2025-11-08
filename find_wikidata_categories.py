@@ -44,6 +44,18 @@ class WikidataCategoryFinder:
             'cancer', 'disorder', 'condition', 'procedure', 'test'
         }
 
+        # Class-level instance types (P31 values that indicate a class/type)
+        self.class_qids = {
+            'Q16889133',   # class
+            'Q112193867',  # class of disease
+            'Q55931203',   # second-order class
+            'Q24017414',   # disease type
+            'Q21146257',   # group or class of diseases
+            'Q2057971',    # variable-order class
+            'Q101352',     # family name (for taxonomic groups)
+            'Q16521',      # taxon (for biological classifications)
+        }
+
     def search_by_keyword(
         self,
         keyword: str,
@@ -226,10 +238,23 @@ class WikidataCategoryFinder:
         text_lower = text.lower()
         return any(keyword in text_lower for keyword in self.medical_keywords)
 
+    def is_class_level(self, instance_of_qids: List[str]) -> bool:
+        """
+        Check if item is a class-level concept based on P31 values
+
+        Args:
+            instance_of_qids: List of P31 (instance of) QIDs
+
+        Returns:
+            True if this is a class-level concept
+        """
+        return any(qid in self.class_qids for qid in instance_of_qids)
+
     def find_concepts(
         self,
         keyword: str,
         medical_only: bool = False,
+        class_only: bool = False,
         limit: int = 50
     ) -> List[Dict[str, Any]]:
         """
@@ -238,6 +263,7 @@ class WikidataCategoryFinder:
         Args:
             keyword: Search keyword
             medical_only: Only show medical-related items
+            class_only: Only show class-level concepts (not individual instances)
             limit: Maximum results to fetch
 
         Returns:
@@ -271,10 +297,18 @@ class WikidataCategoryFinder:
             if not details:
                 continue
 
+            # Filter by class level if requested
+            if class_only:
+                if not self.is_class_level(details['instance_of_qids']):
+                    continue
+
             # Check if medical (with full description)
             is_medical = self.is_medical_related(
                 f"{details['label_en']} {details['description_en']}"
             )
+
+            # Check if class level
+            is_class = self.is_class_level(details['instance_of_qids'])
 
             concept_info = {
                 'qid': qid,
@@ -282,7 +316,9 @@ class WikidataCategoryFinder:
                 'label_ja': details['label_ja'],
                 'description': details['description_en'],
                 'instance_of': details['instance_of'],
-                'is_medical': is_medical
+                'instance_of_qids': details['instance_of_qids'],
+                'is_medical': is_medical,
+                'is_class': is_class
             }
 
             concepts.append(concept_info)
@@ -332,6 +368,11 @@ def main():
         help='Only show medical-related items'
     )
     parser.add_argument(
+        '--class-only',
+        action='store_true',
+        help='Only show class-level concepts (not individual instances)'
+    )
+    parser.add_argument(
         '--limit',
         type=int,
         default=50,
@@ -353,6 +394,7 @@ def main():
         concepts = finder.find_concepts(
             keyword=args.keyword,
             medical_only=args.medical_only,
+            class_only=args.class_only,
             limit=args.limit
         )
 
@@ -372,6 +414,8 @@ def main():
             print("\n" + "=" * 80)
             print(f"WIKIDATA MEDICAL CONCEPTS FOR: '{args.keyword}'")
             print("=" * 80)
+            print("Legend: 🏥 = Medical  📚 = Class-level (recommended for config.yaml)")
+            print("=" * 80)
 
             print(f"\n✓ Found {len(concepts)} medical concepts:")
             print("-" * 80)
@@ -383,14 +427,16 @@ def main():
                 desc = concept['description'][:60] + "..." if len(concept['description']) > 60 else concept['description']
                 instance_of = concept.get('instance_of', '')
                 medical = "🏥 " if concept['is_medical'] else "   "
+                is_class = concept.get('is_class', False)
+                class_marker = "📚 " if is_class else "   "
 
-                print(f"{medical}{qid}: {label}")
+                print(f"{medical}{class_marker}{qid}: {label}")
                 if label_ja:
-                    print(f"      (ja: {label_ja})")
+                    print(f"         (ja: {label_ja})")
                 if desc:
-                    print(f"      {desc}")
+                    print(f"         {desc}")
                 if instance_of:
-                    print(f"      Instance of: {instance_of}")
+                    print(f"         Instance of: {instance_of}")
                 print()
 
             # Show config.yaml format
