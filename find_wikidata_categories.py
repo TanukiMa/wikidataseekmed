@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """
-Find Wikidata categories by keyword
+Find Wikidata medical concepts by keyword
 
-Search for Wikidata categories related to a keyword and suggest QIDs
-for config.yaml expansion.
+Search for Wikidata medical concept classes (disease, medication, etc.)
+related to a keyword and suggest QIDs for config.yaml expansion.
 
 Uses Web API primarily to avoid SPARQL rate limits.
 """
@@ -24,7 +24,7 @@ logger = logging.getLogger(__name__)
 
 
 class WikidataCategoryFinder:
-    """Search for Wikidata categories by keyword using Web API"""
+    """Search for Wikidata medical concepts by keyword using Web API"""
 
     def __init__(self):
         self.api_url = "https://www.wikidata.org/w/api.php"
@@ -158,41 +158,15 @@ class WikidataCategoryFinder:
             logger.error(f"Failed to get entity data for {qid}: {e}")
             return None
 
-    def is_category_via_api(self, entity_data: Dict[str, Any]) -> bool:
+    def get_concept_details(self, qid: str) -> Optional[Dict[str, Any]]:
         """
-        Check if entity is a Wikidata category via API
-
-        Args:
-            entity_data: Entity data from wbgetentities
-
-        Returns:
-            True if entity is instance of Q4167836 (Wikimedia category)
-        """
-        if not entity_data or 'claims' not in entity_data:
-            return False
-
-        # Check P31 (instance of)
-        p31_claims = entity_data.get('claims', {}).get('P31', [])
-
-        for claim in p31_claims:
-            if claim.get('mainsnak', {}).get('snaktype') == 'value':
-                value = claim['mainsnak'].get('datavalue', {})
-                if value.get('type') == 'wikibase-entityid':
-                    qid = value.get('value', {}).get('id')
-                    if qid == 'Q4167836':  # Wikimedia category
-                        return True
-
-        return False
-
-    def get_category_details(self, qid: str) -> Optional[Dict[str, Any]]:
-        """
-        Get detailed information about a category using Web API
+        Get detailed information about a Wikidata item using Web API
 
         Args:
             qid: Wikidata QID
 
         Returns:
-            Category details or None
+            Item details or None
         """
         entity_data = self.get_entity_data(qid)
 
@@ -209,10 +183,7 @@ class WikidataCategoryFinder:
         en_description = descriptions.get('en', {}).get('value', '')
         ja_description = descriptions.get('ja', {}).get('value', '')
 
-        # Check if it's a category
-        is_category = self.is_category_via_api(entity_data)
-
-        # Get instance of info
+        # Get instance of (P31) info
         instance_of = []
         instance_of_qids = []
         p31_claims = entity_data.get('claims', {}).get('P31', [])
@@ -238,7 +209,6 @@ class WikidataCategoryFinder:
             'label_ja': ja_label,
             'description_en': en_description,
             'description_ja': ja_description,
-            'is_category': is_category,
             'instance_of': ', '.join(instance_of) if instance_of else '',
             'instance_of_qids': instance_of_qids
         }
@@ -256,22 +226,22 @@ class WikidataCategoryFinder:
         text_lower = text.lower()
         return any(keyword in text_lower for keyword in self.medical_keywords)
 
-    def find_categories(
+    def find_concepts(
         self,
         keyword: str,
         medical_only: bool = False,
         limit: int = 50
     ) -> List[Dict[str, Any]]:
         """
-        Find Wikidata categories by keyword using Web API
+        Find Wikidata medical concepts by keyword using Web API
 
         Args:
             keyword: Search keyword
-            medical_only: Only show medical-related categories
+            medical_only: Only show medical-related items
             limit: Maximum results to fetch
 
         Returns:
-            List of category information
+            List of concept information
         """
         # Search for keyword
         search_results = self.search_by_keyword(keyword, limit=limit)
@@ -280,7 +250,7 @@ class WikidataCategoryFinder:
             logger.warning("No results found")
             return []
 
-        categories = []
+        concepts = []
 
         for i, result in enumerate(search_results):
             qid = result['id']
@@ -296,7 +266,7 @@ class WikidataCategoryFinder:
             # Get details via API
             logger.info(f"Checking {i+1}/{len(search_results)}: {qid} ({label})")
 
-            details = self.get_category_details(qid)
+            details = self.get_concept_details(qid)
 
             if not details:
                 continue
@@ -306,45 +276,43 @@ class WikidataCategoryFinder:
                 f"{details['label_en']} {details['description_en']}"
             )
 
-            category_info = {
+            concept_info = {
                 'qid': qid,
                 'label': details['label_en'],
                 'label_ja': details['label_ja'],
                 'description': details['description_en'],
-                'is_category': details['is_category'],
                 'instance_of': details['instance_of'],
                 'is_medical': is_medical
             }
 
-            categories.append(category_info)
+            concepts.append(concept_info)
 
             # Be nice to the API
             time.sleep(0.5)
 
-        return categories
+        return concepts
 
-    def format_for_config(self, categories: List[Dict[str, Any]]) -> str:
+    def format_for_config(self, concepts: List[Dict[str, Any]]) -> str:
         """
-        Format categories for config.yaml
+        Format concepts for config.yaml
 
         Args:
-            categories: List of category information
+            concepts: List of concept information
 
         Returns:
             Formatted YAML string
         """
         lines = []
-        lines.append("# Categories found for your keyword")
+        lines.append("# Medical concepts found for your keyword")
         lines.append("# Copy the ones you want to config.yaml")
         lines.append("")
 
-        for cat in categories:
-            if cat['is_category']:
-                label = cat['label']
-                qid = cat['qid']
-                desc = cat['description']
+        for concept in concepts:
+            label = concept['label']
+            qid = concept['qid']
+            desc = concept['description']
 
-                lines.append(f"  {qid}: \"{label}\"  # {desc}")
+            lines.append(f"  {qid}: \"{label}\"  # {desc}")
 
         return "\n".join(lines)
 
@@ -352,7 +320,7 @@ class WikidataCategoryFinder:
 def main():
     """Main function"""
     parser = argparse.ArgumentParser(
-        description='Find Wikidata categories by keyword (using Web API)'
+        description='Find Wikidata medical concepts by keyword (using Web API)'
     )
     parser.add_argument(
         'keyword',
@@ -361,7 +329,7 @@ def main():
     parser.add_argument(
         '--medical-only',
         action='store_true',
-        help='Only show medical-related categories'
+        help='Only show medical-related items'
     )
     parser.add_argument(
         '--limit',
@@ -381,60 +349,55 @@ def main():
     try:
         finder = WikidataCategoryFinder()
 
-        # Find categories
-        categories = finder.find_categories(
+        # Find concepts
+        concepts = finder.find_concepts(
             keyword=args.keyword,
             medical_only=args.medical_only,
             limit=args.limit
         )
 
-        if not categories:
-            logger.error("No categories found")
+        if not concepts:
+            logger.error("No medical concepts found")
             sys.exit(1)
-
-        # Filter to only categories
-        actual_categories = [c for c in categories if c['is_category']]
-        non_categories = [c for c in categories if not c['is_category']]
 
         # Output results
         if args.output == 'yaml':
-            print(finder.format_for_config(actual_categories))
+            print(finder.format_for_config(concepts))
 
         elif args.output == 'json':
             import json
-            print(json.dumps(actual_categories, indent=2, ensure_ascii=False))
+            print(json.dumps(concepts, indent=2, ensure_ascii=False))
 
         else:  # table
             print("\n" + "=" * 80)
-            print(f"WIKIDATA CATEGORIES FOR: '{args.keyword}'")
+            print(f"WIKIDATA MEDICAL CONCEPTS FOR: '{args.keyword}'")
             print("=" * 80)
 
-            if actual_categories:
-                print(f"\n✓ Found {len(actual_categories)} categories:")
-                print("-" * 80)
+            print(f"\n✓ Found {len(concepts)} medical concepts:")
+            print("-" * 80)
 
-                for cat in actual_categories:
-                    qid = cat['qid']
-                    label = cat['label']
-                    label_ja = cat.get('label_ja', '')
-                    desc = cat['description'][:60] + "..." if len(cat['description']) > 60 else cat['description']
-                    medical = "🏥 " if cat['is_medical'] else "   "
+            for concept in concepts:
+                qid = concept['qid']
+                label = concept['label']
+                label_ja = concept.get('label_ja', '')
+                desc = concept['description'][:60] + "..." if len(concept['description']) > 60 else concept['description']
+                instance_of = concept.get('instance_of', '')
+                medical = "🏥 " if concept['is_medical'] else "   "
 
-                    print(f"{medical}{qid}: {label}")
-                    if label_ja:
-                        print(f"      (ja: {label_ja})")
-                    if desc:
-                        print(f"      {desc}")
-                    print()
+                print(f"{medical}{qid}: {label}")
+                if label_ja:
+                    print(f"      (ja: {label_ja})")
+                if desc:
+                    print(f"      {desc}")
+                if instance_of:
+                    print(f"      Instance of: {instance_of}")
+                print()
 
-                # Show config.yaml format
-                print("\n" + "-" * 80)
-                print("CONFIG.YAML FORMAT:")
-                print("-" * 80)
-                print(finder.format_for_config(actual_categories))
-
-            if non_categories:
-                print(f"\n(Note: {len(non_categories)} non-category items were found but not shown)")
+            # Show config.yaml format
+            print("\n" + "-" * 80)
+            print("CONFIG.YAML FORMAT:")
+            print("-" * 80)
+            print(finder.format_for_config(concepts))
 
             print("\n" + "=" * 80)
             print("USAGE:")
