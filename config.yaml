@@ -20,13 +20,13 @@ api:
 
 # Query Settings
 query:
-  batch_size: 100
+  batch_size: 50  # Reduced from 100 to avoid SPARQL timeout with complex queries
   max_retries: 5
   max_empty_batches: 3
 
   # Wait times (seconds)
   wait_between_categories: 2
-  wait_between_batches: 1
+  wait_between_batches: 2  # Increased from 1 to 2 to be nicer to SPARQL endpoint
   wait_between_api_calls: 0.5  # Wait between Action API calls (be nice to server)
 
   # Retry backoff settings
