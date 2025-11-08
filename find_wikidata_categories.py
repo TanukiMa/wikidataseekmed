@@ -54,6 +54,8 @@ class WikidataCategoryFinder:
             'Q2057971',    # variable-order class
             'Q101352',     # family name (for taxonomic groups)
             'Q16521',      # taxon (for biological classifications)
+            'Q930752',     # medical specialty
+            'Q11862829',   # academic discipline
         }
 
     def search_by_keyword(
@@ -368,9 +370,9 @@ def main():
         help='Only show medical-related items'
     )
     parser.add_argument(
-        '--class-only',
+        '--include-all',
         action='store_true',
-        help='Only show class-level concepts (not individual instances)'
+        help='Include all items (default: only class-level concepts)'
     )
     parser.add_argument(
         '--limit',
@@ -390,11 +392,14 @@ def main():
     try:
         finder = WikidataCategoryFinder()
 
+        # Default: class-only (unless --include-all is specified)
+        class_only = not args.include_all
+
         # Find concepts
         concepts = finder.find_concepts(
             keyword=args.keyword,
             medical_only=args.medical_only,
-            class_only=args.class_only,
+            class_only=class_only,
             limit=args.limit
         )
 
@@ -414,7 +419,11 @@ def main():
             print("\n" + "=" * 80)
             print(f"WIKIDATA MEDICAL CONCEPTS FOR: '{args.keyword}'")
             print("=" * 80)
-            print("Legend: 🏥 = Medical  📚 = Class-level (recommended for config.yaml)")
+            print("Legend: 🏥 = Medical  📚 = Class-level")
+            if class_only:
+                print("Showing: Class-level concepts only (use --include-all to show all)")
+            else:
+                print("Showing: All items (including individual instances)")
             print("=" * 80)
 
             print(f"\n✓ Found {len(concepts)} medical concepts:")
