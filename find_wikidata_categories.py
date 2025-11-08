@@ -56,35 +56,75 @@ class WikidataCategoryFinder:
         Args:
             keyword: Search keyword
             language: Language code (en, ja, etc.)
-            limit: Maximum results
+            limit: Maximum results (0 = no limit, fetches all available)
 
         Returns:
             List of search results
         """
         logger.info(f"Searching for '{keyword}' in Wikidata...")
 
-        params = {
-            'action': 'wbsearchentities',
-            'search': keyword,
-            'language': language,
-            'limit': limit,
-            'format': 'json',
-            'type': 'item'
-        }
+        all_results = []
+        continue_offset = 0
+        max_per_request = 50  # Wikidata API limit per request
 
-        try:
-            response = self.session.get(self.api_url, params=params, timeout=30)
-            response.raise_for_status()
-            data = response.json()
+        while True:
+            # If limit is set and we've reached it, stop
+            if limit > 0 and len(all_results) >= limit:
+                break
 
-            results = data.get('search', [])
-            logger.info(f"Found {len(results)} results")
+            # Calculate how many to fetch this round
+            fetch_count = max_per_request
+            if limit > 0:
+                remaining = limit - len(all_results)
+                fetch_count = min(max_per_request, remaining)
 
-            return results
+            params = {
+                'action': 'wbsearchentities',
+                'search': keyword,
+                'language': language,
+                'limit': fetch_count,
+                'format': 'json',
+                'type': 'item',
+                'continue': continue_offset
+            }
 
-        except Exception as e:
-            logger.error(f"Search failed: {e}")
-            return []
+            try:
+                response = self.session.get(self.api_url, params=params, timeout=30)
+                response.raise_for_status()
+                data = response.json()
+
+                results = data.get('search', [])
+
+                if not results:
+                    # No more results
+                    break
+
+                all_results.extend(results)
+
+                # Check if there are more results (continue token)
+                if 'search-continue' in data:
+                    continue_offset = data['search-continue']
+
+                    # If limit=0, continue fetching
+                    if limit == 0:
+                        logger.info(f"Fetched {len(all_results)} results so far, continuing...")
+                        time.sleep(0.5)  # Be nice to the API
+                    else:
+                        # If we have a limit and haven't reached it yet, continue
+                        if len(all_results) < limit:
+                            time.sleep(0.5)
+                        else:
+                            break
+                else:
+                    # No more results available
+                    break
+
+            except Exception as e:
+                logger.error(f"Search failed: {e}")
+                break
+
+        logger.info(f"Found {len(all_results)} total results")
+        return all_results
 
     def get_entity_data(self, qid: str) -> Optional[Dict[str, Any]]:
         """
@@ -327,7 +367,7 @@ def main():
         '--limit',
         type=int,
         default=50,
-        help='Maximum number of results to fetch (default: 50)'
+        help='Maximum number of results to fetch (default: 50, 0 = no limit)'
     )
     parser.add_argument(
         '--output',
