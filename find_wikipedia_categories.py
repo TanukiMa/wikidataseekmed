@@ -45,7 +45,7 @@ class WikipediaCategoryFinder:
             limit: Maximum results
 
         Returns:
-            List of category information
+            List of category information with QIDs
         """
         logger.info(f"Searching for categories matching '{keyword}'...")
 
@@ -74,6 +74,13 @@ class WikipediaCategoryFinder:
                     'snippet': result.get('snippet', '').replace('<span class="searchmatch">', '').replace('</span>', '')
                 }
                 categories.append(cat_info)
+
+            # Get QIDs for all category pages
+            if categories:
+                titles = [cat['title'] for cat in categories]
+                qid_map = self.get_wikidata_qids(titles)
+                for cat in categories:
+                    cat['qid'] = qid_map.get(cat['title'])
 
             return categories
 
@@ -243,12 +250,7 @@ def main():
         '--show-members',
         type=int,
         metavar='N',
-        help='Show N members of each category'
-    )
-    parser.add_argument(
-        '--with-qids',
-        action='store_true',
-        help='Include Wikidata QIDs for category members'
+        help='Show N sample members of each category (member QIDs not included)'
     )
     parser.add_argument(
         '--language',
@@ -287,33 +289,27 @@ def main():
         # Output results
         if args.output == 'list':
             for cat in category_details:
-                print(cat['title'])
+                qid = cat.get('qid')
+                if qid:
+                    print(f"{qid}")
 
         elif args.output == 'yaml':
-            # YAML output for config.yaml
-            all_members = []
-            for cat in category_details:
-                if cat['pages'] > 0:
-                    members = finder.get_category_members(
-                        category_title=cat['title'],
-                        limit=args.show_members or 500,
-                        member_type='page',
-                        include_qids=True
-                    )
-                    all_members.extend(members)
+            # YAML output for config.yaml - category QIDs only
+            print("# Wikipedia category QIDs for config.yaml")
+            print("# Add these to the 'categories:' section")
+            print("# wikidataseekmed_api_optimized.py will fetch all items in these categories\n")
 
-            if all_members:
-                print("# Medical terms from Wikipedia categories")
-                print("# Copy to config.yaml\n")
-                for member in all_members:
-                    qid = member.get('qid')
-                    title = member.get('title')
-                    if qid:
-                        print(f"  {qid}: \"{title}\"")
-                    else:
-                        print(f"  # No QID: \"{title}\"")
-            else:
-                logger.warning("No members with QIDs found")
+            for cat in category_details:
+                qid = cat.get('qid')
+                title = cat['title']
+                pages = cat.get('pages', 0)
+
+                if qid:
+                    # Remove "Category:" prefix for cleaner label
+                    clean_title = title.replace('Category:', '')
+                    print(f"  {qid}: \"{clean_title}\"  # {pages} pages")
+                else:
+                    print(f"  # No QID for: {title}")
 
         else:  # table
             print("\n" + "=" * 80)
@@ -322,11 +318,13 @@ def main():
 
             for i, cat in enumerate(category_details, 1):
                 title = cat['title']
+                qid = cat.get('qid')
                 pages = cat['pages']
                 subcats = cat['subcats']
                 total = cat['total']
 
-                print(f"\n{i}. {title}")
+                qid_str = f"[{qid}]" if qid else "[No QID]"
+                print(f"\n{i}. {title} {qid_str}")
                 print(f"   Pages: {pages}, Subcategories: {subcats}, Total: {total}")
 
                 if args.show_members and pages > 0:
@@ -334,25 +332,19 @@ def main():
                         category_title=title,
                         limit=args.show_members,
                         member_type='page',
-                        include_qids=args.with_qids
+                        include_qids=False
                     )
 
                     if members:
-                        print(f"   Members (showing {len(members)}):")
+                        print(f"   Sample members ({len(members)} shown):")
                         for member in members[:args.show_members]:
-                            qid = member.get('qid')
-                            member_title = member['title']
-                            if args.with_qids:
-                                qid_str = f" [{qid}]" if qid else " [No QID]"
-                                print(f"     - {member_title}{qid_str}")
-                            else:
-                                print(f"     - {member_title}")
+                            print(f"     - {member['title']}")
 
             print("\n" + "=" * 80)
             print("USAGE:")
-            print("  1. Choose a category from above")
-            print("  2. Use --show-members N --with-qids to see QIDs")
-            print("  3. Use --output yaml to get config.yaml format")
+            print("  1. Copy the category QID (in brackets)")
+            print("  2. Use --output yaml to get config.yaml format")
+            print("  3. Add to config.yaml - wikidataseekmed_api_optimized.py fetches members")
             print("=" * 80)
 
         sys.exit(0)
