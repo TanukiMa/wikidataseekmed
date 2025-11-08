@@ -506,12 +506,38 @@ class MedicalTermsExtractor:
         Get list of QIDs in a category using SPARQL
         This is the main (and minimal) SPARQL usage
 
+        Also supports Wikimedia categories (Q4167836) by fetching members from Wikipedia
+
         Args:
-            category_qid: Category QID to query
+            category_qid: Category QID to query (can be Wikidata class or Wikipedia category)
             limit: Maximum number of items to fetch
             exclude_qids: List of QIDs to exclude from results
         """
         self.logger.info(f"Fetching QID list for category {category_qid}")
+
+        # Check if this is a Wikimedia category (Wikipedia category page)
+        # If so, get members from Wikipedia instead of Wikidata
+        try:
+            from wikimedia_category_support import WikimediaCategoryHandler
+
+            if self.validate_category_qid(category_qid):  # Checks if P31=Q4167836
+                self.logger.info(f"{category_qid} is a Wikimedia category - fetching members from Wikipedia")
+
+                handler = WikimediaCategoryHandler(logger=self.logger)
+                category_title = handler.get_category_title(category_qid)
+
+                if category_title:
+                    qids = handler.get_category_members_with_qids(category_title, limit=limit or 500)
+                    self.logger.info(f"Total QIDs from Wikipedia category: {len(qids)}")
+                    return qids
+                else:
+                    self.logger.warning(f"Could not find Wikipedia category title for {category_qid}")
+                    self.logger.warning("Falling back to Wikidata class query")
+        except Exception as e:
+            self.logger.error(f"Wikimedia category handling failed: {e}")
+            self.logger.warning("Falling back to Wikidata class query")
+
+        # Normal Wikidata class processing
         if exclude_qids:
             self.logger.info(f"Excluding {len(exclude_qids)} QIDs: {exclude_qids}")
 
